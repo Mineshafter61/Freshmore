@@ -10,8 +10,8 @@
 - Constant velocity: average velocity = instantaneous velocity
 ## Acceleration
 - Change in velocity over time
-- Average velocity: $\frac{\Delta\vec{v}}{\Delta t} = \frac{\vec{v}(t_2) - \vec{v}(t_1)}{t_2 - t_1}$
-- Instantaneous velocity: $\frac{d\vec{v}(t)}{dt}$
+- Average acceleration: $\frac{\Delta\vec{v}}{\Delta t} = \frac{\vec{v}(t_2) - \vec{v}(t_1)}{t_2 - t_1}$
+- Instantaneous acceleration: $\frac{d\vec{v}(t)}{dt}$
 - Constant acceleration: average acceleration = instantaneous acceleration
 ### Graphs and equations
 - Area under acceleration vs time curve is the CHANGE in velocity:
@@ -58,11 +58,11 @@ From the vector triangle:
 **General Equations:** 
 - Only works for **constant** acceleration
 - **Take integral for non-constant acceleration**
-- No acceleration $a$ given: $s = \frac{v + u}{2}t$
-- No displacement $s$ given: $v = u + a\Delta t$
-- No final velocity $v$ given: $s = ut + \frac{1}{2}at^2$
-- No initial velocity $u$ given: $s = vt - \frac{1}{2}at^2$
-- No time $t$ given: $v^2 = u^2 + 2as$
+- No acceleration $a$ given: $s = \frac{v_{f} + v_{0}}{2}t$
+- No displacement $s$ given: $v_{f} = v_{0} + at$
+- No final velocity $v_{f}$ given: $s = v_{0}t + \frac{1}{2}at^2$
+- No initial velocity $v_0$ given: $s = v_ft - \frac{1}{2}at^2$
+- No time $t$ given: $v_f^2 = v_0^2 + 2as$
 
 **Projectile Motion:**
 - Acceleration in the x direction is 0

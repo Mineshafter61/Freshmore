@@ -34,7 +34,7 @@
 ## Kinematics Formulae (Circular Motion)
 - Angular quantities $\theta, \omega_{z}, \alpha_{z}$ follows similar integral relations as the linear kinematics of one-dimensional motion.
 - $\frac{d\theta(t)}{dt} = \omega_{z}(t)$
-	- $\int^t_{t_{0}} \frac{d\theta(t)}{dt} dt = $
+	- $\int^t_{t_{0}} \frac{d\theta(t)}{dt} dt = \theta(t)-\theta(t_{0})$
 ## Torque
 - Cause of angular acceleration
 - Symbol: $\tau$

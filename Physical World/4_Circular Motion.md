@@ -35,7 +35,7 @@
 	- Direction of $\vec{a}_{r}$ is $-\hat{r}$
 	- Changes the direction of $\vec{v}$
 	- $|\vec{a_{r}}| = R\left( \frac{d\theta}{dt} \right)^2 = R\omega ^2=\frac{v^2}{R}$
-- $\vec{a}=\vec{a}_{\theta}+\vec{a}_{r}=R\alpha \hat{\theta} + R\hat{\omega}^2(-\hat{r})=\frac{v^2}{R}(-\hat{r})$
+- $\vec{a}=\vec{a}_{\theta}+\vec{a}_{r}=R\alpha \hat{\theta} + R\omega^2(-\hat{r})=\frac{v^2}{R}(-\hat{r})$
 
 ## Uniform circular motion
 - In a **uniform circular motion**, there is **no tangential acceleration**.

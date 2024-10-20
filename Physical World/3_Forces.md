@@ -48,7 +48,3 @@ Reducing friction:
 - Ideal Pulley
 	- Frictionless
 	- Transfers the **same magnitude** of force in any direction
-
-$a_{1}=\frac{m_{2}g}{2m_{1}}$
-$a_{2}=g$
-$T=m_{2}g$
