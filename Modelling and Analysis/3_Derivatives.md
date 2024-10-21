@@ -172,12 +172,17 @@ $$
 	- $P(a) = f(a)$
 	- $P'(a) = f'(a)$
 	- $P''(a) = f''(a)$
-$$P_n(x) = f(a) + f'(a)(x - a) + \frac{f''(a)}{2!}(x - a)^2 + \cdots + \frac{f^{(n)}(a)}{n!}(x - a)^n$$
-
-$$P_n(x) = \sum_{k=0}^{n} \frac{f^{(k)}(a)}{k!}(x - a)^k$$
-$\ln(x) \text{ at }a =1:$
-$f(x) = \ln x$
-$f'(x)=\frac{1}{x}$
-$f''(x)=-\frac{1}{x^2}$
-Therefore:
-$P(x)=$
+- Second order polynomial $P(x) = A + B(x-a) + C(x-a)^2$
+	- $P(a) = f(a) \rightarrow A = f(a)$
+	- $P'(a) = f'(a) \rightarrow B = f'(a)$
+	- $P''(a) = f''(a) \rightarrow 2C = f''(a) \rightarrow C = \frac{f''(a)}{2}$
+- Higher order polynomial approximations are more accurate than preceding ones
+- For the approximation to be accurate, $T_n(x), n \to \infty$
+$$
+\begin{gather*}
+P_n(x) = f(a) + f'(a)(x - a) + \frac{f''(a)}{2!}(x - a)^2 + \cdots + \frac{f^{(n)}(a)}{n!}(x - a)^n\\
+\text{ where } n \text{ is a positive integer and } n! = n(n−1)(n−2) \cdots (3)(2)(1)\\
+T_n(x) = \sum_{k=0}^{n} \frac{f^{(k)}(a)}{k!}(x - a)^k
+\end{gather*}
+$$
+- **Maclaurin Series**: Taylor polynomials when $a=0$
