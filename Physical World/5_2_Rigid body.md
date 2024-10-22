@@ -1,5 +1,5 @@
 ## Rigid Body
-- Extended, nondeformable object in which the relative locations of all particles of which the object is composed remain **constant**
+- Extended, non-deformable object in which the relative locations of all particles of which the object is composed remain **constant**
 	- No shape change when forces are applied
 ### Translational Motion
 - External force acts on center of mass (CM)
@@ -14,7 +14,7 @@
 
 ## Forces and torque law
 - Consider a rigid body rotates with $\vec{\omega}$ and $\vec{\alpha}$. Each small element of mass ($\Delta m_i$) is subjected to a force $\vec{F}_i$.
-- By Newton's second law, $\Delta m_i$ has an acceleration $\vec{a}_i$ that can be decomposed into the tangential $a_{\theta i}\hat{\theta}$ and radial $a_{ri}\hat{r}$ components with respect to an axis $\vec{S}$ passing perpendicularly through the plane of orbit.
+- By [[3_Forces#Second law of motion|Newton's Second Law]], $\Delta m_i$ has an acceleration $\vec{a}_i$ that can be decomposed into the tangential $a_{\theta i}\hat{\theta}$ and radial $a_{ri}\hat{r}$ components with respect to an axis $\vec{S}$ passing perpendicularly through the plane of orbit.
 - $\vec{F}_{i} = m_{i}\vec{a}_{i} = m_{i}(a_{\theta i} \hat{\theta} - a_{ri}\hat{r})$
 - Let $\vec{r}_{i}=r_{i}\hat{r}$ be the position of point mass relative to $O$. The torque exerted on each $\Delta m_{i}$ is
 $$

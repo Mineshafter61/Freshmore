@@ -1,6 +1,6 @@
 ## Displacement
 - difference of 2 positions in space
-- vector quantity [[1_Vectors]]
+- [[1_Vectors|vector]] quantity 
 - Displacement vector: difference between two position vectors
 - Always smaller than or equal to distance
 ## Velocity
