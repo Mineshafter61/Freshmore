@@ -31,11 +31,15 @@ Example:
 ## Types of functions
 - **Polynomials**: p(x) = a<sub>n</sub>x<sup>n</sup> + a<sub>n-1</sub>x<sup>n-1</sup> + ..., where n is a non-negative integer
 	- Domain: ℝ, or (-∞, ∞)
-	- [[1_1_Power functions]]
+	- **Form**: $f(x) = x^n$, where n > 0
+	- Function is even when n is an even integer
+	- Function is odd when n is an odd integer
 - **Rational functions**: f(x) = p(x)/q(x), where p and q are polynomials
 - **Algebraic functions**: constructed using the operations of algebra (addition, subtraction, multiplication, division, roots). Even root → domain is nonnegative.
 	- Property of $\sqrt{x}$: D, R = `[0, ∞)`
-	- [[1_2_Root functions]]
+	- **Form**: $f(x) = x^\frac{1}{n}$, where n > 0
+	- Even n => D and R are always nonnegative
+	- Odd n => odd function
 - **Exponential function**: $f(x) = b^x$, where b ≠ 1 and b is a positive real number.
 	- Natural exponential function is $f(x) = e^x$.
 	- Natural logarithm function is $f(x) = ln(x)$.

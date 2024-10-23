@@ -24,4 +24,4 @@ f'(c) = \frac{f(b)-f(a)}{b-a}\\\\
 f(b)-f(a)=f'(c)(b-a)
 \end{gather}
 $$
-- In other words, there exists a slope of the tangent line with the same magnitude as the slope of the [secant line](1_Functions#Slopes and lines) that connects the two end points of a function.
+- In other words, there exists a slope of the tangent line with the same magnitude as the slope of the [[1_1_Functions#Slopes and lines|Secant Line]] that connects the two end points of a function.
