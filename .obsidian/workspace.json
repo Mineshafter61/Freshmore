@@ -13,27 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelling and Analysis/4_4_Optimisation.md",
+                "file": "Modelling and Analysis/4_3_Comparing Rates of Growth.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4_4_Optimisation"
-            }
-          },
-          {
-            "id": "6b1cff04d298a1d5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "4_3_Comparing Rates of Growth"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,14 +170,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b1cff04d298a1d5",
+  "active": "c83ee1706de607e1",
   "lastOpenFiles": [
-    "Modelling and Analysis/4_4_Optimisation.md",
-    "Modelling and Analysis/4_3_Comparing Rates of Growth.md",
     "Modelling and Analysis/4_2_How Derivatives Affect the Shape of the Graph.md",
+    "Modelling and Analysis/4_1_Maximum and Minimum Values.md",
+    "Modelling and Analysis/4_3_Comparing Rates of Growth.md",
+    "Modelling and Analysis/4_4_Optimisation.md",
     "Modelling and Analysis/3_Derivatives.md",
     "Modelling and Analysis/2_5_Continuity of Functions.md",
-    "Modelling and Analysis/4_1_Maximum and Minimum Values.md",
     "Modelling and Analysis/1_1_Functions.md",
     "1_Functions.md",
     "Torque.md",
