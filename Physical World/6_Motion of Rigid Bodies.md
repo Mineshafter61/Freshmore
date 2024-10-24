@@ -30,3 +30,23 @@
 5. Set up the dynamical equations using **[[3_Forces#Second law of motion|Newton's Second Law]]** and the **[[5_1_Rotational Kinematics#Torque Law & Moment of Inertia|Torque Law]]**. 
 6. Look out for **constraint condition** between rotational acceleration and linear acceleration (if any).
 7. Solve for the quantities of interest.
+## Rotational and Translational Motion
+- Translational Motion (Newotn's 2nd Law): $\vec{F}_{CM}=m\vec{a}_{CM}$
+- Rotational Motion (Torque Law): $\vec{\tau}=I_{CM}\vec{\alpha}$
+- For linear motion, things rotate about a fixed axis (always poining in k direction) and the center of mass translates constantly such that $\vec{a}_{CM}=\vec{0}$
+### Relative velocities
+- $\vec{v}_{a,b} = \vec{v}_{a,c} + \vec{v}_{c,b}$
+  - Where $c$ is the "middleman"
+### Rolling Wheel
+- Distance traveled in the center of mass reference frame by point P (a point on the rim) in time $\Delta t$: $\Delta s=R \Delta \theta = R \omega_{CM} \Delta t$
+- Distance traveled in the reference frame fixed to ground by center of mass in time $\Delta t$: $\Delta X_{CM}=V_{CM}\Delta t$
+
+| Circular Motion (W4) | Rotational Dynamics (W6D1) | Rotational Motion (W6D2) |
+|---|---|---|
+| $V=R\omega$, where vV is tangential speed | $V_{cm}=R\omega$ | $V_{cm}=R\omega$, where V is the speed of the center of mass of rolling object |
+| $a_{\theta}=R\alpha$, where a is tangential acceleration | $a_{cm}=R\alpha$, where a is linear acceleration of falling object | $a_{cm}=R\alpha$, where a is acceleration of rolling object (ONLY TRUE FOR PURE ROLLING) |
+
+- Cylinder Rolling Without Slipping Down an Inclined Plane: $v(t)=\sqrt{\frac{2mR^2}{I_{CM}+mR^2}gh}=\sqrt{\frac{2gh}{\frac{I_{CM}}{mR^2}}+1}$
+- Velocity of objects rolling down a hill is **independent** of mass and radius (Since $I = \sum \Delta m \Delta r^2$)
+
+
