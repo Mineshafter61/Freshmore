@@ -11,7 +11,7 @@ If $a_n$ and $b_n$ are convergent sequences and $c$ is a constant, then:
 - $\displaystyle\lim_{x \to \infty} (a_n - b_n) = \lim_{x \to \infty} a_n - \lim_{x \to \infty} b_n$
 - $\displaystyle\lim_{x \to \infty} c a_n = c \lim_{x \to \infty} a_n$
 - $\displaystyle\lim_{x \to \infty} (a_n b_n) = (\lim_{x \to \infty} a_n) (\lim_{x \to \infty} b_n)$
-- $\displaystyle\lim_{x \to \infty} \frac{a_n}{b_n} = \frac{\lim_{x \to \infty} a_n}{\lim_{x \to \infty} b_n}$ if $\lim_{n \to \infty} b_n \neq 0$
+- $\displaystyle\lim_{x \to \infty} \frac{a_n}{b_n} = \frac{\displaystyle\lim_{x \to \infty} a_n}{\displaystyle\lim_{x \to \infty} b_n}$ if $\displaystyle\lim_{n \to \infty} b_n \neq 0$
 - $\displaystyle\lim_{x \to \infty} a_n^p = {\lim_{x \to \infty} a_n}^p$ if p > 0 and $a_n$ > 0
 - $\displaystyle\lim_{x \to \infty}\frac{1}{n^p} = 0$ for any number p > 0
 - $\displaystyle\lim_{n \to \infty} c = c$

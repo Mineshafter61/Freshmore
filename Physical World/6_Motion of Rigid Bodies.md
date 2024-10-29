@@ -46,7 +46,7 @@
 | $V=R\omega$, where vV is tangential speed | $V_{cm}=R\omega$ | $V_{cm}=R\omega$, where V is the speed of the center of mass of rolling object |
 | $a_{\theta}=R\alpha$, where a is tangential acceleration | $a_{cm}=R\alpha$, where a is linear acceleration of falling object | $a_{cm}=R\alpha$, where a is acceleration of rolling object (ONLY TRUE FOR PURE ROLLING) |
 
-- Cylinder Rolling Without Slipping Down an Inclined Plane: $v(t)=\sqrt{\frac{2mR^2}{I_{CM}+mR^2}gh}=\sqrt{\frac{2gh}{\frac{I_{CM}}{mR^2}}+1}$
+- Cylinder Rolling Without Slipping Down an Inclined Plane: $\displaystyle v(t)=\sqrt{\frac{2mR^2}{I_{CM}+mR^2}gh}=\sqrt{\frac{2gh}{\frac{I_{CM}}{mR^2}}+1}$
 - Velocity of objects rolling down a hill is **independent** of mass and radius (Since $I = \sum \Delta m \Delta r^2$)
 
 

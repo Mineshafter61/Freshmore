@@ -29,11 +29,11 @@ $$\lim_{x \to -\infty}b^x =
 	- Meaning $\displaystyle\sqrt{x}-x \cdot \frac{\sqrt{x}+x}{\sqrt{x}+x}$
 	- Uses $\displaystyle(a + b)(a - b) = a^2 - b^2$
 	- Useful to remove the $x$ term from the **numerator** and move it to the **denominator**
-- Divide by the highest power term (for fractions)
+- Divide by the fastest growing term (for fractions)
 	- Commonly used for rational functions (or fractions)
 	- Useful because $\displaystyle\lim_{x \to \infty} \frac{n}{x} = 0$
 - L'Hôpital's rule (for fractions)
-	- Covered in `Week 6`
+	- [[4_3_Comparing Rates of Growth]]
 ## Indeterminate forms
 - $\frac{0}{0}$
 - $\frac{\infty}{\infty}$
