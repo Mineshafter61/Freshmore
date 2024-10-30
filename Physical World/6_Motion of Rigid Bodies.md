@@ -31,9 +31,9 @@
 6. Look out for **constraint condition** between rotational acceleration and linear acceleration (if any).
 7. Solve for the quantities of interest.
 ## Rotational and Translational Motion
-- Translational Motion (Newotn's 2nd Law): $\vec{F}_{CM}=m\vec{a}_{CM}$
-- Rotational Motion (Torque Law): $\vec{\tau}=I_{CM}\vec{\alpha}$
-- For linear motion, things rotate about a fixed axis (always poining in k direction) and the center of mass translates constantly such that $\vec{a}_{CM}=\vec{0}$
+- Translational Motion (Newotn's 2nd Law): $\vec{F}_{CM} = m \vec{a}_{CM}$
+- Rotational Motion (Torque Law): $\vec{\tau} = I_{CM} \vec{\alpha}$
+- For linear motion, things rotate about a fixed axis (always poining in k direction) and the center of mass translates constantly such that $\vec{a}_{CM} = \vec{0}$
 ### Relative velocities
 - $\vec{v}_{a,b} = \vec{v}_{a,c} + \vec{v}_{c,b}$
   - Where $c$ is the "middleman"

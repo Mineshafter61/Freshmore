@@ -12,13 +12,13 @@ If $\displaystyle\lim_{ x \to \infty } f(x) = L$ an $\displaystyle\lim_{ x \to \
 0 & \text{for } 0 < b < 1 \\
 \text{undefined} & \text{for } b = 1 \\
 \infty & \text{for } b > 1
-\end{cases} $$
+\end{cases}$$
 - $$\lim_{x \to -\infty}b^x =
 \begin{cases}
 \infty & \text{for } 0 < b < 1 \\
 \text{undefined} & \text{for } b = 1 \\
 0 & \text{for } b > 1
-\end{cases} $$
+\end{cases}$$
 ## Techniques for evaluating limits
 - Substitution
 	- Replace all variables with limits

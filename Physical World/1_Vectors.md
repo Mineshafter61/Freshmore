@@ -4,12 +4,12 @@
 
 Example:
 > Displacement: $\vec{s}$
-> Distance (magnitude of displacement): |$\vec{s}$|
+> Distance (magnitude of displacement): $|\vec{s}|$
 
 - Vectors can be represented by an arrow: 
-	- length : magnitude (|$\vec{A}$| -> A)
-	- arrow head : direction of the vector ($\vec{A}$/A -> Â "A hat", magnitude = 1)
-	- Hence, $\vec{A}$ = |$\vec{A}$|.Â
+	- length : magnitude ($|\vec{A}|$ -> A)
+	- arrow head : direction of the vector ($\frac{\vec{A}}{A}=\hat{A}$ "A hat", magnitude = 1)
+	- Hence, $\vec{A}$ = $|\vec{A}|\cdot \hat{A}$
 
 - 2 vectors are identical if their magnitude and direction are the same.
 

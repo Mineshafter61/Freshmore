@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelling and Analysis/4_4_Optimisation.md",
+                "file": "Physical World/6_Motion of Rigid Bodies.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "4_4_Optimisation"
+              "title": "6_Motion of Rigid Bodies"
             }
           }
         ]
@@ -172,23 +172,23 @@
   },
   "active": "5095762b3071966e",
   "lastOpenFiles": [
+    "Physical World/5_2_Rigid body.md",
+    "Physical World/1_Vectors.md",
+    "Modelling and Analysis/1_3_Exponential and Logarithmic functions.md",
+    "Modelling and Analysis/2_3_Limits of Functions at Infinity.md",
+    "Modelling and Analysis/3_Derivatives.md",
+    "Modelling and Analysis/4_4_Optimisation.md",
     "Modelling and Analysis/4_3_Comparing Rates of Growth.md",
     "Modelling and Analysis/4_2_How Derivatives Affect the Shape of the Graph.md",
-    "Modelling and Analysis/3_Derivatives.md",
     "Modelling and Analysis/2_5_Continuity of Functions.md",
     "Modelling and Analysis/2_4_Limits of Functions at Finite Numbers.md",
-    "Modelling and Analysis/2_3_Limits of Functions at Infinity.md",
     "Physical World/6_Motion of Rigid Bodies.md",
-    "Physical World/5_2_Rigid body.md",
     "Physical World/5_1_Rotational Kinematics.md",
     "Physical World/4_Circular Motion.md",
     "Physical World/3_Forces.md",
     "Physical World/2_Kinematics.md",
-    "Physical World/1_Vectors.md",
-    "Modelling and Analysis/4_4_Optimisation.md",
     "Modelling and Analysis/1_1_Functions.md",
     "Modelling and Analysis/1_2_Inverse functions.md",
-    "Modelling and Analysis/1_3_Exponential and Logarithmic functions.md",
     "Modelling and Analysis/1_4_Trigonometric Functions.md",
     "Modelling and Analysis/2_1_Sequences and Difference Equations.md",
     "Modelling and Analysis/2_2_Limits of Sequences.md",

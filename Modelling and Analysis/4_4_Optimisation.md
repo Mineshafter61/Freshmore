@@ -13,9 +13,9 @@
 > 
 > $$\begin{gather*}
 \text{Let } A(x)=2x(1200-x)>0 \implies 0 < x < 1200\\
-A(x)=2x(1200-x)\\A'(x)=2(1200-x)+2x(-1)=2400-4x\\
+A(x)=2x(1200-x)\\ A'(x)=2(1200-x)+2x(-1)=2400-4x\\
 \text{When }A'(x)=0,\\
-x=600, y=2400-1200=1200\\A(600)=2(600)(1200-600)=720000\end{gather*}$$
+x=600, y=2400-1200=1200\\ A(600)=2(600)(1200-600)=720000\end{gather*}$$
 
 > Check using Second Derivative Test:
 > 

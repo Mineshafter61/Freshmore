@@ -9,7 +9,7 @@
 ## Logarithmic function
 - For x > 0, $b^{\log_{b}(x)} = x$
 - $\log_{a}(b) = \frac{\log_{x}a}{\log_{x}b}$
-- $\log_{n}(\frac{a}{b}) = \log_{n} a - \log_{n} b$
+- $\log_{n}\left(\frac{a}{b}\right) = \log_{n} a - \log_{n} b$
 - $\log_{n}(ab) = \log_{n}a + \log_{n}b$
 - $\log_{b} x^p = p \log_{b} x$
 

@@ -10,8 +10,9 @@ x^2 & \text{for } x \in [0, \infty) \\
 - We can also say that 𝑓′(𝑎) is the instantaneous rate of change of 𝑓 at 𝑎.
 > Example: Find an equation of the tangent line to the parabola $y = x^2 − 8x + 9$ at the point $(3, −6)$.
 >
-> 	*Method 1*:
-> 	$$\begin{align*}
+> *Method 1*:
+> 	
+> $$\begin{align*}
 f(3) &= 9-24+9=-6\\
 f'(3) &= \lim_{ x \to 3 } \frac{f(x) - f(3)}{x-3}\\
 &=\lim_{ x \to 3 }\frac{x^2-8x+9-(-6)}{x-3}\\
@@ -26,8 +27,9 @@ y+6&=-2x+6\\
 y&=-2x\\
 \end{align*}$$
 >
->	*Method 2*:
->	$$\begin{align*}
+>*Method 2*:
+>	
+> $$\begin{align*}
 f(3) &= 9-24+9=-5\\
 f'(3) &= \lim_{ h \to 0 }\frac{f(3+h)-f(3)}{h} \\
 &=\lim_{ h \to 0 }\frac{(3+h)^2-8(3+h)+9-(-6)}{h} \\
@@ -86,8 +88,9 @@ x & \text{for } x \geq 0 \\
 - $f''(x) \leq 0$ for all x: concave/concave downwards.
 
 - The derivative of an odd function is an even function.
-> 	Proof:
-> 	$$\begin{align*} \\
+> Proof:
+> 	
+> $$\begin{align*} \\
 \text{Odd function definition: } f(-x) &= -f(x)  \\
 \text{Derivative definition: } f'(x) &= \lim_{ h \to 0 } \frac{f(x+h)-f(x)}{h} \\
 f'(-x) &= \lim_{ h \to 0 } \frac{f(-x+h)-f(-x)}{h} \\
