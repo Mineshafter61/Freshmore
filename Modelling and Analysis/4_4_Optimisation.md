@@ -10,8 +10,7 @@
 2x+y=2400 \implies y=2400-2x \implies A=xy=x(2400-2x)=2x(1200-2x)
 $$
 > We need to find the critical numbers of this expression.
-> $$
-\begin{gather*}
+> $$\begin{gather*}
 \text{Let } A(x)=2x(1200-x)>0 \implies 0 < x < 1200\\
 A(x)=2x(1200-x)\\A'(x)=2(1200-x)+2x(-1)=2400-4x\\
 \text{When }A'(x)=0,\\

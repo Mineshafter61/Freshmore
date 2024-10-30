@@ -42,7 +42,7 @@ Example:
 	- Odd n => odd function
 - **Exponential function**: $f(x) = b^x$, where b ≠ 1 and b is a positive real number.
 	- Natural exponential function is $f(x) = e^x$.
-	- Natural logarithm function is $f(x) = ln(x)$.
+	- Natural logarithm function is $f(x) = \ln(x)$.
 - **Trigonometric functions**: $\sin{x}$, $\cos{x}$, $\tan{x}$, $\cot{x}$, $\sec{x}$, $\csc{x}$
 - **Piecewise function**: different definitions on different parts of its domain.
 	- [Graphing] Hollow dot: function is not defined at this point

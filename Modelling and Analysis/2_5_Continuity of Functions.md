@@ -1,6 +1,5 @@
-A function is continuous if there are no discontinuities. That is, $$
-f(a) \text{ is defined and } \displaystyle\lim_{ x \to a } f(x) = \displaystyle\lim_{ x \to a^- } f(x) = \displaystyle\lim_{ x \to a^+ } f(x) = f(a)
-$$
+A function is continuous if there are no discontinuities. That is,
+$$f(a) \text{ is defined and } \displaystyle\lim_{ x \to a } f(x) = \displaystyle\lim_{ x \to a^- } f(x) = \displaystyle\lim_{ x \to a^+ } f(x) = f(a)$$
 ## Common continuous functions
 - Polynomials in their domains
 - Trigonometric functions in their domains

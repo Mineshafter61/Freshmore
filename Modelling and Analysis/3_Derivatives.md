@@ -22,8 +22,7 @@ f'(3) &= \lim_{ x \to 3 } \frac{f(x) - f(3)}{x-3}\\
 \frac{y+6}{x-3}&=2\\
 y+6&=-2x+6\\
 y&=-2x\\
-\end{align}
-$$
+\end{align}$$
 
 >	*Method 2*:
 >	$f(3) = 9-24+9=-5$
@@ -47,29 +46,24 @@ $$
 - Note: $\frac{d^2y}{dx^2} \neq (\frac{dy}{dx})^2$
 
 > Example: Where is f = |x| differentiable?
-$$ f(x) = |x| =
+$$f(x) = |x| =
 \begin{cases}
 x & \text{for } x \geq 0 \\
 -x & \text{for } x < 0
-\end{cases} $$> Transition point: x = 0
+\end{cases}$$
+> Transition point: x = 0
 > If x = 0 is differentiable:
-> $$
-\lim_{ h \to 0^+ } \frac{f(x+h)-f(x)}{h} = \lim_{ h \to 0^- } \frac{f(x+h)-f(x)}{h}
-$$
+> $$\lim_{ h \to 0^+ } \frac{f(x+h)-f(x)}{h} = \lim_{ h \to 0^- } \frac{f(x+h)-f(x)}{h}$$
 > Finding limit when $x \geq 0$:
-> $$
-\lim_{ h \to 0^+ } \frac{f(x+h)-f(x)}{h} 
+> $$\lim_{ h \to 0^+ } \frac{f(x+h)-f(x)}{h} 
 = \lim_{ h \to 0^+ } \frac{f(h)-f(0)}{h}
 = \lim_{ h \to 0^+ } \frac{h-0}{h}
-= \lim_{ h \to 0^+ } \frac{h}{h} = 1
-$$
+= \lim_{ h \to 0^+ } \frac{h}{h} = 1$$
 > However, when $x < 0$:
-> $$
-\lim_{ h \to 0^- } \frac{f(x+h)-f(x)}{h} 
+> $$\lim_{ h \to 0^- } \frac{f(x+h)-f(x)}{h} 
 = \lim_{ h \to 0^- } \frac{f(h)-f(0)}{h}
 = \lim_{ h \to 0^- } \frac{-h-0}{h}
-= \lim_{ h \to 0^- } \frac{-h}{h} = -1
-$$
+= \lim_{ h \to 0^- } \frac{-h}{h} = -1$$
 - Differentiable: the derivative exists for every value in the function's domain
 	- A Differentiable function implies a Continuous function (but not vice versa)
 	- Polynomials are differentiable and continuous
@@ -83,8 +77,7 @@ $$
 
 - The derivative of an odd function is an even function.
 > Proof:
-$$
-\begin{align*} \\
+$$\begin{align*} \\
 \text{Odd function definition: } f(-x) &= -f(x)  \\
 \text{Derivative definition: } f'(x) &= \lim_{ h \to 0 } \frac{f(x+h)-f(x)}{h} \\
 f'(-x) &= \lim_{ h \to 0 } \frac{f(-x+h)-f(-x)}{h} \\
@@ -97,8 +90,7 @@ f'(x)&=\lim_{ h \to 0 } \frac{f(x+h)-f(x)}{h} \\
 &=\lim_{ h \to 0 } \frac{f(x)-f(x-h)}{h} \\
 &= f'(x)\\
 \text{Therefore: } f'(x) = f'(-x) \text{, hence even function}
-\end{align*}
-$$
+\end{align*}$$
 - The derivative of an even function is an odd function.
 ## Basic Differentiation Formula
 - Constant functions: $y = c \implies \frac{dy}{dx} = \frac{d}{dx}(c) = 0$
@@ -138,22 +130,18 @@ $p'(x) = \sin\left( \frac{1}{x} \right)e^{x^2-4x}(2x-4) + e^{x^2-4x} \cos\left( 
 $p'(x) = e^{x^2-4x}((2x-4)\sin\left( \frac{1}{x} \right) + \left( -\frac{1}{x^2} \right)\cos\left( \frac{1}{x} \right))$
 ## Derivative of rational functions with products
 Apply the natural logarithm to both sides of the equation:
-$$
-\begin{align*}
+$$\begin{align*}
 \text{Let } y &= \frac{\frac{x^3}{4}\sqrt{ x^2+1 }}{(3x+2)^5} \\
 \ln(y) &= \ln \left( \frac{\frac{x^3}{4}\sqrt{ x^2+1 }}{(3x+2)^5} \right) \\
 &= \ln\left( x^\frac{3}{4} \right)+\ln(\sqrt{ x^2+1 })-\ln[(3x+2)^5] \\
 &= \frac{3}{4}\ln x+\frac{1}{2}\ln(x^2+1)-5\ln(3x+2) \\
-\end{align*}
-$$
+\end{align*}$$
 Differentiating implicitly w.r.t. x:
-$$
-\begin{align*}
+$$\begin{align*}
 \frac{1}{y}\cdot \frac{dy}{dx}&=\frac{3}{4x}+\frac{1}{2(x^2+1)}\cdot 2x-\frac{5}{3x+2}\cdot 3 \\
 \frac{dy}{dx}&=y \cdot \frac{3}{4x}+\frac{x}{(x^2+1)}-\frac{15}{3x+2} \\
 &= \frac{ \frac{x^3}{4} \sqrt{ x^2+1 }}{(3x+2)^5} \cdot \frac{3}{4x}+\frac{x}{(x^2+1)}-\frac{15}{3x+2} \\
-\end{align*}
-$$
+\end{align*}$$
 ## Related rates
 1. Make a sketch to organize the given information.
 2. Write one or more equations that express the basic relationships among the variables.
@@ -178,11 +166,9 @@ $$
 	- $P''(a) = f''(a) \rightarrow 2C = f''(a) \rightarrow C = \frac{f''(a)}{2}$
 - Higher order polynomial approximations are more accurate than preceding ones
 - For the approximation to be accurate, $T_n(x), n \to \infty$
-$$
-\begin{gather*}
+$$\begin{gather*}
 P_n(x) = f(a) + f'(a)(x - a) + \frac{f''(a)}{2!}(x - a)^2 + \cdots + \frac{f^{(n)}(a)}{n!}(x - a)^n\\
 \text{ where } n \text{ is a positive integer and } n! = n(n−1)(n−2) \cdots (3)(2)(1)\\
 T_n(x) = \sum_{k=0}^{n} \frac{f^{(k)}(a)}{k!}(x - a)^k
-\end{gather*}
-$$
+\end{gather*}$$
 - **Maclaurin Series**: Taylor polynomials when $a=0$

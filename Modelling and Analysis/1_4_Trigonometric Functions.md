@@ -56,22 +56,22 @@ $\cot \theta = \frac{1}{\tan \theta} = \frac{x}{y}$
 
 ## Inverses
 - Reflect about the line $y = x$
-- $y = sin^{-1}(x) \Rightarrow x = sin(y)$
+- $y = \sin^{-1}(x) \implies x = \sin(y)$
 	- Domain: $-1 \leq x \leq 1$
 	- Range: $-\frac{\pi}{2} \leq y \leq \frac{\pi}{2}$
-- $y = cos^{-1}(x) \Rightarrow x = cos(y)$
+- $y = \cos^{-1}(x) \implies x = \cos(y)$
 	- Domain: $-1 \leq x \leq 1$
 	- Range: $0 \leq y \leq \pi$
-- $y = tan^{-1}(x) \Rightarrow x = tan(y)$
+- $y = \tan^{-1}(x) \implies x = \tan(y)$
 	- Domain: $-\infty \leq x \leq \infty$
 	- Range: $-\frac{\pi}{2} \leq y \leq \frac{\pi}{2}$
-- $y = csc^{-1}(x) \Rightarrow x = csc(y)$
+- $y = \csc^{-1}(x) \implies x = \csc(y)$
 	- Domain: $|x| \geq 1$
 	- Range: $-\frac{\pi}{2} \leq y \leq \frac{\pi}{2}$, $y \neq 0$
-- $y = sec^{-1}(x) \Rightarrow x = sec(y)$
+- $y = \sec^{-1}(x) \implies x = \sec(y)$
 	- Domain: $|x| \geq 1$
 	- Range: $0 \leq y \leq \pi$, $y \neq \frac{\pi}{2}$
-- $y = cot^{-1}(x) \Rightarrow x = cot(y)$
+- $y = \cot^{-1}(x) \implies x = \cot(y)$
 	- Domain: $-\infty \leq x \leq \infty$
 	- Range: $0 \leq y \leq \pi$
 

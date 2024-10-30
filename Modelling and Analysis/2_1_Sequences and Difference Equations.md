@@ -13,10 +13,10 @@ Example: Fibonacci sequence
 ### Difference equations
 - First-order difference equations: uses one preceding term.
 - Second-order difference equations: uses two preceding terms. 
-> $a_{n+1} = a + f(a_n)$ == $\Delta a_n = a_{n+1} - a_n$
+> $a_{n+1} = a + f(a_n) \implies \Delta a_n = a_{n+1} - a_n$
 
 Population size:
-> $N_{t+1} = N_t + inflow - outflow$
+> $N_{t+1} = N_t + \text{inflow} - \text{outflow}$
 > If the birth and death rates are constant, the equation will be:
 > $N_{t+1} = N_t + \beta N_t - \mu N_t$
 
