@@ -5,15 +5,15 @@ If $\displaystyle\lim_{ x \to \infty } f(x) = L$ an $\displaystyle\lim_{ x \to \
 - $\displaystyle\lim_{ x \to \infty } \frac{f(x)}{g(x)} = \frac{\displaystyle\lim_{ x \to \infty }f(x)}{\displaystyle\lim_{ x \to \infty }g(x)} = \frac{L}{M}, M \neq 0$
 - $\displaystyle\lim_{ x \to \infty }[f(x)]^p = [\lim_{ x \to \infty }f(x)]^p, p>0 \text{ and } f(x) > 0$
 - $\displaystyle\lim_{ x \to \infty } \frac{1}{x^p} = 0, p > 0$
-Exponential function limits:
-$$\lim_{x \to \infty}b^x =
+
+### Exponential function limits:
+- $$\lim_{x \to \infty}b^x =
 \begin{cases}
 0 & \text{for } 0 < b < 1 \\
 \text{undefined} & \text{for } b = 1 \\
 \infty & \text{for } b > 1
 \end{cases} $$
-
-$$\lim_{x \to -\infty}b^x =
+- $$\lim_{x \to -\infty}b^x =
 \begin{cases}
 \infty & \text{for } 0 < b < 1 \\
 \text{undefined} & \text{for } b = 1 \\

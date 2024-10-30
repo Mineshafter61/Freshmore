@@ -1,5 +1,6 @@
 ## Back to limits
 - If limit exists, $f'(a) = \displaystyle\lim_{x \to a}\frac{f(x)-f(a)}{x-a} = \displaystyle\lim_{h \to 0}\frac{f(a+h)-f(a)}{h}$
+
 $$ f(x) =
 \begin{cases}
 x^2 & \text{for } x \in [0, \infty) \\
@@ -8,8 +9,9 @@ x^2 & \text{for } x \in [0, \infty) \\
 - If the limit does not exist, f'(a) does not exist and y=f(x) is not differentiable at x=a
 - We can also say that 𝑓′(𝑎) is the instantaneous rate of change of 𝑓 at 𝑎.
 > Example: Find an equation of the tangent line to the parabola $y = x^2 − 8x + 9$ at the point $(3, −6)$.
+>
 > 	*Method 1*:
-> 	$$\begin{align}
+> 	$$\begin{align*}
 f(3) &= 9-24+9=-6\\
 f'(3) &= \lim_{ x \to 3 } \frac{f(x) - f(3)}{x-3}\\
 &=\lim_{ x \to 3 }\frac{x^2-8x+9-(-6)}{x-3}\\
@@ -22,16 +24,18 @@ f'(3) &= \lim_{ x \to 3 } \frac{f(x) - f(3)}{x-3}\\
 \frac{y+6}{x-3}&=2\\
 y+6&=-2x+6\\
 y&=-2x\\
-\end{align}$$
-
+\end{align*}$$
+>
 >	*Method 2*:
->	$f(3) = 9-24+9=-5$
->	$f'(3) = \lim_{ h \to 0 }\frac{f(3+h)-f(3)}{h}$
->	$=\lim_{ h \to 0 }\frac{(3+h)^2-8(3+h)+9-(-6)}{h}$
->	$=\lim_{ h \to 0 }\frac{9+6h+h^2-24-8h+15}{h}$
->	$=\lim_{ h \to 0 } \frac{h^2-2h}{h}$
->	$=\lim_{ h \to 0 }h-2$
->	$=-2$
+>	$$\begin{align*}
+f(3) &= 9-24+9=-5\\
+f'(3) &= \lim_{ h \to 0 }\frac{f(3+h)-f(3)}{h} \\
+&=\lim_{ h \to 0 }\frac{(3+h)^2-8(3+h)+9-(-6)}{h} \\
+&=\lim_{ h \to 0 }\frac{9+6h+h^2-24-8h+15}{h} \\
+&=\lim_{ h \to 0 } \frac{h^2-2h}{h} \\
+&=\lim_{ h \to 0 }h-2 \\
+&=-2
+\end{align*}$$
 
 - Using limits
 	- For $x < 0$, $f'(x) = -1$
@@ -45,25 +49,31 @@ y&=-2x\\
 	- $f'''(x) = f^{(3)}(x) = \frac{d}{dx}(\frac{d^2y}{dx^2}) = \frac{d^3y}{dx^3}$
 - Note: $\frac{d^2y}{dx^2} \neq (\frac{dy}{dx})^2$
 
-> Example: Where is f = |x| differentiable?
-$$f(x) = |x| =
+> 	Example: Where is f = |x| differentiable?
+> 	
+> 	$$f(x) = |x| =
 \begin{cases}
 x & \text{for } x \geq 0 \\
 -x & \text{for } x < 0
 \end{cases}$$
-> Transition point: x = 0
-> If x = 0 is differentiable:
+> 	
+> 	Transition point: x = 0
+> 	
+> 	If x = 0 is differentiable:
 > $$\lim_{ h \to 0^+ } \frac{f(x+h)-f(x)}{h} = \lim_{ h \to 0^- } \frac{f(x+h)-f(x)}{h}$$
-> Finding limit when $x \geq 0$:
+> 	
+> 	Finding limit when $x \geq 0$:
 > $$\lim_{ h \to 0^+ } \frac{f(x+h)-f(x)}{h} 
 = \lim_{ h \to 0^+ } \frac{f(h)-f(0)}{h}
 = \lim_{ h \to 0^+ } \frac{h-0}{h}
 = \lim_{ h \to 0^+ } \frac{h}{h} = 1$$
-> However, when $x < 0$:
+> 	
+> 	However, when $x < 0$:
 > $$\lim_{ h \to 0^- } \frac{f(x+h)-f(x)}{h} 
 = \lim_{ h \to 0^- } \frac{f(h)-f(0)}{h}
 = \lim_{ h \to 0^- } \frac{-h-0}{h}
 = \lim_{ h \to 0^- } \frac{-h}{h} = -1$$
+
 - Differentiable: the derivative exists for every value in the function's domain
 	- A Differentiable function implies a Continuous function (but not vice versa)
 	- Polynomials are differentiable and continuous
@@ -76,8 +86,8 @@ x & \text{for } x \geq 0 \\
 - $f''(x) \leq 0$ for all x: concave/concave downwards.
 
 - The derivative of an odd function is an even function.
-> Proof:
-$$\begin{align*} \\
+> 	Proof:
+> 	$$\begin{align*} \\
 \text{Odd function definition: } f(-x) &= -f(x)  \\
 \text{Derivative definition: } f'(x) &= \lim_{ h \to 0 } \frac{f(x+h)-f(x)}{h} \\
 f'(-x) &= \lim_{ h \to 0 } \frac{f(-x+h)-f(-x)}{h} \\
@@ -91,6 +101,7 @@ f'(x)&=\lim_{ h \to 0 } \frac{f(x+h)-f(x)}{h} \\
 &= f'(x)\\
 \text{Therefore: } f'(x) = f'(-x) \text{, hence even function}
 \end{align*}$$
+
 - The derivative of an even function is an odd function.
 ## Basic Differentiation Formula
 - Constant functions: $y = c \implies \frac{dy}{dx} = \frac{d}{dx}(c) = 0$
@@ -129,14 +140,17 @@ $p'(x) = 2\sin x \cos x$
 $p'(x) = \sin\left( \frac{1}{x} \right)e^{x^2-4x}(2x-4) + e^{x^2-4x} \cos\left( \frac{1}{x} \right)\left( -\frac{1}{x^2} \right)$
 $p'(x) = e^{x^2-4x}((2x-4)\sin\left( \frac{1}{x} \right) + \left( -\frac{1}{x^2} \right)\cos\left( \frac{1}{x} \right))$
 ## Derivative of rational functions with products
-Apply the natural logarithm to both sides of the equation:
+1. Apply the natural logarithm to both sides of the equation:
+
 $$\begin{align*}
 \text{Let } y &= \frac{\frac{x^3}{4}\sqrt{ x^2+1 }}{(3x+2)^5} \\
 \ln(y) &= \ln \left( \frac{\frac{x^3}{4}\sqrt{ x^2+1 }}{(3x+2)^5} \right) \\
 &= \ln\left( x^\frac{3}{4} \right)+\ln(\sqrt{ x^2+1 })-\ln[(3x+2)^5] \\
 &= \frac{3}{4}\ln x+\frac{1}{2}\ln(x^2+1)-5\ln(3x+2) \\
 \end{align*}$$
-Differentiating implicitly w.r.t. x:
+
+2. Differentiating implicitly w.r.t. x:
+
 $$\begin{align*}
 \frac{1}{y}\cdot \frac{dy}{dx}&=\frac{3}{4x}+\frac{1}{2(x^2+1)}\cdot 2x-\frac{5}{3x+2}\cdot 3 \\
 \frac{dy}{dx}&=y \cdot \frac{3}{4x}+\frac{x}{(x^2+1)}-\frac{15}{3x+2} \\
@@ -166,6 +180,7 @@ $$\begin{align*}
 	- $P''(a) = f''(a) \rightarrow 2C = f''(a) \rightarrow C = \frac{f''(a)}{2}$
 - Higher order polynomial approximations are more accurate than preceding ones
 - For the approximation to be accurate, $T_n(x), n \to \infty$
+
 $$\begin{gather*}
 P_n(x) = f(a) + f'(a)(x - a) + \frac{f''(a)}{2!}(x - a)^2 + \cdots + \frac{f^{(n)}(a)}{n!}(x - a)^n\\
 \text{ where } n \text{ is a positive integer and } n! = n(n−1)(n−2) \cdots (3)(2)(1)\\

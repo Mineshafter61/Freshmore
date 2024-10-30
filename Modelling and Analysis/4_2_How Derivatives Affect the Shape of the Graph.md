@@ -17,11 +17,10 @@
 - If $f'(c)=0$ and $f''(c)<0$, then $f$ has a local maximum at $c$.
 ## Mean value theorem
 - If $f$ is a differentiable function on the interval $[a, b]$, then there exists a number $c$ between $a$ and $b$ such that
-$$
-\begin{gather}
+
+$$\begin{gather}
 f'(c) = \frac{f(b)-f(a)}{b-a}\\\\
 \text{or, equivalently,}\\\\
 f(b)-f(a)=f'(c)(b-a)
-\end{gather}
-$$
+\end{gather}$$
 - In other words, there exists a slope of the tangent line with the same magnitude as the slope of the [[1_1_Functions#Slopes and lines|Secant Line]] that connects the two end points of a function.

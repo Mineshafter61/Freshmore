@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physical World/6_Motion of Rigid Bodies.md",
+                "file": "Modelling and Analysis/4_4_Optimisation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "6_Motion of Rigid Bodies"
+              "title": "4_4_Optimisation"
             }
           }
         ]
@@ -172,6 +172,13 @@
   },
   "active": "5095762b3071966e",
   "lastOpenFiles": [
+    "Modelling and Analysis/4_3_Comparing Rates of Growth.md",
+    "Modelling and Analysis/4_2_How Derivatives Affect the Shape of the Graph.md",
+    "Modelling and Analysis/3_Derivatives.md",
+    "Modelling and Analysis/2_5_Continuity of Functions.md",
+    "Modelling and Analysis/2_4_Limits of Functions at Finite Numbers.md",
+    "Modelling and Analysis/2_3_Limits of Functions at Infinity.md",
+    "Physical World/6_Motion of Rigid Bodies.md",
     "Physical World/5_2_Rigid body.md",
     "Physical World/5_1_Rotational Kinematics.md",
     "Physical World/4_Circular Motion.md",
@@ -185,18 +192,11 @@
     "Modelling and Analysis/1_4_Trigonometric Functions.md",
     "Modelling and Analysis/2_1_Sequences and Difference Equations.md",
     "Modelling and Analysis/2_2_Limits of Sequences.md",
-    "Modelling and Analysis/2_3_Limits of Functions at Infinity.md",
-    "Modelling and Analysis/2_4_Limits of Functions at Finite Numbers.md",
     "Modelling and Analysis/4_1_Maximum and Minimum Values.md",
-    "Modelling and Analysis/3_Derivatives.md",
-    "Modelling and Analysis/2_5_Continuity of Functions.md",
     "Modelling and Analysis/チートシートチェックリスト.md",
-    "Modelling and Analysis/4_3_Comparing Rates of Growth.md",
-    "Modelling and Analysis/4_2_How Derivatives Affect the Shape of the Graph.md",
     "ref/PS4.md",
     "ref/PS3.md",
     "Physical World/大大フォーミュラシート.md",
-    "Physical World/6_Motion of Rigid Bodies.md",
     "1_Functions.md",
     "Untitled",
     "ref/law of limits infinity.png",

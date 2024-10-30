@@ -28,6 +28,7 @@ $$
 	3. The answer should be $0$ or $\infty$. Use the conditions to the right to figure out whether g(x) < f(x) or otherwise.
 
 > **Example of L'Hôpital's Rule:** 
+> 
 > $$\begin{align}
 \lim_{ x \to \infty } (e^x-x)&=\lim_{ x \to \infty } x\left( \frac{e^x}{x}-1 \right) \\
 &=\lim_{ x \to \infty }x \cdot \left(\lim_{ x \to \infty } \frac{e^x}{x}-1\right)\\
@@ -35,5 +36,4 @@ $$
 &=\infty \cdot \left(\lim_{ x \to \infty } \frac{e^x}{1}-1\right) \\
 &=\infty \cdot (\infty-1) \\ \\
 &=\infty
-\end{align}
-$$
+\end{align}$$
