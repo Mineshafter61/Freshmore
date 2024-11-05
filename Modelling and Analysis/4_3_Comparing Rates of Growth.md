@@ -32,7 +32,7 @@ $$
 > $$\begin{align}
 \lim_{ x \to \infty } (e^x-x)&=\lim_{ x \to \infty } x\left( \frac{e^x}{x}-1 \right) \\
 &=\lim_{ x \to \infty }x \cdot \left(\lim_{ x \to \infty } \frac{e^x}{x}-1\right)\\
-\text{By L'Hospital's Rule:}\\
+\text{By L'H\^opital's Rule:}\\
 &=\infty \cdot \left(\lim_{ x \to \infty } \frac{e^x}{1}-1\right) \\
 &=\infty \cdot (\infty-1) \\ \\
 &=\infty

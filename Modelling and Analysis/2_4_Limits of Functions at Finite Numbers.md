@@ -36,6 +36,6 @@ then
 $$\lim_{ x \to a } g(x) = L$$
 - Commonly used to evaluate the limits:
 	- $\displaystyle\lim_{\theta \to 0}\frac{\sin(\theta)}{\theta} = 1$
-	- $\displaystyle\lim_{\theta \to 0}\cos(\frac{1}{\theta}) = 0$
+	- $\displaystyle\lim_{\theta \to 0}\cos\left(\frac{1}{\theta}\right) = 0$
 	- $\displaystyle\lim_{\theta \to 0}\frac{\tan(\theta)}{\theta} = 1$
 	- Useful: $\displaystyle\lim_{\theta \to 0^-}\frac{\sin(\theta)}{\theta} = \displaystyle\lim_{\theta \to 0^+}\frac{\sin(-\theta)}{-\theta}$

@@ -5,22 +5,22 @@ $\tan \theta = \frac{y}{x}$
 $\sec \theta = \frac{1}{\cos \theta} = \frac{r}{x}$
 $\csc \theta = \frac{1}{\sin \theta} = \frac{r}{y}$
 $\cot \theta = \frac{1}{\tan \theta} = \frac{x}{y}$
-### Quadrants:
+### Quadrants
 - Quadrant 1: sine, cosine and tangent are positive
 - Quadrant 2: only sine is positive
 - Quadrant 3: only tangent is positive
 - Quadrant 4: only cosine is positive
 ### Formulae:
-- $\sin^{2} \theta+\cos^{2} \theta=1$
-- $\sec^{2} = 1 + \tan^{2} \theta$
-- $\csc^{2} = 1 + \cot^{2} \theta$
-- $\sin (𝜃 + 𝛽)= \sin 𝜃 \cos 𝛽 + \sin 𝛽 \cos 𝜃$
-- $\cos (𝜃 + 𝛽)= \cos 𝛽 \cos 𝜃 − \sin 𝛽 \sin 𝜃$
-- $\sin 2 \theta= 2 \sin \theta \cos \theta$
+- $\sin^{2} \theta+\cos^{2} \theta\equiv1$
+- $\sec^{2} \theta \equiv 1 + \tan^{2} \theta$
+- $\csc^{2} \theta \equiv 1 + \cot^{2} \theta$
+- $\sin(a\pm b)=\sin a\cos a\pm\sin b\cos b$
+- $\cos(a \pm b)=\cos a\cos b \mp \sin a\sin b$
+- $\sin 2 \theta\equiv 2 \sin \theta \cos \theta$
 - $\cos 2 \theta$
-	- $= \cos^2 \theta - \sin^2 \theta$
-	- $=1-2\sin^2\theta$
-	- $=2\cos^2\theta-1$
+	- $\equiv \cos^2 \theta - \sin^2 \theta$
+	- $\equiv1-2\sin^2\theta$
+	- $\equiv2\cos^2\theta-1$
 - $\cos^2 \theta = \frac{1+\cos 2 \theta}{2}$
 - $\sin^2 \theta = \frac{1-\cos 2 \theta}{2}$
 - $\sin \frac{\theta}{2} = \pm \sqrt{\frac{1-\cos \theta}{2}}$
@@ -46,14 +46,12 @@ $\cot \theta = \frac{1}{\tan \theta} = \frac{x}{y}$
 | **300** | **5 π/3**  | $-\frac{\sqrt{3}}{2}$ | $\frac{1}{2}$         | $-\sqrt{3}$           | $2$                   | $-\frac{2}{\sqrt{3}}$ | $-\frac{1}{\sqrt{3}}$ |
 | **315** | **7 π/4**  | $-\frac{1}{\sqrt{2}}$ | $\frac{1}{\sqrt{2}}$  | $-1$                  | $\sqrt{2}$            | $-\sqrt{2}$           | $1$                   |
 | **330** | **11 π/6** | $-\frac{1}{2}$        | $\frac{\sqrt{3}}{2}$  | $-\frac{1}{\sqrt{3}}$ | $\frac{2}{\sqrt{3}}$  | $-2$                  | $\sqrt{3}$            |
-
 ### Cartesian and Polar coordinates
 - $x = r \cos \theta$
 - $y = r \sin \theta$
 ### Period of Trigonometric functions
 - sin, cos, sec, csc: 2π
 - tan, cot: π
-
 ## Inverses
 - Reflect about the line $y = x$
 - $y = \sin^{-1}(x) \implies x = \sin(y)$

@@ -1,9 +1,9 @@
 - Explores what happens to sequences as $n \to \infty$
 - If a sequence defined by $a_n$ has the limit L as $n \to \infty$, we can simply write:
-> $\displaystyle\lim_{x \to \infty} = L$
-- If $\lim_{x \to \infty} = L$ exists, the sequence converges. Otherwise, the sequence diverges.
+> $\displaystyle\lim_{n \to \infty} a_n= L$
+- If $\displaystyle\lim_{n \to \infty} a_n= L$ exists, the sequence converges. Otherwise, the sequence diverges.
 - If the sequence approaches infinity, we use the notation:
-> $\displaystyle\lim_{x \to \infty} = \infty$
+> $\displaystyle\lim_{n \to \infty} a_n= \infty$
 
 ## Limit laws
 If $a_n$ and $b_n$ are convergent sequences and $c$ is a constant, then:
@@ -17,10 +17,9 @@ If $a_n$ and $b_n$ are convergent sequences and $c$ is a constant, then:
 - $\displaystyle\lim_{n \to \infty} c = c$
 
 For polynomial functions, **the largest power will dominate** in any equation.
-
-Rational function limit:
-- Divide polynomial in both the numerator and denominator by the highest order term in the rational function, then solve
-
-Geometric sequence limit:
-- Express the function in algebraic terms
-- Use limit laws to get the final answer
+### Methods
+- Rational function limit:
+	- Divide polynomial in both the numerator and denominator by the highest order term in the rational function, then solve
+- Geometric sequence limit:
+	- Express the function in algebraic terms
+	- Use limit laws to get the final answer

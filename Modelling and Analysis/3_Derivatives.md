@@ -6,7 +6,7 @@ $$ f(x) =
 x^2 & \text{for } x \in [0, \infty) \\
 -x & \text{for } x \in (-\infty, 0)
 \end{cases} $$
-- If the limit does not exist, f'(a) does not exist and y=f(x) is not differentiable at x=a
+- If the limit does not exist, $f'(a)$ does not exist and $y=f(x)$ is not differentiable at $x=a$
 - We can also say that 𝑓′(𝑎) is the instantaneous rate of change of 𝑓 at 𝑎.
 > Example: Find an equation of the tangent line to the parabola $y = x^2 − 8x + 9$ at the point $(3, −6)$.
 >
@@ -44,14 +44,18 @@ f'(3) &= \lim_{ h \to 0 }\frac{f(3+h)-f(3)}{h} \\
 	- For $x > 0$, $f'(x) = 1$
 	- For $x = 0$, $f'(x)$ is undefined
 	- i.e $f'(x)$ is **discontinuous** at $x = 0$ and hence $f(x)$ is not **differentiable**
-## Derivatives
+## Definition of Derivatives
 - $f'(a) = \displaystyle\lim_{x \to a}\frac{f(x)-f(a)}{x-a} = \displaystyle\lim_{\Delta x \to 0}\frac{\Delta y}{\Delta x} = \frac{dy}{dx} = \frac{d}{dx}(y)$
 - Higher order derivatives
 	- $f''(x) = f^{(2)}(x) = \frac{d}{dx}(\frac{dy}{dx}) = \frac{d^2y}{dx^2}$
 	- $f'''(x) = f^{(3)}(x) = \frac{d}{dx}(\frac{d^2y}{dx^2}) = \frac{d^3y}{dx^3}$
 - Note: $\frac{d^2y}{dx^2} \neq (\frac{dy}{dx})^2$
-
-> 	Example: Where is f = |x| differentiable?
+### Differentiability
+- Differentiable: the derivative exists for every value in the function's domain
+	- A Differentiable function implies a Continuous function (but not vice versa)
+	- Polynomials are differentiable and continuous
+	- Sharp changes in gradient means the function is not differentiable
+> Example: Where is f = |x| differentiable?
 > 	
 > 	$$f(x) = |x| =
 \begin{cases}
@@ -59,9 +63,9 @@ x & \text{for } x \geq 0 \\
 -x & \text{for } x < 0
 \end{cases}$$
 > 	
-> 	Transition point: x = 0
-> 	
-> 	If x = 0 is differentiable:
+> Transition point: x = 0
+> 
+> If x = 0 is differentiable:
 > $$\lim_{ h \to 0^+ } \frac{f(x+h)-f(x)}{h} = \lim_{ h \to 0^- } \frac{f(x+h)-f(x)}{h}$$
 > 	
 > 	Finding limit when $x \geq 0$:
@@ -75,18 +79,15 @@ x & \text{for } x \geq 0 \\
 = \lim_{ h \to 0^- } \frac{f(h)-f(0)}{h}
 = \lim_{ h \to 0^- } \frac{-h-0}{h}
 = \lim_{ h \to 0^- } \frac{-h}{h} = -1$$
-
-- Differentiable: the derivative exists for every value in the function's domain
-	- A Differentiable function implies a Continuous function (but not vice versa)
-	- Polynomials are differentiable and continuous
-	- Sharp changes in gradient means the function is not differentiable
+### Derivatives and the graph
 - $f'(x) > 0$ means gradient is **positive** and $f(x)$ is increasing
 - $f'(x) < 0$ means gradient is **negative** and $f(x)$ is decreasing
 - $f'(x) = 0$ means that the gradient is **zero** and this defines a local **maxima** or **minima** on the graph
 	- You can tell if its a maximum or minimum point by comparing $f'(x^-)$ and $f'(x^+)$
 - $f''(x) \geq 0$ for all x: convex / concave upwards.
-- $f''(x) \leq 0$ for all x: concave/concave downwards.
+- $f''(x) \leq 0$ for all x: concave / concave downwards.
 
+- The derivative of an even function is an odd function.
 - The derivative of an odd function is an even function.
 > Proof:
 > 	
@@ -104,26 +105,29 @@ f'(x)&=\lim_{ h \to 0 } \frac{f(x+h)-f(x)}{h} \\
 &= f'(x)\\
 \text{Therefore: } f'(x) = f'(-x) \text{, hence even function}
 \end{align*}$$
-
-- The derivative of an even function is an odd function.
 ## Basic Differentiation Formula
-- Constant functions: $y = c \implies \frac{dy}{dx} = \frac{d}{dx}(c) = 0$
-- Power functions: $y = x^n \implies \frac{dy}{dx} = \frac{d}{dx}(x^n) = n \cdot x^{n-1}$
-- Constant multiple rule: $y = c \cdot f(x) \implies \frac{dy}{dx} = c \frac{d}{dx}(f(x))$
-- Sum and difference rule: $y = f(x) \pm g(x) \implies \frac{dy}{dx} = \frac{d}{dx} f(x) \pm \frac{d}{dx} g(x)$
-- Exponential functions: $y=b^{nx} \implies \frac{dy}{dx} = \frac{d}{dx} b^{nx} = b^{nx}ln(b) \cdot \frac{dy}{dx}(nx)$
-	- Special case: $y=e^x \implies \frac{dy}{dx} = \frac{d}{dx} e^x = e^x$
-- Logarithmic functions: $y=log_b(nx) \implies \frac{dy}{dx} = \frac{d}{dx} log_b(nx) = \frac{1}{nxln(b)} \cdot \frac{dy}{dx}(nx)$
-	- Special case: $y=ln(x) \implies \frac{dy}{dx} = \frac{d}{dx} ln(x) = \frac{1}{x}$
+- Constant functions: $\frac{d}{dx}(c) = 0$
+- Power functions: $\frac{d}{dx}(x^n) = n \cdot x^{n-1}$
+- Constant multiple rule: $\frac{d}{dx}(c\cdot f(x)) = c \frac{d}{dx}(f(x))$
+- Sum and difference rule: $\frac{d}{dx} (f(x) \pm g(x)) = \frac{d}{dx} f(x) \pm \frac{d}{dx} g(x)$
+- Exponential functions: $\frac{d}{dx} b^{f(x)} = b^{f(x)} \ln(b) \cdot f'(x)$
+	- Special case: $\frac{d}{dx} e^x = e^x$
+- Logarithmic functions: $\frac{d}{dx} \log_b(x) = \frac{f'(x)}{\ln(b)\cdot f(x)}$
+	- Special case: $\frac{d}{dx} \ln(x) = \frac{1}{x}$
 - Trigonometric functions: 
-	- $y = \sin (nx) \implies \frac{dy}{dx} = \frac{d}{dx} (\sin (nx)) = \cos (nx) \cdot \frac{d}{dx}(nx)$
-	- $y = \cos (nx) \implies \frac{dy}{dx} = \frac{d}{dx} (\cos (nx)) = -\sin (nx) \cdot \frac{d}{dx}(nx)$
-	- $y = \tan (nx) \implies \frac{dy}{dx} = \frac{d}{dx} (\tan (nx)) = \sec^2 (nx) \cdot \frac{d}{dx}(nx)$
-	- $y = \tan (nx) \implies \frac{dy}{dx} = \frac{d}{dx} (\csc (nx)) = \csc (nx)\cot (nx)\cdot \frac{d}{dx}(nx)$
-	- $y = \tan (nx) \implies \frac{dy}{dx} = \frac{d}{dx} (\sec (nx)) = \sec (nx)\tan (nx)\cdot \frac{d}{dx}(nx)$
-	- $y = \tan (nx) \implies \frac{dy}{dx} = \frac{d}{dx} (\cot (nx)) = \csc^2 (nx)\cdot \frac{d}{dx}(nx)$
+	- $\frac{d}{dx} \sin (f(x)) = \cos (nx) \cdot f'(x)$
+	- $\frac{d}{dx} \cos(f(x)) = -\sin (f(x)) \cdot f'(x)$
+	- $\frac{d}{dx} \tan (f(x)) = \sec^2 (f(x)) \cdot f'(x)$
+	- $\frac{d}{dx} \cot (f(x)) = \csc^2 (f(x))\cdot f'(x)$
+	- $\frac{d}{dx} \sec (f(x)) = \sec (f(x))\tan (f(x))\cdot f'(x)$
+	- $\frac{d}{dx} \csc (f(x)) = -\csc (f(x))\cot (f(x))\cdot f'(x)$
 - Inverse trigonometric functions:
-	- $y=\tan^{-1}(x)\implies x=\tan(y), x' = 1 = \sec^2(y) y' \implies y' = \frac{1}{\sec^2(y)}, x' = \frac{1}{x^2+1}$
+	- $\frac{d}{dx} \sin^{-1}(f(x))=\frac{f'(x)}{\sqrt{1-(f(x))^{2}}}$
+	- $\frac{d}{dx} \cos^{-1}(f(x))=\frac{-f'(x)}{\sqrt{1-(f(x))^{2}}}$
+	- $\frac{d}{dx} \tan^{-1}(f(x))=\frac{f'(x)}{1+(f(x))^{2}}$
+	- $\frac{d}{dx} \cot^{-1}(f(x))=\frac{-f'(x)}{1+(f(x))^{2}}$
+	- $\frac{d}{dx}\sec^{-1}(f(x))=\frac{f'(x)}{|f(x)|\sqrt{(f(x))^{2}-1}}$
+	- $\frac{d}{dx}\csc^{-1}(f(x))=\frac{-f'(x)}{|f(x)|\sqrt{(f(x))^{2}-1}}$
 ## Chain Rule
 - $\frac{d}{dx} f(g(x)) = f'(g(x)) \cdot g'(x)$
 - $\frac{d}{dx}[\ln f(x)]=\frac{f'(x)}{f(x)}$
@@ -137,11 +141,6 @@ f'(x)&=\lim_{ h \to 0 } \frac{f(x+h)-f(x)}{h} \\
 	- $\frac{d}{dx}b^y = \frac{d}{dx}x$
 	- $b^yln(b) \cdot \frac{dy}{dx} = 1$
 	- $\frac{dy}{dx} = \frac{1}{b^yln(b)} = \frac{1}{xln(b)}$
-
-$p'(x) = \cos(x^2) 2x$
-$p'(x) = 2\sin x \cos x$
-$p'(x) = \sin\left( \frac{1}{x} \right)e^{x^2-4x}(2x-4) + e^{x^2-4x} \cos\left( \frac{1}{x} \right)\left( -\frac{1}{x^2} \right)$
-$p'(x) = e^{x^2-4x}((2x-4)\sin\left( \frac{1}{x} \right) + \left( -\frac{1}{x^2} \right)\cos\left( \frac{1}{x} \right))$
 ## Derivative of rational functions with products
 1. Apply the natural logarithm to both sides of the equation:
 
@@ -160,7 +159,7 @@ $$\begin{align*}
 &= \frac{ \frac{x^3}{4} \sqrt{ x^2+1 }}{(3x+2)^5} \cdot \frac{3}{4x}+\frac{x}{(x^2+1)}-\frac{15}{3x+2} \\
 \end{align*}$$
 ## Related rates
-1. Make a sketch to organize the given information.
+1. Make a sketch to organise the given information.
 2. Write one or more equations that express the basic relationships among the variables.
 3. Introduce rates of change by differentiating the appropriate equations with respect to time t.
 4. Substitute the known values and solve the desired quantity. Check that units are consistent and the answer is reasonable.
@@ -185,7 +184,7 @@ $$\begin{align*}
 - For the approximation to be accurate, $T_n(x), n \to \infty$
 
 $$\begin{gather*}
-P_n(x) = f(a) + f'(a)(x - a) + \frac{f''(a)}{2!}(x - a)^2 + \cdots + \frac{f^{(n)}(a)}{n!}(x - a)^n\\
+T_n(x) = f(a) + f'(a)(x - a) + \frac{f''(a)}{2!}(x - a)^2 + \cdots + \frac{f^{(n)}(a)}{n!}(x - a)^n\\
 \text{ where } n \text{ is a positive integer and } n! = n(n−1)(n−2) \cdots (3)(2)(1)\\
 T_n(x) = \sum_{k=0}^{n} \frac{f^{(k)}(a)}{k!}(x - a)^k
 \end{gather*}$$

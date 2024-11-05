@@ -16,5 +16,5 @@
 ### Logarithmic scale
 - Equidistant marks represnts powers of 10
 - Semi-log plot (exponential function): points are (x, $\log(y)$). Logarithms of base 10 can simply be represented using `log`.
-	- if we have Y = log(y), M = log(b), C = log(a), then $\log(y) = \log(a) + x \log b \implies Y = C + Mx$, which is a linear equation.
+	- if we have $Y = log(y)$, $M = log(b)$, $C = log(a)$, then $\log(y) = \log(a) + x \log b \implies Y = C + Mx$, which is a linear equation.
 - Log-log plot (power function): points are $(\log(x), \log(y))$
