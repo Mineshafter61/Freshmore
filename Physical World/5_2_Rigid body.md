@@ -11,7 +11,6 @@
 - Axis of rotation always points in the same direction
 	- No change in $\hat{k}$
 	- Every part of the same body must have the same angular velocity and angular acceleration.
-
 ## Forces and torque law
 - Consider a rigid body rotates with $\vec{\omega}$ and $\vec{\alpha}$. Each small element of mass ($\Delta m_i$) is subjected to a force $\vec{F}_i$.
 - By [[3_Forces#Second law of motion|Newton's Second Law]], $\Delta m_i$ has an acceleration $\vec{a}_i$ that can be decomposed into the tangential $a_{\theta i} \hat{\theta}$ and radial $a_{ri} \hat{r}$ components with respect to an axis $\vec{S}$ passing perpendicularly through the plane of orbit.
