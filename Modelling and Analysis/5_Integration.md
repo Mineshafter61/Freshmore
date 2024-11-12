@@ -53,4 +53,81 @@ $$
 	- We know that $\displaystyle\Delta x=\frac{b-a}{n}$ and $\displaystyle c_{k}=x_{k}=a+k\Delta x$
 	- From $\displaystyle\lim_{ n \to \infty }\sum_{k=1}^{n}-c\left( 2+\frac{8k}{n} \right) \frac{8}{n} \implies \Delta x=\frac{8}{n} \implies b-a=8$
 	- Therefore, $f(x)=-c\left( 2+\frac{8k}{n} \right) \implies c_{k}+\frac{8}{n}k=a+k(\Delta x) \implies a=2 \text{ and } b=8+a=10$
-	- Hence, $\displaystyle\int_{a}^{b} F(x) \, dx=\lim_{ n \to \infty }\sum_{k=1}^{n}-c\left( 2+\frac{8k}{n} \right) \frac{8}{n}=$
+	- Hence, $\displaystyle\int_{a}^{b} F(x) \, dx=\lim_{ n \to \infty }\sum_{k=1}^{n}-c\left( 2+\frac{8k}{n} \right) \frac{8}{n}=0$
+## Integration by substitution
+- Reverse of chain rule
+- Used when the composite function is in the form $c\,f(g(x))g'(x)$
+- Steps:
+	1. Find the form you want from the list of integration rules
+	2. Substitute the differentiable function with $u$
+	3. Substitute the differentiated function with $\frac{du}{dx}$
+	4. Manipulate [2] to find $dx$ in terms of $du$
+	5. Substitute [3] to eliminate all $x$ terms
+	6. Integrate w.r.t $u$
+	7. Substitute $u$ back to $x$
+- $f'(g(x))=f'(g(x))g'(x) \implies \int \frac{d\,f(g(x))}{dx}=\int \frac{d\,f(g(x))}{d\,g(x)}\cdot \frac{d\,g(x)}{dx}dx$ 
+	- $\implies \int f'(g(x))g(x)dx=f(g(x))+c$
+- $\int f'(g(x))\,g'(x)\,dx=f(g(x))+c$, since we sub $u=g(x), du=g'(x), du=\frac{du}{dx}$
+## Substitution rule for definite integrals
+- Where $u = g(x)$, bounds
+	- $a \to g(a)$
+	- $b \to g(b)$
+## Definite Integrals with odd/even functions
+- When lower bound is the **negative** of the upper bound:
+- Even $f(x) = f(-x) \implies \int_{-b}^{b} f(x) \, dx=2\int_{0}^{b} f(x) \, dx$
+- Odd $f(x)=-f(x) \implies \int_{-b}^{b} f(x) \, dx=0$
+## Integration by parts
+- Reverse of product rule
+- Used when the composite function is a **product** of 2 functions,
+	- A **polynomial** and an **exponential/logarithmic/trigonometric** function
+	- An **exponential** and a **trigonometric** function
+- **No constant of integration $c$**
+$$
+\begin{gather*}
+\frac{d}{dx}(f(x)g(x)) = f(x)g'(x) + f'(x)g(x) \implies f(x)g'(x) = \frac{d}{dx}(f(x)g(x)) - f'(x)g(x) \\
+\int f(x)g'(x) \, dx = f(x)g(x) - \int f'(x)g(x) \, dx=\int u \, dv = uv - \int v \, du
+\end{gather*}
+$$
+- where $u = f(x)$, $du = f'(x)dx$
+- where $v = g(x)$, $dv = g'(x)dx$
+- **$u$ should always be the simpler polynomial term**
+- e.g for $\int x \sin(x) \, dx$:
+	- Let $u = x, dv = \sin(x)dx$
+	- $du = dx, v = -\cos(x)$
+### General guidelines for selecting u and dv
+- Choose u to be the function appearing first in the following list, and let dv to be the function appearing lower than u.
+	1. Logarithmic
+	2. Inverse trigonometric
+	3. Algebraic
+	4. Trigonometric
+	5. Exponential
+
+> Example: $\int x \sin(x) \, dx$
+	- $u = x$
+	- $du = dx$
+	- $dv = \sin(x)dx$
+	- $v = -\cos(x)$
+
+> Example: $\int ln(x) \, dx$
+	- $u = \ln(x)$
+	- $du = \frac{1}{x}dx$
+	- $dv = dx$
+	- $v = x$
+
+## Integration by partial fractions
+- Used for a fraction of 2 **polynomials**
+- How to break a complicated fraction into its partial fractions:
+	1. Factorise the denominator
+	2. Express the large fraction as simpler fractions where the denominators are the factors.
+		- Linear factor: let $\frac{A}{ax+b}$
+		- Repeated factor: let $\frac{B}{(ax+b)^2}$
+		- Quadratic factor: let $\frac{Cx+D}{ax^2+bx+c}$
+> Example:
+> - $\frac{6x+8}{x^2+3x+2}=\frac{6x+8}{(x+1)(x+2)}=\frac{A}{x+1}+\frac{B}{x+2}$
+> - $\frac{2x+5}{x^2+2x+1}=\frac{2x+5}{(x+1)^2}=\frac{A}{x+1}+\frac{B}{(x+1)^2}$
+> - $\frac{3x^2+11x+14}{x^3+2x^2-11x-52}=\frac{3x^2+11x+14}{(x-4)(x^2+6x+13)}=\frac{A}{x-4}+\frac{B}{x^2+6x+13}$
+
+### How to find unknown coefficients
+1. Consider the identity that the original numerator is equal to $A(\text{other fractions' denominators})+B(\text{other fractions' denominators})+\dots$
+2. Set x such that one of the denominators become 0
+3. Solve for A and B
