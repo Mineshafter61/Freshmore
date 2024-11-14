@@ -9,7 +9,7 @@
 - $\int[f(x)\pm g(x)]\,dx=\int f(x)\,dx\pm\int g(x)\,dx$
 - $\int k f(x) \mathop{dx} = k \int f(x)\mathop{dx}$
 - $\int x^{n}dx=\frac{x^{n+1}}{n+1}+C; n \neq -1$
-- $\int \frac{1}{x} \mathop{dx} = \ln |x| +C$ (NOTE: **Absolute symbol MUST be included**)
+- $\int \frac{f'(x)}{f(x)} \mathop{dx} = \ln |f(x)| +C$ (NOTE: **Absolute symbol MUST be included**)
 - $\int e^{x} \mathop{dx}=e^{x}+C$
 - $\int e^{kx} \mathop{dx}=\frac{1}{k}e^{kx}+C$
 - $\int a^x \mathop{dx}=\frac{a^x}{\ln a}+C$
