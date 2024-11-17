@@ -123,9 +123,9 @@ $$
 		- Repeated factor: let $\frac{B}{(ax+b)^2}$
 		- Quadratic factor: let $\frac{Cx+D}{ax^2+bx+c}$
 > Example:
-> - $\frac{6x+8}{x^2+3x+2}=\frac{6x+8}{(x+1)(x+2)}=\frac{A}{x+1}+\frac{B}{x+2}$
-> - $\frac{2x+5}{x^2+2x+1}=\frac{2x+5}{(x+1)^2}=\frac{A}{x+1}+\frac{B}{(x+1)^2}$
-> - $\frac{3x^2+11x+14}{x^3+2x^2-11x-52}=\frac{3x^2+11x+14}{(x-4)(x^2+6x+13)}=\frac{A}{x-4}+\frac{B}{x^2+6x+13}$
+> - $\frac{6x+8}{x^2+3x+2}=\frac{6x+8}{(x+1)(x+2)}=:\frac{A}{x+1}+\frac{B}{x+2}$
+> - $\frac{2x+5}{x^2+2x+1}=\frac{2x+5}{(x+1)^2}=:\frac{A}{x+1}+\frac{B}{(x+1)^2}$
+> - $\frac{3x^2+11x+14}{x^3+2x^2-11x-52}=\frac{3x^2+11x+14}{(x-4)(x^2+6x+13)}=:\frac{A}{x-4}+\frac{Bx+C}{x^2+6x+13}$
 
 ### How to find unknown coefficients
 1. Consider the identity that the original numerator is equal to $A(\text{other fractions' denominators})+B(\text{other fractions' denominators})+\dots$
