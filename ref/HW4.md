@@ -52,11 +52,23 @@ Let rightwards be positive for this question.
 (a)
 $$
 \begin{align}
-m_Bv_B-m_Av_A &= m_Av_0 \\
-v_B&=\frac{m_Av_0+m_Av_A}{m_B} \\
-v_A&=\frac{m_Bv_B-m_Av_0}{m_A} \\
+m_Av_0 &= m_Bv_B-m_Av_A \\
+v_A&=\frac{m_Bv_B}{m_A}-v_0 \implies v_A^2=\frac{m_B^2v_B^2}{m_A^2}-2\frac{m_Bv_B}{m_A}v_0+v_0^2 \\
+v_B&=\frac{m_A}{m_B}(v_0-v_A) \implies v_B^2=\frac{m_A^2}{m_B^2}(v_0^2-2v_0v_A+v_A^2) \\\\
 \text{Since the collision is elastic,} \\
 \frac{1}{2}m_Av_0^2&=\frac{1}{2}m_Av_A^2+\frac{1}{2}m_Bv_B^2 \\
+\implies m_Av_0^2&=m_Av_A^2+m_Bv_B^2 \\
+v_A^2&=v_0^2-\frac{m_Bv_B^2}{m_A} \\
+v_B^2&=\frac{m_A}{m_B}(v_0^2-v_A^2) \\
+ \\
+\frac{m_B^2v_B^2}{m_A^2}-2\frac{m_Bv_B}{m_A}v_0+v_0^2 &= v_0^2-\frac{m_Bv_B^2}{m_A} \\
+2v_0-v_B\frac{m_B}{m_A} &=v_B \\
+v_B\frac{m_B}{m_A}+v_B &=2v_0 \\
+v_B\left( \frac{m_B}{m_A}+1 \right) &=2v_0 \\
+\therefore v_B &=\frac{2v_0m_A}{m_B+m_A} \\
+ \\
+\frac{m_A}{m_B}(v_0^2-v_A^2)&=\frac{m_A^2}{m_B^2}(v_0^2-2v_0v_A+v_A^2) \\
+(v_0^2-v_A^2)&=\frac{m_A}{m_B}(v_0^2-2v_0v_A+v_A^2)
 \end{align}
 $$
 (b)
