@@ -47,6 +47,7 @@ $$
 - **Elastic collisions**: 
 	- Kinetic energy is **conserved**
 	- $K_i = K_f$
+	- $v_{1i}-v_{2i}=v_{2f}-v_{1f}$
 	- If two objects of the **same mass** are travelling in the at the **same speed** in **opposite directions** collide, both objects come to a **stop**
 	- If object $A$ travelling at velocity $\vec{v}$ collides with another object $B$ of the **same mass** at rest, object $A$ comes to a stop and **all** of its velocity $\vec{v}$ is **transferred** to object $B$
 - **Super-elastic collisions**: 

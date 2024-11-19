@@ -35,7 +35,7 @@ K&=\frac{1}{2}mv^{2}=\frac{1}{2}(m_{1}+m_{2})\left(\frac{m_{1}v_{1}}{m_{1}+m_{2}
 &=\frac{(m_{1}v_{1})^{2}}{2(m_{1}+m_{2})} \\
 \text{Potential energy at max height}&=mgh \\
 (m_{1}+m_{2})gh&=\frac{(m_{1}v_{1})^{2}}{2(m_{1}+m_{2})} \\
-\therefore h&=\frac{(m_{1}v_{1})^{2}}{2g}
+\therefore h&=\frac{(m_{1}v_{1})^{2}}{2g(m_{1}+m_{2})^{2}}
 \end{align}
 $$
 (b)
@@ -67,8 +67,9 @@ v_B\frac{m_B}{m_A}+v_B &=2v_0 \\
 v_B\left( \frac{m_B}{m_A}+1 \right) &=2v_0 \\
 \therefore v_B &=\frac{2v_0m_A}{m_B+m_A} \\
  \\
-\frac{m_A}{m_B}(v_0^2-v_A^2)&=\frac{m_A^2}{m_B^2}(v_0^2-2v_0v_A+v_A^2) \\
-(v_0^2-v_A^2)&=\frac{m_A}{m_B}(v_0^2-2v_0v_A+v_A^2)
+v_0-0&=v_B-v_A \\
+\therefore v_A&=v_B-v_0 \\
+&=\frac{2v_0m_A}{m_B+m_A}-v_0
 \end{align}
 $$
 (b)
@@ -81,6 +82,11 @@ $$
 (c)
 $$
 \begin{align}
-
+m_Bv_B &= m_Cv_C-m_Bv_B' \\
+&= m_C\frac{v_{B}}{2}+m_B\frac{v_{B}}{2} \\
+&= \frac{v_{B}}{2}(m_C+m_B) \\
+m_B &= \frac{1}{2}(m_C+m_B) \\
+\frac{1}{2}m_B &= \frac{1}{2}m_C \\
+\therefore m_C &= m_B
 \end{align}
 $$
