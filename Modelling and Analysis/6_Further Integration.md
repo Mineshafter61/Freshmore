@@ -125,14 +125,31 @@ $$\begin{align}s &= \lim_{n \to \infty} \sum_{i=1}^n \Delta s_i \\&= \lim_{n \to
 > $$
 \begin{align}
 g(y)&=y^2 \implies g'(y)=2y \\
-\text{Arc length }s&=\int_{0}^{1} \sqrt{1+[2y]^2} \, dy =\int_{0}^{1} \sqrt{1+4y^2} \, dy \\
+\text{Arc length }s&=\int_{0}^{1} \sqrt{1+(2y)^2} \, dy\\
 \text{Let } y &:= \frac{\tan\theta}{2}, dy := \frac{\sec^2\theta}{2}\,d\theta \\
-\sqrt{1+4y^2}&=\sqrt{1+\tan^2\theta}=\sec \theta \\
-\implies\int \sqrt{1+4y^2} \, dy&=\int \sec(\theta)\, \frac{\sec^2 \theta}{2} \, d\theta=\frac{1}{2}\int \sec^3\theta\,d\theta \\
-\text{Using integration by parts with }& f=\sec \theta \implies f'(\theta)=\sec \theta \tan \theta, g'(\theta)=\sec^2(\theta)=
+\text{When }y=0, \tan \theta &= 0 \\
+\theta_{1}&=0 \\
+\text{When }y=0, \tan \theta &= 2 \\
+\theta_{2}&=\tan^{-1} 2 \\\\
+s&=\int_{y=0}^{y=1} \sqrt{1+\tan^2\theta}\left(\frac{\sec^2\theta}{2}\right)d\theta \\
+&=\int_{y=0}^{y=1} \sec \theta\left( \frac{\sec^{2}\theta}{2} \right)d\theta \\
+&=\frac{1}{2}\int_{y=0}^{y=1} \sec^3\theta\,d\theta \\
+&=\frac{1}{2}\int_{y=0}^{y=1} \sec \theta \sec^2\theta\,d\theta \\
+&=\frac{1}{2}\left(\sec \theta \tan \theta- \int_{y=0}^{y=1} \sec \theta \tan^2\theta\,d\theta\right) \\
+&=\frac{1}{2}\left(\sec \theta \tan \theta- \int_{y=0}^{y=1} \sec \theta (\sec^2\theta-1)\,d\theta\right) \\
+&=\frac{1}{2}\left(\sec \theta \tan \theta- \int_{y=0}^{y=1} \sec^3 \theta \,d\theta+ \int_{y=0}^{y=1} \sec \theta \,d\theta\right) \\
+\int_{y=0}^{y=1} \sec^3\theta\,d\theta&=\frac{1}{2}[\sec \theta \tan \theta+\ln|\sec \theta+\tan \theta|]_{y=0}^{y=1} \\
+ \\
+\therefore s=\frac{1}{2}\int_{y=0}^{y=1} \sec^3\theta\,d\theta&=\frac{1}{4}[\sec \theta \tan \theta+\ln|\sec \theta+\tan \theta|]_{y=0}^{y=1} \\ \\
+\text{Finding }\sec \theta: \\
+\tan \theta&=2y \\
+\sec^2\theta&=1+\tan^2\theta \\
+&=1+4y^2 \\
+\therefore \sec \theta&=\sqrt{1+4y^2} \\ \\
+s&=\frac{1}{4}[\sqrt{1+4y^2}(2y)+\ln|\sqrt{1+4y^2}+2y|]_{y=0}^{y=1} \\
+&=\frac{1}{4}[\sqrt{5}(2)+\ln|\sqrt{5}+2|]
 \end{align}
 $$
-//todo
 ## Areas of Surface of Revolution
 - Formed when a curve is rotated about a line
 - Formula for the surface area of the i-th band of the surface area is $$\begin{align}

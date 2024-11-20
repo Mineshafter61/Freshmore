@@ -36,3 +36,5 @@ $$
 - Force on a system of particles is the **external force** because the internal force is $0$. $$\vec{F}_{total} = \vec{F}_{ext} + \vec{F}_{int} = \vec{F}_{ext} + 0 = \vec{F}_{ext}$$
 - When a body is acted upon by external forces, the CM moves as though all mass were **concentrated**
 - **Linear acceleration** of **CM** is **same** no matter what point the force is applied
+### Extra shortcut
+If $\vec{F}_{ext}=0$, when an object splits into two, $m_{1}x_{1}=m_{2}x_{2}$
