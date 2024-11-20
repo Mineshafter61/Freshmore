@@ -3,8 +3,8 @@
 
 $$ f(x) =
 \begin{cases}
-x^2 & \text{for } x \in [0, \infty) \\
--x & \text{for } x \in (-\infty, 0)
+x^2 & \text{for } x \in [0, ∞) \\
+-x & \text{for } x \in (-∞, 0)
 \end{cases} $$
 - If the limit does not exist, $f'(a)$ does not exist and $y=f(x)$ is not differentiable at $x=a$
 - We can also say that 𝑓′(𝑎) is the instantaneous rate of change of 𝑓 at 𝑎.
@@ -49,7 +49,7 @@ f'(3) &= \lim_{ h \to 0 }\frac{f(3+h)-f(3)}{h} \\
 - Higher order derivatives
 	- $f''(x) = f^{(2)}(x) = \frac{d}{dx}(\frac{dy}{dx}) = \frac{d^2y}{dx^2}$
 	- $f'''(x) = f^{(3)}(x) = \frac{d}{dx}(\frac{d^2y}{dx^2}) = \frac{d^3y}{dx^3}$
-- Note: $\frac{d^2y}{dx^2} \neq (\frac{dy}{dx})^2$
+- Note: $\frac{d^2y}{dx^2} ≠ (\frac{dy}{dx})^2$
 ### Differentiability
 - Differentiable: the derivative exists for every value in the function's domain
 	- A Differentiable function implies a Continuous function (but not vice versa)
@@ -59,7 +59,7 @@ f'(3) &= \lim_{ h \to 0 }\frac{f(3+h)-f(3)}{h} \\
 > 	
 > 	$$f(x) = |x| =
 \begin{cases}
-x & \text{for } x \geq 0 \\
+x & \text{for } x ≥ 0 \\
 -x & \text{for } x < 0
 \end{cases}$$
 > 	
@@ -68,7 +68,7 @@ x & \text{for } x \geq 0 \\
 > If x = 0 is differentiable:
 > $$\lim_{ h \to 0^+ } \frac{f(x+h)-f(x)}{h} = \lim_{ h \to 0^- } \frac{f(x+h)-f(x)}{h}$$
 > 	
-> 	Finding limit when $x \geq 0$:
+> 	Finding limit when $x ≥ 0$:
 > $$\lim_{ h \to 0^+ } \frac{f(x+h)-f(x)}{h} 
 = \lim_{ h \to 0^+ } \frac{f(h)-f(0)}{h}
 = \lim_{ h \to 0^+ } \frac{h-0}{h}
@@ -84,7 +84,7 @@ x & \text{for } x \geq 0 \\
 - $f'(x) < 0$ means gradient is **negative** and $f(x)$ is decreasing
 - $f'(x) = 0$ means that the gradient is **zero** and this defines a local **maxima** or **minima** on the graph
 	- You can tell if its a maximum or minimum point by comparing $f'(x^-)$ and $f'(x^+)$
-- $f''(x) \geq 0$ for all x: convex / concave upwards.
+- $f''(x) ≥ 0$ for all x: convex / concave upwards.
 - $f''(x) \leq 0$ for all x: concave / concave downwards.
 
 - The derivative of an even function is an odd function.
@@ -109,7 +109,7 @@ f'(x)&=\lim_{ h \to 0 } \frac{f(x+h)-f(x)}{h} \\
 - Constant functions: $\frac{d}{dx}(c) = 0$
 - Power functions: $\frac{d}{dx}(x^n) = n \cdot x^{n-1}$
 - Constant multiple rule: $\frac{d}{dx}(c\cdot f(x)) = c \frac{d}{dx}(f(x))$
-- Sum and difference rule: $\frac{d}{dx} (f(x) \pm g(x)) = \frac{d}{dx} f(x) \pm \frac{d}{dx} g(x)$
+- Sum and difference rule: $\frac{d}{dx} (f(x) ± g(x)) = \frac{d}{dx} f(x) ± \frac{d}{dx} g(x)$
 - Exponential functions: $\frac{d}{dx} b^{f(x)} = b^{f(x)} \ln(b) \cdot f'(x)$
 	- Special case: $\frac{d}{dx} e^x = e^x$
 - Logarithmic functions: $\frac{d}{dx} \log_b(x) = \frac{f'(x)}{\ln(b)\cdot f(x)}$
@@ -181,7 +181,7 @@ $$\begin{align*}
 	- $P'(a) = f'(a) \rightarrow B = f'(a)$
 	- $P''(a) = f''(a) \rightarrow 2C = f''(a) \rightarrow C = \frac{f''(a)}{2}$
 - Higher order polynomial approximations are more accurate than preceding ones
-- For the approximation to be accurate, $T_n(x), n \to \infty$
+- For the approximation to be accurate, $T_n(x), n \to ∞$
 
 $$\begin{gather*}
 T_n(x) = f(a) + f'(a)(x - a) + \frac{f''(a)}{2!}(x - a)^2 + \cdots + \frac{f^{(n)}(a)}{n!}(x - a)^n\\

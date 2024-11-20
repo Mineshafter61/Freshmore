@@ -2,40 +2,40 @@
 - Position vector at any point in circular motion: $\vec{r}=R\hat{r}$
 ## Calculus
 - Product rule: $\displaystyle\frac{d(uv)}{dt} = \frac{du}{dt}v+\frac{dv}{dt}u$
-- Chain rule: $\displaystyle\theta(t), f(\theta): \frac{df}{dt} = \frac{df}{d\theta} \frac{d\theta}{dt}$
-> $\displaystyle\sin \theta:  \frac{d \sin\theta}{dt} = \frac{d \sin \theta}{d\theta} \frac{d\theta}{dt} = \cos \theta \frac{d\theta}{dt}$
-> $\displaystyle\cos \theta:  \frac{d \cos\theta}{dt} = \frac{d \cos \theta}{d\theta} \frac{d\theta}{dt} = -\sin \theta \frac{d\theta}{dt}$
+- Chain rule: $\displaystyleθ(t), f(θ): \frac{df}{dt} = \frac{df}{dθ} \frac{dθ}{dt}$
+> $\displaystyle\sin θ:  \frac{d \sinθ}{dt} = \frac{d \sin θ}{dθ} \frac{dθ}{dt} = \cos θ \frac{dθ}{dt}$
+> $\displaystyle\cos θ:  \frac{d \cosθ}{dt} = \frac{d \cos θ}{dθ} \frac{dθ}{dt} = -\sin θ \frac{dθ}{dt}$
 
-> $\displaystyle\hat{r}=\cos \theta \hat{i}+\sin \theta \hat{j}$
-> $\displaystyle\frac{d\hat{r}}{dt}=-\sin \theta \frac{d\theta}{dt} \hat{i} + \cos \theta \frac{d\theta}{dt} \hat{j}= \frac{d\theta}{dt}(-\sin \theta \hat{i}+\cos \theta \hat{j})$
-> $\displaystyle\frac{d\hat{r}}{dt}=\frac{d\theta}{dt}\hat{\theta}$
+> $\displaystyle\hat{r}=\cos θ \hat{i}+\sin θ \hat{j}$
+> $\displaystyle\frac{d\hat{r}}{dt}=-\sin θ \frac{dθ}{dt} \hat{i} + \cos θ \frac{dθ}{dt} \hat{j}= \frac{dθ}{dt}(-\sin θ \hat{i}+\cos θ \hat{j})$
+> $\displaystyle\frac{d\hat{r}}{dt}=\frac{dθ}{dt}\hat{θ}$
 
-> $\displaystyle\hat{\theta} = -\sin \theta \hat{i}+\cos \theta \hat{j}$
-> $\displaystyle\frac{d\hat{\theta}}{dt}=-\cos \theta \frac{d\theta}{dt}\hat{i}-\sin \theta\frac{d\theta}{dt}\hat{j}= \frac{d\theta}{dt}(\cos \theta \hat{i}+\sin \theta \hat{j})$
-> $\displaystyle\frac{d\hat{\theta}}{dt}=-\frac{d\theta}{dt}\hat{r}$
+> $\displaystyle\hat{θ} = -\sin θ \hat{i}+\cos θ \hat{j}$
+> $\displaystyle\frac{d\hat{θ}}{dt}=-\cos θ \frac{dθ}{dt}\hat{i}-\sin θ\frac{dθ}{dt}\hat{j}= \frac{dθ}{dt}(\cos θ \hat{i}+\sin θ \hat{j})$
+> $\displaystyle\frac{d\hat{θ}}{dt}=-\frac{dθ}{dt}\hat{r}$
 
 ## Physics
 - Position vector: $\vec{r} = R\hat{r}$
-- Velocity vector: $\displaystyle\vec{v}=\frac{d\vec{r}}{dt}=\frac{d(R\hat{r})}{dt}=R \frac{d\hat{r}}{dt}= R \frac{d\theta}{dt}\hat{\theta}$
-	- Direction of $\vec{v}$ is $\hat{\theta}$
-	- Angular speed, $\displaystyle \omega:=\frac{d\theta}{dt}$
-	- $\vec{v}=R\omega \hat{\theta}$, where $\displaystyle\omega=\frac{d\theta}{dt}$
-- Acceleration $\displaystyle\vec{a}=\frac{d\vec{v}}{dt}=\frac{d}{dt}\left( R \frac{d\theta}{dt} \hat{\theta} \right)=R \frac{d}{dt}\left( \frac{d\theta}{dt} \hat{\theta} \right)$
-	- $\displaystyle=R\left[ \frac{d}{dt}\left( \frac{d\theta}{dt} \right) \right]\hat{\theta}+R\frac{d\theta}{dt}\left( \frac{d\hat{\theta}}{dt} \right)$
-	- $\displaystyle=R \frac{d^2\theta}{dt^2} \hat{\theta} + R\left( \frac{d\theta}{dt} \right)^2(-r^2)$
-	- Tangential acceleration: $R \frac{d^2\theta}{dt^2} \hat{\theta}$
-	- Centripetal acceleration: $R\left( \frac{d\theta}{dt} \right)^2(-r^2)$
+- Velocity vector: $\displaystyle\vec{v}=\frac{d\vec{r}}{dt}=\frac{d(R\hat{r})}{dt}=R \frac{d\hat{r}}{dt}= R \frac{dθ}{dt}\hat{θ}$
+	- Direction of $\vec{v}$ is $\hat{θ}$
+	- Angular speed, $\displaystyle \omega:=\frac{dθ}{dt}$
+	- $\vec{v}=R\omega \hat{θ}$, where $\displaystyle\omega=\frac{dθ}{dt}$
+- Acceleration $\displaystyle\vec{a}=\frac{d\vec{v}}{dt}=\frac{d}{dt}\left( R \frac{dθ}{dt} \hat{θ} \right)=R \frac{d}{dt}\left( \frac{dθ}{dt} \hat{θ} \right)$
+	- $\displaystyle=R\left[ \frac{d}{dt}\left( \frac{dθ}{dt} \right) \right]\hat{θ}+R\frac{dθ}{dt}\left( \frac{d\hat{θ}}{dt} \right)$
+	- $\displaystyle=R \frac{d^2θ}{dt^2} \hat{θ} + R\left( \frac{dθ}{dt} \right)^2(-r^2)$
+	- Tangential acceleration: $R \frac{d^2θ}{dt^2} \hat{θ}$
+	- Centripetal acceleration: $R\left( \frac{dθ}{dt} \right)^2(-r^2)$
 
 ### Accelerations
-- Tangential acceleration, $\vec{a}_{\theta}$
-	- Direction of $\vec{a}_{\theta}$ is $\hat{\theta}$
+- Tangential acceleration, $\vec{a}_{θ}$
+	- Direction of $\vec{a}_{θ}$ is $\hat{θ}$
 	- Increases/decreases the speed
-	- Define angular acceleration $\alpha := \frac{d^2\theta}{dt^2} \text{or} \frac{d\omega}{dt}$; unit: $rad.s^-2$
+	- Define angular acceleration $\alpha := \frac{d^2θ}{dt^2} \text{or} \frac{d\omega}{dt}$; unit: $rad.s^-2$
 - Centripetal acceleration, $\vec{a}_{r}$
 	- Direction of $\vec{a}_{r}$ is $-\hat{r}$
 	- Changes the direction of $\vec{v}$
-	- $|\vec{a_{r}}| = R\left( \frac{d\theta}{dt} \right)^2 = R\omega ^2=\frac{v^2}{R}$
-- $\vec{a}=\vec{a}_{\theta}+\vec{a}_{r}=R\alpha \hat{\theta} + R\omega^2(-\hat{r})=\frac{v^2}{R}(-\hat{r})$
+	- $|\vec{a_{r}}| = R\left( \frac{dθ}{dt} \right)^2 = R\omega ^2=\frac{v^2}{R}$
+- $\vec{a}=\vec{a}_{θ}+\vec{a}_{r}=R\alpha \hat{θ} + R\omega^2(-\hat{r})=\frac{v^2}{R}(-\hat{r})$
 
 ## Uniform circular motion
 - In a **uniform circular motion**, there is **no tangential acceleration**.
@@ -46,15 +46,15 @@
 - If the speed is time-varying, the motion is a nonuniform circular motion.
 - Radial (centripetal acceleration is time-varying):
 	- $\vec{a_{r}} (t) = -\frac{v^2(t)}{R}\hat{r}$
-- There is also a tangential acceleration component $\hat{a_{\theta}}(t)$ that is **parallel** to the instantaneous velocity.
-- Total acceleration:  $\vec{a}(t)=\vec{a_{r}}(t)+\vec{a_{\theta}}(t)$
+- There is also a tangential acceleration component $\hat{a_{θ}}(t)$ that is **parallel** to the instantaneous velocity.
+- Total acceleration:  $\vec{a}(t)=\vec{a_{r}}(t)+\vec{a_{θ}}(t)$
 ## Summary of formulae
-- Arc length and angular displacement: $s = R\theta$
-- Tangential velocity and angular speed: $\vec{v}=\frac{d\vec{s}}{dt}=R \frac{d\theta}{dt} \hat{\theta} = R\omega \hat{\theta}$
-- Tangential acceleration: $\vec{a}_{\theta}=\frac{d|\vec{v}|}{dt}\hat{\theta}=R \frac{d^2\theta}{dt^2}\hat{\theta}=R\alpha \hat{\theta}$
+- Arc length and angular displacement: $s = Rθ$
+- Tangential velocity and angular speed: $\vec{v}=\frac{d\vec{s}}{dt}=R \frac{dθ}{dt} \hat{θ} = R\omega \hat{θ}$
+- Tangential acceleration: $\vec{a}_{θ}=\frac{d|\vec{v}|}{dt}\hat{θ}=R \frac{d^2θ}{dt^2}\hat{θ}=R\alpha \hat{θ}$
 - Radial (centripetal) acceleration: $\vec{a}_{r}=-v\omega \hat{r}=-\frac{v^2}{R}\hat{r}=-R\omega^2\hat{r}$
-- Angular speed: $\omega=\frac{d\theta}{dt}$
-- Angular acceleration: $\alpha=\frac{d\omega}{dt}=\frac{d^2\theta}{dt^2}$
+- Angular speed: $\omega=\frac{dθ}{dt}$
+- Angular acceleration: $\alpha=\frac{d\omega}{dt}=\frac{d^2θ}{dt^2}$
 - Note : $\vec{a}_{r}$ has a negative sign since positive radial direction is defined as the direction pointing **away** from the center of the circular orbit.
 ## Dynamics of Uniform Circular Motion
 - For an object in uniform circular motion, both its acceleration and the net force on it are directed towards the center of the circle.

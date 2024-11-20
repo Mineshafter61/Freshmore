@@ -8,7 +8,7 @@ $$f(a) \text{ is defined and } \displaystyle\lim_{ x \to a } f(x) = \displaystyl
 - the sum, subtraction, product or quotient of the above functions, when they are properly defined.
 
 ## Continuous piecewise functions
-- Given $\displaystyle f(x) =\begin{cases} g(x) & \text{for } x < n \\h(x) & \text{for } x \geq n\end{cases}$
+- Given $\displaystyle f(x) =\begin{cases} g(x) & \text{for } x < n \\h(x) & \text{for } x ≥ n\end{cases}$
 - Check if range is defined for both components of a piecewise function $g(x)$ and $h(x)$
 	- Where a single function is defined, it will also be continuous
 - Prove that $\displaystyle\lim_{x \to n}g(x) = \displaystyle\lim_{x \to n}h(x)$ by showing $\displaystyle\lim_{x \to n^-}g(x) = \displaystyle\lim_{x \to n^+}h(x)$ at the **transition point** $n$

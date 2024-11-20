@@ -3,21 +3,21 @@
 - Fingers point towards the direction of motion (tangential velocity)
 ## Angular displacement
 - **Angle** about the origin
-- Symbol: $\Delta \theta$
-- Where angle is $\theta$
+- Symbol: $\Delta θ$
+- Where angle is $θ$
 - Unit: $\text{rad}$
 - Direction: $z$-axis ($\hat{k}$)
 - Axis of rotation (use right hand rule)
 ## Angular velocity:
 - Change in **angular displacement** per unit time
-- Symbol: $\vec{\omega} = \frac{d\theta}{dt}\hat{k} = \omega_z\hat{k}$
+- Symbol: $\vec{\omega} = \frac{dθ}{dt}\hat{k} = \omega_z\hat{k}$
 - Unit: $\text{rad} \cdot s^{-1}$
 - Direction:
-	- $\vec{\omega}$ in $+\hat{k}$ when $\frac{d\theta}{dt} > 0$
-		- Angle $\theta$ is increasing
+	- $\vec{\omega}$ in $+\hat{k}$ when $\frac{dθ}{dt} > 0$
+		- Angle $θ$ is increasing
 		- Anticlockwise when viewed from the top
-	- $\vec{\omega}$ in $-\hat{k}$ when $\frac{d\theta}{dt} < 0$
-		- Angle $\theta$ is decreasing
+	- $\vec{\omega}$ in $-\hat{k}$ when $\frac{dθ}{dt} < 0$
+		- Angle $θ$ is decreasing
 		- Clockwise when viewed from the top
 ## Angular acceleration
 - Change in **angular velocity** per unit time
@@ -32,9 +32,9 @@
 - $\vec{v}=\vec{\omega}\times \vec{R}$
 - $\vec{\alpha}=\vec{\alpha}\times \vec{R}+\vec{\omega}\times(\vec{\omega}\times \vec{R})$
 ## Kinematics Formulae (Circular Motion)
-- Angular quantities $\theta, \omega_{z}, \alpha_{z}$ follows similar integral relations as the linear kinematics of one-dimensional motion.
-- $\frac{d\theta(t)}{dt} = \omega_{z}(t)$
-	- $\int^t_{t_{0}} \frac{d\theta(t)}{dt} dt = \theta(t)-\theta(t_{0})$
+- Angular quantities $θ, \omega_{z}, \alpha_{z}$ follows similar integral relations as the linear kinematics of one-dimensional motion.
+- $\frac{dθ(t)}{dt} = \omega_{z}(t)$
+	- $\int^t_{t_{0}} \frac{dθ(t)}{dt} dt = θ(t)-θ(t_{0})$
 ## Torque
 - Cause of angular acceleration
 - Symbol: $\tau$
@@ -45,10 +45,10 @@
 ## Rotational Dynamics of a Point Mass
 ### Torque Law & Moment of Inertia
 - $\vec{\tau} = mr^2\vec{\alpha}\hat{k}$
-- $\vec{r}\times \vec{F} = \vec{r} \times m(a_{\theta}\hat{\theta}+a_{r}\hat{r})$
-- $\vec{\tau}=mr\hat{r} \times (a_{\theta}\hat{\theta}+a_{r}\hat{r})$
-- $\vec{\tau}=mra_{\theta}\hat{k} \text{ where } \hat{r} \times \hat{\theta} = \hat{k}$
-- $\vec{\tau}=mr^2\alpha \hat{k} \text{ where } a_{\theta} = r \alpha$
+- $\vec{r}\times \vec{F} = \vec{r} \times m(a_{θ}\hat{θ}+a_{r}\hat{r})$
+- $\vec{\tau}=mr\hat{r} \times (a_{θ}\hat{θ}+a_{r}\hat{r})$
+- $\vec{\tau}=mra_{θ}\hat{k} \text{ where } \hat{r} \times \hat{θ} = \hat{k}$
+- $\vec{\tau}=mr^2\alpha \hat{k} \text{ where } a_{θ} = r \alpha$
 - $\vec{\tau}= mr^2 \vec{\alpha} \text{ angular acceleration vector } \vec{\alpha} = \alpha \hat{k}$
 
 ### Newton's 2nd Law

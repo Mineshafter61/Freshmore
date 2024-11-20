@@ -1,8 +1,8 @@
 ## Absolute maximum/minimum
-- $f(c)$ is the absolute maximum value of $f$ on $D$ if $f(c) \geq f(x)$ **for all 𝑥 in 𝐷.**
-- $f(c)$ is the absolute minimum value of $f$ on $D$ if $f(c) \leq f(x)$ **for all 𝑥 in 𝐷.**
-- $f(c)$ is the local maximum value of $f$ on $D$ if $f(c) \geq f(x)$ **when 𝑥 is near 𝑐.**
-- $f(c)$ is the local minimum value of $f$ on $D$ if $f(c) \leq f(x)$ **when 𝑥 is near 𝑐.**
+- $f(c)$ is the absolute maximum value of $f$ on $D$ if $f(c) ≥ f(x)$ **for all 𝑥 in 𝐷.**
+- $f(c)$ is the absolute minimum value of $f$ on $D$ if $f(c) ≤ f(x)$ **for all 𝑥 in 𝐷.**
+- $f(c)$ is the local maximum value of $f$ on $D$ if $f(c) ≥ f(x)$ **when 𝑥 is near 𝑐.**
+- $f(c)$ is the local minimum value of $f$ on $D$ if $f(c) ≤ f(x)$ **when 𝑥 is near 𝑐.**
 - If we say that something is **true** near 𝑐, we mean that it is **true on some open interval containing 𝑐**.
 ## Extreme value theorem
 - If 𝑓 is continuous on a **closed interval $[a, b]$**, then **𝑓 attains a maximum value 𝑓(𝑐)** and an **absolute minimum value 𝑓(𝑑)** at some numbers 𝑐, 𝑑 in $[a, b]$ (𝑐, 𝑑 ∈ $[a, b]$).

@@ -33,7 +33,7 @@
 	- Jumping up is **not** work done by contact force of floor on your legs as it does not apply to you all the way up, it is momentum carrying you up
 	- Gravity pulling you down **is** work done because it is continually applied on your way down
 - Under an arbitrary path, the work done is the sum of all the work done along all segments: $$W = \lim_{ N \to \infty } \sum_{i=0}^{N} \vec{F}(\vec{r}_{i}) \cdot \Delta \vec{r}_{i}= \int_{\vec{r}_0}^{\vec{r}_f} \vec{F}(\vec{r}) \cdot d\vec{r}$$
-- Note: $d\vec{r}=dx\hat{i}+dx\hat{j}=dr\hat{r}+rd\theta\hat{\theta}$
+- Note: $d\vec{r}=dx\hat{i}+dx\hat{j}=dr\hat{r}+rdθ\hat{θ}$
 ## Conservative Forces
 - **Conservative Force**: If the work done by a force in **moving an object** from an initial point $\vec{r}_{i}$ to a final point $\vec{r}_{f}$ is **independent of the path**, then the force is called a **conservative force**. 
 - Equivalently, net work done by a conservative force after going through a close path $(\vec{r}_{f}=\vec{r}_{i})$, i.e. $\oint \vec{F}_c \cdot d\vec{r}=0$

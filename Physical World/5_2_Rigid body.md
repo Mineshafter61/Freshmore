@@ -13,14 +13,14 @@
 	- Every part of the same body must have the same angular velocity and angular acceleration.
 ## Forces and torque law
 - Consider a rigid body rotates with $\vec{\omega}$ and $\vec{\alpha}$. Each small element of mass ($\Delta m_i$) is subjected to a force $\vec{F}_i$.
-- By [[3_Forces#Second law of motion|Newton's Second Law]], $\Delta m_i$ has an acceleration $\vec{a}_i$ that can be decomposed into the tangential $a_{\theta i} \hat{\theta}$ and radial $a_{ri} \hat{r}$ components with respect to an axis $\vec{S}$ passing perpendicularly through the plane of orbit.
-- $\vec{F}_{i} = m_{i} \vec{a}_{i} = m_{i} (a_{\theta i} \hat{\theta} - a_{ri} \hat{r})$
+- By [[3_Forces#Second law of motion|Newton's Second Law]], $\Delta m_i$ has an acceleration $\vec{a}_i$ that can be decomposed into the tangential $a_{θ i} \hat{θ}$ and radial $a_{ri} \hat{r}$ components with respect to an axis $\vec{S}$ passing perpendicularly through the plane of orbit.
+- $\vec{F}_{i} = m_{i} \vec{a}_{i} = m_{i} (a_{θ i} \hat{θ} - a_{ri} \hat{r})$
 - Let $\vec{r}_{i} = r_{i} \hat{r}$ be the position of point mass relative to $O$. The torque exerted on each $\Delta m_{i}$ is
 
 $$\begin{gather}
-\vec{\tau}_i=\vec{r}_i\times \vec{F}_i=\vec{r}_i \times \Delta m_i(a_{\theta i}\hat{\theta}+a_{ri}\hat{r}) \\
-\implies \vec{\tau}_i=\Delta m_ir_i\hat{r}\times(a_{\theta i}\hat{\theta}+a_{ri}\hat{r}) \\
-\implies \vec{\tau}_i=mr_ia_{\theta i}\hat{k}=mr_i^2\alpha \hat{k} \\\text{ where } a_{\theta i}=r_{i}\alpha \text{ and } \hat{r} \times \hat{\theta} = \hat{k}
+\vec{\tau}_i=\vec{r}_i\times \vec{F}_i=\vec{r}_i \times \Delta m_i(a_{θ i}\hat{θ}+a_{ri}\hat{r}) \\
+\implies \vec{\tau}_i=\Delta m_ir_i\hat{r}\times(a_{θ i}\hat{θ}+a_{ri}\hat{r}) \\
+\implies \vec{\tau}_i=mr_ia_{θ i}\hat{k}=mr_i^2\alpha \hat{k} \\\text{ where } a_{θ i}=r_{i}\alpha \text{ and } \hat{r} \times \hat{θ} = \hat{k}
 \end{gather}$$
 
 - Thus, total torque exerted on the rigid body is

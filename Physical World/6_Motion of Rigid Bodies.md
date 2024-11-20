@@ -38,13 +38,13 @@
 - $\vec{v}_{a,b} = \vec{v}_{a,c} + \vec{v}_{c,b}$
   - Where $c$ is the "middleman"
 ### Rolling Wheel
-- Distance traveled in the center of mass reference frame by point P (a point on the rim) in time $\Delta t$: $\Delta s=R \Delta \theta = R \omega_{CM} \Delta t$
+- Distance traveled in the center of mass reference frame by point P (a point on the rim) in time $\Delta t$: $\Delta s=R \Delta θ = R \omega_{CM} \Delta t$
 - Distance traveled in the reference frame fixed to ground by center of mass in time $\Delta t$: $\Delta X_{CM}=V_{CM}\Delta t$
 
 | Circular Motion (W4) | Rotational Dynamics (W6D1) | Rotational Motion (W6D2) |
 |---|---|---|
 | $V=R\omega$, where vV is tangential speed | $V_{cm}=R\omega$ | $V_{cm}=R\omega$, where V is the speed of the center of mass of rolling object |
-| $a_{\theta}=R\alpha$, where a is tangential acceleration | $a_{cm}=R\alpha$, where a is linear acceleration of falling object | $a_{cm}=R\alpha$, where a is acceleration of rolling object (ONLY TRUE FOR PURE ROLLING) |
+| $a_{θ}=R\alpha$, where a is tangential acceleration | $a_{cm}=R\alpha$, where a is linear acceleration of falling object | $a_{cm}=R\alpha$, where a is acceleration of rolling object (ONLY TRUE FOR PURE ROLLING) |
 
 - Cylinder Rolling Without Slipping Down an Inclined Plane: $\displaystyle v(t)=\sqrt{\frac{2mR^2}{I_{CM}+mR^2}gh}=\sqrt{\frac{2gh}{\frac{I_{CM}}{mR^2}}+1}$
 - Velocity of objects rolling down a hill is **independent** of mass and radius (Since $I = \sum \Delta m \Delta r^2$)

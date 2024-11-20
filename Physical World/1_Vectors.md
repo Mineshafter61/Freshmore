@@ -36,10 +36,10 @@ Example:
 - $\hat{r}$ and $\hat{θ}$ are *position dependent* (function of angle θ)
 
 Conversion between the two coordinate systems:
-x = r cos θ
-y = r sin θ
-$\hat{r}$ = $\cos{ θ.\hat{i}} + \sin{ θ.\hat{j}}$
-$\hat{θ}$ = $-\sin{ θ.\hat{i}} + \cos{ θ.\hat{j}}$
+$x = r \cos θ$
+$y = r \sin θ$
+$\hat{r} = \cos{ θ\cdot\hat{i}} + \sin{ θ\cdot\hat{j}}$
+$\hat{θ} = -\sin{ θ\cdot\hat{i}} + \cos{ θ\cdot\hat{j}}$
 
 Position vector r of point P:
 $\vec{r}$ = $x\hat{i} + y\hat{j}$

@@ -7,8 +7,8 @@
 - If $f'$ changes from **negative to positive** at $c$, then $f$ has a **local minimum** at $c$.
 - If $f'$ **does not change sign** at $c$, then $f$ has **no local maximum or minimum** at $c$.
 ## Concavity Test
-- If $f''(x) \geq 0$ for all x in I, then **every local minimum of f is a global minimum**. 
-- If $f''(x) \leq 0$ for all x in I, then **every local maximum of f is a global maximum**. 
+- If $f''(x) ≥ 0$ for all x in I, then **every local minimum of f is a global minimum**. 
+- If $f''(x) ≤ 0$ for all x in I, then **every local maximum of f is a global maximum**. 
 ## Inflection point
 - Points where the **second derivative changes sign**, i.e. the second derivative is **zero or doesn't exist**.
 ## Second Derivative Test
