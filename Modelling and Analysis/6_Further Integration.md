@@ -2,16 +2,16 @@
 - Definite integral when the **interval** is **infinite**
 	- **Convergent** if the corresponding (final value) limit exists
 	- **Divergent** if the corresponding (final value) limit does not exist
-1. Provided that this limit exists (i.e. a finite number), if $\int_{a}^{b} f(x) \, dx$ exists for every number $b ≥ a$, then $$ \int_{a}^{∞}f(x)\,dx=\lim_{b\to ∞}\int_{a}^{b}f(x)\,dx $$
-2. Provided that this limit exists (i.e. a finite number), if $\int_{a}^{b} f(x) \, dx$ exists for every number $a ≥ b$, then $$ \int_{-∞}^{b}f(x)\,dx=\lim_{a\to -∞}\int_{a}^{b}f(x)\,dx $$
-3. If the improper integrals $\int_{a}^{∞} f(x) \, dx$ and $\int_{-∞}^{a} f(x) \, dx$ are convergent, then we define the sum $\int_{-∞}^{∞} f(x) \, dx$ to also be convergent, where $a$ is any real number
+1. Provided that this limit exists (i.e. a finite number), if $\int_{a}^{b} f(x) \, dx$ exists for every number $b ≥ a$, then $$ \int_{a}^{\infty}f(x)\,dx=\lim_{b\to \infty}\int_{a}^{b}f(x)\,dx $$
+2. Provided that this limit exists (i.e. a finite number), if $\int_{a}^{b} f(x) \, dx$ exists for every number $a ≥ b$, then $$ \int_{-\infty}^{b}f(x)\,dx=\lim_{a\to -\infty}\int_{a}^{b}f(x)\,dx $$
+3. If the improper integrals $\int_{a}^{\infty} f(x) \, dx$ and $\int_{-\infty}^{a} f(x) \, dx$ are convergent, then we define the sum $\int_{-\infty}^{\infty} f(x) \, dx$ to also be convergent, where $a$ is any real number
 
 > Example:
-> $$\begin{align}\int_{-∞}^{∞} \frac{1}{1+x^2} \, dx&=\int_{-∞}^{0}\frac{1}{1+x^2}\,dx+\int_{0}^{∞}\frac{1}{1+x^2}\, dx \\
-&=\lim_{ b \to -∞ }\int_{b}^{0}\frac{1}{1+x^2}\,dx+\lim_{ b \to ∞ } \int_{0}^{b} \frac{1}{1+x^2}\,dx \\
-&=\lim_{ b \to -∞ }[\tan^{-1}x]_{b}^{0}+\lim_{ b \to ∞ }[\tan^{-1}x]_{0}^{b} \\
-&=\lim_{ b \to -∞ }[\tan^{-1}0-\tan^{-1}b]+\lim_{ b \to ∞ }[\tan^{-1}b-\tan^{-1}0] \\
-&=-\tan^{-1}(-∞)+\tan^{-1}(∞) \\
+> $$\begin{align}\int_{-\infty}^{\infty} \frac{1}{1+x^2} \, dx&=\int_{-\infty}^{0}\frac{1}{1+x^2}\,dx+\int_{0}^{\infty}\frac{1}{1+x^2}\, dx \\
+&=\lim_{ b \to -\infty }\int_{b}^{0}\frac{1}{1+x^2}\,dx+\lim_{ b \to \infty } \int_{0}^{b} \frac{1}{1+x^2}\,dx \\
+&=\lim_{ b \to -\infty }[\tan^{-1}x]_{b}^{0}+\lim_{ b \to \infty }[\tan^{-1}x]_{0}^{b} \\
+&=\lim_{ b \to -\infty }[\tan^{-1}0-\tan^{-1}b]+\lim_{ b \to \infty }[\tan^{-1}b-\tan^{-1}0] \\
+&=-\tan^{-1}(-\infty)+\tan^{-1}(\infty) \\
 &=-\left( -\frac{π}{2} \right)+\frac{π}{2} \\
 &=π\end{align}
 $$
@@ -20,14 +20,14 @@ $$
 - Find integral for non-edge case
 - Determine the $<$ and $>$ between the edge cases
 
-> Example: For what values of $p$ is $\int_{1}^{∞} \frac{1}{x^p} \, dx$ convergent?
+> Example: For what values of $p$ is $\int_{1}^{\infty} \frac{1}{x^p} \, dx$ convergent?
 > $$\begin{gather}
-p=1: \int_{1}^{∞} \frac{1}{x^{p}} \, dx=\lim_{ b \to ∞ } \int_{1}^{b} \frac{1}{x}\,dx=\lim_{ b \to ∞ }[\ln(x)]_1^b=\lim_{ b \to ∞ } [\ln b-1]=∞ \\
-p≠1: \int_{1}^{∞} \frac{1}{x^{p}} \, dx=\lim_{ b \to ∞ } \int_{1}^{b} \frac{1}{x^p}\,dx=\lim_{ b \to ∞ } \left[\frac{x^{-p+1}}{-p+1}\right]_1^b=\lim_{ b \to ∞ } \frac{1}{1-p}\left[ \frac{1}{b^{p-1}}-1 \right]\\
-p>1\implies(p-1)>0\implies \lim_{ b \to ∞ } b^{p-1}=∞ \implies \lim_{ b \to ∞ } \frac{1}{b^{p-1}}=0\\\implies \lim_{ b \to ∞ } \frac{1}{1-p}\left[ \frac{1}{b^{p-1}}-1 \right]=-\frac{1}{1-p}=-\frac{1}{p-1}\\
-p<1 \implies (p-1)<0 \implies\lim_{ b \to ∞ } b^{p-1}=0 \implies \lim_{ b \to ∞ } \frac{1}{b^{p-1}}=∞\\
-\implies\lim_{ b \to ∞ } \frac{1}{1-p}\left[ \frac{1}{b^{p-1}}-1 \right]=∞\\
-∴ \int_{1}^{∞} \frac{1}{x^{p}}\,dx \text{ converges when } p>1 \text{ and diverges when } p≤1
+p=1: \int_{1}^{\infty} \frac{1}{x^{p}} \, dx=\lim_{ b \to \infty } \int_{1}^{b} \frac{1}{x}\,dx=\lim_{ b \to \infty }[\ln(x)]_1^b=\lim_{ b \to \infty } [\ln b-1]=\infty \\
+p\neq1: \int_{1}^{\infty} \frac{1}{x^{p}} \, dx=\lim_{ b \to \infty } \int_{1}^{b} \frac{1}{x^p}\,dx=\lim_{ b \to \infty } \left[\frac{x^{-p+1}}{-p+1}\right]_1^b=\lim_{ b \to \infty } \frac{1}{1-p}\left[ \frac{1}{b^{p-1}}-1 \right]\\
+p>1\implies(p-1)>0\implies \lim_{ b \to \infty } b^{p-1}=\infty \implies \lim_{ b \to \infty } \frac{1}{b^{p-1}}=0\\\implies \lim_{ b \to \infty } \frac{1}{1-p}\left[ \frac{1}{b^{p-1}}-1 \right]=-\frac{1}{1-p}=-\frac{1}{p-1}\\
+p<1 \implies (p-1)<0 \implies\lim_{ b \to \infty } b^{p-1}=0 \implies \lim_{ b \to \infty } \frac{1}{b^{p-1}}=\infty\\
+\implies\lim_{ b \to \infty } \frac{1}{1-p}\left[ \frac{1}{b^{p-1}}-1 \right]=\infty\\
+∴ \int_{1}^{\infty} \frac{1}{x^{p}}\,dx \text{ converges when } p>1 \text{ and diverges when } p≤1
 \end{gather}$$
 ### Discontinuity in f(x)
 1. If $f$ is continuous on $[a,b)$ and is discontinuous at $b$, then $\displaystyle\int_{a}^{b} f(x) \, dx =\lim_{ t \to b^- } \int_{a}^{t} f(x) \, dx$ if this limit exists.
@@ -42,31 +42,31 @@ p<1 \implies (p-1)<0 \implies\lim_{ b \to ∞ } b^{p-1}=0 \implies \lim_{ b \to 
 &=\lim_{t\toπ/2^-}[\ln|\sec t+\tan t|-\ln(1+0)] \\
 &=\lim_{t\toπ/2^-}[\ln|\sec t+\tan t|] \\
 &=\ln|\sec (π/2^-)+\tan (π/2^-)| \\
-&=∞
+&=\infty
 \end{align}
 $$
 ### Laplace Transform
 - If $f(t)$ is continuous for $t ≥ 0$, then the *Laplace transform* of the function $F$ is defined by
 $$
-F(s) = \int_0^∞ f(t)e^{-st}dt
+F(s) = \int_0^\infty f(t)e^{-st}dt
 $$
 and the domain of $F$ is the set consisting of all numbers $s$ for which the integral converges
 ### Probability density function
 - The probability density function (pdf) of a random variable $X$ satisfies the condition $f(x) ≥ 0$ for all real values of $x$
 - Because probabilities (area under the curve) are measured from 0 to 1, it follows that
 $$
-\int_{-∞}^{∞}f(x)\,dx=1
+\int_{-\infty}^{\infty}f(x)\,dx=1
 $$
 ### Median
 - Half the population have a variable less than $m$ while the other half have the same variable more than $m$.
 $$
-\int_{m}^{∞}f(x)\,dx=\frac{1}{2}
+\int_{m}^{\infty}f(x)\,dx=\frac{1}{2}
 $$
 ## Areas between curves
 - Area between curves $y=f(x)$ and $y=g(x)$ for $a ≤ x ≤ b$
 $$
 \begin{gather}
-A = \displaystyle\lim_{n \to ∞}\sum_{i=1}^n[f(x_i^*) - g(x_i^*)]\Delta x = \int_a^b[f(x) - g(x)] \, dx, \\
+A = \displaystyle\lim_{n \to \infty}\sum_{i=1}^n[f(x_i^*) - g(x_i^*)]\Delta x = \int_a^b[f(x) - g(x)] \, dx, \\
 \text{ where } f(x) ≥ g(x) \text{ for all } x \in [a,b]
 \end{gather}
 $$
@@ -113,23 +113,23 @@ $$
 - For two points $(x_1, y_1)$ and $(x_2, y_2)$, the length $l$ between them is given by $l=\sqrt{(x_2-x_1)^2+(x_2-x_1)^2}$.
 - If there are many segments on the line, arc length of each segment $\Delta s_i = \sqrt{(\Delta x)^2 + (\Delta y)^2}$ where $\Delta x$ is fixed while $\Delta y$ is kept variable to accommodate for vertical variations in the curve.
 - The total length s of a continuous and differentiable curve $y=f(x)$ is defined over the interval $a ≤ x ≤ b$ is given by
-$$\begin{align}s &= \lim_{n \to ∞} \sum_{i=1}^n \Delta s_i \\&= \lim_{n \to ∞} \sum_{i=1}^n \sqrt{(\Delta x)^2 + (\Delta y)^2} \\&= \lim_{n \to ∞} \sum_{i=1}^n \sqrt{1+\left(\frac{\Delta y}{\Delta x}\right)^2}\cdot \Delta x \\ &= \lim_{i=1} \sum_{i=1}^n \sqrt{1+(f'(x_i^*)^2}\cdot \Delta x \\&= \int_a^b \sqrt{1+[f'(x)]^2}\,dx\end{align}$$
+$$\begin{align}s &= \lim_{n \to \infty} \sum_{i=1}^n \Delta s_i \\&= \lim_{n \to \infty} \sum_{i=1}^n \sqrt{(\Delta x)^2 + (\Delta y)^2} \\&= \lim_{n \to \infty} \sum_{i=1}^n \sqrt{1+\left(\frac{\Delta y}{\Delta x}\right)^2}\cdot \Delta x \\ &= \lim_{i=1} \sum_{i=1}^n \sqrt{1+(f'(x_i^*)^2}\cdot \Delta x \\&= \int_a^b \sqrt{1+[f'(x)]^2}\,dx\end{align}$$
 - If the curve is expressed as $x=f(y)$, our formula for arc length is $\int_a^b \sqrt{1+[f'(y)]^2}\,dy$
 ### Trigonometric substitution
 | Expression       | Substitution                              | Expression evaluation             |
 | ---------------- | ------------------------------------ | ------------------------------------------ |
-| $\sqrt{a^2-x^2}$ | $x=a\sin θ, dx=a\cos θ\,dθ$              | $\sqrt{a^2-a^2\sin θ}=a\cos θ$  |
-| $\sqrt{a^2+x^2}$ | $x=a\tan θ, dx=a\sec^2 θ\,dθ$            | $\sqrt{a^2+a^2\tan^2 θ}=a\sec θ$ |
-| $\sqrt{x^2-a^2}$ | $x=a\sec θ, dx=a\sec^2 θ \tan^2θ\,dθ$ | $\sqrt{a^2\sec^2θ-a^2}=a\tan θ$  |
+| $\sqrt{a^2-x^2}$ | $x=a\sin \theta, dx=a\cos \theta\,d\theta$              | $\sqrt{a^2-a^2\sin \theta}=a\cos \theta$  |
+| $\sqrt{a^2+x^2}$ | $x=a\tan \theta, dx=a\sec^2 \theta\,d\theta$            | $\sqrt{a^2+a^2\tan^2 \theta}=a\sec \theta$ |
+| $\sqrt{x^2-a^2}$ | $x=a\sec \theta, dx=a\sec^2 \theta \tan^2\theta\,d\theta$ | $\sqrt{a^2\sec^2\theta-a^2}=a\tan \theta$  |
 > Example: arc length of $y^2=x$ from $(0,0)$ to $(1,1)$
 > $$
 \begin{align}
 g(y)&=y^2 \implies g'(y)=2y \\
 \text{Arc length }s&=\int_{0}^{1} \sqrt{1+[2y]^2} \, dy =\int_{0}^{1} \sqrt{1+4y^2} \, dy \\
-\text{Let } y &:= \frac{\tanθ}{2}, dy := \frac{\sec^2θ}{2}\,dθ \\
-\sqrt{1+4y^2}&=\sqrt{1+\tan^2θ}=\sec θ \\
-\implies\int \sqrt{1+4y^2} \, dy&=\int \sec(θ)\, \frac{\sec^2 θ}{2} \, dθ=\frac{1}{2}\int \sec^3θ\,dθ \\
-\text{Using integration by parts with }& f=\sec θ \implies f'(θ)=\sec θ \tan θ, g'(θ)=\sec^2(θ)=
+\text{Let } y &:= \frac{\tan\theta}{2}, dy := \frac{\sec^2\theta}{2}\,d\theta \\
+\sqrt{1+4y^2}&=\sqrt{1+\tan^2\theta}=\sec \theta \\
+\implies\int \sqrt{1+4y^2} \, dy&=\int \sec(\theta)\, \frac{\sec^2 \theta}{2} \, d\theta=\frac{1}{2}\int \sec^3\theta\,d\theta \\
+\text{Using integration by parts with }& f=\sec \theta \implies f'(\theta)=\sec \theta \tan \theta, g'(\theta)=\sec^2(\theta)=
 \end{align}
 $$
 //todo
@@ -137,11 +137,11 @@ $$
 - Formed when a curve is rotated about a line
 - Formula for the surface area of the i-th band of the surface area is $$\begin{align}
 S_i&=2πrl\\&=π\cdot r\cdot \Delta s_i\\&=2π\frac{(y_{i-1}+y_{i})}{2}\cdot\sqrt{1+(f'(x_i^*))^2}\,\Delta x\\&=π \cdot[2f(x_i^*)]\cdot\sqrt{1+(f'(x_i^*))^2}\,\Delta x
-\end{align}$$ as when $n \to ∞, f(x_{i-1})=f(x_{i})$
+\end{align}$$ as when $n \to \infty, f(x_{i-1})=f(x_{i})$
 - This is also the average radius of the approximating band. Thus, the surface area of the object is $$
 \begin{align}
-S&=\lim_{ n \to ∞ } \sum_{i=1}^{n}S_{i} \\
-&=\lim_{ n \to ∞ } \sum_{i=1}^{n}π \cdot[2f(x_i^*)]\cdot\sqrt{1+(f'(x_i^*))^2}\,\Delta x \\
+S&=\lim_{ n \to \infty } \sum_{i=1}^{n}S_{i} \\
+&=\lim_{ n \to \infty } \sum_{i=1}^{n}π \cdot[2f(x_i^*)]\cdot\sqrt{1+(f'(x_i^*))^2}\,\Delta x \\
 &=\int_{a}^{b} 2π\,f(x)\sqrt{1+[f'(x)]^{2}} \, dx  \\
 &=\int 2πy\,ds \\
 \text{where } y&=f(x), \\
@@ -150,4 +150,3 @@ ds&=\sqrt{1+[f'(x)]^{2}}
 \end{align}
 $$
 - Likewise, if the curve is described by $x=f(y)$, the formula is $S=\int_{a}^{b}2π\,f(y)\sqrt{1+[f'(y)]^{2}}\,dy=\int2πx\,ds$
-- 
