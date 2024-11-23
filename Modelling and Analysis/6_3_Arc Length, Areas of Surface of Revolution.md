@@ -10,7 +10,7 @@ $$\begin{align}s &= \lim_{n \to \infty} \sum_{i=1}^n \Delta s_i \\&= \lim_{n \to
 | $\sqrt{a^2-x^2}$ | $x=a\sin \theta, dx=a\cos \theta\,d\theta$              | $\sqrt{a^2-a^2\sin \theta}=a\cos \theta$  |
 | $\sqrt{a^2+x^2}$ | $x=a\tan \theta, dx=a\sec^2 \theta\,d\theta$            | $\sqrt{a^2+a^2\tan^2 \theta}=a\sec \theta$ |
 | $\sqrt{x^2-a^2}$ | $x=a\sec \theta, dx=a\sec^2 \theta \tan^2\theta\,d\theta$ | $\sqrt{a^2\sec^2\theta-a^2}=a\tan \theta$  |
-> Example 1: arc length of $y^2=x$ from $(0,0)$ to $(1,1)$
+> Example 1: Arc length of $y^2=x$ from $(0,0)$ to $(1,1)$
 > $$
 \begin{align}
 g(y)&=y^2 \implies g'(y)=2y \\
