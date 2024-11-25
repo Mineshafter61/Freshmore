@@ -131,3 +131,13 @@ $$
 1. Consider the identity that the original numerator is equal to $A(\text{other fractions' denominators})+B(\text{other fractions' denominators})+\dots$
 2. Set x such that one of the denominators become 0
 3. Solve for A and B
+## Mean value theorem for Integrals
+- If $f$ is **continuous** on $[a, b]$, then there exists a number $c$ in $[a, b]$ such that
+- Given $y=f(x), \frac{b-a}{n}$
+	- $y_{ave} = \frac{y_1 + y_2 + \cdots + y_n}{n}$
+	- $\Delta x = \frac{b-a}{n}$
+$$
+\begin{gather}
+f_{ave}=\lim_{ n \to ∞ } \frac{1}{b-a}[f(x_{1}^{*})+f(x_{2}^{*})+f(x_{3}^{*})+\dots f(x_{n}^{*})]\Delta x=\frac{1}{b-a}\int_{a}^{b} f(x) \, dx 
+\end{gather}
+$$

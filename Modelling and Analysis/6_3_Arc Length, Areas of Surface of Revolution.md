@@ -82,6 +82,12 @@ $$
 > Example: The arc of the parabola $y=x^2$ from $(1,1)$ to $(2,4)$ is rotated about the y-axis. Find the resulting surface area.
 > $$
 \begin{align}
-todo
+S &= \int_{1}^{4} 2\pi x \sqrt{1 + \left(\frac{dx}{dy}\right)^2} dy \\
+ &= \int_{1}^{4} 2\pi x \sqrt{1 + \frac{1}{4x^2}} dy \\
+ &= \int_{1}^{4} 2\pi x \sqrt{\frac{4x^2 + 1}{4x^2}} dy \\
+ &= \int_{1}^{4} \pi \sqrt{4x^2 + 1} dy \\
+ &= \left[\frac{\pi}{2} \left(x \sqrt{4x^2 + 1} + \frac{1}{2} \ln \left|2x + \sqrt{4x^2 + 1}\right|\right)\right]_{1}^{4} \\
+ &= \frac{\pi}{2} \left(4 \sqrt{65} + \frac{1}{2} \ln \left|8 + \sqrt{65}\right| - \sqrt{5} - \frac{1}{2} \ln \left|2 + \sqrt{5}\right|\right) \\
+ &\approx 30.846
 \end{align}
 $$
