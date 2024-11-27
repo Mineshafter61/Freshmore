@@ -26,8 +26,8 @@ x'&=\left(\frac{C_3}{2C_2}\right)'\left( 1+\sqrt{ 1-\frac{4C_2}{C_3^2}} \right)+
 &=\left(\frac{C_2C_3'-C_2'C_3}{2C_2^2}\right)\left(1+\sqrt{ 1-\frac{4C_2}{C_3^2}} \right)+\left(\frac{C_3}{2C_2}\right)\left(\frac{1}{2\sqrt{ 1-\frac{4C_2}{C_3^2}}}\right)\left(-\frac{4C_2'C_3^2-4C_2(2C_3C_3')}{(C_3^2)^2}\right)' \\
 &=\left(\frac{C_2C_3'-C_2'C_3}{2C_2^2}\right)\left(1+\sqrt{ 1-\frac{4C_2}{C_3^2}} \right)-\left( \frac{1}{C_2} \right)\left(\frac{1}{\sqrt{ 1-\frac{4C_2}{C_3^2}}}\right)\left(\frac{C_2'C_3-2C_2C_3'}{C_3^2}\right) \\
 \therefore t_f'&=\frac{C_1'}{g}\ln x+\frac{C_1}{g}x' \\
-&=\frac{C_1'}{g}\ln \left(\frac{C_3}{2C_2}\left(1+\sqrt{\frac{C_3^2-4C_2}{C_3^2}}\right)\right)+\frac{C_1}{g}\cdot
-\left[ \left( \frac{C_2C_3'-C_2'C_3}{2C_2^2} \right) \left( 1+\sqrt{1-\frac{4C_2}{C_3^2}} \right) - \left( \frac{1}{C_2} \right) \left( \frac{1}{\sqrt{1-\frac{4C_2}{C_3^2}}} \right) \left( \frac{C_2'-C_3-2C_2C_3'}{C_3^2} \right) \right] \\
+&=\frac{C_1'}{g}\ln \left(\frac{C_3}{2C_2}\left(1+\sqrt{\frac{C_3^2-4C_2}{C_3^2}}\right)\right)+\frac{C_1}{g}\cdot \\
+&\left[ \left( \frac{C_2C_3'-C_2'C_3}{2C_2^2} \right) \left( 1+\sqrt{1-\frac{4C_2}{C_3^2}} \right) - \left( \frac{1}{C_2} \right) \left( \frac{1}{\sqrt{1-\frac{4C_2}{C_3^2}}} \right) \left( \frac{C_2'-C_3-2C_2C_3'}{C_3^2} \right) \right] \\
 \text{From design task 1(a)}: \\
 C_2&=\frac{C_1+v_0}{C_1-v_0} \\
 \therefore C_2'&=\frac{C_1'(C_1-v_0)+C_1'(C_1+v_0)}{(C_1+v_0)^2} \\
