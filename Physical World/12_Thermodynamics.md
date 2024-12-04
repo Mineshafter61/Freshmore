@@ -49,7 +49,7 @@ medium between the two bodies).
 - Thermal energy is mainly transferred by the vibrations of the atoms and lattice (phonon) along the substance.
 - Movement of electrons also plays a role to transport heat in conductors/metals.
 - Fourier's law of Heat Conduction: Rate of heat transfer $\Delta Q/\Delta t$ across a thin slab is proportional to the cross-sectional area A and the temperature gradient $\Delta T/\Delta x$ across that slab
-- $\dot{Q} = kA \frac{\Delta T}{\Delta x}$
+ $$\dot{Q} = kA \frac{\Delta T}{\Delta x}$$
 - Temperature gradient $\frac{\Delta T}{\Delta x}=\frac{T_2-T_1}{x_2-x_1}$
 ### Convection
 - Energy transferred by the movement of a heated fluid substance
@@ -73,3 +73,77 @@ $$
   - Convection: $I = h\Delta T = h(T_\infty - T_s)$
   - Radiation: $I=\sigma e(T_\infty^4 - T_s^4)$
     - 2 faces: $I=\sigma 2e(T_\infty^4 - T_s^4)$
+## Ideal Gases
+- Law: $$pV=nRT$$
+- Assumptions: 
+- **Large number** of **identical** particles in **random motion**
+	- Statistical average can be used to model particle behaviour
+- **Negligible particle volume** (dilute) and **negligible inter‐particle force**
+	- No force exerted on each other except during collision
+- Classical **elastic collisions**
+	- Momentum and KE are conserved
+	- Relative speed of approach = relative speed of separation
+- Gas pressure and volume relation: $pV=\frac{2}{3}N\langle K_{tr}\rangle=\frac{Nm}{3}\langle v^{2}\rangle$ where $K_{tr}$ is translational kinetic energy
+- Average force on wall per particle
+$$
+F_i = ma_i = m\frac{\vec{v}_f - \vec{v}_0}{\Delta t} = m\frac{-v_x - v_x}{\Delta t}\hat{i} = -\frac{2mv_x}{\Delta t} = -\frac{2mv_x}{2d/v_x} = -\frac{mv_x^2}{d}
+$$
+### Degrees of Freedom
+- Translational kinetic energy: $K_{tr}=\frac{1}{2}mv^2$
+- Translational kinetic energy: $K_{tr}=\frac{1}{2}Iω^2$
+- Potential energy: $U=\frac{1}{2}kx^2$ (for diatomic particles vibrating along the molecular axis. Only considered for high temperature)
+### Theorem of Equipartition of Energy
+- Each degree of freedom with quadratic energy dependence averagely contributes $\frac{1}{2}k_{B}T$ to the system's energy, where $k_{B}$ is Boltzmann's constant and $T$ is temperature in Kelvin.
+- For any ideal gas particles, where $f=3$, average translational KE is $$\langle K_{tr} \rangle=\frac{1}{2}m\langle v^2\rangle=\frac{3}{2}k_{B}T$$
+- By the Ideal Gas Law, $$
+pV=\frac{2}{3}N\langle  K_{tr}\rangle=Nk_{B}T
+$$
+## First Law of Thermodynamics
+- The **change in the internal energy** of a **closed system** is equal to the heat $Q$ acquired by the system minus the work done **BY** the system, $W$: $$
+\Delta E_{int}=Q-W
+$$
+- Polarity matters:
+	- If $Q$ is positive, heat is added to the system
+	- If $Q$ is negative, heat is removed from the system
+	- If $W$ is positive, the system is doing work.
+	- If $W$ is negative, work is being done on the system.
+- Internal energy of a system is the **microscopic energy** internal to the system when viewed from a **reference frame at rest** w.r.t the object
+	- Includes translational, rotational, vibrational energies of the particles
+	- Includes inter-particle potential energy, energy of electrons and nuclei
+	- Does **not** include macroscopic K.E and P.E of the body (i.e gravitational field)
+	- **For $N$ ideal gas particles at about room temperature, $T ≈ 300K$, $\Delta E_{int}=f\times N\times \frac{1}{2}k_{B}\Delta T=\frac{f}{2}nR\Delta T$**
+### Quasi-Equilibrium Process
+- Quasistatic expansion: 
+### Work done
+- Work done is area under the graph of a p-V diagram.
+$$W=\int_{V_{i}}^{V_{f}} p \, dV$$
+- If gas **expands**, $W > 0$
+- If gas **contracts**, $W < 0$
+- Work done is **process-dependent**
+	- Work done is not consistent even though initial and final states of $p$ and $V$ are the same
+	- Heat engines can do work in a cyclical process because of this
+## Heat in a Thermodynamic Process
+- Molar heat capacity at constant volume: $Q_V=nc_V\Delta T$
+- Molar heat capacity at constant pressure: $Q_p=nc_p\Delta T$
+- Heating a gas at constant volume does not produce mechanical work ($W=0$) since $dV=0$. The heat goes solely into raising the internal energy ($\Delta E_{int}$) of the gas. 
+$$
+Q_V=nc_V\Delta T=\Delta E_{int}
+$$
+- Heating a gas at constant pressure *produces* mechanical work $W$. The heat goes into raising the internal energy of the gas + work done by gas ($W=p\Delta V$).
+$$
+Q_p=nc_p\Delta T=\Delta E_{int}+p\Delta V>Q_V
+$$
+### Isochoric process
+- Heating a gas at **constant volume**
+- Does **not** produce mechanical work ($W = 0$) since $dV = 0, W = p \Delta V = 0$
+- Heat goes **solely** into **raising internal energy** $\Delta E_{int}$ of the gas
+- Molar heat capacity: $Q_V=nc_V\Delta T=\Delta E_{int}$
+### Isobaric process
+- Heating a gas at **constant pressure**
+- Heat goes into **raising internal energy** $\Delta E_{int}$ of the gas
+- Heat goes into work done by the gas $W = p \Delta V$
+- Molar heat capacity: $Q_p=nc_p\Delta T=\Delta E_{int}+p\Delta V>Q_V$
+### Relationship
+- **More energy** is required to raise the temperature of a gas by $\Delta T$ at **constant pressure**
+- Some energy is needed to do work since volume increases
+- The internal energy of both gases is the **same** since $E_{int}\propto T$

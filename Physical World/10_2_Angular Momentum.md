@@ -29,7 +29,7 @@
 - Angular momentum is constant w.r.t time
 - Take all interacting bodies as **1 system**
 ## 2D Rotation and Translation
-- Angular momentum for a translating and rotating object is given by $$\vec{L}_{s}^{tot}=\sum_{i=1}^{N}\vec{r}_{s,i}\times m_{i}\vec{v}_{s,i}=\vec{R}_{s,cm}\times \vec{p}^{sys}+\sum_{i=1}^{N}\vec{r}_{cm,i}\times m_{i}\vec{v}_{cm,i}$$
+- Angular momentum for a translating and rotating object is given by $$\vec{L}_{s}^{tot}=\sum_{i=1}^{N}\vec{r}_{s,i}\times m_{i}\vec{v}_{s,i}=\vec{R}_{s,cm}\times \vec{p}_{sys}+\sum_{i=1}^{N}\vec{r}_{cm,i}\times m_{i}\vec{v}_{cm,i}$$
 - The first term is the angular momentum arising from the **translation** of the centre of mass (a point) w.r.t the fixed reference point $S$ (called orbital motion), $$\vec{L}_{s,cm}^{tr}=\vec{R}_{s,cm}\times \vec{p}^{sys}$$
 - The second term is the angular momentum arising from **rotation** (spinning motion) about the centre of mass, $$\vec{L}_{cm}^{rot}=\sum_{i=1}^{N}\vec{r}_{cm,i}\times m_{i}\vec{v}_{cm,i}$$
 ## Kinetic Energy of Rotating Rigid Body

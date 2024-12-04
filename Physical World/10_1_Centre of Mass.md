@@ -12,7 +12,7 @@
 - Recall: Moment about CM is $0$ given no external forces
 ## Continuous bodies
 - Similar to moment of inertia
-- Position of centre of mass $\vec{R}_{cm} = \frac{1}{M_{sys}}\int_{body}\vec{r} \, dm$
+- Position of centre of mass
 $$
 \begin{gather}
 \vec{R}_{cm} = \frac{1}{M_{sys}}\int_{body}\vec{r} \, dm \\
@@ -36,5 +36,6 @@ $$
 - Force on a system of particles is the **external force** because the internal force is $0$. $$\vec{F}_{total} = \vec{F}_{ext} + \vec{F}_{int} = \vec{F}_{ext} + 0 = \vec{F}_{ext}$$
 - When a body is acted upon by external forces, the CM moves as though all mass were **concentrated**
 - **Linear acceleration** of **CM** is **same** no matter what point the force is applied
-### Extra shortcut
-If $\vec{F}_{ext}=0$, when an object splits into two, $m_{1}x_{1}=m_{2}x_{2}$
+### Extras
+- If $\vec{F}_{ext}=0$, when an object splits into two, $m_{1}x_{1}=m_{2}x_{2}$
+- $\int_{body}$ refers to $\int_{0}^{L}$ where L is the length of the rod for a 1D case.
