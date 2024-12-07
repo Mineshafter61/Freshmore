@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4ce14eaf66786717",
+        "id": "a304c27ae9d94020",
         "type": "tabs",
         "children": [
           {
-            "id": "2307fdaa5829a03a",
+            "id": "444ec148859365fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ref/HW5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "HW5"
-            }
-          },
-          {
-            "id": "ebb2e6d2ad8ffc96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modelling and Analysis/6_5_Differential Equations.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6_5_Differential Equations"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,17 +167,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebb2e6d2ad8ffc96",
+  "active": "444ec148859365fe",
   "lastOpenFiles": [
-    "Modelling and Analysis/6_4_Moments, Center of Mass.md",
-    "Modelling and Analysis/6_5_Differential Equations.md",
-    "Physical World/10_1_Centre of Mass.md",
-    "Modelling and Analysis/6_3_Arc Length, Areas of Surface of Revolution.md",
     "ref/HW5.md",
+    "Physical World/11_Simple Harmonic Motion.md",
+    "ref/parallel axis theorem.png",
     "Physical World/10_2_Angular Momentum.md",
+    "Physical World/5_2_Rigid body.md",
     "Physical World/5_1_Rotational Kinematics.md",
-    "Physical World/9_Momentum and Impulse.md",
+    "Physical World/6_Motion of Rigid Bodies.md",
     "Physical World/4_Circular Motion.md",
+    "Physical World/10_1_Centre of Mass.md",
+    "ref/献灯使.md",
+    "Modelling and Analysis/6_5_Differential Equations.md",
+    "Modelling and Analysis/6_4_Moments, Center of Mass.md",
+    "Modelling and Analysis/6_3_Arc Length, Areas of Surface of Revolution.md",
+    "Physical World/9_Momentum and Impulse.md",
     "Physical World/12_Thermodynamics.md",
     "日本語/2_1_文法.md",
     "日本語/2_2_N2文法.md",
@@ -207,16 +191,11 @@
     "日本語/1_1_エクストラ語彙.md",
     "日本語/3_読解.md",
     "ref/DTP1 Math.md",
-    "Physical World/11_Simple Harmonic Motion.md",
     "Physical World/大大フォーミュラシート.md",
     "Physical World/1_Vectors.md",
     "ref/shmPhaseShift.jpg",
     "日本語/日本語の動詞.md",
     "Modelling and Analysis/5_Integration.md",
-    "Modelling and Analysis/6_2_Areas Between Curves and Volumes.md",
-    "Physical World/5_2_Rigid body.md",
-    "Modelling and Analysis/6_4_Work and Average Values.md",
-    "日本語/5.md",
     "日本語/anki.csv",
     "日本語/to_anki.py",
     "日本語/1_語彙.xlsx",
