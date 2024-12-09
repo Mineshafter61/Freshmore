@@ -47,7 +47,7 @@ $$
 - Let $f(x)$ be continuous on an interval $[a,b]$, then $$\int_{a}^{b} f'(x) \, dx = f(x)|_a^b = (f(b) + C) - (f(a) + C) = f(b) - f(a)$$
 ## Finding constant c
 - Constant can be determined by the initial conditions in the question
-## Finding integral from Riemann sum (//todo)
+## Finding integral from Riemann sum
 - $\displaystyle\lim_{ n \to ∞ }\sum_{k=1}^{n}f(c_k)\Delta x=\int_{a}^{b} f(x) \, dx$
 - Example: $\displaystyle\lim_{ n \to ∞ }\sum_{k=1}^{n}-c\left( 2+\frac{8k}{n} \right) \frac{8}{n}$
 	- We know that $\displaystyle\Delta x=\frac{b-a}{n}$ and $\displaystyle c_{k}=x_{k}=a+k\Delta x$

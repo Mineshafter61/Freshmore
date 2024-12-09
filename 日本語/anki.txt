@@ -2,6 +2,43 @@
 #html:false
 #deck:JLPT N1 語彙
 #notetype:Two Backs
+〜宛[て]|〜あて|for, addresed to
+〜合わせ|〜あわせ|to fit
+〜位|〜い|nth place
+〜以上|〜いじょう|since…,once…
+〜一|〜いち|the top of ~
+〜員|〜いん|a member of ~
+〜上で|〜うえで|first doing something, then…, in the process of…
+〜うちに|〜うちに|while…, in the course of…, within…
+〜営|〜えい|operation, management
+〜円|〜えん|Japanese Yen
+〜園|〜えん|garden
+〜おき|〜おき|intervals of ~, every ~
+〜終わる|〜おわる|finished (something)
+〜下|〜か|under
+〜科|〜か|department, family subject
+〜歌|〜か|song
+〜化|〜か|~ise
+〜家|〜か|a person that does ~ (occupation)
+〜日|〜か|days
+〜画|〜が|painting of ~
+〜界|〜かい|world, society, circle
+〜会|〜かい|meeting, gathering party, society
+〜回|〜かい|times
+〜海|〜かい|sea of
+〜外|〜がい|out of ~
+〜街|〜がい|street, district
+〜階|〜かい／がい|~ storey
+〜画|〜かく|stroke, plan
+〜掛け|〜かけ|half~
+〜ヶ月|〜かけつ|months
+(お)金持ち|(お)かねもち|rich man
+(お)酒|(お)さけ|liquor
+(お)皿|(お)さら|plate
+(お)釣[り]|(お)つり|change
+～かねない|～かねない|Might happen
+～がる|～がる|Feeling like
+側|～がわ|Side
 亜〜|あ〜|subtropical region
 ああ|ああ|like that
 ああ|ああ|ah
@@ -29,11 +66,11 @@
 敢えて|あえて|dare
 青|あお|blue
 青い|あおい|blue
-扇ぐ|あおぐ|fan
 仰ぐ|あおぐ|look up
+扇ぐ|あおぐ|fan
 青白い|あおじろい|pale, pallid
-赤|あか|red
 垢|あか|dirt, grime
+赤|あか|red
 赤い|あかい|red
 証|あかし|proof, evidence
 赤字|あかじ|a deficit, the red
@@ -53,9 +90,9 @@
 諦める|あきらめる|resign, abandon, give up
 飽きる|あきる|become tired of, lose interest in
 呆れる|あきれる|be amazed/dumbfounded/flabbergasted, be shocked/astounded, be disgusted
+悪|あく|evil, wickedness, vice
 開く|あく|open
 空く|あく|empty, vacant
-悪|あく|evil, wickedness, vice
 握手|あくしゅ|a handshake, handshaking
 アクセサリー|アクセサリー|accessories
 アクセル|アクセル|accelerator
@@ -66,11 +103,11 @@
 飽くまでも（も）|あくまで（も）|to the end/last, persistently
 明くる〜|あくる〜|the next/following (day, year)
 明け方|あけがた|dawn, daybreak
-開ける|あける|open
 明ける|あける|dawn, rise, end, come to an end, be over
-上げる|あげる|raise, lift (up)
+開ける|あける|open
 あげる|あげる|give
 揚げる|あげる|hoist, fly
+上げる|あげる|raise, lift (up)
 顎|あご|jaw, chin
 憧れ|あこがれ|admiration, adoration
 憧れる|あこがれる|long for, have a crush on, be attracted by
@@ -97,8 +134,8 @@
 預かる|あずかる|keep, look after, take care of, manage, withhold
 預ける|あずける|put/place/leave a thing in a person's keeping/care, enthrust, deposit
 汗|あせ|sweat, perspiration
-褪せる|あせる|fade, discolour, fade away
 焦る|あせる|be in  a hurry, be hasty, be impatient, be anxious
+褪せる|あせる|fade, discolour, fade away
 あそこ|あそこ|there, that place
 遊び|あそび|play (N)
 遊ぶ|あそぶ|play(V)
@@ -111,16 +148,16 @@
 暖／温める|あたためる|warm up, heat up
 頭|あたま|head
 新しい|あたらしい|new
-辺り|あたり|around, in the neighbourhood, vicinity
 当たり|あたり|hit (guessed right)
+辺り|あたり|around, in the neighbourhood, vicinity
 当たり前|あたりまえ|natural, proper, ordinary, usual, normal
 当たる|あたる|hit, strike, touch, bask (in the sun), win, be in charge, be called on, be poisoned
 あちこち|あちこち|here and there, all over, in many/various places, from one thing to another
 あちら／あっち|あちら／あっち|this direction (polite form of あそこ)
 あちらこちら|あちらこちら|here and there
 あっ|あっ|oh
-暑い|あつい|hot
 厚い|あつい|thick
+暑い|あつい|hot
 熱い|あつい|hot
 悪化|あっか|change for the worse
 扱い|あつかい|handle, treat, handling, managing
@@ -138,14 +175,13 @@
 集める|あつめる|collect, gather
 誂える|あつらえる|to order
 圧力|あつりょく|pressure
-〜宛[て]|〜あて|for, addresed to
 当て|あて|aim, expectations
 当て字|あてじ|phonetic equivalent, substitute character (kanji)
 宛名|あてな|an addressee, an address
 あてはまる|あてはまる|apply to, come/fall under, fit, meet, fulfill
 あてはめる|あてはめる|apply, adapt to
-当てる|あてる|hit, get, apply
 宛てる|あてる|address (a letter to)
+当てる|あてる|hit, get, apply
 後|あと|after, later
 後|あと|more (later)
 跡|あと|trace, track, trail
@@ -220,8 +256,8 @@
 有り様|ありさま|a state, a condition
 ありのまま|ありのまま|plain, unvarnished, frank
 ありふれる|ありふれる|commonplace, ordinary
-有る／在る|ある|have, hold
 或る|ある|a certain, one, some
+有る／在る|ある|have, hold
 あるいは|あるいは|or, either…or, perhaps
 アルカリ|アルカリ|alkali
 歩く|あるく|walk
@@ -235,7 +271,6 @@
 荒れる|あれる|be rough, be stormy
 泡|あわ|bubble, foam
 合わす|あわす|to adjust
-〜合わせ|〜あわせ|to fit
 合わせる|あわせる|put together, add, adjust, set, tune, adapt oneself, fit
 慌ただしい|あわただしい|busy, hurried, rushed
 慌てる|あわてる|be flurried
@@ -261,10 +296,9 @@
 あんなに|あんなに|such…as, so, like that
 案の定|あんのじょう|just as expected, as anticipated
 あんまり|あんまり|too~, so~, terrible, awful, merciless
-〜位|〜い|nth place
+異|い|odd
 胃|い|the stomach
 意|い|feelings, thinking, will, voiltion, meaning, a sense
-異|い|odd
 いい|いい|good
 いいえ／いえ|いいえ／いえ|no
 いい加減|いいかげん|just right, inaccurate, irresponsible
@@ -285,11 +319,11 @@
 いかに|いかに|how, in what way, however, no matter how
 いかにも|いかにも|just, as if
 怒り|いかり|anger, rage, fury, wrath
-息|いき|breath, breathing
 粋|いき|smart, chic
+行き|いき|way to
+息|いき|breath, breathing
 意義|いぎ|meaning, importance, significance
 異議|いぎ|objection
-行き|いき|way to
 生き生き|いきいき|fresh, lively, vivid, bright, alive
 勢い|いきおい|force, energy, vigor
 生き甲斐|いきがい|motivation in life, salt of life
@@ -299,8 +333,8 @@
 生き物|いきもの|a living thing/being, life
 イギリス|イギリス|UK, England
 生きる|いきる|live
-幾〜|いく〜|some, many, how much
 行く|いく|go
+幾〜|いく〜|some, many, how much
 育児|いくじ|childcare, nursing
 育成|いくせい|rearing, upringing, raising
 幾多|いくた|numerous
@@ -312,17 +346,17 @@
 生け花|いけばな|flower arrangement
 いける|いける|well, not bad
 意見|いけん|opinion
-異見|いけん|different view, objection
 以後|いご|after, since, from, after this, from now on, hereafter, in (the) future
+異見|いけん|different view, objection
 以降|いこう|after, since, from
 意向|いこう|intention
 移行|いこう|a switchover, a shift
 イコール|イコール|an equal sign
 いざ|いざ|〜さらば goodbye, 〜という時に in a pinch, となれば私も働きます When the time comes, I will work, too
 勇ましい|いざましい|brave, courageous, gallant, valiant, daring, bold, stirring
-石|いし|stone
 医師|いし|doctor
 意思／意志|いし|a mind (to do), intention, wish, will to do, volition
+石|いし|stone
 維持|いじ|maintenance
 意地|いじ|one's nature, wilpower, pride
 意識|いしき|consciousness
@@ -332,7 +366,6 @@
 衣装|いしょう|clothes, clothing, costumes
 以上|いじょう|more than
 異常|いじょう|unusual, extraordinary, abnormal, peculiar, singular, uncommon, remarkable
-〜以上|〜いじょう|since…,once…
 衣食住|いしょくじゅう|food, clothing and shelter, creature comforts
 弄る|いじる|play with, tamper
 意地悪|いじわる|ill-natured, spiteful, mean
@@ -363,9 +396,8 @@
 炒める|いためる|fry
 至る|いたる|lead to, come, extend
 いたわる|いたわる|be considerate, care for
-一|いち|one
-〜一|〜いち|the top of ~
 位置|いち|place, position, location
+一|いち|one
 市|いち|a market, a fair
 いちいち|いちいち|one by one, everything, in detail
 一応|いちおう|just in case, for the present time being
@@ -399,9 +431,9 @@
 一昨年|いっさくねん|the year before last, two years ago
 一種|いっしゅ|a kind, a sort, a variety
 一瞬|いっしゅん|an instant, a moment
+一緒(に)|いっしょ(に)|together
 一生|いっしょう|a lifetime, one's whole life
 一生懸命|いっしょうけんめい|very hard, with all of one's might
-一緒(に)|いっしょ(に)|together
 一心|いっしん|with one's whole heart
 一斉に|いっせいに|all together, all in one body, all at once, simultaneously, in unison, unanimously
 いっそ|いっそ|would rather, prefer
@@ -424,12 +456,12 @@
 いつまでも|いつまでも|forever
 いつも|いつも|always
 移転|いてん|a move, transfer
-糸|いと|thread
 意図|いと|intention, purpose
+糸|いと|thread
 緯度|いど|latitude
 井戸|いど|a well
-移動|いどう|move, transfer
 異動|いどう|(personnel) changes
+移動|いどう|move, transfer
 従兄弟／従姉妹|いとこ|a (first) cousin
 営む|いとなむ|cary on a business/lead a busy life
 挑む|いどむ|challenge, defy
@@ -446,8 +478,8 @@
 違反|いはん|violation, breah
 いびき|いびき|a snore
 衣服|いふく|clothes, dress, garments, apparel, clothing
-今|いま|now
 居間|いま|living room
+今|いま|now
 今更|いまさら|too late to ~
 未だ|いまだ|still, yet, so far
 今に|いまに|soon, before long, one of those days
@@ -472,11 +504,11 @@
 いらっしゃい(ませ)|いらっしゃい(ませ)|Welcome!, May I help you?, What can I do for you?
 いらっしゃる(います)|いらっしゃる(います)|be, go, come (honorific)
 入口|いりぐち|entrance
-医療|いりょう|medical treatment/care, healthcare
 衣料|いりょう|clothing, clothes
+医療|いりょう|medical treatment/care, healthcare
 威力|いりょく|power, teeth
-要る|いる|required
 居る|いる|be, exist
+要る|いる|required
 煎る／炒る|いる|roast, parch, toast
 衣類|いるい|clothing, clothes
 入れ物|いれもの|a receptacle, a container, a case
@@ -489,17 +521,16 @@
 祝う|いわう|congratulate, celebrate
 言わば|いわば|like, a kind of, as it were, so to speak, in a manner
 いわゆる|いわゆる|what is called, what they call, so-called
-〜員|〜いん|a member of ~
 印鑑|いんかん|one's seal
 陰気|いんき|gloom, somberness
 隠居|いんきょ|retirement, retired person, the old gentleman/lady
 インク／インキ|インク／インキ|ink
 印刷|いんさつ|printing, typography, print
 印象|いんしょう|impression
-インタチェンジ|インタチェンジ|interchange
 インターナショナル|インターナショナル|international
 インターフォン|インターフォン|intercom
 引退|いんたい|retirement
+インタチェンジ|インタチェンジ|interchange
 インタビュー|インタビュー|an interview
 インテリ|インテリ|intellectual person, intelligentsia
 インフォメーション|インフォメーション|information
@@ -513,9 +544,8 @@
 上|うえ|above, up, on the ~
 ウエートレス／ウエイトレス|ウエートレス／ウエイトレス|a waitress
 植木|うえき|a garden plant, potted plant
-〜上で|〜うえで|first doing something, then…, in the process of…
-植える|うえる|plant
 飢える|うえる|starve, be famished, be hungry
+植える|うえる|plant
 魚|うお|a fish
 うがい|うがい|gargling
 伺う|うかがう|ask, hear, visit (used when a speaker shows modesty)
@@ -554,9 +584,9 @@
 歌う|うたう|sing (a song)
 疑う|うたがう|doubt, wonder, suspect
 転寝|うたたね|doze, nap, snooze
+うち|うち|in, of
 家|うち|home
 内|うち|between, among
-うち|うち|in, of
 打ち明ける|うちあける|confide, confess, tell the truth, bare
 打ち合わせ|うちあわせ|arrangements
 打ち合わせる|うちあわせる|knock together, arrange/discuss beforehand
@@ -564,7 +594,6 @@
 打ち消し|うちけし|denial, negation
 打ち消す|うちけす|deny, drown
 打ち込む|うちこむ|beat in, dedicate oneself to, drive in, type in
-〜うちに|〜うちに|while…, in the course of…, within…
 宇宙|うちゅう|the universe, the cosmos, space
 団扇|うちわ|a (round) fan, a round/flat paper fan
 内訳|うちわけ|breakdown
@@ -572,9 +601,9 @@
 うっかり|うっかり|carelessly, absentmindedly, by mistake
 美しい|うつくしい|beautiful, pretty, lovely
 写し|うつし|copy, duplicate
+移す|うつす|move, transfer
 写す|うつす|take (a picture), copy
 写す／映す|うつす|copy, reflect, project
-移す|うつす|move, transfer
 訴え|うったえ|appeal, suit
 訴える|うったえる|sue, bring an action, complain, file/lodge a complaint, resort to, touch, move
 うっとうしい|うっとうしい|annoying, gloomy
@@ -635,15 +664,15 @@
 上回る|うわまわる|exceed, be better (than), surpass, overtake
 植わる|うわる|be planted
 うん|うん|yes (plain form)
-運|うん|luck, fortune, fate
 うん|うん|yes, yeah, ah, I've got it
+運|うん|luck, fortune, fate
 運営|うんえい|management, administration
 運河|うんが|canal
 うんざり|うんざり|tired, bored, sick
 運送|うんそう|transportation, carriage
 運賃|うんちん|fare
-運転手|うんてんしゅ|driver
 運転|うんてん|drive
+運転手|うんてんしゅ|driver
 うんと|うんと|a lot, much, greatly, great deal
 運動(する)|うんどう(する)|exercise
 云々|うんぬん|and so on, etc, comment
@@ -653,8 +682,8 @@
 運用|うんよう|operation, management
 絵|え|picture
 柄|え|handle, grip
+え(っ)|え(っ)|huh?
 エアメール|エアメール|airmail
-〜営|〜えい|operation, management
 永遠|えいえん|eternity, permanence, immortality
 映画|えいが|movie
 映画館|えいがかん|movie theater
@@ -664,8 +693,8 @@
 英語|えいご|English
 英字|えいじ|English letter, Roman letter
 映写|えいしゃ|projection
-衛生|えいせい|hygiene, sanitation, health
 衛星|えいせい|a satellite, a moon
+衛生|えいせい|hygiene, sanitation, health
 映像|えいぞう|image, reflection, picture, video, tape recording, blip
 英文|えいぶん|English, an English sentence
 英雄|えいゆう|hero
@@ -675,14 +704,13 @@
 ええと|ええと|let me see, well, uh
 笑顔|えがお|a smile
 描く|えがく|draw, paint, represent, trace, outline, figure, describe, depict, think, image
-駅|えき|station
 液|えき|juice
+駅|えき|station
 液体|えきたい|a liquid, a fluid
 餌|えさ|baid, food, feed
 エスカレーター|エスカレーター|escalator
 枝|えだ|branch
 エチケット|エチケット|etiquette
-え(っ)|え(っ)|huh?
 閲覧|えつらん|read, browse
 エネルギー|エネルギー|energy
 絵の具|えのぐ|paints, colours, pigments
@@ -694,8 +722,6 @@
 得る|える／うる|get, acquire, gain, attain, obtain, procure, win, secure
 エレガント|エレガント|elegant
 エレベーター|エレベーター|elevator
-〜円|〜えん|Japanese Yen
-〜園|〜えん|garden
 円|えん|yen value
 縁|えん|tie, relationship, link, knot, chance, fate, destiny
 宴会|えんかい|a banquet, a feast, a dinner (party)
@@ -708,8 +734,8 @@
 園芸|えんげい|gardening
 演劇|えんげき|drama, play
 エンジニア|エンジニア|engineer
-演習|えんしゅう|practice, exercises, maneuvers
 円周|えんしゅう|circumference
+演習|えんしゅう|practice, exercises, maneuvers
 演出|えんしゅつ|direction (in film)
 援助|えんじょ|assistance,support
 演じる／ずる|えんじる／ずる|perform, enact
@@ -727,8 +753,8 @@
 遠慮|えんりょ|modesty, refrain, hesitate
 尾|お|tail
 御〜|お〜|polite marker
-甥|おい|nephew
 おい|おい|hey, hey there
+甥|おい|nephew
 追い掛ける|おいかける|run after, chase, pursue, follow
 追い越す|おいこす|pass, get ahead of, outstrip, get ahead of, surpass
 追い込む|おいこむ|druve something into
@@ -740,9 +766,9 @@
 オイル|オイル|oil, gasoline, gas, petrol, motor oil, suntan lotion
 老いる|おいる|grow old
 お祝い|おいわい|celebration, congratulations, gift
+負う|おう|take responsibility, owe
 王|おう|king, monarch, ruler
 追う|おう|run after, chase, pursue
-負う|おう|take responsibility, owe
 応援|おうえん|aid, help, support, assist, back up
 応急|おうきゅう|emergency, temporary
 黄金|おうごん|gold
@@ -761,9 +787,9 @@
 応用|おうよう|(practical) application
 終える|おえる|finish, complete, close, conclude, end, get through
 おお|おお|oh, ooh, ah, ugh
-大〜|大〜|big, large, loud, great, roughly
-多い|おおい|many, much, a lot of
+大〜|おお〜|big, large, loud, great, roughly
 おおい|おおい|hey, oh, hello, ahoy
+多い|おおい|many, much, a lot of
 大いに|おおいに|very (much), greatly
 覆う|おおう|cover, hide, conceal, permeate
 大方|おおかた|people in general
@@ -794,26 +820,24 @@
 お母さん|おかあさん|mother
 お母さん／さま|おかあさん／さま|mother
 おかえり(なさい)|おかえり(なさい)|welcome home, welcome back
+犯す|おかす|sin, commit a (crime/sin)
+侵す|おかす|invade, infringe
 おかげ|おかげ|the grace of, thanks to, owe to
 おかけください|おかけください|Please sit down, please be seated, please take your seats
 おかけさまで|おかけさまで|by the grace of, thanks to, owing to
 お菓子|おかし|sweets, snacks
 おかしい|おかしい|amusing, funny, strange, odd
-犯す|おかす|sin, commit a (crime/sin)
-侵す|おかす|invade, infringe
 おかず|おかず|a (side) dish
 お金|おかね|money
-(お)金持ち|(お)かねもち|rich man
 お構いなく|おかまいなく|Please don't go to any trouble
 拝む|おがむ|worship, pray, implore,see
 お代わり|おかわり|a second helping, seconds
-〜おき|〜おき|intervals of ~, every ~
 沖|おき|the offing, the open sea
 補う|おぎなう|supplement, make up for, offset, compensate
 お気の毒に|おきのどくに|I'm (so) sorry
 起きる|おきる|wake up, get up/happen, occur, take place, be caused, originate
-置く|おく|put
 億|おく|hundred million
+置く|おく|put
 奥|おく|the inner part, deep, at the end, behind, bosom
 屋外|おくがい|outdoors, in the open, out of doors
 奥さん|おくさん|wife
@@ -835,26 +859,24 @@
 怠る|おこたる|neglect
 行い|おこない|act, conduct
 行う|おこなう|do, conduct
-怒る|おこる|get angry (scold)
 起こる|おこる|happen, occur
+怒る|おこる|get angry (scold)
 おごる|おごる|treat, proud, arrogant
 押さえる|おさえる|hold, steady, stop, press, cover, catch, arrest, grasp
 おさきに|おさきに|excuse me, but I must be going
-(お)酒|(お)さけ|liquor
 幼い|おさない|young, immature
 収／治／納まる|おさまる|pack, go, stay in, be settled
 収／治／納める|おさめる|put, keep, obtain, gain / suppress, rule, reign /accept, supply, pay, finish
-(お)皿|(お)さら|plate
 お産|おさん|give birth to a baby
+伯父／叔父(さん)|おじ(さん)|uncle
 惜しい|おしい|① 貴重で失いたくない。② あと一息のところで物事が成就せず残念だ。③ 心残りだ。いつまでも未練が残る。
 おじいさん|おじいさん|old man, grandfather
 押入れ|おしいれ|closet
 教え|おしえ|teaching, lesson
 教える|おしえる|to teach
+押し込む|おしおむ|plunge, push into
 御辞儀|おじぎ|a bow, curtsy
 押し切る|おしきる|break down
-押し込む|おしおむ|plunge, push into
-伯父／叔父(さん)|おじ(さん)|uncle
 伯父／叔父／小父さん|おじさん|uncle, mister
 惜しむ|おしむ|spare, grudge, be reluctant to
 おしゃべり|おしゃべり|chat, prattle, talkative
@@ -893,7 +915,6 @@
 おっしゃる|おっしゃる|say (honorific)
 夫|おっと|one's husband
 お釣り|おつり|change
-(お)釣[り]|(お)つり|change
 お手上げ|おてあげ|be done for, hopeless
 お手洗い|おてあらい|restroom
 お出掛け|おでかけ|go out
@@ -933,8 +954,8 @@
 お願いします|おねがいします|Please do…, I would like you to…, Could I ask you to…
 各々|おのおの|each person, everyone
 自ずから|おのずから|naturally, by itself
-おばあさん|おばあさん|old woman, grandmother
 伯母／叔母(さん)|おば(さん)|aunt
+おばあさん|おばあさん|old woman, grandmother
 伯母／叔母／小母|おばさん|an aunt, a lady, Madam
 おはよう(ございます)|おはよう(ございます)|Good morning
 帯|おび|an obi, a broad sash (tied over a kimono), a belt
@@ -965,6 +986,7 @@
 おめでたい|おめでたい|happy, joyous, auspicious, simple, naïve
 おめでとう(ございます)|おめでとう(ございます)|Congratulations!
 お目にかかる|おめにかかる|meet, see (senior, superior)
+主(な/に)|おも(な/に)|main, principal, mainly, chiefly
 重い|おもい|heavy (weight), serious (illness)
 思い掛けない|おもいがけない|unexpected, unforseen
 思い込む|おもいこむ|imagine, assume, take… for…
@@ -978,7 +1000,6 @@
 重たい|おもたい|heavy, depressing
 おもちゃ|おもちゃ|toy
 表|おもて|front, right side, face
-主(な/に)|おも(な/に)|main, principal, mainly, chiefly
 趣|おもむき|flavor, appearance, charm
 赴く|おもむく|go, proceed, get
 思わず|おもわず|unconciously, in spite of oneself, instinctively
@@ -995,8 +1016,8 @@
 及び|および|and, as well as
 及ぶ|およぶ|be equal to, reach, extend
 及ぼす|およぼす|exert, influence, affect
-檻|おり|cage
 折|おり|on occasion, at a time of
+檻|おり|cage
 オリエンテーション|オリエンテーション|orientation
 折り返す|おりかえす|fold back, turn down, return
 織物|おりもの|textiles, (textile) fabrics, cloth
@@ -1004,21 +1025,20 @@
 下りる|下りる|get down (a mountain, descend)
 オリンピック|オリンピック|the Olympic Games, the Olympics
 居る|おる|to be (humble form of いる)
-折る|おる|bend, break
 織る|おる|weave
+折る|おる|bend, break
 オルガン|オルガン|organ, pipe organ, harmonium, reed organ
 俺|おれ|I (make speaker's term for I)
 お礼|おれい|thanks, appreciation
 折れる|おれる|be folded
 オレンジ|オレンジ|orange
 愚か|おろか|foolish, silly, stupid
-下ろす／降ろす|おろす|take down, lower, pull down, withdraw
 卸す|おろす|wholesale
+下ろす／降ろす|おろす|take down, lower, pull down, withdraw
 おろそか|おろそか|negligent
 お詫び|おわび|an apology
 終わり|おわり|end
 終わる|おわる|end, be over, finish
-〜終わる|〜おわる|finished (something)
 恩|おん|a favor, kindness, an obligaiton, moral indebtness
 音|おん|sound, noise
 音楽|おんがく|music
@@ -1036,32 +1056,18 @@
 おんぶ|おんぶ|carry a person on one's back
 オンライン|オンライン|online
 温和|おんわ|mild, gentle
-〜家|〜か|a person that does ~ (occupation)
-〜下|〜か|under
-〜化|〜か|~ise
-〜科|〜か|department, family subject
-〜歌|〜か|song
-〜日|〜か|days
-可|か|may, will, fair, passable
-蚊|か|mosquito
 課|か|section, department, lesson
-〜画|〜が|painting of ~
+蚊|か|mosquito
+可|か|may, will, fair, passable
 画〜|が〜|something related to pictures
 カー|カー|car
 カーテン|カーテン|curtain
 カード|カード|card
 カーブ|カーブ|curve
 カーペット|カーペット|carpet
-〜回|〜かい|times
-〜会|〜かい|meeting, gathering party, society
 貝|かい|shellfish, shell
-〜海|〜かい|sea of
-〜界|〜かい|world, society, circle
-〜外|〜がい|out of ~
 害|がい|harm, damage
 外〜|がい〜|outside
-〜街|〜がい|street, district
-〜階|〜かい／がい|~ storey
 改悪|かいあく|change for the worse
 会員|かいいん|member of society, member of association, membership
 海運|かいうん|shipping, marine transportation
@@ -1097,8 +1103,8 @@
 怪獣|かいじゅう|monster
 外出|がいしゅつ|go out
 解除|かいじょ|cancellation, release
-会場|かいじょう|meeting place, grounds, hall
 外相|かいしょう|Foreign Minister
+会場|かいじょう|meeting place, grounds, hall
 海水浴|かいすいよく|sea bathing
 回数|かいすう|the number of times
 回数券|かいすうけん|coupon ticket, book of coupon tickets
@@ -1108,12 +1114,12 @@
 解説|かいせつ|explanation, commentary
 概説|がいせつ|outline
 改善|かいぜん|improvement, betterment
-階層|かいそう|story, level
 回送|かいそう|forward, deadhead, drive without passengers
+階層|かいそう|story, level
 改造|かいぞう|remodelling
 開拓|かいたく|reclamation, cultivation, development, explore
-階段|かいだん|stairs
 会談|かいだん|conference, meeting, talk, summit
+階段|かいだん|stairs
 開通|かいつう|be opened to/for traffic
 改定|かいてい|revision (of rules)
 改訂|かいてい|revision (e.g. revised edition)
@@ -1131,9 +1137,9 @@
 海抜|かいばつ|sea level
 外部|がいぶ|the outside, the outside world
 回復|かいふく|restoration, rehabilitation, recovery
+介抱|かいほう|nursing, care
 解放|かいほう|liberation, emancipation
 開放|かいほう|open (a country, an economy)
-介抱|かいほう|nursing, care
 解剖|かいぼう|dissection, autopsy
 買い物|かいもの|shopping
 買い物(する)|かいもの(する)|shop, purchase
@@ -1144,22 +1150,22 @@
 概略|がいりゃく|outline, summary
 海流|かいりゅう|ocean current
 改良|かいりょう|improvement, reform
-海路|かいろ|sea route
 回路|かいろ|circuit
+海路|かいろ|sea route
 概論|かいろん|an outline, an introduction
 会話|かいわ|conversation
-買う|かう|buy (something)
 飼う|かう|raise, keep
-返す|かえす|return (something) to (someone)
+買う|かう|buy (something)
 帰す|かえす|let (a person) go back
+返す|かえす|return (something) to (someone)
 却って|かえって|on the contrary, instead, rather, all the more
 帰り|かえり|return
 顧みる／省みる|かえりみる|reflect on, search one's soul
-帰る|かえる|return, come back
 換える|かえる|exchange, change
-変える|かえる|change
 代える／替える|かえる|subsitute, instead of, in place of
 返る|かえる|return, be returned, regain, come back
+変える|かえる|change
+帰る|かえる|return, come back
 顔|かお|face
 家屋|かおく|a house
 顔付き|かおつき|features, looks, expression
@@ -1168,8 +1174,8 @@
 課外|かがい|extracurricular
 抱える|かかえる|hold, have, with, hire, employ, keep
 価格|かかく|price, cost, value
-科学|かがく|science
 化学|かがく|chemistry
+科学|かがく|science
 掲げる|かかげる|put up, display
 かかと|かかと|heel
 鏡|かがみ|mirror
@@ -1186,100 +1192,116 @@
 掻き回す|かきまわす|stir up
 限り|かぎり|limit
 限る|かぎる|limit, restrict
-書く／描く|かく|write, spell, compose, draw, paint
-掻く|かく|scratch, shovel away
 (汗を)かく|かく|sweat, perspire
-各〜|かく〜|each, every
 (恥を)かく|かく|be disgraced, be humiliated
-核|かく|原子核。
 欠く|かく|break, chip, lack
+掻く|かく|scratch, shovel away
 格|かく|status, rank, rule
 角|かく|angle, square
-〜画|〜かく|stroke, plan
-嗅ぐ|かぐ|smell (at)
+書く／描く|かく|write, spell, compose, draw, paint
+核|かく|原子核。
 家具|かぐ|furniture
-学|がく|learning, studies
-額|がく|a sum, a picture frame
-架空|かくう|aerial, overhead, imaginary, ficticious
-学芸|がくげい|liberal arts
-覚悟|かくご|Preparedness
-格差|かくさ|Disparity
-拡散|かくさん|Diffusion
-各自|かくじ|Each person
-学士|がくし|Bachelor (degree)
-確実|かくじつ|Certainty
-学者|がくしゃ|Scholar
-各種|かくしゅ|Various kinds
-隔週|かくしゅう|Biweekly
-拡充|かくじゅう|Expansion
-学習|がくしゅう|Study
-学術|がくじゅつ|Academic
-革新|かくしん|Innovation
-確信|かくしん|Conviction
-隠す|かくす|To hide
-学生|がくせい|Student
-学説|がくせつ|Theory
-拡大|かくだい|Enlargement
-各地|かくち|Various places
-拡張|かくちょう|Expansion
-確定|かくてい|Determination
-カクテル|カクテル|Cocktail
-角度|かくど|Angle
-獲得|かくとく|Acquisition
-確認|かくにん|Confirmation
-学年|がくねん|Grade
-楽譜|がくふ|Sheet music
-学部|がくぶ|Faculty
-格別|かくべつ|Exceptional
-確保|かくほ|Securing
-革命|かくめい|Revolution
-学問|がくもん|Academic study
-確率|かくりつ|Probability
-確立|かくりつ|Establishment
-学力|がくりょく|Academic ability
-学歴|がくれき|Academic history
-隠れる|かくれる|To hide
-掛け|かけ|Bet
-加減|かげん|Adjustment
-過去|かこ|Past
-籠|かご|Basket
-下降|かこう|Descent
-火口|かこう|Crater
-加工|かこう|Processing
-化合|かごう|Compound
-囲む|かこむ|To surround
-傘|かさ|Umbrella
-火災|かさい|Fire (disaster)
-重なる|かさなる|To overlap
-重ねる|かさねる|To stack
-飾り|かざり|Decoration
-飾る|かざる|To decorate
-火山|かざん|Volcano
-菓子|かし|Sweets
+嗅ぐ|かぐ|smell (at)
+覚悟|かくご|preparedness, readiness, resolution
+格差|かくさ|difference, gap
+拡散|かくさん|diffusion
+各自|かくじ|each person, everyone
+学士|がくし|bachelor's degree
+確実|かくじつ|certain, sure, reliable, sound (business)
+学者|がくしゃ|scholar
+各種|かくしゅ|various kinds
+隔週|かくしゅう|biweekly, fortnightly
+拡充|かくじゅう|expansion
+学習|がくしゅう|study
+学術|がくじゅつ|arts and sciences, learning, scholarship, one's studies
+革新|かくしん|reform, innovation
+確信|かくしん|conviction, confidence
+隠す|かくす|conceal, hide, cover
+学生|がくせい|student
+学説|がくせつ|theory, doctrine
+拡大|かくだい|magnification, expansion
+各地|かくち|various places
+拡張|かくちょう|extension, expansion, enlargement
+確定|かくてい|(made a) decision
+カクテル|カクテル|cocktail
+角度|かくど|angle
+獲得|かくとく|acquisition
+確認|かくにん|confirmation
+学年|がくねん|school year, grade
+楽譜|がくふ|sheet music
+学部|がくぶ|academic department, faculty
+格別|かくべつ|particularly, especially
+確保|かくほ|secure
+革命|かくめい|revolution
+学問|がくもん|learning, study, education
+確率|かくりつ|probability
+確立|かくりつ|establishment
+学力|がくりょく|scholastic/academic ability
+学歴|がくれき|one's school/academic background
+隠れる|かくれる|be hidden, to hide
+〜掛け|〜かけ|half-done, hanger
+賭け|かけ|bet, wager, gamble
+掛け〜|かけ〜|credit, installment, premium
+影／陰|かげ|shade, shadow
+崖|がけ|cliff
+駆け足|かけあし|run, gallop
+家計|かけい|family budget
+掛け算|かけざん|multiplication
+可決|かけつ|approval, adoption
+〜か月／〜箇月|〜かげつ|months
+かけっこ|かけっこ|race
+駆ける|かける|run, gallop (verb)
+賭ける|かける|bet, stake
+掛ける|かける|hung
+掛ける|かける|make (a phone call)
+掛ける|かける|wear (spectacles)
+掛ける|かける|lock (a door)
+掛ける|かける|sit (on a chair)
+掛ける|かける|cause someone worry
+掛ける|かける|spend, cost
+掛ける|かける|声を〜
+掛ける|かける|音楽を〜
+掛ける|かける|振り〜
+欠ける|かける|break off, chip off, wane, lack
+加減|かげん|adjustment, moderation, degree
+過去|かこ|the past
+籠|かご|basket, cage
+下降|かこう|descent, fall, decline
+火口|かこう|crater
+加工|かこう|processing, manufacturing
+化合|かごう|chemical compound
+囲む|かこむ|encircle, surround, wall in, fence, besiege
+傘|かさ|umbrella
+火災|かさい|fire (disaster)
+重なる|かさなる|to overlap
+重ねる|かさねる|to stack, to pile up
+かさばる|かさばる|be bulky
+かさむ|かさむ|mount, run up
+飾り|かざり|decoration
+飾る|かざる|to decorate
+火山|かざん|volcano
+菓子|かし|sweets
 貸し|かし|Loan
 火事|かじ|Fire (incident)
 家事|かじ|Housework
 賢い|かしこい|Wise
-貸し出し|かしだし|Lending
+かしこまりました|かしこまりました|yes sir, certainly, with pleasure
+貸し出し|かしだし|a loan, lending
 過失|かしつ|Mistake
 果実|かじつ|Fruit
-貸し間|かしま|Room for rent
-貸家|かしや|House for rent
+貸し間|かしま|Room for rent, room to let
+貸家|かしや|House for rent, house to let
 歌手|かしゅ|Singer
 箇所|かしょ|Place
 過剰|かじょう|Excess
 箇条書き|かじょうがき|Itemization
 頭|かしら|Head
-齧る|かじる|To nibble
+齧る|かじる|to gnaw, crunch on, bite off, nibble
 貸す|かす|To lend
 数|かず|Number
-ガス|ガス|Gas
-微か|かすか|Faint
-霞む|かすむ|To grow hazy
-掛け算|かけざん|Multiplication
-加減|かげん|Adjustment
-学説|がくせつ|Academic theory
-確率|かくりつ|Probability
+ガス|ガス|gas
+微か|かすか|faint, dim, slight
+霞む|かすむ|be hazy (misty), mist over
 擦る|かする|To rub
 風邪|かぜ|Cold (illness)
 風|かぜ|Wind
@@ -1288,106 +1310,107 @@
 化石|かせき|Fossil
 稼ぐ|かせぐ|To earn
 カセット (テープ)|カセット (テープ)|Cassette (Tape)
-河川|かせん|River
 下線|かせん|Underline
 化繊|かせん|Synthetic fiber
+河川|かせん|River
 過疎|かそ|Depopulation
 数える|かぞえる|To count
 加速|かそく|Acceleration
 家族|かぞく|Family
 加速度|かそくど|Acceleration rate
+ガソリン|ガソリン|gasoline
+ガソリンスタンド|ガソリンスタンド|gas station
+〜方|〜かた|polite form of person
+〜方|〜かた|the way to (do)
 型|かた|Model / Type
 肩|かた|Shoulder
+片〜|かた〜|one side
+固い／硬い／堅い|かたい|hard
+課題|かだい|subject, homework, assignment
+〜難い|がたい|difficult/hard to do
 片思い|かたおもい|Unrequited love
 方々|かたがた|Various people
 片仮名|かたかな|Katakana
+片言|かたこと|Prattle
+形|かたち|Shape, figure
 片付く|かたづく|To be tidied up
+片付け|かたづけ|Put in order, put away, tidy
 片付ける|かたづける|To tidy up
 刀|かたな|Sword
 塊|かたまり|Lump / Mass
+固まる|かたまる|Harden, become solid/stiff
+片道|かたみち|One-way trip
 傾く|かたむく|To tilt
 傾ける|かたむける|To lean
 固める|かためる|To solidify
+片寄る|かたよる|lean, be prejudiced
+語る|かたる|talk, tell, narrate, recite, show
+傍ら|かたわら|the side, beside
+花壇|かだん|Flower bed
+価値|かち|Value
+勝ち|かち|victory, win
+〜がち|〜がち|tend to do
+家畜|かちく|Livestock
+課長|かちょう|Section manager
 勝つ|かつ|To win
-活動|かつどう|Activity
+且つ|かつ|moreover
+〜月|〜がつ|months of a year
 学科|がっか|Subject
-活用|かつよう|Application
-必ず|かならず|Surely
-必ずしも|かならずしも|Not necessarily
-悲しい|かなしい|Sad
-悲しむ|かなしむ|To grieve
-仮名遣い|かなづかい|Kana usage
-金槌|かなづち|Hammer
-合唱|がっしょう|Chorus
+学会|がっかい|Academic meeting
+がっかり|がっかり|be discouraged
 活気|かっき|Vigor
+画期|かっき|epoch-making
 学期|がっき|Semester
 楽器|がっき|Musical instrument
 学級|がっきゅう|Class (in school)
 担ぐ|かつぐ|To carry
+がっくり|がっくり|be heartbroken
 括弧|かっこ|Parentheses
 格好|かっこう|Appearance
 学校|がっこう|School
 活字|かつじ|Printed type
+合唱|がっしょう|Chorus
+がっしり|がっしり|Solidly
 合致|がっち|Agreement
+がっちり|がっちり|Firmly
 勝手|かって|One's own way
+かつて|かつて|once, at once
+勝手に|かってに|Arbitrarily
+活動|かつどう|Activity
 活発|かっぱつ|Active
+活発|かっぱつ|Lively
+カップ|カップ|Cup
+合併|がっぺい|Merger
 活躍|かつやく|Active participation
+活用|かつよう|Application
 活力|かつりょく|Vitality
 家庭|かてい|Household
 課程|かてい|Curriculum
 過程|かてい|Process
 仮定|かてい|Assumption
-叶う|かなう|To come true
-叶える|かなえる|To grant (a wish)
-仮名|かな|Kana (Japanese syllabary)
-悲しむ|かなしむ|To be sad
-角|かど|Corner
-片道|かたみち|One-way trip
-家畜|かちく|Livestock
-課長|かちょう|Section manager
-価値|かち|Value
-花壇|かだん|Flower bed
-合併|がっぺい|Merger
-勝手に|かってに|Arbitrarily
-カテゴリー|カテゴリー|Category
-難い|がたい|Difficult
-活発|かっぱつ|Lively
-格好|かっこう|Shape
-学会|がっかい|Academic meeting
-仮名遣い|かなづかい|Kana orthography
-活気|かっき|Energy
-活躍|かつやく|Success
-活字|かつじ|Typography
-合致|がっち|Consistency
-がっしり|がっしり|Solidly
-がっちり|がっちり|Firmly
-勝手|かって|Convenience / One's own way
-活発|かっぱつ|Vigorously active
-カップ|カップ|Cup
-活動|かつどう|Activity
-活躍|かつやく|Flourishing
-活用|かつよう|Utilization
-活力|かつりょく|Energy
 過程|かてい|Course / Process
 仮定|かてい|Hypothesis
-家庭|かてい|Family
+カテゴリー|カテゴリー|Category
+角|かど|Corner
+仮名|かな|Kana (Japanese syllabary)
 叶う|かなう|To be fulfilled
 叶える|かなえる|To fulfill
-必ずしも|かならずしも|Not always
-必ず|かならず|Surely
-金槌|かなづち|Hammer
+悲しい|かなしい|Sad
+悲しむ|かなしむ|To grieve
 仮名遣い|かなづかい|Kana usage
-悲しい|かなしい|Heartbreaking
-悲しむ|かなしむ|To mourn
+金槌|かなづち|Hammer
+必ず|かならず|Certainly, surely, without fail
+必ずしも|かならずしも|Not necessarily
+かなり|かなり|Pretty, fairly, rather
 かなわない|かなわない|Impossible
 かにゅう|かにゅう|Entry
-加鐘|かね|Add bell
-金|かね|Gold
-加熱|かねつ|Heating
+鐘|かね|bell
+金|かね|metal, money
+かねつ|加熱|Heating
 予て|かねて|Previously
 ～かねない|～かねない|Might happen
 金持ち|かねもち|Wealthy
-兼ねる|かねる ()|Combine
+兼ねる|かねる|Combine
 可能|かのう|Possible
 彼女|かのじょ|She
 カバー|カバー|Cover
@@ -1395,17 +1418,20 @@
 かばん|かばん|Bag
 過半数|かはんすう|Majority
 かび|かび|Mold
+花瓶|かびん|vase
 株|かぶ|Stock
 株式|かぶしき|Share
 被せる|かぶせる|Cover
 かぶる|かぶる|Wear
-かぶれる|かぶれる|Irritate
+かぶれる|かぶれる|get a rash
 花粉|かふん|Pollen
 かべ|かべ|Wall
 貨幣|かへい|Currency
 釜|かま|Kettle
+かまいません|かまいません|care about, mind
+かまいません|かまいません|I don't mind
 構う|かまう|Mind
-構え|かまえ|Stance
+構え|かまえ|structure, stance
 構える|かまえる|Prepare
 我慢|がまん|Patience
 紙|かみ|Paper
@@ -1432,7 +1458,8 @@
 かゆい|かゆい|Itchy
 通う|かよう|Commute
 歌謡|かよう|Song
-火曜|かようか|Tuesday
+火曜|かよう|Tuesday
+火曜日|かようび|Tuesday
 殻|から|Shell
 空|から|Empty
 柄|がら|Pattern
@@ -1463,8 +1490,7 @@
 過労|かろう|Overwork
 かろうじて|かろうじて|Barely
 カロリー|カロリー|Calorie
-皮|かわ|Skin
-革|かわ|Leather
+皮/革|かわ|Skin/Leather
 側|～がわ|Side
 かわいい|かわいい|Cute
 かわいがる|かわいがる|Adore
@@ -1476,274 +1502,3 @@
 交わす|かわせ|Exchange
 為替|かわせ|Foreign exchange
 瓦|かわら|Tile
-勘|かん|Intuition
-間|かん|Interval
-感|かん|Feeling
-代わりに|かわりに|Instead
-変わる|かわる|To change
-代わる|かわる|To substitute
-代わる代わる|かわるがわる|Alternately
-刊|かん|Publication
-感|かん|Feeling
-間|かん|Interval
-館|かん|Hall
-観|かん|View
-勘|かん|Intuition
-缶|かん|Can
-官|かん|Official
-管|かん|Pipe
-癌|がん|Cancer
-簡明|かんめい|Simplicity
-眼科|がんか|Ophthalmology
-灌漑|かんがい|Irrigation
-考え|かんがえ|Thought
-考える|かんがえる|To think
-感覚|かんかく|Sense
-間隔|かんかく|Space
-換気|かんき|Ventilation
-観客|かんきゃく|Audience
-眼球|がんきゅう|Eyeball
-環境|かんきょう|Environment
-玩具|がんぐ|Toy
-関係|かんけい|Relationship
-歓迎|かんげい|Welcome
-感激|かんげき|Deep emotion
-簡潔|かんけつ|Conciseness
-還元|かんげん|Reduction
-漢語|かんご|Chinese words
-看護|かんご|Nursing
-頑固|がんこ|Stubborn
-観光|かんこう|Sightseeing
-慣行|かんこう|Custom
-刊行|かんこう|Publication
-勧告|かんこく|Recommendation
-看護婦|かんごふ|Nurse
-関西|かんさい|Kansai region
-観察|かんさつ|Observation
-換算|かんさん|Conversion
-監視|かんし|Surveillance
-漢字|かんじ|Kanji
-感じ|かんじ|Feeling
-元日|がんじつ|New Year’s Day
-感謝|かんしゃ|Gratitude
-患者|かんじゃ|Patient
-関心|かんしん|Interest
-感心|かんしん|Admiration
-肝心|かんじん|Essential
-関する|かんする|Regarding
-完成|かんせい|Completion
-歓声|かんせい|Cheers
-関税|かんぜい|Tariff
-岩石|がんせき|Rock
-簡素|かんそ|Simplicity
-乾燥|かんそう|Dryness
-感想|かんそう|Impression
-観測|かんそく|Observation
-寒帯|かんたい|Frigid zone
-簡単|かんたん|Easy
-勘違い|かんちがい|Misunderstanding
-官庁|かんちょう|Government office
-缶詰|かんづめ|Canned food
-観点|かんてん|Point of view
-乾電池|かんでんち|Dry cell battery
-感度|かんど|Sensitivity
-関東|かんとう|Kanto region
-感動|かんどう|Emotion
-監督|かんとく|Supervision
-カンニング|かんにんぐ|Cheating
-観念|かんねん|Idea
-元年|がんねん|First year of an era
-乾杯|かんぱい|Cheers (toast)
-頑張る|がんばる|To do one’s best
-看板|かんばん|Signboard
-看病|かんびょう|Nursing
-幹部|かんぶ|Executive
-完璧|かんぺき|Perfection
-勘弁|かんべん|Forgiveness
-冠|かんむり|Crown
-感無量|かんむりょう|Deeply moved
-勧誘|かんゆう|Solicitation
-関与|かんよ|Participation
-感触|かんしょく|Texture
-感じる|かんじる|To feel
-簡潔|かんけつ|Brevity
-幹線|かんせん|Main line
-感染|かんせん|Infection
-寛容|かんよう|Tolerance
-慣用|かんよう|Common usage
-元来|がんらい|Originally
-観覧|かんらん|Viewing
-管理|かんり|Management
-完了|かんりょう|Completion
-官僚|かんりょう|Bureaucrat
-慣例|かんれい|Custom
-還暦|かんれき|Sixtieth birthday
-関連|かんれん|Relation
-貫禄|かんろく|Dignity
-緩和|かんわ|Relaxation
-気|き|Spirit
-期|き|Period
-気圧|きあつ|Atmospheric pressure
-議案|ぎあん|Proposal
-黄色|きいろ|Yellow
-消える|きえる|Disappear
-記憶|きおく|Memory
-気温|きおん|Temperature
-機会|きかい|Opportunity
-機械|きかい|Machine
-危害|きがい|Harm
-議会|ぎかい|Parliament
-着替え|きがえ|Changing clothes
-着替える|きがえる|To change clothes
-規格|きかく|Standard
-企画|きかく|Planning
-着飾る|きかざる|Dress up
-気兼ね|きがね|Hesitation
-気軽|きがる|Carefree
-期間|きかん|Period
-機関|きかん|Institution
-季刊|きかん|Quarterly publication
-器官|きかん|Organ
-機関車|きかんしゃ|Locomotive
-危機|きき|Crisis
-聞き取り|ききとり|Listening comprehension
-効き目|ききめ|Effect
-帰京|ききょう|Returning to Tokyo
-企業|きぎょう|Enterprise
-戯曲|ぎきょく|Play
-飢饉|ききん|Famine
-基金|ききん|Fund
-聞く|きく|Hear
-効く|きく|Work effectively
-器具|きぐ|Utensil
-喜劇|きげき|Comedy
-議決|ぎけつ|Resolution
-危険|きけん|Danger
-棄権|きけん|Abstention
-期限|きげん|Deadline
-機嫌|きげん|Mood
-起源|きげん|Origin
-気候|きこう|Climate
-機構|きこう|Mechanism
-記号|きごう|Symbol
-聞こえる|きこえる|Audible
-既婚|きこん|Married
-気障|きざ|Pretentious
-記載|きさい|Description
-兆し|きざし|Omen
-刻む|きざむ|Carve
-岸|きし|Shore
-記事|きじ|Article
-生地|きじ|Cloth
-技師|ぎし|Engineer
-儀式|ぎしき|Ceremony
-気質|きしつ|Temperament
-期日|きじつ|Fixed date
-議事堂|ぎじどう|Parliament building
-記述|きじゅつ|Description
-技術|ぎじゅつ|Technology
-基準|きじゅん|Standard
-規準|きじゅん|Criterion
-起床|きしょう|Getting up
-気象|きしょう|Weather
-傷|きず|Wound
-奇数|きすう|Odd number
-築く|きずく|Build
-傷付く|きずつく|Get hurt
-傷付ける|きずつける|Hurt
-規制|きせい|Regulation
-犠牲|ぎせい|Sacrifice
-季節|きせつ|Season
-着せる|きせる|Dress
-汽船|きせん|Steamboat
-基礎|きそ|Foundation
-競う|きそう|Compete
-寄贈|きぞう|Donation
-偽造|ぎぞう|Forgery
-規則|きそく|Rule
-貴族|きぞく|Noble
-北|きた|North
-ギター|ギター|Guitar
-期待|きたい|Expectation
-気体|きたい|Gas
-議題|ぎだい|Agenda
-鍛える|きたえる|Train
-帰宅|きたく|Returning home
-汚い|きたない|Dirty
-来たる|きたる|Coming
-基地|きち|Base
-貴重|きちょう|Valuable
-議長|ぎちょう|Chairperson
-几帳面|きちょうめん|Meticulous
-喫茶|きっさ|Tea drinking
-喫茶店|きっさてん|Coffee shop
-切手|きって|Postage stamp
-切符|きっぷ|Ticket
-規定|きてい|Regulation
-起点|きてん|Starting point
-軌道|きどう|Orbit
-気に入る|きにいる|Like
-記入|きにゅう|Entry
-絹|きぬ|Silk
-記念|きねん|Commemoration
-昨日|きのう|Yesterday
-機能|きのう|Function
-気の毒|きのどく|Pity
-規範|きはん|Norm
-基盤|きばん|Foundation
-厳しい|きびしい|Strict
-気品|きひん|Elegance
-寄付|きふ|Donation
-気風|きふう|Spirit
-起伏|きふく|Ups and downs
-気分|きぶん|Mood
-規模|きぼ|Scale
-希望|きぼう|Hope
-基本|きほん|Basics
-気まぐれ|きまぐれ|Fickle
-生真面目|きまじめ|Very serious
-決まる|きまる|Be decided
-君|きみ|You
-気味|きみ|Feeling
-義務|ぎむ|Duty
-記名|きめい|Registration
-決める|きめる|Decide
-着物|きもの|Kimono
-疑問|ぎもん|Question
-客|きゃく|Guest
-規約|きやく|Rules
-逆転|ぎゃくてん|Reversal
-脚本|きゃくほん|Script
-客間|きゃくま|Guest room
-華奢|きゃしゃ|Delicate
-客観|きゃっかん|Objective
-キャッチ|キャッチ|Catch
-キャプテン|キャプテン|Captain
-球根|きゅうこん|Bulb
-救援|きゅうえん|Rescue
-休暇|きゅうか|Holiday
-窮屈|きゅうくつ|Tight
-急行|きゅうこう|Express train
-急激|きゅうげき|Sudden
-規制|きせい|Regulation
-偽造|ぎぞう|Forgery
-規則|きそく|Rule
-基準|きじゅん|Standard
-気象|きしょう|Weather
-奇跡|きせき|Miracle
-機能|きのう|Function
-気持ち|きもち|Feeling
-喜劇|きげき|Comedy
-華奢|きゃしゃ|Delicate
-客間|きゃくま|Guest room
-客観|きゃっかん|Objective
-キャッチ|キャッチ|Catch
-キャプテン|キャプテン|Captain
-球根|きゅうこん|Bulb
-救援|きゅうえん|Rescue
-休暇|きゅうか|Holiday
-窮屈|きゅうくつ|Tight
-急行|きゅうこう|Express train
-急激|きゅうげき|Sudden
-規範|きはん|Norm
-機械|きかい|Machine

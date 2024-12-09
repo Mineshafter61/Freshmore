@@ -15,9 +15,9 @@ $$
 - Solving: $$
 \begin{align}
 \frac{dy}{dt}&=k\left(1-\frac{y}{L}\right)y \\
-\implies\frac{dy}{ky\left(1-\frac{y}{L}\right)}&=dt \\
-\implies \int\frac{dy}{ky\left(1-\frac{y}{L}\right)}&=\int dt \\
-\implies \frac{1}{k}\int\frac{dy}{y\left(1-\frac{y}{L}\right)}&=t+c
+\frac{dy}{ky\left(1-\frac{y}{L}\right)}&=dt \\
+\int\frac{dy}{ky\left(1-\frac{y}{L}\right)}&=\int dt \\
+\frac{1}{k}\int\frac{dy}{y\left(1-\frac{y}{L}\right)}&=t+c
 \end{align}
 $$
 - Solving the left side: **Use partial fractions**
