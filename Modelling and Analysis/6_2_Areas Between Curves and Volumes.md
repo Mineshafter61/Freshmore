@@ -3,7 +3,7 @@
 - Area between curves $y=f(x)$ and $y=g(x)$ for $a ≤ x ≤ b$
 $$
 \begin{gather}
-A = \displaystyle\lim_{n \to \infty}\sum_{i=1}^n[f(x_i^*) - g(x_i^*)]\Delta x = \int_a^b[f(x) - g(x)] \, dx, \\
+A = \displaystyle\lim_{n \to \infty}\sum_{i=1}^n[f(x_i^*) - g(x_i^*)]Δ x = \int_a^b[f(x) - g(x)] \, dx, \\
 \text{ where } f(x) ≥ g(x) \text{ for all } x \in [a,b]
 \end{gather}
 $$
@@ -48,8 +48,8 @@ $$
 ### Method of cylindrical shells
 - Used when a volume is formed by a **single function**
 - Finding volume of object about $y$-axis.
-- Divides volume into $n$ small cylindrical shells with thickness $\Delta x=\frac{b-a}{n}$, as $n\to∞$
+- Divides volume into $n$ small cylindrical shells with thickness $Δ x=\frac{b-a}{n}$, as $n\to∞$
 - Formula: $$
-V=\lim_{n\to∞}\sum_{i=1}^{n}V_i=\lim_{n\to∞}\sum_{i=1}^{n}2π\,\bar{x_i}\cdot f(x)\cdot\Delta x=\int_a^b2πx\,f(x)\,dx 
+V=\lim_{n\to∞}\sum_{i=1}^{n}V_i=\lim_{n\to∞}\sum_{i=1}^{n}2π\,\bar{x_i}\cdot f(x)\cdotΔ x=\int_a^b2πx\,f(x)\,dx 
 $$
 - $V_i = \text{circumference due to rotation about y-axis with radius } \bar{x}_i \text{ from the y-axis} \times \text{height of shell} \times \text{thickness of shell}$

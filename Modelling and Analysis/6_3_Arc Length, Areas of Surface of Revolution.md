@@ -1,8 +1,8 @@
 ## Arc Length
 - For two points $(x_1, y_1)$ and $(x_2, y_2)$, the length $l$ between them is given by $l=\sqrt{(x_2-x_1)^2+(x_2-x_1)^2}$.
-- If there are many segments on the line, arc length of each segment $\Delta s_i = \sqrt{(\Delta x)^2 + (\Delta y)^2}$ where $\Delta x$ is fixed while $\Delta y$ is kept variable to accommodate for vertical variations in the curve.
+- If there are many segments on the line, arc length of each segment $Δ s_i = \sqrt{(Δ x)^2 + (Δ y)^2}$ where $Δ x$ is fixed while $Δ y$ is kept variable to accommodate for vertical variations in the curve.
 - The total length s of a continuous and differentiable curve $y=f(x)$ is defined over the interval $a ≤ x ≤ b$ is given by
-$$\begin{align}s &= \lim_{n \to \infty} \sum_{i=1}^n \Delta s_i \\&= \lim_{n \to \infty} \sum_{i=1}^n \sqrt{(\Delta x)^2 + (\Delta y)^2} \\&= \lim_{n \to \infty} \sum_{i=1}^n \sqrt{1+\left(\frac{\Delta y}{\Delta x}\right)^2}\cdot \Delta x \\ &= \lim_{i=1} \sum_{i=1}^n \sqrt{1+(f'(x_i^*)^2}\cdot \Delta x \\&= \int_a^b \sqrt{1+[f'(x)]^2}\,dx\end{align}$$
+$$\begin{align}s &= \lim_{n \to \infty} \sum_{i=1}^n Δ s_i \\&= \lim_{n \to \infty} \sum_{i=1}^n \sqrt{(Δ x)^2 + (Δ y)^2} \\&= \lim_{n \to \infty} \sum_{i=1}^n \sqrt{1+\left(\frac{Δ y}{Δ x}\right)^2}\cdot Δ x \\ &= \lim_{i=1} \sum_{i=1}^n \sqrt{1+(f'(x_i^*)^2}\cdot Δ x \\&= \int_a^b \sqrt{1+[f'(x)]^2}\,dx\end{align}$$
 - If the curve is expressed as $x=f(y)$, our formula for arc length is $\int_a^b \sqrt{1+[f'(y)]^2}\,dy$
 ### Trigonometric substitution
 | Expression       | Substitution                              | Expression evaluation             |
@@ -64,12 +64,12 @@ $$
 ## Areas of Surface of Revolution
 - Formed when a curve is rotated about a line
 - Formula for the surface area of the i-th band of the surface area is $$\begin{align}
-S_i&=2πrl\\&=π\cdot r\cdot \Delta s_i\\&=2π\frac{(y_{i-1}+y_{i})}{2}\cdot\sqrt{1+(f'(x_i^*))^2}\,\Delta x\\&=π \cdot[2f(x_i^*)]\cdot\sqrt{1+(f'(x_i^*))^2}\,\Delta x
+S_i&=2πrl\\&=π\cdot r\cdot Δ s_i\\&=2π\frac{(y_{i-1}+y_{i})}{2}\cdot\sqrt{1+(f'(x_i^*))^2}\,Δ x\\&=π \cdot[2f(x_i^*)]\cdot\sqrt{1+(f'(x_i^*))^2}\,Δ x
 \end{align}$$ as when $n \to \infty, f(x_{i-1})=f(x_{i})$
 - This is also the average radius of the approximating band. Thus, the surface area of the object is $$
 \begin{align}
 S&=\lim_{ n \to \infty } \sum_{i=1}^{n}S_{i} \\
-&=\lim_{ n \to \infty } \sum_{i=1}^{n}π \cdot[2f(x_i^*)]\cdot\sqrt{1+(f'(x_i^*))^2}\,\Delta x \\
+&=\lim_{ n \to \infty } \sum_{i=1}^{n}π \cdot[2f(x_i^*)]\cdot\sqrt{1+(f'(x_i^*))^2}\,Δ x \\
 &=\int_{a}^{b} 2π\,f(x)\sqrt{1+[f'(x)]^{2}} \, dx  \\
 &=\int 2πy\,ds \\
 \text{where } y&=f(x), \\

@@ -5,12 +5,12 @@
 - Always smaller than or equal to distance
 ## Velocity
 - Change in displacement over time
-- Average velocity: $\frac{\Delta\vec{r}}{\Delta t} = \frac{\vec{r}(t_2) - \vec{r}(t_1)}{t_2 - t_1}$
+- Average velocity: $\frac{Δ\vec{r}}{Δ t} = \frac{\vec{r}(t_2) - \vec{r}(t_1)}{t_2 - t_1}$
 - Instantaneous velocity: $\frac{d\vec{r}(t)}{dt}$
 - Constant velocity: average velocity = instantaneous velocity
 ## Acceleration
 - Change in velocity over time
-- Average acceleration: $\frac{\Delta\vec{v}}{\Delta t} = \frac{\vec{v}(t_2) - \vec{v}(t_1)}{t_2 - t_1}$
+- Average acceleration: $\frac{Δ\vec{v}}{Δ t} = \frac{\vec{v}(t_2) - \vec{v}(t_1)}{t_2 - t_1}$
 - Instantaneous acceleration: $\frac{d\vec{v}(t)}{dt}$
 - Constant acceleration: average acceleration = instantaneous acceleration
 ### Graphs and equations

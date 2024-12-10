@@ -12,30 +12,30 @@
 	- No change in $\hat{k}$
 	- Every part of the same body must have the same angular velocity and angular acceleration.
 ## Forces and torque law
-- Consider a rigid body rotates with $\vec{\omega}$ and $\vec{\alpha}$. Each small element of mass ($\Delta m_i$) is subjected to a force $\vec{F}_i$.
-- By [[3_Forces#Second law of motion|Newton's Second Law]], $\Delta m_i$ has an acceleration $\vec{a}_i$ that can be decomposed into the tangential $a_{θ i} \hat{θ}$ and radial $a_{ri} \hat{r}$ components with respect to an axis $\vec{S}$ passing perpendicularly through the plane of orbit.
+- Consider a rigid body rotates with $\vec{\omega}$ and $\vec{\alpha}$. Each small element of mass ($Δ m_i$) is subjected to a force $\vec{F}_i$.
+- By [[3_Forces#Second law of motion|Newton's Second Law]], $Δ m_i$ has an acceleration $\vec{a}_i$ that can be decomposed into the tangential $a_{θ i} \hat{θ}$ and radial $a_{ri} \hat{r}$ components with respect to an axis $\vec{S}$ passing perpendicularly through the plane of orbit.
 - $\vec{F}_{i} = m_{i} \vec{a}_{i} = m_{i} (a_{θ i} \hat{θ} - a_{ri} \hat{r})$
-- Let $\vec{r}_{i} = r_{i} \hat{r}$ be the position of point mass relative to $O$. The torque exerted on each $\Delta m_{i}$ is
+- Let $\vec{r}_{i} = r_{i} \hat{r}$ be the position of point mass relative to $O$. The torque exerted on each $Δ m_{i}$ is
 
 $$\begin{gather}
-\vec{\tau}_i=\vec{r}_i\times \vec{F}_i=\vec{r}_i \times \Delta m_i(a_{θ i}\hat{θ}+a_{ri}\hat{r}) \\
-\implies \vec{\tau}_i=\Delta m_ir_i\hat{r}\times(a_{θ i}\hat{θ}+a_{ri}\hat{r}) \\
+\vec{\tau}_i=\vec{r}_i\times \vec{F}_i=\vec{r}_i \times Δ m_i(a_{θ i}\hat{θ}+a_{ri}\hat{r}) \\
+\implies \vec{\tau}_i=Δ m_ir_i\hat{r}\times(a_{θ i}\hat{θ}+a_{ri}\hat{r}) \\
 \implies \vec{\tau}_i=mr_ia_{θ i}\hat{k}=mr_i^2\alpha \hat{k} \\\text{ where } a_{θ i}=r_{i}\alpha \text{ and } \hat{r} \times \hat{θ} = \hat{k}
 \end{gather}$$
 
 - Thus, total torque exerted on the rigid body is
 
-$$\vec{\tau}=\sum \vec{\tau}_{i} = \sum_{i}\Delta m_ir_i^2\alpha \hat{k} \implies \vec{\tau}=\left(\sum_{i}\Delta m_ir_i^2\right)\vec{\alpha}$$
+$$\vec{\tau}=\sum \vec{\tau}_{i} = \sum_{i}Δ m_ir_i^2\alpha \hat{k} \implies \vec{\tau}=\left(\sum_{i}Δ m_ir_i^2\right)\vec{\alpha}$$
 ## Moment of Inertia
 - Affected by **mass** and the **distribution of mass** from the axis of rotation
 - The moment of inertia of a rigid body about $S$ is defined as the sum of all the small mass elements it is composed of:
 $$
-I_s=\sum_{i}\Delta m_ir_i^2
+I_s=\sum_{i}Δ m_ir_i^2
 $$
 - Using continuous limits,
 $$
 \begin{gather*}
-    \Delta m_i \to dm \\
+    Δ m_i \to dm \\
     r_i \to r \\
     \sum_{i} \to \underset{\text{body}}{\int}
 \end{gather*}
@@ -52,7 +52,7 @@ $$
     - Linear density = $\frac{\text{mass}}{\text{length}} \implies \lambda = \frac{m}{L}$
 - For **linear** objects of **non-uniform density**
     - e.g Density $\lambda$ is a function of length $x$, $\lambda(x) = Ax^2$
-    - Density $\lambda(x)$ has to be individually calculated for each particle of mass $\Delta m$ at distance $\Delta x$ from the start of the function (start of rod) to the end of the function (end of rod)
+    - Density $\lambda(x)$ has to be individually calculated for each particle of mass $Δ m$ at distance $Δ x$ from the start of the function (start of rod) to the end of the function (end of rod)
     - $\lambda(x) = \frac{dm}{dx} \implies dm = \lambda(x) dx$
     - To get the constant $A$ which affects the "average" density of the whole rod, we integrate this equation and set the limits to the start and end of the rod
 $$

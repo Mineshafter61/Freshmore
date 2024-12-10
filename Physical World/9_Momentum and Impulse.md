@@ -9,14 +9,14 @@
 ## Impulse
 - Impulse = $\vec{I}=\int_{t_f}^{t_0} \vec{F} \, dt=\vec{F}_{ave}\cdot(t_f-t_0)$
 - Area under curve of force-time graph (ref. [[8_Energy and Work Done#Work Done]])
-- Impulse results in the **change** in momentum $\Delta \vec{p}$
+- Impulse results in the **change** in momentum $Δ \vec{p}$
 	- It is **not** momentum
 ## Momentum, Kinetic Energy and Work Done
 - Kinetic energy and momentum are related by:
 - $K=\frac{1}{2}mv^{2}=\frac{m^{2}v^{2}}{2m}=\frac{p^{2}}{2m}$
 - Work-Kinetic Energy Theorem in terms of momentum:
-- $W=\int_{\vec{r_{t_0}}}^{\vec{r_{t_f}}} \vec{F}\cdot d\vec{r}=\Delta K=\frac{1}{2}mv_f^2-\frac{1}{2}mv_0^2=\frac{p_f^2}{2m}-\frac{p_0^2}{2m}$
-- $\Delta K \neq \frac{|\Delta \vec{p}|^2}{2m}$
+- $W=\int_{\vec{r_{t_0}}}^{\vec{r_{t_f}}} \vec{F}\cdot d\vec{r}=Δ K=\frac{1}{2}mv_f^2-\frac{1}{2}mv_0^2=\frac{p_f^2}{2m}-\frac{p_0^2}{2m}$
+- $Δ K \neq \frac{|Δ \vec{p}|^2}{2m}$
 - Work‐Kinetic Energy theorem states that work done by a force is the change of kinetic energy of the system (**scalar**)
 - Impulse is the change in momentum of a system (**vector**)
 - Change in KE is **not** impulse since there is **direction** associated with impulse
@@ -24,7 +24,7 @@
 - All internal forces arise from a collection of objects interacting with each other.
 - Sum of all internal forces is zero.
 ## Conservation of momentum
-- The **momentum of a system is conserved** ($\Delta \vec{p}_{sys} = 0$) if **either** of the conditions are true
+- The **momentum of a system is conserved** ($Δ \vec{p}_{sys} = 0$) if **either** of the conditions are true
 	- the external force is 0 (in the direction of calculation); or
 	- the interaction time with external forces is negligible
 - Total initial momentum = total final momentum: $\sum p_0=\sum p_f$
@@ -32,16 +32,16 @@
 	- e.g For a cart going left where right is defined to be positive
 	- $\vec{v} = -v\hat{i}$
 	- $-\vec{v} \neq -v\hat{i}$
-- For conservation of momentum ($\Delta p = 0$), **reference frame must consider all relevant objects as 1 system**
+- For conservation of momentum ($Δ p = 0$), **reference frame must consider all relevant objects as 1 system**
 	- Usually from the "ground" perspective **outside** the system
 	- **Cannot** be from the perspective of an object in the system
 	- Recall relative velocity, where $v_{a,g}$ is velocity of $a$ with respect to the ground
 $$v_{a,g} = v_{a,b} + v{b,g} \text{ where } b \text{ can be any other object in the system}$$
-- Angle of velocities is also **different** for different reference frames since the cosine component of velocity is different for the same sine component if both reference frames only experience $\Delta x$.
+- Angle of velocities is also **different** for different reference frames since the cosine component of velocity is different for the same sine component if both reference frames only experience $Δ x$.
 ## Collisions
 - If the net external force acting on a system is zero, or interaction time is negligible, then the momentum of the system is constant:
 $$
-\vec{I}_{net}=\int_{t_i}^{t_i} \vec{F}_{net} \, dt =0\implies \Delta \vec{P}=\vec{0}
+\vec{I}_{net}=\int_{t_i}^{t_i} \vec{F}_{net} \, dt =0\implies Δ \vec{P}=\vec{0}
 $$
 - **Momentum is conserved for all collisions** if the conditions for [[9_Momentum and Impulse#Conservation of momentum|Conservation of Momentum]] are met
 - **Elastic collisions**: 

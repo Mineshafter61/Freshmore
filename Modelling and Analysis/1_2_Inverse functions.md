@@ -1,4 +1,4 @@
-- $f^{-1}$ exists => $y = f(x)$ -> $x = f^{-1}(y)$
+- $f^{-1} \text{exists} \implies y = f(x) \implies x = f^{-1}(y)$
 - $f(f^{-1}(x)) = f^{-1}(f(x)) = f(x)$
 - Existence of inverse function: horizontal line test
 - f has an inverse ↔︎ f is a one-to-one function

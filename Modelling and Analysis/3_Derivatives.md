@@ -45,7 +45,7 @@ f'(3) &= \lim_{ h \to 0 }\frac{f(3+h)-f(3)}{h} \\
 	- For $x = 0$, $f'(x)$ is undefined
 	- i.e $f'(x)$ is **discontinuous** at $x = 0$ and hence $f(x)$ is not **differentiable**
 ## Definition of Derivatives
-- $f'(a) = \displaystyle\lim_{x \to a}\frac{f(x)-f(a)}{x-a} = \displaystyle\lim_{\Delta x \to 0}\frac{\Delta y}{\Delta x} = \frac{dy}{dx} = \frac{d}{dx}(y)$
+- $f'(a) = \displaystyle\lim_{x \to a}\frac{f(x)-f(a)}{x-a} = \displaystyle\lim_{Δ x \to 0}\frac{Δ y}{Δ x} = \frac{dy}{dx} = \frac{d}{dx}(y)$
 - Higher order derivatives
 	- $f''(x) = f^{(2)}(x) = \frac{d}{dx}(\frac{dy}{dx}) = \frac{d^2y}{dx^2}$
 	- $f'''(x) = f^{(3)}(x) = \frac{d}{dx}(\frac{d^2y}{dx^2}) = \frac{d^3y}{dx^3}$

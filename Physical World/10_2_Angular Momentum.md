@@ -14,16 +14,16 @@
 - Velocity: $\vec{v}=R\omega_{z}\hat{\theta}$
 - Angular momentum about point S: $$\vec{L}_{s}=\vec{r}_{s}\times \vec{p}=(R\hat{r})\times(mR\omega_{z}\hat{\theta})=(mR^{2}\omega _{z})\hat{k}=(mR^2)\vec{\omega}$$
 ### ... of fixed axis rotation
-- The magnitude and direction of the angular momentum of mass $m_i$ about the point $S$: $\Delta L_{s,i}=\vec{r}_{i}\times (m_{i}\vec{v}_{i})=(r_{i,\parallel}+r_{i,\perp}\hat{r}_{i})\times m_{i}r_{i,\perp}\omega_{z}\hat{\theta}_{i}$
-- The component of the angular momentum along the fixed rotation axis ($\hat{k}$) is given by the 2nd term: $(\Delta \vec{L}_{s,i})_{z}=m_{i}r_{i,\perp}^{2}\omega_{z}\hat{k}$
+- The magnitude and direction of the angular momentum of mass $m_i$ about the point $S$: $Δ L_{s,i}=\vec{r}_{i}\times (m_{i}\vec{v}_{i})=(r_{i,\parallel}+r_{i,\perp}\hat{r}_{i})\times m_{i}r_{i,\perp}\omega_{z}\hat{\theta}_{i}$
+- The component of the angular momentum along the fixed rotation axis ($\hat{k}$) is given by the 2nd term: $(Δ \vec{L}_{s,i})_{z}=m_{i}r_{i,\perp}^{2}\omega_{z}\hat{k}$
 - Therefore, for the rigid body, $$(\vec{L}_{s})_{z}=\lim_{ N \to \infty }\sum_{i}^{N}(m_{i}r_{i,\perp}^{2})\omega_{z}\hat{k}=\left( \int_{body}r_{\perp}^{2}\,dm \right)\omega_{z}\hat{k}=I_{z}\omega_{z}\hat{k}=I_{z}\vec{\omega}$$
 	- where $I_z$ is the moment of inertia **only** about the $z$ axis.
 		- For symmetrical objects of uniform density spinning about it's CM, $I = I_z$ as all $I_r$ component of a point is cancelled by that of the opposite point
 	- $I_{z}\omega_{z}\hat{k}=I_{z}\vec{\omega}$ refers to the rigid body spinning about a fixed axis.
 ## Angular impulse
-- Angular impulse is given by $$\vec{J}_{s}=\Delta \vec{L}_{s}=(\vec{\tau}_{s})_{ave}(\tau_f-\tau_i)=\int_{t_{0}}^{t_{f}} \vec{\tau}_{s} \, dt$$
+- Angular impulse is given by $$\vec{J}_{s}=Δ \vec{L}_{s}=(\vec{\tau}_{s})_{ave}(\tau_f-\tau_i)=\int_{t_{0}}^{t_{f}} \vec{\tau}_{s} \, dt$$
 ## Conservation of angular momentum
-- Change in angular momentum $\Delta\vec{L}_s$ is **zero** if
+- Change in angular momentum $Δ\vec{L}_s$ is **zero** if
 	- There is no net external torque **or**
 	- The interaction time is short
 - Angular momentum is constant w.r.t time

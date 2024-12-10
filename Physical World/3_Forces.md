@@ -18,7 +18,7 @@
 		- Comes in two types: static $\vec{f_{s}}$ when not moving, and kinetic $\vec{f_{k}}$ when moving.
 		- $\vec{f} = \mu \vec{N}$ where $\mu$ is the coefficient of friction. (for both types)
 - Spring force: force exerted by spring tends to restore to the equilibrium position.
-	- Hooke's law: $F = -k \Delta l$ where k is the spring constant and $\Delta l$ is the displacement from equilibrium.
+	- Hooke's law: $F = -k Δ l$ where k is the spring constant and $Δ l$ is the displacement from equilibrium.
 - Tension: pulling force transmitted along the length of a string, rope, cable, chain or rod.
 - Always acts on the object **by the rope**
 	- Points towards midpoint of rope

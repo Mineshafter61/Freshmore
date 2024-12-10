@@ -1,5 +1,5 @@
 ## Exponential function
-- Domain for b^x is ℝ.
+- Domain for $b^x$ is $ℝ$.
 - Range is $(0, ∞)$.
 - If $b > 1$, $b^x$ is increasing.
 - If $0 > b > x$, $b^x$ is decreasing.

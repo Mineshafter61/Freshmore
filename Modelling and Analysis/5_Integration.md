@@ -26,12 +26,12 @@
 	- $\int \frac{2t^2+t^{2}\sqrt{t}-1}{t^{2}}\,dx=\int 2+\sqrt{t}-\frac{1}{t^{2}}\,dx=2t+\frac{2t^{3/2}}{3}+\frac{1}{t}+C$
 	- $\int[\cos x-\sin x]\,dx=\sin x+\cos x+C$
 ## Definite integrals
-- Definition: Given a **continuous function** $f(x)$ on an interval $[a,b]$, the definite integral from $a$ to $b$ can be defined by **dividing the interval into $n$ subintervals of width** $\Delta x=\frac{b-a}{n}$, and **selecting $x^*_i$ in each subinterval the following way**: $$\int_{a}^{b} f(x) \, dx =\lim_{ n \to ∞ } \sum_{i=1}^{n} f(x_i^*) \Delta x$$ if the limit exists.
+- Definition: Given a **continuous function** $f(x)$ on an interval $[a,b]$, the definite integral from $a$ to $b$ can be defined by **dividing the interval into $n$ subintervals of width** $Δ x=\frac{b-a}{n}$, and **selecting $x^*_i$ in each subinterval the following way**: $$\int_{a}^{b} f(x) \, dx =\lim_{ n \to ∞ } \sum_{i=1}^{n} f(x_i^*) Δ x$$ if the limit exists.
 - **Signed area** of the region bounded by the graph of $f(x)$, the x axis, and the vertical lines $x=a$ and $x=b$
 - Can be negative if large portions of the graph are under the x axis.
 - Area under graph can be **approximated** by splitting it into rectangles (also known as the [Riemann sum](https://en.wikipedia.org/wiki/Riemann_sum))
 $$
-\text{Area } \approx \Delta x f(x_0) + \Delta x f(x_1) + \cdots + \Delta x f(x_{n-1})
+\text{Area } \approx Δ x f(x_0) + Δ x f(x_1) + \cdots + Δ x f(x_{n-1})
 $$
 ### Rules
 - $\int_{a}^{b} f(x) \, dx = -\int_{b}^{a} f(x) \, dx$
@@ -48,11 +48,11 @@ $$
 ## Finding constant c
 - Constant can be determined by the initial conditions in the question
 ## Finding integral from Riemann sum
-- $\displaystyle\lim_{ n \to ∞ }\sum_{k=1}^{n}f(c_k)\Delta x=\int_{a}^{b} f(x) \, dx$
+- $\displaystyle\lim_{ n \to ∞ }\sum_{k=1}^{n}f(c_k)Δ x=\int_{a}^{b} f(x) \, dx$
 - Example: $\displaystyle\lim_{ n \to ∞ }\sum_{k=1}^{n}-c\left( 2+\frac{8k}{n} \right) \frac{8}{n}$
-	- We know that $\displaystyle\Delta x=\frac{b-a}{n}$ and $\displaystyle c_{k}=x_{k}=a+k\Delta x$
-	- From $\displaystyle\lim_{ n \to ∞ }\sum_{k=1}^{n}-c\left( 2+\frac{8k}{n} \right) \frac{8}{n} \implies \Delta x=\frac{8}{n} \implies b-a=8$
-	- Therefore, $f(x)=-c\left( 2+\frac{8k}{n} \right) \implies c_{k}+\frac{8}{n}k=a+k(\Delta x) \implies a=2 \text{ and } b=8+a=10$
+	- We know that $\displaystyleΔ x=\frac{b-a}{n}$ and $\displaystyle c_{k}=x_{k}=a+kΔ x$
+	- From $\displaystyle\lim_{ n \to ∞ }\sum_{k=1}^{n}-c\left( 2+\frac{8k}{n} \right) \frac{8}{n} \implies Δ x=\frac{8}{n} \implies b-a=8$
+	- Therefore, $f(x)=-c\left( 2+\frac{8k}{n} \right) \implies c_{k}+\frac{8}{n}k=a+k(Δ x) \implies a=2 \text{ and } b=8+a=10$
 	- Hence, $\displaystyle\int_{a}^{b} F(x) \, dx=\lim_{ n \to ∞ }\sum_{k=1}^{n}-c\left( 2+\frac{8k}{n} \right) \frac{8}{n}=0$
 ## Integration by substitution
 - Reverse of chain rule
@@ -135,9 +135,9 @@ $$
 - If $f$ is **continuous** on $[a, b]$, then there exists a number $c$ in $[a, b]$ such that
 - Given $y=f(x), \frac{b-a}{n}$
 	- $y_{ave} = \frac{y_1 + y_2 + \cdots + y_n}{n}$
-	- $\Delta x = \frac{b-a}{n}$
+	- $Δ x = \frac{b-a}{n}$
 $$
 \begin{gather}
-f_{ave}=\lim_{ n \to ∞ } \frac{1}{b-a}[f(x_{1}^{*})+f(x_{2}^{*})+f(x_{3}^{*})+\dots f(x_{n}^{*})]\Delta x=\frac{1}{b-a}\int_{a}^{b} f(x) \, dx 
+f_{ave}=\lim_{ n \to ∞ } \frac{1}{b-a}[f(x_{1}^{*})+f(x_{2}^{*})+f(x_{3}^{*})+\dots f(x_{n}^{*})]Δ x=\frac{1}{b-a}\int_{a}^{b} f(x) \, dx 
 \end{gather}
 $$
