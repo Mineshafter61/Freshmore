@@ -11,7 +11,7 @@
 - Split into $\hat{i}$ and $\hat{j}$ components
 - Recall: Moment about CM is $0$ given no external forces
 ## Continuous bodies
-- Similar to moment of inertia
+- Similar to [[5_2_Rigid body#Calculating Moment of Inertia]]
 - Position of centre of mass
 $$
 \begin{gather}
