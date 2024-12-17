@@ -37,7 +37,8 @@
               "title": "大大フォーミュラシート"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,10 +171,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2bd89795d5d97629",
+  "active": "76d27e4f06e314ed",
   "lastOpenFiles": [
-    "Physical World/11_Simple Harmonic Motion.md",
+    "Physical World/12_Thermodynamics.md",
     "Physical World/大大フォーミュラシート.md",
+    "Physical World/11_Simple Harmonic Motion.md",
     "Physical World/10_2_Angular Momentum.md",
     "Physical World/10_1_Centre of Mass.md",
     "Physical World/5_2_Rigid body.md",
@@ -199,7 +201,6 @@
     "/Modelling and Analysis/6_3_Arc Length, Areas of Surface of Revolution.md",
     "/Modelling and Analysis/6_2_Areas Between Curves and Volumes.md",
     "/Modelling and Analysis/5_Integration.md",
-    "/Modelling and Analysis/3_Derivatives.md",
     "ref/parallel axis theorem.png",
     "/ref/parallel axis theorem.png",
     "ref/shmPhaseShift.jpg",

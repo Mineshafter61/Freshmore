@@ -8,7 +8,7 @@
 - The amount of heat required $Δ Q$ to raise the temperature of that body by $Δ T$.
 - Depends on the internal microscopic structure of atoms/molecules
 $$
-C=\frac{Δ Q}{Δ T}\implies Δ Q = CΔ T \text{or} dQ=CdT
+C=\frac{Δ Q}{Δ T}\implies Δ Q = CΔ T \text{ or } dQ=CdT
 $$
 - If heat capacity $C(T)$ varies with temperature over the temperature interval $Δ T$
 $$
@@ -65,14 +65,14 @@ medium between the two bodies).
 $$
 \dot{Q}=\sigma Ae(T_\infty^4 - T_s^4)
 $$
-- $\sigma$: Stefan-Boltzmann Constant, $\sigma = 5.67\times 10^{-8}Wm^{-2}K^{-4}$
-- $e$: Emissivity describes the ratio of energy energy an object radiates compared to the perfect emitter for a specific wavelength. It can take values of $0<e<1$.
+	- $\sigma$: Stefan-Boltzmann Constant, $\sigma = 5.67\times 10^{-8}Wm^{-2}K^{-4}$
+	- $e$: Emissivity describes the ratio of energy energy an object radiates compared to the perfect emitter for a specific wavelength. It can take values of $0<e<1$.
 ### Extras
 - Intensity $I=\frac{\dot{Q}}{A}$, therefore:
-  - Conduction: $I = -k\frac{Δ T}{Δ x}$
-  - Convection: $I = hΔ T = h(T_\infty - T_s)$
-  - Radiation: $I=\sigma e(T_\infty^4 - T_s^4)$
-    - 2 faces: $I=\sigma 2e(T_\infty^4 - T_s^4)$
+	- Conduction: $I = -k\frac{Δ T}{Δ x}$
+	- Convection: $I = hΔ T = h(T_\infty - T_s)$
+	- Radiation: $I=\sigma e(T_\infty^4 - T_s^4)$
+		- 2 faces: $I=\sigma 2e(T_\infty^4 - T_s^4)$
 ## Ideal Gases
 - Law: $$pV=nRT$$
 - Assumptions: 
@@ -83,7 +83,7 @@ $$
 - Classical **elastic collisions**
 	- Momentum and KE are conserved
 	- Relative speed of approach = relative speed of separation
-- Gas pressure and volume relation: $pV=\frac{2}{3}N\langle K_{tr}\rangle=\frac{Nm}{3}\langle v^{2}\rangle$ where $K_{tr}$ is translational kinetic energy
+- Gas pressure and velocity relation: $pV=\frac{2}{3}N\langle K_{tr}\rangle=\frac{Nm}{3}\langle v^{2}\rangle$ where $K_{tr}$ is translational kinetic energy
 - Average force on wall per particle
 $$
 F_i = ma_i = m\frac{\vec{v}_f - \vec{v}_0}{Δ t} = m\frac{-v_x - v_x}{Δ t}\hat{i} = -\frac{2mv_x}{Δ t} = -\frac{2mv_x}{2d/v_x} = -\frac{mv_x^2}{d}
@@ -99,9 +99,7 @@ $$
 pV=\frac{2}{3}N\langle  K_{tr}\rangle=Nk_{B}T
 $$
 ## First Law of Thermodynamics
-- The **change in the internal energy** of a **closed system** is equal to the heat $Q$ acquired by the system minus the work done **BY** the system, $W$: $$
-Δ E_{int}=Q-W
-$$
+- The **change in the internal energy** of a **closed system** is equal to the heat $Q$ acquired by the system minus the work done **BY** the system, $W$: $$Δ E_{int}=Q-W$$
 - Polarity matters:
 	- If $Q$ is positive, heat is added to the system
 	- If $Q$ is negative, heat is removed from the system
@@ -141,17 +139,17 @@ $$
 ### Isobaric process
 - Heating a gas at **constant pressure**
 - Heat goes into **raising internal energy** $Δ E_{int}$ of the gas
-- Heat goes into work done by the gas $W = p Δ V$
+- Heat goes into **work done by the gas** $W = p Δ V$
 - Molar heat capacity: $Q_p=nc_pΔ T=Δ E_{int}+pΔ V>Q_V$
 ### Isothermal process
 - Heating a gas at **constant temperature**
-- **No change in internal energy** $Δ E_{int}$ for an ideal gas
-- Heat goes **solely** into work done by the gas $W = p Δ V$
+- **No change in internal energy** $ΔE_{int}$ for an ideal gas
+- Heat goes **solely** into **work done by the gas** $W = p Δ V$
 - Molar heat capacity: $Q_p=nc_pΔ T=Δ E_{int}+W>Q_V$
 - Constant ratio $\frac{T}{V}$ in $pV = nRT$
 ### Adiabatic process
-- **Does not allow heat exchange** between the system and its surroundings (i.e. $Q=0$). The system is isolated.
-- $Q=0$
+- **Does not allow heat exchange** between the system and its surroundings. The system is isolated.
+- $ΔQ=0$
 - Molar heat capacity: $W=-Δ E_{int}=-nc_{V}Δ T=nc_{V}(T_{i}-T_{f})$
 - Adiabatic processes satisfies the **equation of state**, $pV^γ=k$ where $k$ is a constant and $\gamma=\frac{c_{p}}{c_{v}}$ is the **heat capacity ratio** which is temperature-dependant. 
 	- For a monoatomic gas, $\gamma=\frac{5}{3}$
@@ -184,4 +182,4 @@ $$e_{\mathrm{th}}:={\frac{|W_{\mathrm{net}}|}{|Q_{h}|}}={\frac{|Q_{h}|-|Q_{c}|}{
 - Zero work done by the gas during isochoric process, $W_{2\to3}=W_{4\to1}=0$.
 - $\displaystyle W_{net}=W_{1 \to 2}+W_{3 \to 4}=\left( 1-\frac{T_{c}}{T_{h}} \right)W_{1 \to 2}$
 - $\displaystyle e_{th}=\frac{W_{net}}{Q_{h}}=\frac{1T_c/T_{h}W_{1 \to 2}}{Q_{1\to2}}=1-\frac{T_c}{T_h}$
-- Carnot Theorem: No heat engine can be more efficient that $1-\frac{T_c}{T_h}$
+- Carnot Theorem: No heat engine can be more efficient than $1-\frac{T_c}{T_h}$ where $T_c$ is the cooling temperature and $T_h$ is the heating temperature.
