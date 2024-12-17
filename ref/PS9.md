@@ -70,3 +70,32 @@ $$
 \end{align}
 $$
 (b)
+$$
+\begin{align}
+\langle x^2 \rangle&=\int_{0}^{a} \frac{2x^2}{a} \sin^{2}\left( \frac{\pi x}{a} \right) \, dx \\
+\sin^2\left( \frac{\pi x}{a} \right)&=\frac{\left( 1-\cos\left( \frac{\pi x}{a} \right) \right)}{2} \\
+\therefore\langle x^2 \rangle&=\int_{0}^{a} \frac{2x^2}{a} \frac{\left( 1-\cos\left( \frac{\pi x}{a} \right) \right)}{2} \, dx \\
+&=\int_{0}^{a}\frac{x^2}{a}-\frac{x^2\cos\left( \frac{\pi x}{a} \right)}{a}\,dx \\
+&=\frac{1}{a}\int_{0}^{a}x^2\,dx-\frac{1}{a}\int_{0}^{a}x^2\cos\left( \frac{\pi x}{a} \right)\,dx \\
+&=\frac{a^2}{3}-\frac{a^2}{\pi}+\frac{1}{a}\int_{0}^{a} 2x \frac{a}{\pi}\sin\left( \frac{\pi x}{a} \right) \, dx  \\
+&=\frac{a^2}{3}-\frac{a^2}{\pi}+\frac{2a}{\pi^2}
+\end{align}
+$$
+14
+(a)
+$$
+\begin{align}
+N_0\int_{0}^{T} e^{-\lambda t} \, dt &=N_0\left[ -\frac{1}{\lambda}e^{-\lambda t} \right]_0^T \\
+&=N_0\left( \frac{1}{\lambda}-\frac{1}{\lambda}e^{-\lambda T} \right)
+\end{align}
+$$
+(b)
+$$
+\begin{align}
+\tau&=\frac{\displaystyle\int_{0}^{\infty} te^{-\lambda t} \, dt}{\displaystyle\int_{0}^{\infty} e^{-\lambda t} \, dt} \\
+&=\frac{\displaystyle\lim_{ n \to \infty } \int_{0}^{n} te^{-\lambda t} \, dt}{\displaystyle\lim_{ n \to \infty } \int_{0}^{n} e^{-\lambda t} \, dt} \\
+&=\frac{\displaystyle\lim_{ n \to \infty } \left[ \frac{t}{\lambda}-\frac{t}{\lambda}e^{-\lambda T} \right]_0^n-\displaystyle\lim_{ n \to \infty } \int_{0}^{n} e^{-\lambda t} \, dt}{\displaystyle\lim_{ n \to \infty } \int_{0}^{n} e^{-\lambda t} \, dt} \\
+&=\frac{\infty}{\displaystyle\lim_{ n \to \infty } \int_{0}^{n} e^{-\lambda t} \, dt}-1 \\
+&=\infty
+\end{align}
+$$
