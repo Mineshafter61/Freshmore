@@ -115,7 +115,7 @@ f'(x)&=\lim_{ h \to 0 } \frac{f(x+h)-f(x)}{h} \\
 - Logarithmic functions: $\frac{d}{dx} \log_b(x) = \frac{f'(x)}{\ln(b)\cdot f(x)}$
 	- Special case: $\frac{d}{dx} \ln(x) = \frac{1}{x}$
 - Trigonometric functions: 
-	- $\frac{d}{dx} \sin (f(x)) = \cos (nx) \cdot f'(x)$
+	- $\frac{d}{dx} \sin (f(x)) = \cos (f(x)) \cdot f'(x)$
 	- $\frac{d}{dx} \cos(f(x)) = -\sin (f(x)) \cdot f'(x)$
 	- $\frac{d}{dx} \tan (f(x)) = \sec^2 (f(x)) \cdot f'(x)$
 	- $\frac{d}{dx} \cot (f(x)) = \csc^2 (f(x))\cdot f'(x)$

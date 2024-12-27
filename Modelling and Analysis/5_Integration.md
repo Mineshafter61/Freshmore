@@ -15,12 +15,21 @@
 - $\int a^x \mathop{dx}=\frac{a^x}{\ln a}+C$
 - $\int \sin x \mathop{dx}=-\cos x+C$
 - $\int \cos x \mathop{dx}=\sin x+C$
+- $\int \tan x\,dx=\ln|\sec x|+C=-\ln|\cos x|+C$
+- $\int \sec x\,dx=\ln |\sec x+\tan x|+C$
+- $\int \csc x\,dx=\ln|\csc x+\cot x|+C=-\ln|\csc x+\cot x|+C$
+- $\int \cot x\,dx=\ln |\sin x|+C$
 - $\int \sec^{2} x \mathop{dx}=\tan x+C$
 - $\int \csc^{2} x \mathop{dx}=-\cot x+C$
 - $\int \sec x\tan x \mathop{dx}=\sec x+C$
 - $\int \csc x\cot x \mathop{dx}=-\csc x+C$
-- $\int \frac{1}{x^2+1}\,dx=\tan^{-1}x+C$
-
+- $\int\frac{f'(x)}{\sqrt{1-(f(x))^{2}}}\,dx=\sin^{-1}(f(x))+C$
+- $\int\frac{-f'(x)}{\sqrt{1-(f(x))^{2}}}\,dx=\cos^{-1}(f(x))+C$
+- $\int \frac{f'(x)}{1+(f(x))^{2}}\,dx=\tan^{-1}(f(x))+C$
+- $\int\frac{-f'(x)}{1+(f(x))^{2}}\,dx=\cot^{-1}(f(x))+C$
+- $\int\frac{f'(x)}{|f(x)|\sqrt{(f(x))^{2}-1}}\,dx=\sec^{-1}(f(x))+C$
+- $\int\frac{-f'(x)}{|f(x)|\sqrt{(f(x))^{2}-1}}\,dx=\csc^{-1}(f(x))+C$
+- $\int \ln x\,dx=x\ln x-x+C$
 - Examples:
 	- $\int\left( 2x^3-6x+\frac{3}{x^2+1} \right)\,dx=\frac{x^4}{2}-3x^2+3\tan^{-1}x+C$
 	- $\int \frac{2t^2+t^{2}\sqrt{t}-1}{t^{2}}\,dx=\int 2+\sqrt{t}-\frac{1}{t^{2}}\,dx=2t+\frac{2t^{3/2}}{3}+\frac{1}{t}+C$
@@ -68,6 +77,13 @@ $$
 - $f'(g(x))=f'(g(x))g'(x) \implies \int \frac{d\,f(g(x))}{dx}=\int \frac{d\,f(g(x))}{d\,g(x)}\cdot \frac{d\,g(x)}{dx}dx$ 
 	- $\implies \int f'(g(x))g(x)dx=f(g(x))+c$
 - $\int f'(g(x))\,g'(x)\,dx=f(g(x))+c$, since we sub $u=g(x), du=g'(x), du=\frac{du}{dx}$
+- Trigonometric substitution for integration
+
+| Expression | Substitution | Expression evaluation |
+| --- | --- | --- |
+| $\sqrt{a^2-(nx)^2}$ | $nx=a\sin θ, ndx=a\cos θ\,dθ$ | $\sqrt{a^2-a^2\sin^2 θ}=a\cos θ$ |
+| $\sqrt{a^2+(nx)^2}$ | $nx=a\tan θ, ndx=a\sec^2 θ\,dθ$ | $\sqrt{a^2+a^2\tan^2 θ}=a\sec θ$ |
+| $\sqrt{(nx)^2-a^2}$ | $nx=a\sec θ, ndx=a\sec^2 θ \tan^2θ\,dθ$ | $\sqrt{a^2\sec^2θ-a^2}=a\tan θ$ |
 ## Substitution rule for definite integrals
 - Where $u = g(x)$, bounds
 	- $a \to g(a)$
