@@ -1902,3 +1902,203 @@
 拒否|きょひ|refusal, rejection, denial
 許容|きょよう|permission, tolerance,
 清らか|きよらか|pure, clear, clean
+距離|きょり|distance, an interval, different, gap
+嫌い|きらい|dislike, hate
+嫌う|きらう|dislike, hate, detest, loathe, avoid
+気楽|きらく|carefree, comfortable, easygoing
+きんびやか|きんびやか|gorgeous, bright, glittering
+霧|きり|fog, mist, spray
+切［り］|きり|end, limits, bounds
+～きり|～きり|alone, alone with
+義理|ぎり|justice,duty.
+切[り]替える|きりかえる|change, switch, renew, replace
+規律|きりつ|a rule, a regulation, order, discipline
+気流|きりゅう|air currents
+切る|きる|cut, saw, chop, slice 
+着る|きる|put on, wear (clothes)
+〜きる|〜きる|finish
+切る/斬る|きる|cut, break, disconnect, turn off, leave, be though with
+〜切る|～きる|finishing completely or entirely
+～切れ|～きれ|counter (pieces, slices)
+布|きれ|cloth
+きれい|きれい|beautiful, lovely, pretty clean, clear
+切れ目|きれめ|gap, break, pause, end
+切れる|きれる|break, cut well, run out, expire, break off, be short of
+キロ［グラム］|キロ［グラム］|kilo[gram]
+キロ［メートル］|キロ［メートル］|kilo[meter]
+記錄|きろく|record, document
+キロ（グラム/メートル）|キロ（グラム/メートル）|kilo~
+議論|ぎろん|argument, discussion, dispute, debate, argue, discuss
+疑惑|ぎわく|suspicion, doubt
+極めて|きわめて|very, extremely
+気をつける|きをつける|pay attention (to)
+金|きん|gold, golden,
+菌|きん|bacterium, germ
+銀|ぎん|silver
+禁煙|きんえん|non-smoking
+金額|きんがく|an amount of money
+近眼|きんがん|nearsightedness, shortsightedness
+緊急|きんきゅう|urgency, emergency
+金魚|きんぎょ|goldfish
+金庫|きんこ|safe, cash box
+近郊|きんこう|suburbs
+均衡|きんこう|balance, equilibrium
+銀行|ぎんこう|bank
+禁止|きんし|prohibition
+近視|きんし|nearsightedness, shortsightedness
+近所|きんじょ|neighborhood, vicinity
+禁じる/ずる|きんじる/ずる|forbidden
+金銭|きんせん|money, cash
+金属|きんぞく|metal, metallic
+近代|きんだい|modern times, the modern era
+緊張|きんちょう|strain, tension
+筋肉|きんにく|a muscle
+勤勉|きんべん|diligence
+吟味|ぎんみ|examination, inquiry (into), test (of)
+勤務|きんむ|service, duty, duties, work for
+禁物|きんもつ|forbidden
+金融|きんゆう|finance, financing
+金曜／金|きんよう／きん|Friday
+金曜日|きんようび|Friday
+勤劳|きんろう|work, labour
+～区|～く|ward
+句|く|phrase, expression
+九|く|nine
+苦|く|pain, suffering, worry, trouble
+具合|ぐあい|condition
+区城|くいき|an area, a district, a zone, a quarter
+クイズ|クイズ|a quiz
+食[い]違う|くいちがう|conflict with, go across,
+食う|くう|eat, have, devour, make/earn a living, consume, run away with, sell
+空〜|くう〜|air, emptyness
+空間|くうかん|space, room
+空気|くうき|air, atmosphere
+空港|くうこう|airport
+偶数|ぐうすう|even number
+偶然|ぐうぜん|chance, an accident, coincidence,
+空想|くうそう|imagination, a daydream, a fantasy, fancy
+空中|くうちゅう|the air, the sky
+空腹|くうふく|hunger
+クーラー|クーラー|an air conditioner, a cooler, a (beverage) cooler
+区画|くかく|division, section, block
+区間|くかん|section, segment
+茎|くき|stem, stalk
+釘|くぎ|nail, spike, peg
+区切［り］|くぎり|end, stop, pause, period,
+区切る|くぎる|punctuate, square, intercept, partition
+くぐる|くぐる|pass under, slip past
+草|くさ|grass
+臭い|くさい|stink, smell bad, rotten, doubtful, suspicious 
+鎖|くさり|chain, bond, leash, tether, fetter 
+腐る|くさる|rot, spoil 
+櫛|くし|a comb
+くじ|くじ|lottery, lot
+くじびき|くじびき|draw lots,
+くしゃみ|くしゃみ|a sneeze
+苦情|くじょう|a complaint, a grievance
+苦心|くしん|pains, hard work
+屑|くず|waste, refuse, trash, rubbish, junk, scraps of food, rags, crumbs, litter
+くすぐったい|くすぐったい|ticklish, feel a bit embarrassed
+崩す|くずす|destroy, demolish
+薬|くすり|medicine
+薬指|くすりゆび|ring finger
+崩れる|くずれる|crumble, fall to pieces, collapse
+癖|くせ|habit
+～くせに|～くせに|although .., ... and yet
+管|くだ|a pipe, a tube
+具体|くたい|concrete(ly)
+砕く|くだく|break (into pieces), smash, crush
+砕ける|くだける|break, be broken, be smashed, crumble, crack, fracture
+ください|ください|please (give me)
+くださる|くださる|(someone of higher status) gives me
+くたびれる|くたびれる|get tired, grow weary, be worn out, wear out, be worn out
+果物|くだもの|fruit
+くだらない|くだらない|worthless, trifling
+下り|くだり|descent, down, downward slope, downhill
+下る|くだる|go down, descend, drop, have diarrhea, surrender, be sentenced
+口|くち|mouth
+愚痴|ぐち|idle complain
+〜口|〜くち／ぐち|a mouthful
+口ずさむ|くちずさむ|croon, hum
+嘴|くちばし|bill, beak
+唇|くちびる|lips
+口紅|くちべに|lipstick
+朽ちる|くらる|rot, decay, die
+靴|くつ|shoes
+苦痛|くつう|pain, agony, pang, torment, torture, suffering, distress, anguish, hardship, affliction
+覆寸|くつがえす|overturn, capsizc, overthrow
+くっきり|くっきり|clearly, distinctly, emphasize
+靴下|くつした|socks
+ぐっすり|ぐっすり|sleep soundly
+屈折|くつせつ|refraction, infleclion
+くっつく|くっつく|stick, fellow, go around together
+くっ付ける|くっつける|stick, gum, bond, close, put
+ぐっと|ぐっと|with all one's might, at a breath
+くどい|くどい|wordy, long-winded, boring
+句読点|くとうてん|punctuation marks
+国|くに|country
+配る|くばる|distribute, place,
+首|くび|neck
+首飾り|くびかざり|necklace
+首輪|くびわ|collar
+工夫|くふう|device, invention, resources,
+区分|くぶん|division, classilication
+区別|くべつ|difference, distinction
+組|くみ|a set of, a company, a group, a team
+組合|くみあい|an association, a society
+組「み］合［わ」せ|くみあわせ|a combination, a set, pairing
+組［み］合［わ］せる|くみあわせる|combine, put together, match
+組［み］込む|くみこむ|work into, insert
+組［み］立てる|くみたてる|put/fit together, assemble
+汲む/酌む|くむ|pump, scoop, understand, guess, take into account
+組む|くむ|put together, construct, assemble, cross, join forces, unit
+雲|くも|cloud
+曇り|くもり|cloudy
+曇る|くもる|become cloudy, overcast
+悔しい|くやしい|mortifying, regrettable, vexing
+悔む|くやむ|regret, repent, mourn
+蔵|くら|cellar, storehouse, warehouse
+暗い|くらい|dark, dusky, dim, gloomy, depressed, dismal, not familiar, not well acquainted, be a stranger
+位|くらい|rank, court rank, the crown, the throne
+～くらい／ぐらい|～くらい／ぐらい|about
+暮［ら］し|くらし|life, existing, living
+クラシック|クラシック|the classics, a classic
+クラス|クラス|class
+暮［ら］す|くらす|live, make one's living
+グラス|グラス|glass
+クラブ|クラブ|club
+グラフ|グラフ|graph
+比べる|くらべる|compare
+グラム|グラム|gram
+グランド|グランド|a sports ground, an athletic field
+クリーニング|クリーニング|cleaning
+クリーム|クリーム|cream
+繰［り］返す|くりかえす|repeat
+クリスマス|クリスマス|Christmas
+来る|くる|come
+狂う|くるう|become mad/insane, lose one's senses/mind, out of order, wrong, be infatuated
+ グループ| グループ|a group
+苦しい|くるしい|difficult, be in poverty, painful
+苦しむ|くるしむ|feel pain, suffer, be distressed, be worried, exert oneself, try hard
+苦しめる|くるしめる|cause pain, torment, trouble, worry, annoy
+車|くるま|car
+くるむ|くるむ|wrap (up)
+暮|くれ|nightfall, sunset, the end, the close.
+グレー|グレー|gray
+クレーン|クレーン|crane
+くれぐれも|くれぐれも|〜お体を大切に Be sure to take good care of yourself.
+暮れる|くれる|get dark
+くれる|くれる|(someone) gives (me)
+黒| くろ|black
+黒い|くろい|black
+苦労|くろう|hardship, trouble, pains, anxiety, worry, difficulty,
+玄人|くろうと|expert, professional, specialist
+黒字|くろじ|the black, black-ink balance, surplus,
+加える|くわえる|add, join
+咥える|くわえる|hold, worry, mouth
+詳しい|くわしい|detailed, details, particulars, be quite familiar with, be well informed about
+加わる|くわわる|increase, join, participate, enter
+～君|〜くん|suffix often added to a boy's name
+訓|くん|instruction,
+郡|ぐん|a county, a distriet, a township,
+軍|ぐん|an army, a force, troops,
