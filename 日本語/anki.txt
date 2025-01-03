@@ -2845,62 +2845,160 @@
 差［し］引く|さしひく|deduct, stop, recoup
 差［し］身|さしみ|fresh slices of raw fish
 さす|さす|『かさを〜』put/hold up （umbrella）
-さす|刺す|pierce, stab, prick (with a needle) / bite, sting / sew, stitch
-さす|指す|point to/at, indicate
-さす|差す/射す|日が〜 (sun)shine
-さす|差す／注す／点す|pour, fill
-さす|挿す|insert, put in /arrange (flower)
-さすが|流石|just
-さずける|授ける|give, grant, teach
-さする|擦る|rub, scrub, 目を〜 rub ones eyes
-ざせき|座席|seat, 〜を予約する reserve a seat 〜指定券 reserved-seat ticket
+刺す|さす|pierce, stab, prick (with a needle) / bite, sting / sew, stitch
+指す|さす|point to/at, indicate
+差す/射す|さす|日が〜 (sun)shine
+差す／注す／点す|さす|pour, fill
+挿す|さす|insert, put in /arrange (flower)
+流石|さすが|just
+授ける|さずける|give, grant, teach
+擦る|さする|rub, scrub, 目を〜 rub ones eyes
+座席|ざせき|seat, 〜を予約する reserve a seat 〜指定券 reserved-seat ticket
 さぞ|さぞ|must be very, 〜お疲れでしょう You must be very tired.
-さそう|誘う|invite, ask, induce, tempt, lure
-さだまる|定まる|be decided, be determined, be settled
-さだめる|定める|decide, fix, set, establish, provide, settle
-ざだんかい|座談会|round-table discussion
-〜さつ|〜冊|(counter for printed stuff)
-さっ|札|a bill, a (bank) note
-ざっ|雜|sloppy, messy 彼の仕事は〜だHis work is sloppy.
-きつえい|撮影|photography, filming
-ざつおん|雑音|noise, howl stalic/〜に迷わされる be misled by what others say
-さっか|作家|novelist, writer, author, artist
-ざっか|雜貨|miscellaneous goods, general merchandise, /日用〜 convenience goods
+誘う|さそう|invite, ask, induce, tempt, lure
+定まる|さだまる|be decided, be determined, be settled
+定める|さだめる|decide, fix, set, establish, provide, settle
+座談会|ざだんかい|round-table discussion
+〜冊|〜さつ|(counter for printed stuff)
+札|さっ|a bill, a (bank) note
+雜|ざっ|sloppy, messy 彼の仕事は〜だHis work is sloppy.
+撮影|きつえい|photography, filming
+雑音|ざつおん|noise, howl stalic/〜に迷わされる be misled by what others say
+作家|さっか|novelist, writer, author, artist
+雜貨|ざっか|miscellaneous goods, general merchandise, /日用〜 convenience goods
 サッカー|サッカー|soccer
-さっかく|錯覚|illusion, mistaken impression
+錯覚|さっかく|illusion, mistaken impression
 さっき|さっき|a moment ago
-さっきゅう／そうきゅう|早急|immediate, prompt
-きっきよく|作曲|musical compostion
+早急|さっきゅう／そうきゅう|immediate, prompt
+作曲|きっきよく|musical compostion
 さっさと|さっさと|quickly, briskly/仕事を〜片づける finish up one's work briskly
-ざっし|雜誌|magazine
-さつじん|殺人|murder
-さっする|察する|guess, sense, sympathize with
-さっそく|早速|at once. right away
-ざつだん|雜談|chat, light conversation
+雜誌|ざっし|magazine
+殺人|さつじん|murder
+察する|さっする|guess, sense, sympathize with
+早速|さっそく|at once. right away
+雜談|ざつだん|chat, light conversation
 さっと|さっと|quickly, suddenly, brielly, lightly,/私は〜新聞に目を通した I skinmed through the newspaper.
 ざっと|ざっと|roughly, approxinately, briefly, lightly./〜目を通す glance, leafc
 さっぱり|さっぱり|completely neat and tidy， refreshing,/〜思い出せない Isimply can't remember.
 さっぱりする|さっぱりする|feel refreshed, feel relieved, /お風呂に入ると〜 A bath will freshen you up.
 さて|さて|by the way, now,well/〜、どうしよう What shall I do now？
-さとう|砂糖|sugar
-さとる|悟る|become enlightened, realize
-さなか|最中|in the middle of,/私は試験勉強の〜だ。1 am in the middle of studying for tests.
-さばく|砂漠|desert
-さばく|裁く|judge, sit in judgment
-さび|錆|rust, patina
-さびしい|寂しい|lonely, lonesome
-ざひょう|座標|coordinates
-さびる|錆びる|rust, pet rusty, gather rust,/怠けていると腕が〜よ Youll iust rust away in idleness.
-ざぶとん|座布団|a square (Japanese) floor cushion (used for sitting)
-さべつ|差別|discrimination,/〜する discriminate,/〜的 discriminatory, discriminative
-さほう|作法|manners, etiquette
+砂糖|さとう|sugar
+悟る|さとる|become enlightened, realize
+最中|さなか|in the middle of,/私は試験勉強の〜だ。1 am in the middle of studying for tests.
+砂漠|さばく|desert
+裁く|さばく|judge, sit in judgment
+錆|さび|rust, patina
+寂しい|さびしい|lonely, lonesome
+座標|ざひょう|coordinates
+錆びる|さびる|rust, pet rusty, gather rust,/怠けていると腕が〜よ Youll iust rust away in idleness.
+座布団|ざぶとん|a square (Japanese) floor cushion (used for sitting)
+差別|さべつ|discrimination,/〜する discriminate,/〜的 discriminatory, discriminative
+作法|さほう|manners, etiquette
 さほど|さほど|not very
 サボる|サボる|loaf (on the job), play truant/hooky (from school), cut/skip (a class)
-～さま|～様|Mr. or Mrs. ~
-さま|様|state, condition/彼は台風被害の〜を語った He described the havoc wreaked by the typhoon.
-さまざま|様々|various, diverse, every kind, all sorts of
-きます|覚ます|wake, waken, awake, reawaken, sober up, get sober
-さます|冷ます|cool, chill/スープを〜 cool the soup/興奮を〜 take the heat off
-さまたげる|妨げる|disturb, impede, hinder, interfere, prevent, stop, obstruct, interrupt, bar
+～様|～さま|Mr. or Mrs. ~
+様|さま|state, condition/彼は台風被害の〜を語った He described the havoc wreaked by the typhoon.
+様々|さまざま|various, diverse, every kind, all sorts of
+覚ます|きます|wake, waken, awake, reawaken, sober up, get sober
+冷ます|さます|cool, chill/スープを〜 cool the soup/興奮を〜 take the heat off
+妨げる|さまたげる|disturb, impede, hinder, interfere, prevent, stop, obstruct, interrupt, bar
 さまよう|さまよう|stray, wander
-寒い|さむい|cold (climate, weather, place)
+さむい|寒い|cold (climate, weather, place)
+寒気|さむけ|chill
+侍|さむらい|samurai
+冷める|さめる|(tea/soup/hot water) get cold, cool, cool down
+見める|さめる|wake (up), awake
+さも|さも|〜おいしそうに as if enioys it greatly, /〜ないとor else
+左右|さゆう|left and right, both sides,
+作用|きよう|action, effect
+さようなら／さよなら|さようなら／さよなら|good-bye, bye now, bye-bye, farewell
+さ来月|さらいげつ|the month after next
+さ来週／再来週|さらいしゅう|the week after next
+さ来年/再来年|さらいねん|the year after next
+さらう|さらう|dredge/review, go over, run through/snatch away, carry off, kidnap
+サラダ|サラダ|salad
+更に|さらに|moreover, furthermore
+サラリーマン|サラリーマン|an office worker, a white-collar worker, a salaried worker
+猿|さる|monkey
+去る|さる|leave, depart, (time) pass, die, be gone, disappear, resign
+騒しい|さわがしい|noisy, turbulent
+騒ぎ|さわぎ|noise, uproar, tumult, turmoil, fuss, commotion
+騒ぐ|さわぐ|make noise
+さわやか|さわやか|refreshing, bracing
+触る|さわる|touch
+障る|さわる|interfere with
+〜さん|〜さん|Mr. / Mrs. / Miss…
+さん|三|three
+山|～さん|Mount, Mt.，/富士〜 Mt. Fui
+産|～さん|生〜 production, 財〜 propenly, 出〜 (childbirth)
+酸|さん|acid
+参加|さんか|participation
+酸化|さんか|oxidation
+三角|さんかく|a triangle
+山岳|さんがく|mountains
+参議院|さんぎいん|the House of Councilors, the Upper House
+サンキュー|サンキュー|thank you
+産休|さんきゅう|maternity leave
+産業|さんぎょう|industry
+残金|ざんきん|the money left over, the balance
+産後|さんご|postpartum, after childbirth
+参考|さんこう。|reference, consultation
+残酷|さんこく|cruelty, brutality
+産出|さんしゅつ|production
+参照|さんしょう|refer,consult
+参上|さんじょう|visit, go (come) to see
+算数|さんすう|arithmetic, caleulation
+賛成|さんせい|agreement, approval, support, agree, second, /Hsk % agree, approve
+酸性|さんせい|acidity
+酸素|さんそ|oxygen
+残高|ざんだか|(bank) balance
+サンタクロース|サンタクロース|Santa Claus
+サンダル|サンダル|sandals
+さんち|產地|production centre, growing area
+さんちょう|山頂|the summit (top) of a mountain, mountaintop
+サンドイッチ|サンドイッチ|sandwich
+ざんねん|残念|disappointing, regrettable, vexing
+さんばし|桟橋|pier, jetty
+さんび|贊美|praise, glorification
+さんぷく|山腹|hillside, halfway up the hill
+さんふじんか|産婦人科|obstetrics and gynecology
+さんぶつ|産物|product, produce
+ サンブル| サンブル|sample
+さんぽ（する）|散歩（寸 ）|take a walk, have a stroll
+さんみやく|山脈|mountain
+さんりん|山林|forest in the mountains, mountains and forests
+し|市|a city, a municipality
+～し|～史|history, annals, chronicle
+～し|～紙|paper
+し|氏|a family, a clan
+し|詩|poetry, a poem, verse
+～し|～士|man, 紳〜 gentleman, 武〜 samurai, 弁護〜 lawyer, 力〜 sumo wrestler
+し|師|teacher
+し|死|death
+ 〜じ|～時|o'clock
+じ|字|letter, character, word
+〜じ|～寺|(Buddhist) temple
+〜じ|〜児|child, 育児 child care, 孤児 orphan
+〜じ|～次|一〜試験 preliminary examination、/第二〜世界大戦 the Second World War
+し/よん|四|four
+しあい|試合|game, match
+しあがり|仕上［が］り|finishing, 〜はいつになりますか When will it be finished?
+しあがる|仕上［が］る|come up, finish, complete
+しあげ|仕上［げ］|finishing, /防水〜 water-resistant finish
+しあげる|仕上［げ］る|finish, complete
+しあさって|しあさって|two days after tomorrow, three days from today
+しあわせ|幸［せ］|happiness, happy, good fortune, lucky, fortunate, luckily
+しいく|飼育|breeding, 〜する breed, raise
+シーズン|シーズン|season, 〜オフ the off-season
+シーツ|シーツ|(bed) sheet, 〜を数くpul a sheet on a bed
+しいて|強いて|by force, forcibly,（人）に〜＜動詞＞させるforce someone to
+シート|シート|〜（座席） seat, 〜（紙，布）sheet
+ジーパン|ジーパン|a pair of (blue) jeans
+しいる|強いる|compel, force, 彼は自分の考えを息子たちに〜 He imposed his will on his sons.
+しいれる|仕入れる|lay in, stock, pet, 自然食品を〜 stock organic food
+じいん|寺院|a (Buddhist) temple
+ジーンズ|名詞|jeans
+しいんと（する）|しいんと（する）|still, tacit
+じえい|自衛|self-defense, self-prolection/〜するdefend oneself./〜隊 the Self-Defense Force
+ジェットき|ジェット機|a jet (plane)
+しお|塩|salt
