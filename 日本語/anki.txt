@@ -2954,51 +2954,251 @@
 残高|ざんだか|(bank) balance
 サンタクロース|サンタクロース|Santa Claus
 サンダル|サンダル|sandals
-さんち|產地|production centre, growing area
-さんちょう|山頂|the summit (top) of a mountain, mountaintop
+產地|さんち|production centre, growing area
+山頂|さんちょう|the summit (top) of a mountain, mountaintop
 サンドイッチ|サンドイッチ|sandwich
-ざんねん|残念|disappointing, regrettable, vexing
-さんばし|桟橋|pier, jetty
-さんび|贊美|praise, glorification
-さんぷく|山腹|hillside, halfway up the hill
-さんふじんか|産婦人科|obstetrics and gynecology
-さんぶつ|産物|product, produce
+残念|ざんねん|disappointing, regrettable, vexing
+桟橋|さんばし|pier, jetty
+贊美|さんび|praise, glorification
+山腹|さんぷく|hillside, halfway up the hill
+産婦人科|さんふじんか|obstetrics and gynecology
+産物|さんぶつ|product, produce
  サンブル| サンブル|sample
-さんぽ（する）|散歩（寸 ）|take a walk, have a stroll
-さんみやく|山脈|mountain
-さんりん|山林|forest in the mountains, mountains and forests
-し|市|a city, a municipality
-～し|～史|history, annals, chronicle
-～し|～紙|paper
-し|氏|a family, a clan
-し|詩|poetry, a poem, verse
-～し|～士|man, 紳〜 gentleman, 武〜 samurai, 弁護〜 lawyer, 力〜 sumo wrestler
-し|師|teacher
-し|死|death
- 〜じ|～時|o'clock
-じ|字|letter, character, word
-〜じ|～寺|(Buddhist) temple
-〜じ|〜児|child, 育児 child care, 孤児 orphan
-〜じ|～次|一〜試験 preliminary examination、/第二〜世界大戦 the Second World War
-し/よん|四|four
-しあい|試合|game, match
-しあがり|仕上［が］り|finishing, 〜はいつになりますか When will it be finished?
-しあがる|仕上［が］る|come up, finish, complete
-しあげ|仕上［げ］|finishing, /防水〜 water-resistant finish
-しあげる|仕上［げ］る|finish, complete
+散歩（寸 ）|さんぽ（する）|take a walk, have a stroll
+山脈|さんみやく|mountain
+山林|さんりん|forest in the mountains, mountains and forests
+市|し|a city, a municipality
+～史|～し|history, annals, chronicle
+～紙|～し|paper
+氏|し|a family, a clan
+詩|し|poetry, a poem, verse
+～士|～し|man, 紳〜 gentleman, 武〜 samurai, 弁護〜 lawyer, 力〜 sumo wrestler
+師|し|teacher
+死|し|death
+～時| 〜じ|o'clock
+字|じ|letter, character, word
+～寺|〜じ|(Buddhist) temple
+〜児|〜じ|child, 育児 child care, 孤児 orphan
+～次|〜じ|一〜試験 preliminary examination、/第二〜世界大戦 the Second World War
+四|し/よん|four
+試合|しあい|game, match
+仕上［が］り|しあがり|finishing, 〜はいつになりますか When will it be finished?
+仕上［が］る|しあがる|come up, finish, complete
+仕上［げ］|しあげ|finishing, /防水〜 water-resistant finish
+仕上［げ］る|しあげる|finish, complete
 しあさって|しあさって|two days after tomorrow, three days from today
-しあわせ|幸［せ］|happiness, happy, good fortune, lucky, fortunate, luckily
-しいく|飼育|breeding, 〜する breed, raise
+幸［せ］|しあわせ|happiness, happy, good fortune, lucky, fortunate, luckily
+飼育|しいく|breeding, 〜する breed, raise
 シーズン|シーズン|season, 〜オフ the off-season
 シーツ|シーツ|(bed) sheet, 〜を数くpul a sheet on a bed
-しいて|強いて|by force, forcibly,（人）に〜＜動詞＞させるforce someone to
+強いて|しいて|by force, forcibly,（人）に〜＜動詞＞させるforce someone to
 シート|シート|〜（座席） seat, 〜（紙，布）sheet
 ジーパン|ジーパン|a pair of (blue) jeans
-しいる|強いる|compel, force, 彼は自分の考えを息子たちに〜 He imposed his will on his sons.
-しいれる|仕入れる|lay in, stock, pet, 自然食品を〜 stock organic food
-じいん|寺院|a (Buddhist) temple
-ジーンズ|名詞|jeans
+強いる|しいる|compel, force, 彼は自分の考えを息子たちに〜 He imposed his will on his sons.
+仕入れる|しいれる|lay in, stock, pet, 自然食品を〜 stock organic food
+寺院|じいん|a (Buddhist) temple
+名詞|ジーンズ|jeans
 しいんと（する）|しいんと（する）|still, tacit
-じえい|自衛|self-defense, self-prolection/〜するdefend oneself./〜隊 the Self-Defense Force
-ジェットき|ジェット機|a jet (plane)
-しお|塩|salt
+自衛|じえい|self-defense, self-prolection/〜するdefend oneself./〜隊 the Self-Defense Force
+ジェット機|ジェットき|a jet (plane)
+塩|しお|salt
+潮|しお|tide
+塩辛い|しおからい|salty
+歯科|しか|dentistry
+自我|じが|self, ego
+司会|しかい|preside
+市街|しがい|the streets, city, town
+四角|しかく|square
+資格|しかく|capacity, a right, qualification, certification, license
+視覚|しかく|the sense of sight
+自覚|じかく|self-awareness
+四角い／な|しかくい／な|squarish
+仕掛け|しかけ|device, mechanism, system
+仕掛ける|しかける|start, begin, set (up)
+しかし|しかし|but
+しかしながら|しかしながら|but, however, nevertheless
+仕方|しかた|way (to do), method
+仕方がない|しかたがない|cannot help doing, lust have to do, incorrigible, hopeless, That's the way it goes.
+直に|じかに|directly, at first hand, in person, straight, full, immediately
+しかも|しかも|moreover, besides
+叱る|しかる|scold
+～時間|～じかん|hour (s)
+時間|じかん|time
+〜時間目|～じかんめ|period
+時間割|じかんわり|timetable, schedule
+～式|～しき|ceremony, celebration, party
+～式|～しき|system, style
+式|しき|ceremony
+四季|しき|the four seasons
+指揮|しき|command, direction, conduct
+時期|じき|time, the timing, a season
+直|じき|in a moment, close
+磁気|じき|magnetism
+感器|じき|porcelain, china (ware)
+色彩|しきさい|color
+式場|しきじょう|ceremonial hall
+仕来［た］り|しきたり|customs, convention
+敷地|しきち|Lot, site, ground, situation. Premises
+至急|しきゅう|an emergency, urgent, quickly, soon, prompt, early
+支給|しきゅう|supply
+事業|じぎょう|work, project
+しきりに|しきりに|frequently, often, repeatedly, incessantly, eagerly, keenly, strongly
+仕切る|しきる|partition, divide
+資金|しきん|fund
+敷く|しく|spread, lay out, carpet, cover, under lay, lay, rail
+軸|じく|axis, axle, spindle, pivot, shaft, the center of activity
+しくじる|しくじる|fail
+仕組［み］|しくみ|structure, mechanism, system
+死刑|しけい|capital punishment, the death penalty
+刺激|しげき|a stimulus, stimulation, irritation, /ploit 3 stimulate, irritate
+湿気る|しける|get damp, get soggy
+茂［る］|しげる|grow thick/rampant, be overprown
+試験|しけん|examination
+資源|しげん|natural resources
+事件|じけん|event, a happening, an incident, a matter, an afrair 
+事故|じこ|accident
+自己|じこ|self, oneself
+志向|しこう|intention
+嗜好|しこう|taste
+思考|しこう|thought, thinking
+施行|しこう|enforce, carry out
+試行|しこう|trial
+事項|じこう|matters, facts, data, articles
+時刻|じごく|time, the hour
+地獄|じごく|hell
+時刻表|じこくひょう|schedule, timetable
+仕事|しごと|work, job
+時差|じさ|difference in time
+じざい|じざい|at will, freely
+視察|しさつ|inspection, observation
+自殺|じさつ|suicide
+資座|しさん|assets, properly
+持参|じさん|〜するbring,take; 〜金 marriage portion; 〜人 bearer
+指示|しじ|indication, directions, instructions
+支持|しじ|support, backing
+事実|じじつ|a fact, the truth, a concrete example, actually, really, in fact, as a matter of fact
+磁石|じしゃく|magnet, magnetite, magnetic iron ore, compass
+四捨五入|ししゃごにゅう|round up numbers of five and above and drop anyting under five
+自首|じしゅ|surrender (oneseif), turn oneself in
+自主|じしゅ|independence, aulonomy
+刺繡|ししゅう|embroidery
+始終|しじゅう|always, constantly, often, the ins and outs
+自質|じしゅう|self study
+支出|ししゅつ|expenditure, expenditure, disbursements, expenses,
+辞書|じしょ|dictionary
+市場|しじょう|market, exchange, marketplace
+事情|じじょう|circumstances
+辞職|じしょく|resignation
+詩人|しじん|poet
+地震|じしん|earthquake
+自信|じしん|self-confidence
+自身|じしん|by oneself, in person
+静か|しずか|quiet, still, calm, placid
+雫／滴|しずく|water droplets
+システム|システム|system
+静まる|しずまる|become still/quiet, calm, settle, fall, smooch, lull, remit
+沈む|しずむ|sink, settle, subside, set, go down, dip, depressed, melancholy
+沈める|しずめる|sink, submerge
+姿勢|しせい|posture, attitude
+施設|しせつ|institution, facilities, home
+事前|じぜん|be forehand, in advance
+自然科学|しぜんかがく|natural/physical science
+自然（に）|しぜんに|nature, natural, spontaneous, naturally, spontaneously, automatically
+思想|しそう|idea. thoucht, ideas,/思想家 thinker
+子息|しそく|son
+時速|じそく|speed per hour
+持続|じぞく|last, continue
+子孫|しそん|descendant, posterity
+自尊心|じそんしん|pride. self-respect
+下|した|under, down 
+舌|した|a tongue
+死体|したい|dead body, corpse, cadaver
+〜次第|〜しだい|because of ... due to . right after
+事態|じたい|the situation. the state of affairs
+字体|じたい|the form of a character
+辞退|じたい|decline, turn down, refuse
+時代|じだい|the times, an era, an age, days, antiquity
+次第（に）|しだいに|order, circumstances, depends, as soon as, at the first
+慕う|したう|long for, attach oneself to
+従う|したがう|obey, follow, go along, abide by
+下書き|したがき|draft, rough draft/copy
+したがって|したがって|therefore, consequently
+下着|したぎ|underwear
+自宅|じたく|one's house, one's home 
+支度（する）|したく（する）|prepare, dress (oneself) up
+下心|したごころ|ulterior motive
+したし|下地|groundwork, foundation
+﻿したしい|親しい|close, friendly, familiar
+したしむ|親しむ|make friends with, get to know. be fond of
+したしらべ|下調べ|preparation
+したてる|仕立てる|sew, tailor
+したどり|下取［り］|trade-in
+﻿したび|下火|burning down, slowing down
+﻿したまち|下町|downtown area, traditional working-class neighborhood
+じち|自治|self-povernment,autonomy
+しち/なな|七|seven
+～しつ|～室|room
+しつ|質|nature, disposition, temperament, matter, quality
+しつ〜|室～|room
+〜じつ|～日|day
+しつ|しつ|substance, the truth, result. 
+じっか|実家|one's parents' house (home) 
+しっかく|失格|disqualification, be disqualified, be eliminated
+しっかり|しっかり|firmly, tightly, strong, steady, reliable, be sure, well 
+ じっかん|実感|actual feeling, sense of reality.
+しつぎ|質疑|question, inquiry, interpellation
+﻿しつきやく|失脚|one's downfall
+﻿しつぎよう|失業|lose one's job 
+じつぎょうか|実業家|a businessman
+シック|シック|chic, stylish, smart
+じっくり|じっくり|slowly and carefully, 〜読む take one's time to read
+﻿しつけ|躾|discipline, training
+﻿しっけ／しっき|湿気|moisture, damp(ness), humidity
+﻿しつける|狭ける|discipline, train
+﻿じっけん|実験|experimentation, experiment
+じつげん|実現|realization, materialization
+しつこい|しつこい|persistent, obstinate, insistent
+じっこう|実行|practice, action, execution
+じっさい|実際|practice, the truth, fact, reality, actuality, actual conditions
+じっし|実施|enforcement
+じっしつ|実質|substance, essence
+じっしゅう|実習|practice
+じつじょう|実情|the actual condition/circumstances, the real state of affairs/things
+じっせき|実績|(actual) results, one's achievements
+じっせん|実践|(actual) practice
+しっそ|質素|frugal
+じったい|実態|the actual situation, the real state of affairs
+しっちょう|失調|ataxy, dystrophia, deconditioning
+しっと|嫉妬|iealousy, envy
+しっど|湿度|humidity
+じっと|じっと|still, patiently
+じつに|実に|really
+じつは|実は|to tell the truth, actually
+しっぱい（する）|失敗（する）|failure, mistake
+じっぴ|実費|actual expense(s). Cost
+しっぴつ|執筆|writing
+じつぶつ|実物|real thing, actual object, genuine article, real life, original
+しっぽ|しっぽ|tail, an end
+しつぼう|失望|disappointment, despair, regret, frustration, dismay, letdown
+しつもん（する）|質問（する）|question
+じつよう|実用|practical use
+じつりょく|実力|one's ability, force
+しつれい|失礼|impolite, rude, impudent
+じつれい|実例|example, instance, illustration, sample, specimen, case
+しつれいします／しました|失礼します／しました|I beg your pardon
+しつれい（する）|失礼（する）|excuse me
+しつれん|失恋|disappointed/unrequited love, broken heart
+してい|指定|specify, designate
+してき|指摘|point out
+してつ|私鉄|private railway
+してん|支店|branch (office/store)
+してん|視点|a point of view, a viewpoint
+じてん|辞典|dictionary
+じてん|自転|rotation
+じてんしゃ|自転車|bicycle
+しどう|指導|guidance, leadership, coaching
+じどう|自動|automatic
+じどう|児童|a child, children
+じどうし|自動詞|intransitive verb
+じどうしゃ|自動車|car
+しとやか|淑やか|modest, gentle, graceful
