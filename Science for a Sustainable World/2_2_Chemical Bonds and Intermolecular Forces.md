@@ -1,8 +1,4 @@
-## Electronegativity (EN)
-- Relative ability of a **bonded atom** to attract **shared electrons**
-- Generally, high EN = high magnitude of (negative) EA
-	- Increases across the period
-	- Decreases down the group
+
 ## Molecules
 - Atoms bond with each other to form a resultant molecule which has **lower energy** and is **more stable**
 	- This is done through achieving the **Octet rule** or having **8 valence electrons**

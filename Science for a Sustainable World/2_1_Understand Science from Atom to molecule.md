@@ -122,6 +122,48 @@
 	- Always larger than its neutral atom
 - **Isoelectric**: Two different elements having the same number and configuration of electrons
 	- e.g. $Li$ and $Be^+$
+## Ionisation Energy (IE)
+- Minimum energy required to remove the highest-energy (outermost) electron from an atom or ion in the gaseous state, thereby forming a positive atom
+- **Usually refers to the first ionisation energy** (IE<sub>1</sub>): the least amount of energy required to remove a single electron from a neutral atom
+- **Always positive** (endothermic reaction) (IE > 0 for all cases)
+	- $M_{(g)} \to M^{+}+e^{-}$: 1st ionisation energy, **IE<sub>1</sub>**
+	- $M^{+}_{(g)} \to M^{2+}_{(g)}+e^{-}$: 2nd ionisation energy, **IE<sub>2</sub> > IE<sub>1</sub>**
+- Successive ionisation energy **increases** as the electron is **removed from a positive ion of increasing charge**
+- **Dramatic increase** occurs when the **first electron** from the **noble gas core** is removed.
+### Trends
+- Across the period
+	- Increase in $Z_{eff}$
+	- Outer electrons experience an increase in the attractive force from nucleus
+	- More energy required to remove first electron
+	- **IE generally increases**
+- Down the group
+	- Decrease in $Z_{eff}$
+	- Outer electrons are added to a bigger shell and experience a decrease in attractive force from the nucleus
+	- Less energy required to remove first electron
+	- **IE generally decreases**
+## Electron Affinity (EA)
+- Energy change accompanying the **addition** of 1 mol of electrons to 1 mol of gaseous atoms or ions
+	- $X_{(g)} + e^{-}\to X_{(g)}^{-}$: 1st electron affinity, EA<sub>1</sub> < 0 generally
+	- $X^{-}_{(g)} + e^{-}\to X_{(g)}^{2-}$: 2nd electron affinity, EA<sub>2</sub> > 0 always
+- Considering EA<sub>1</sub>, if the electron is easily attracted to the atom, EA<sub>1</sub> is **generally negative** (exothermic reaction)
+- EA<sub>2</sub> and successive EAs are **always positive**
+	- Energy is required (i.e. absorbed) to overcome electrostatic repulsion between anion X<sup>-</sup> and electron e<sup>-</sup>
+### Trends
+- Across the period
+	- Increase in $Z_{eff}$
+	- Added electron experience increase in attractive force from nucleus
+	- More negative energy
+	- **EA increases in magnitude**
+- Down the group
+	- Decrease in $Z_{eff}$
+	- Added electrons added to larger shell and experience decrease in attractive force from nucleus
+	- Less negative energy
+	- **EA decreases in magnitude**
+## Electronegativity (EN)
+- Relative ability of a **bonded atom** to attract **shared electrons**
+- Generally, high EN = high magnitude of (negative) EA
+	- Increases across the period
+	- Decreases down the group
 ## Trends, summarised
 ### Across the period (horizontal)
 - Nuclear charge increases (+ attraction)
@@ -139,13 +181,3 @@
 - **Overall increase in atomic radius**
 - **General decrease in IE**
 - **EA decreases in magnitude**
-## Ionisation Energy (IE)
-- Minimum energy required to remove the highest-energy (outermost) electron from an atom or ion in the gaseous state
-- **Always positive** (endothermic reaction)
-- Successive ionisation energy increases as the electron is removed from a positive ion of increasing charge
-- Dramatic increase occurs when the first core electron (inner shell) is removed
-## Electron Affinity (EA)
-- Energy change accompanying the **addition** of 1 mol of electrons to 1 mol of gaseous atoms or ions
-- If the electron is easily attracted to the atom, EA is **generally negative** (exothermic reaction)
-- $EA_2$ and successive EAs are **always positive**
-	- Energy is required to overcome electrostatic repulsion between anion and electron
