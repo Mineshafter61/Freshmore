@@ -43,3 +43,5 @@
 	- Total net force in a uniform field: $\vec{F}_{net}=\vec{F}_{+}+\vec{F}_{-}=q\vec{E}+(-q)\vec{E}=0$
 - Torque on Dipole (w.r.t. to negative charge $-q$)
 	- $\vec{\tau}=\vec{r}\times \vec{F}=\vec{r}\times q\vec{E}=q\vec{r}\times \vec{E}=\vec{p}\times \vec{E}$
+- Force in a non-uniform field
+	- Dipole experiences a force
