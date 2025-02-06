@@ -1,12 +1,38 @@
-### Continuous charge distribution
+## Electric Flux
+- The amount of electric field lines of a vector field passing through a given surface. $\newcommand{\oiint}{{\subset\!\supset} \mathllap{\iint}}\newcommand{\oiiint}{{\Large{\subset\!\supset}} \mathllap{\iiint}}$
+- Symbol: $\Phi_E$
+- Unit: $N \cdot m^2/C$
+- Time independent
+- Recall that the electric field is proportional to the number of field lines per area
+- Since there is no law to determine the proportionality constant above, we say that the electric field line density is equal to the magnitude of electric field.
+- $\Phi_E=\vec{E}\cdot \vec{A}$ for **uniform electric field** and **flat surface**
+- Can be negative if electric field is opposite direction to the area vector
+## Non-uniform surfaces
+- For non-uniform field $\vec{E}$ and a curved surface, we first divide the curved surface into many small pieces of area, $d\vec{A}$
+- At a small specific area $d\vec{A}_i$, the electric field is a constant $\vec{E}_i$, such that the electric flux through each small piece is
 $$
-\vec{E} = \int_{body} k_e \frac{dq}{|\vec{r}|^2} \hat{r} = \int_{body} k_e \frac{dq}{|\vec{r}_p - \vec{r}_s|^3}(\vec{r}_p - \vec{r}_s)
+d\Phi_i = \vec{E}_i \cdot (d\vec{A})_i
 $$
-- $\vec{r}_p$ is a constant point of interest
-- $\vec{r}_s$ represents every single charge point in the body
-- **It is the variable to be used in integration ($x$)**
-- Similar to moment of inertia
-### Charge Density
-- Linear density = $\frac{\text{charge}}{\text{length}} \implies \lambda = \frac{Q}{L} \implies dq = \lambda dl$
-- Surface density = $\frac{\text{charge}}{\text{area}} \implies \sigma = \frac{Q}{A} \implies dq = \sigma dA$
-- Volume density = $\frac{\text{charge}}{\text{volume}} \implies \rho = \frac{Q}{V} \implies dq = \rho dV$
+- The total flux through the curved surface is $\sum^N_{i=1} d\Phi_i$, given by
+$$
+\Phi_E = \iint_{surface} d\Phi_i = \iint_{surface} \vec{E} \cdot d\vec{A}
+$$
+- **Double integral** is required because of surface area
+- *Example 1: Electric flux through a hemisphere*
+	- By intuition, the area of a circle ("shadow" of hemisphere) is $πr^2$
+	- Therefore, the flux is $E\cdotπr^2$
+	- Math way: (uses [[0_Spherical Coordinate System|spherical coordinates]])
+$$
+\begin{align}
+\Phi_E&=\iint \vec{E}\cdot d\vec{A} \\
+&=\iint \vec{E}\cdot R\,d\theta\,R\sin \theta\,d\phi \\
+&=\iint \vec{E}\cdot R^2\sin \theta\,d\theta\,d\phi \\
+\Phi_E&=\int_{0}^{π/2}\int_{0}^{2π} E\hat{k}\cdot R^2\sin \theta\,d\theta\,d\phi\,\hat{r} \\
+\hat{k}\cdot \hat{r}&=|\hat{k}||\hat{r}|\cos \theta=\cos \theta \\
+\Phi_E&=\int_{0}^{π/2}\int_{0}^{2π} ER^2\sin \theta \cos \theta\,d\phi\,d\theta \\
+&=2π ER^2 \int_{0}^{π/2} \sin \theta \cos \theta \,d\theta \\
+&=π ER^2 \int_{0}^{π/2} \sin 2\theta\,d\theta \\
+&=π ER^2 \left[ \frac{-\cos2\theta}{2} \right]_{0}^{π/2} \\ \\
+&=EπR^2
+\end{align}
+$$

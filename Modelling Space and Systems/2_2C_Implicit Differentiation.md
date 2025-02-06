@@ -1,5 +1,5 @@
-## Chain Rule
-## Critical Points
+
+
 ## Implicit Differentiation
 - Implicit differentiation can be used for multivariable functions when $z$ is implicitly defined in terms of $x$ and $y$, and solving for z may be difficult.
 - **Example**:

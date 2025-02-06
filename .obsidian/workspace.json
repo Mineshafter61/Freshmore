@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a00006ac918aa108",
+        "id": "9ee9ef773da5e585",
         "type": "tabs",
         "children": [
           {
-            "id": "e1759cc906b08ab3",
+            "id": "eeceea169c282b74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technological World/1_2_Point Charges and Dipoles.md",
+                "file": "Modelling Space and Systems/2_1C_Gradient.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1_2_Point Charges and Dipoles"
+              "title": "2_1C_Gradient"
             }
           }
         ]
@@ -169,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,13 +182,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1759cc906b08ab3",
+  "active": "eeceea169c282b74",
   "lastOpenFiles": [
-    "Technological World/2_1_Electric Field Lines and Flux.md",
-    "Technological World/2_2_Gauss's Law, Gaussian Surface and Charge Enclosed.md",
-    "Technological World/1_2_Point Charges and Dipoles.md",
-    "Modelling Space and Systems/2_2_Chain Rule, Implicit Differentiation and CriticalPoints.md",
+    "Modelling Space and Systems/1_1A_Vectors.md",
+    "Modelling Space and Systems/1_1_Vectors.md",
+    "Modelling Space and Systems/1_1B_Multivariable Functions.md",
+    "Modelling Space and Systems/2_1C_Gradient.md",
+    "Modelling Space and Systems/2_1B_Directional Derivatives.md",
+    "Modelling Space and Systems/2_1A_Tangent Plane Approximation.md",
+    "Modelling Space and Systems/2_2_Chain Rule, Implicit Differentiation and Critical Points.md",
+    "Modelling Space and Systems/2_2C_Implicit Differentiation.md",
+    "Modelling Space and Systems/2_2B_Critical Points.md",
+    "Modelling Space and Systems/2_2B_Critical Points.ms",
+    "Modelling Space and Systems/2_2B_Critical Points",
+    "Modelling Space and Systems/2_2A_Chain Rule.md",
+    "Modelling Space and Systems/2_2A_Chain Rule",
     "Modelling Space and Systems/2_1_Tangent Plane Approximation, Directional Derivatives and Gradient.md",
+    "Modelling and Analysis/1_4_Trigonometric Functions.md",
+    "Technological World/1_2_Point Charges and Dipoles.md",
+    "Technological World/2_2_Gauss's Law, Gaussian Surface and Charge Enclosed.md",
+    "Technological World/2_1_Electric Field Lines and Flux.md",
+    "Technological World/1_1_Charges and Electricity.md",
+    "Technological World/0_Spherical Coordinate System.md",
+    "preamble.sty.sb-3c0f36a2-dq0wd3",
+    "preamble.sty.md",
+    "preamble.sty",
     "Modelling Space and Systems/1_1_Vectors and Multivariable Functions.md",
     "Modelling Space and Systems/1_2_Level Curves and Partial Differentiation.md",
     "日本語/2_1_文法.md",
@@ -200,34 +217,16 @@
     "ref/directionalDerivativeProof.png",
     "Screenshot 2025-02-04 at 13.45.31.png",
     "Screenshot 2025-02-04 at 13.43.27.png",
-    "Technological World/1_1_Charges and Electricity.md",
     "日本語/1_語彙.md",
     "日本語/1_2_擬音語.md",
     "日本語/1_1_エクストラ語彙.md",
     "Science for a Sustainable World/2_1_Understand Science from Atom to molecule.md",
-    "Science for a Sustainable World/2_2_Chemical Bonds and Intermolecular Forces.md",
-    "Science for a Sustainable World/1_Introduction to Sustainability.md",
     "ref/parallel axis theorem.png",
-    "日本語/2_3_文法出題基準外項目.md",
-    "日本語/3_読解.md",
-    "Untitled.md",
-    "Physical World/1_Vectors.md",
-    "Modelling and Analysis/3_Derivatives.md",
     "Modelling Space and Systems",
     "Science for a Sustainable World",
     "Technological World",
-    "Modelling and Analysis/5_Integration.md",
-    "Modelling and Analysis/6_5_Differential Equations.md",
-    "Modelling and Analysis/6_4_Moments, Center of Mass.md",
-    "Modelling and Analysis/6_3_Arc Length, Areas of Surface of Revolution.md",
-    "Modelling and Analysis/6_2_Areas Between Curves and Volumes.md",
     "日本語/anki.csv",
     "日本語/to_anki.py",
-    "日本語/1_語彙.xlsx",
-    "日本語/~$1_語彙.xlsx",
-    "Freshmore Communication Programme",
-    "日本語",
-    "ref/law of limits infinity.png",
-    "ref"
+    "ref/law of limits infinity.png"
   ]
 }
