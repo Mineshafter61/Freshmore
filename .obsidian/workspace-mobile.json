@@ -8,37 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2bd89795d5d97629",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physical World/12_Thermodynamics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12_Thermodynamics"
-            }
-          },
-          {
             "id": "76d27e4f06e314ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physical World/大大フォーミュラシート.md",
+                "file": "日本語/2_3_文法出題基準外項目.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "大大フォーミュラシート"
+              "title": "2_3_文法出題基準外項目"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +46,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -171,41 +165,51 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76d27e4f06e314ed",
+  "active": "e6ff19cf3e8db3cf",
   "lastOpenFiles": [
-    "Physical World/12_Thermodynamics.md",
-    "Physical World/大大フォーミュラシート.md",
-    "Physical World/11_Simple Harmonic Motion.md",
-    "Physical World/10_2_Angular Momentum.md",
-    "Physical World/10_1_Centre of Mass.md",
-    "Physical World/5_2_Rigid body.md",
-    "Physical World/6_Motion of Rigid Bodies.md",
-    "Physical World/9_Momentum and Impulse.md",
-    "Physical World/8_Energy and Work Done.md",
-    "ref/CTD Finals Cheatsheet.md",
-    "ref/PS9.md",
-    "ref/PS8.md",
+    "日本語/2_1_文法.md",
+    "2_Technological World/2_2_Gauss's Law, Gaussian Surface and Charge Enclosed.md",
+    "ref/TW1_2_1.png",
+    "/Technological World/2_2_Gauss's Law, Gaussian Surface and Charge Enclosed.md",
+    "2_Technological World/2_1_Electric Field Lines and Flux.md",
+    "2_Technological World/1_2_Point Charges and Dipoles.md",
+    "2_Technological World/1_1_Charges and Electricity.md",
+    "2_Science for a Sustainable World/2_2_Chemical Bonds and Intermolecular Forces.md",
+    "2_Science for a Sustainable World/2_1_Understand Science from Atom to molecule.md",
+    "2_Science for a Sustainable World/1_Introduction to Sustainability.md",
+    "2_Modelling Space and Systems/2_2_Chain Rule, Implicit Differentiation and CriticalPoints.md",
+    "2_Modelling Space and Systems/2_1_Tangent Plane Approximation, Directional Derivatives and Gradient.md",
+    "2_Modelling Space and Systems/1_2_Level Curves and Partial Differentiation.md",
+    "2_Modelling Space and Systems/1_1_Vectors and Multivariable Functions.md",
     "/日本語/anki.txt",
+    "/日本語/2_1_文法.md",
     "/日本語/1_語彙.xlsx",
     "/日本語/1_語彙.md",
-    "/ref/PS9.md",
-    "/ref/PS8.md",
-    "/Physical World/9_Momentum and Impulse.md",
-    "/Physical World/8_Energy and Work Done.md",
-    "/Physical World/5_2_Rigid body.md",
-    "/Physical World/3_Forces.md",
-    "/Physical World/2_Kinematics.md",
-    "/Physical World/12_Thermodynamics.md",
-    "/Physical World/10_2_Angular Momentum.md",
-    "/Modelling and Analysis/6_5_Differential Equations.md",
-    "/Modelling and Analysis/6_3_Arc Length, Areas of Surface of Revolution.md",
-    "/Modelling and Analysis/6_2_Areas Between Curves and Volumes.md",
-    "/Modelling and Analysis/5_Integration.md",
+    "/日本語",
+    "/ref/TW1_2_1.png",
+    "/ref/Screenshot 2025-02-03 at 17.48.51.png",
+    "ref/Screenshot 2025-02-03 at 17.48.51.png",
+    "/ref",
+    "/Technological World/2_1_Electric Field Lines and Flux.md",
+    "/Technological World/1_2_Point Charges and Dipoles.md",
+    "/Technological World/1_1_Charges and Electricity.md",
+    "/Science for a Sustainable World/2_2_Chemical Bonds and Intermolecular Forces.md",
+    "/Science for a Sustainable World/2_1_Understand Science from Atom to molecule.md",
+    "/Science for a Sustainable World/1_Introduction to Sustainability.md",
+    "/Modelling Space and Systems/2_2_Chain Rule, Implicit Differentiation and CriticalPoints.md",
+    "/Modelling Space and Systems/2_1_Tangent Plane Approximation, Directional Derivatives and Gradient.md",
+    "/Modelling Space and Systems/1_2_Level Curves and Partial Differentiation.md",
+    "/Modelling Space and Systems/1_1_Vectors and Multivariable Functions.md",
+    "2_Technological World",
+    "2_Science for a Sustainable World",
+    "2_Modelling Space and Systems",
+    "/Technological World",
+    "/Science for a Sustainable World",
+    "/Modelling Space and Systems",
+    "/Physical World/大大フォーミュラシート.md",
     "ref/parallel axis theorem.png",
     "/ref/parallel axis theorem.png",
     "ref/shmPhaseShift.jpg",
-    "/ref/shmPhaseShift.jpg",
-    "ref",
-    "/ref"
+    "/ref/shmPhaseShift.jpg"
   ]
 }
