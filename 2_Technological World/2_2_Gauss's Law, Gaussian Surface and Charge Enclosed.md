@@ -1,5 +1,5 @@
 ## Closed surfaces
-- Closed surface contains a volume
+- Closed surface contains a volume $\newcommand{\oiint}{{\subset\!\supset} \mathllap{\iint}}\newcommand{\oiiint}{{\Large{\subset\!\supset}} \mathllap{\iiint}}$
 - It can be made up of many open surfaces
 - The direction of the normal area vector $\hat{n}$ points from **inside out**
 $$ \Phi_E = \oiint_{surface} d\Phi_i = \oiint_{surface} \vec{E} \cdot d\vec{A} $$

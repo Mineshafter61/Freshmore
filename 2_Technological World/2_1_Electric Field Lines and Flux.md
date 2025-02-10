@@ -1,5 +1,4 @@
 ## Electric Flux
-- The amount of electric field lines of a vector field passing through a given surface. $\newcommand{\oiint}{{\subset\!\supset} \mathllap{\iint}}\newcommand{\oiiint}{{\Large{\subset\!\supset}} \mathllap{\iiint}}$
 - Symbol: $\Phi_E$
 - Unit: $N \cdot m^2/C$
 - Time independent

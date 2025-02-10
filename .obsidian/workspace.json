@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語/2_1_文法.md",
+                "file": "2_Technological World/2_2_Gauss's Law, Gaussian Surface and Charge Enclosed.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2_1_文法"
+              "title": "2_2_Gauss's Law, Gaussian Surface and Charge Enclosed"
             }
           }
         ]
@@ -182,16 +182,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab499776527a81aa",
+  "active": "9d289225256aecd1",
   "lastOpenFiles": [
+    "2_Technological World/2_1_Electric Field Lines and Flux.md",
+    "2_Technological World/2_2_Gauss's Law, Gaussian Surface and Charge Enclosed.md",
+    "日本語/2_1_文法.md",
     "Modelling Space and Systems/1_1_Vectors and Multivariable Functions.md",
     "Modelling Space and Systems",
-    "2_Technological World/2_2_Gauss's Law, Gaussian Surface and Charge Enclosed.md",
     "Technological World/2_2_Gauss's Law, Gaussian Surface and Charge Enclosed.md",
     "Technological World",
-    "日本語/2_1_文法.md",
     "conflict-files-obsidian-git.md",
-    "2_Technological World/2_1_Electric Field Lines and Flux.md",
     "2_Technological World/1_2_Point Charges and Dipoles.md",
     "2_Technological World/1_1_Charges and Electricity.md",
     "2_Technological World/0_Spherical Coordinate System.md",
