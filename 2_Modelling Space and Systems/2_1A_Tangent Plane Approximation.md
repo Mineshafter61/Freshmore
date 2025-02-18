@@ -1,6 +1,6 @@
 ## Tangent plane
 - The tangent plane to a surface at a point is a plane that “best approximates” the surface near the point
-- Equation of a tangent plane to a surface $z=f(x,y)$ at a point $P=(x_0,y_0,f(x_0,y_0)): $$z=f(x_0,y_0)+f_x(x_0,y_0)(x−x_0)+f_y(x_0,y_0)(y−y_0)$$
+- Equation of a tangent plane to a surface $z=f(x,y)$ at a point $P=(x_0,y_0,f(x_0,y_0))$: $$z=f(x_0,y_0)+f_x(x_0,y_0)(x−x_0)+f_y(x_0,y_0)(y−y_0)$$
 - The equation can also be written as $$z-z_0=f_x(x_0,y_0)(x−x_0)+f_y(x_0,y_0)(y−y_0)$$
 ## Tangent Plane Approximation
 - The tangent plane is very close to the surface near the point of contact

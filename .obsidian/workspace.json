@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fc626b93b4da246d",
+        "id": "c42ecab66aeca836",
         "type": "tabs",
         "children": [
           {
-            "id": "9d289225256aecd1",
+            "id": "94632ffab26b97e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Technological World/2_2_Gauss's Law, Gaussian Surface and Charge Enclosed.md",
+                "file": "ref/homework.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2_2_Gauss's Law, Gaussian Surface and Charge Enclosed"
+              "title": "homework"
             }
           }
         ]
@@ -182,51 +182,51 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d289225256aecd1",
+  "active": "ab499776527a81aa",
   "lastOpenFiles": [
+    "ref/MSS_lagrangian.png",
+    "ref/TW_point dipole approximation.png",
+    "2_Modelling Space and Systems/4_1_Lagrange Multipliers.md",
+    "ref/TW1_2_1.png",
+    "ref/shmPhaseShift.jpg",
+    "ref/parallel axis theorem.png",
+    "ref/homework.md",
+    "2_Modelling Space and Systems/3_1_Extreme Value Theorem.md",
+    "2_Modelling Space and Systems/3_2_Unbounded Regions.md",
+    "2_Science for a Sustainable World/4_Chemical Equilibrium.md",
+    "2_Technological World/4_1_Electric Potential.md",
+    "2_Technological World/1_2_Point Charges and Dipoles.md",
     "2_Technological World/2_1_Electric Field Lines and Flux.md",
     "2_Technological World/2_2_Gauss's Law, Gaussian Surface and Charge Enclosed.md",
-    "日本語/2_1_文法.md",
-    "Modelling Space and Systems/1_1_Vectors and Multivariable Functions.md",
-    "Modelling Space and Systems",
-    "Technological World/2_2_Gauss's Law, Gaussian Surface and Charge Enclosed.md",
-    "Technological World",
-    "conflict-files-obsidian-git.md",
-    "2_Technological World/1_2_Point Charges and Dipoles.md",
-    "2_Technological World/1_1_Charges and Electricity.md",
-    "2_Technological World/0_Spherical Coordinate System.md",
-    "2_Technological World",
+    "2_Technological World/3_1_Conductor at Equilibrium.md",
+    "2_Technological World/3_2_Electrostatic Force and Energy.md",
     "2_Science for a Sustainable World/2_2_Chemical Bonds and Intermolecular Forces.md",
     "2_Science for a Sustainable World/2_1_Understand Science from Atom to molecule.md",
+    "2_Science for a Sustainable World/0_Periodic Table.md",
     "2_Science for a Sustainable World/1_Introduction to Sustainability.md",
-    "2_Science for a Sustainable World",
-    "2_Modelling Space and Systems/2_2_Chain Rule, Implicit Differentiation and CriticalPoints.md",
-    "2_Modelling Space and Systems/2_2C_Implicit Differentiation.md",
-    "2_Modelling Space and Systems/2_2B_Critical Points.md",
-    "2_Modelling Space and Systems/2_2A_Chain Rule.md",
-    "2_Modelling Space and Systems/2_1_Tangent Plane Approximation, Directional Derivatives and Gradient.md",
-    "2_Modelling Space and Systems/2_1C_Gradient.md",
+    "2_Science for a Sustainable World/3_Thermochemistry.md",
+    "日本語/2_3_文法出題基準外項目.md",
+    "日本語/3_読解.md",
+    "2_Technological World/1_1_Charges and Electricity.md",
     "2_Modelling Space and Systems/2_1B_Directional Derivatives.md",
-    "2_Modelling Space and Systems/2_1A_Tangent Plane Approximation.md",
+    "2_Modelling Space and Systems/2_1C_Gradient.md",
     "2_Modelling Space and Systems/1_2_Level Curves and Partial Differentiation.md",
-    "2_Modelling Space and Systems/1_1_Vectors and Multivariable Functions.md",
     "2_Modelling Space and Systems/1_1B_Multivariable Functions.md",
-    "2_Modelling Space and Systems/1_1A_Vectors.md",
+    "2_Modelling Space and Systems/2_1A_Tangent Plane Approximation.md",
+    "1_Modelling and Analysis/3_Derivatives.md",
+    "Modelling Space and Systems",
+    "Technological World",
+    "2_Technological World",
+    "2_Science for a Sustainable World",
     "2_Modelling Space and Systems",
-    "1_Physical World/大大フォーミュラシート.md",
-    "1_Physical World/9_Momentum and Impulse.md",
     "1_Physical World",
     "1_Modelling and Analysis",
     "Modelling Space and Systems/2_2B_Critical Points.ms",
     "Modelling Space and Systems/2_2B_Critical Points",
     "Modelling Space and Systems/2_2A_Chain Rule",
-    "ref/TW1_2_1.png",
-    "ref/shmPhaseShift.jpg",
-    "ref/Screenshot 2025-02-03 at 17.48.51.png",
     "ref/directionalDerivativeProof.png",
     "Screenshot 2025-02-04 at 13.45.31.png",
     "Screenshot 2025-02-04 at 13.43.27.png",
-    "ref/parallel axis theorem.png",
     "ref/law of limits infinity.png"
   ]
 }

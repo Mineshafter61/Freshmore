@@ -173,6 +173,7 @@
 - **Overall decrease in atomic radius**
 - **General increase in IE**
 - **EA increases in magnitude**
+- **Increase in EN**
 ### Down the group (vertical)
 - Nuclear charge increases (+ attraction)
 - Electron added to the outer shell (- attraction)
@@ -181,3 +182,4 @@
 - **Overall increase in atomic radius**
 - **General decrease in IE**
 - **EA decreases in magnitude**
+- **Decrease in EN**

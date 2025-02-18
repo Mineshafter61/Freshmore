@@ -47,7 +47,7 @@
 	- C=C: Order 2
 	- C≡C: Order 3
 - **Bond energy**: Energy required to overcome attraction between the nuclei and shared electrons
-- **Bond length** Distance between nuclei of the bonded atoms in the molecule
+- **Bond length**: Distance between nuclei of the bonded atoms in the molecule
 - A **higher bond order** results in a **shorter bond length** and **higher bond energy**
 - Going **down the group** results in a **longer bond length** and **lower bond energy**.
 ## Intermolecular Interaction
@@ -95,12 +95,12 @@
 - Dispersion forces are **stronger** for **more polarisable** (larger) particles
 ## Summary of Intermolecular Interactions
 - Ionic interactions
-	- Ion-dipole: 40-600 kJ/mol: ion+polar
-	- Ion-induced dipole: 3-15 kJ/mol: ion+non-polar
+	- **Ion-dipole**: 40-600 kJ/mol: ion+polar
+	- **Ion-induced dipole**: 3-15 kJ/mol: ion+non-polar
 - Dipole interactions
-	- Dipole-dipole: 5-25 kJ/mol: polar+polar
-	- Hydrogen bond: 10-40 kJ/mol: H+F/O/N
-	- Dipole-induced dipole: 2-10 kJ/mol: polar+non-polar
+	- **Dipole-dipole**: 5-25 kJ/mol: polar+polar
+	- **Hydrogen bond**: 10-40 kJ/mol: H+F/O/N
+	- **Dipole-induced dipole**: 2-10 kJ/mol: polar+non-polar
 - London Dispersion: 0.05-40 kJ/mol: non-polar+non-polar
 ## Physical Properties
 - Stronger intermolecular interactions

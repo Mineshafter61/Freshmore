@@ -7,7 +7,7 @@
 	- $\displaystyle\implies\vec{E}_s(P)=k_e \frac{q_s}{r_{st}^2}\hat{r}_{st} = k_e \frac{q_s}{r_{st}^3}\vec{r}_{st}$
 ## Superposition Principle
 - Since electric field is linear to the charge, the electric field due to a collection of $N$ point charges is the vector sum of the individual electric fields due to each charge.
-	- $\displaystyle\displaystyle\vec{E}_i(P)=k_e \frac{q_i}{r_{iP}^2} \hat{r}_{iP}$
+	- $\displaystyle\vec{E}_i(P)=k_e \frac{q_i}{r_{iP}^2} \hat{r}_{iP}$
 	- $\displaystyle\vec{E}(P)=\sum_{i=1}^{N}\vec{E}_{i}(P)=\sum_{i=1}^{N}k_e \frac{q_i}{r_{iP}^2} \hat{r}_{iP}$
 - If there is a point charge $q$ at point $P$, the point charge experiences a force of
 	- $\displaystyle q\vec{E}(P)=\sum_{i=1}^{N}q\vec{E}_{i}(P)=\sum_{i=1}^{N}k_e \frac{q\,q_i}{r_{iP}^2} \hat{r}_{iP}$
@@ -34,7 +34,7 @@
 - Field is due to the superposition of the electric fields contributed by the positive and negative charge in the dipole.
 - For the far field region, a dipole can be approximated as a point dipole.
 - Electric field at point $P$, $\vec{E}_P=\frac{k_eqd}{x^3}(-\hat{j})=\frac{k_eP}{x^3}(-\hat{j})$
-- TODO: Proof of Point Dipole Approximation (1st order Taylor series expansion) ![[Screenshot 2025-02-03 at 17.48.51.png]]
+- TODO: Proof of Point Dipole Approximation (1st order Taylor series expansion) ![[TW_point dipole approximation.png]]
 ## Force & Torque on Electric Dipole in Electric Field
 - Force in a uniform field
 	- Let $\vec{E}=E\hat{i}$
