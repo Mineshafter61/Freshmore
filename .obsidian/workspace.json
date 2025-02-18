@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c42ecab66aeca836",
+        "id": "632a00b5a30a13ff",
         "type": "tabs",
         "children": [
           {
-            "id": "94632ffab26b97e2",
+            "id": "0a30fb5b12ea38fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ref/homework.md",
+                "file": "2_Modelling Space and Systems/4_1_Lagrange Multipliers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "homework"
+              "title": "4_1_Lagrange Multipliers"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "right": {
     "id": "e2473dcf4995c385",
@@ -182,15 +183,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab499776527a81aa",
+  "active": "0a30fb5b12ea38fb",
   "lastOpenFiles": [
+    "ref/homework.md",
     "ref/MSS_lagrangian.png",
     "ref/TW_point dipole approximation.png",
     "2_Modelling Space and Systems/4_1_Lagrange Multipliers.md",
     "ref/TW1_2_1.png",
     "ref/shmPhaseShift.jpg",
     "ref/parallel axis theorem.png",
-    "ref/homework.md",
     "2_Modelling Space and Systems/3_1_Extreme Value Theorem.md",
     "2_Modelling Space and Systems/3_2_Unbounded Regions.md",
     "2_Science for a Sustainable World/4_Chemical Equilibrium.md",
