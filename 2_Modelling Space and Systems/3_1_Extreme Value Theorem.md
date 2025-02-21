@@ -23,7 +23,7 @@
 ### General Procedure
 1. Check if the region (if any) of interest is closed and bounded, and whether the function is continuous within the region.
 	- If the region is closed and bounded, AND if the function is continuous, EVT applies.
-	- Otherwise, use (future lesson)
+	- Otherwise, use [[3_2_Unbounded Regions]]
 2. Find all critical points of the function $f$ in the interior of the region.
 	- $\nabla f=\vec{0}$
 	- $\nabla f \text{ is undefined}$

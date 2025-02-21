@@ -35,3 +35,28 @@
 - Then, we calculate the electric potential _V_ using this relation: $$V_B-V_A=-\int_A^B \vec{E}\cdot d\vec{s}$$
 - Useful for highly symmetrical charge distributions
 - **Unlike for electric field, there cannot be a discontinuity in electric potential**
+## Properties of equipotential lines
+- E field lines point from high to low electric potential.
+- E field lines is always perpendicular to equipotential lines.
+- E field has no component along equipotential lines.
+	- No E field implies equipotential!
+- The electrostatic force does zero work to move a charged particle along an equipotential line.
+- Conductors are equipotential surfaces
+## Deriving E from V
+- Where $A = (x,y,z)$, $B = (x + \Delta x,y,z)$ and $\Delta \vec{s} = \Delta x\hat{i}$,
+$$
+\Delta V = -\int^B_A \vec{E} \cdot d\vec{s}
+$$
+- Therefore,
+$$
+E_x = -\frac{\Delta V}{\Delta x} = -\frac{\partial V}{\partial x}
+$$
+- Combining all directions together,
+$$
+\begin{align}
+\vec{\nabla}&\equiv \frac{\partial}{\partial x}\hat{i}+\frac{\partial}{\partial y}\hat{j}+\frac{\partial}{\partial z}\hat{k} \\
+\vec{E}&=-\left(\frac{\partial}{\partial x}\hat{i}+\frac{\partial}{\partial y}\hat{j}+\frac{\partial}{\partial z}\hat{k}\right)V=-\vec{\nabla}V
+\end{align}
+$$
+- Electric field is the **negative** gradient of electric potential
+	- Cannot be derived from electric potential from only one point
