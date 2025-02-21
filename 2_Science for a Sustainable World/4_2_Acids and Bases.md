@@ -65,5 +65,15 @@
 	- Dual action helps maintain a relatively constant pH
 - Widely used in biological systems, industrial processes, and lab experiments to ensure reactions occur under optimal pH conditions.
 ### Best Buffer Region
-- pH = pK<sub>a</sub>
-- 
+$$
+\begin{gather*}
+\text{Consider }{HA (aq) + H_2O (\ell) \leftrightarrow A^-(aq)+H_3O^+(aq)}\\
+K_a=\frac{[A^-]_{eq}[H_3O^+]_{eq}}{[HA]_{eq}} \\
+\text{Rearranging}:[H_3O^+]_{eq}=K_a \frac{[HA]_{eq}}{[A^-]_{eq}} \\
+-\log[H_3O^+]_{eq}=-\log K_a-\log\frac{[HA]_{eq}}{[A^-]_{eq}} \\
+pH=pK_a-\log\frac{[HA]_{eq}}{[A^-]_{eq}} \\
+\text{At equilibrium}:\log\frac{[HA]_{eq}}{[A^-]_{eq}}\approx1 \\
+\therefore pH=pK_a-\log\cancel{ \frac{[HA]_{eq}}{[A^-]_{eq}} } \\
+pH=pK_a
+\end{gather*}
+$$
