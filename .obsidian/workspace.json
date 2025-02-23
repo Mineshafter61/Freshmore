@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c04e42e85231f1be",
+            "id": "fae158bf39e66f3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Science for a Sustainable World/4_2_Acids and Bases.md",
+                "file": "2_Technological World/2_1_Electric Field Lines and Flux.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4_2_Acids and Bases"
+              "title": "2_1_Electric Field Lines and Flux"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "right": {
     "id": "e2473dcf4995c385",
@@ -183,14 +182,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c04e42e85231f1be",
+  "active": "fae158bf39e66f3b",
   "lastOpenFiles": [
-    "2_Science for a Sustainable World/0_Extras.md",
+    "2_Technological World/1_2_Point Charges and Dipoles.md",
+    "2_Technological World/2_1_Electric Field Lines and Flux.md",
+    "2_Technological World/3_1_Conductor at Equilibrium.md",
+    "2_Technological World/3_2_Electrostatic Force and Energy.md",
+    "2_Technological World/2_2_Gauss's Law, Gaussian Surface and Charge Enclosed.md",
+    "2_Technological World/1_1_Charges and Electricity.md",
+    "2_Technological World/4_1_Electric Potential.md",
+    "2_Technological World/4_2_Capacitance.md",
     "2_Science for a Sustainable World/4_2_Acids and Bases.md",
+    "2_Science for a Sustainable World/0_Extras.md",
     "ref/homework.md",
     "2_Modelling Space and Systems/4_2_Double Integrals.md",
-    "2_Technological World/4_2_Capacitance.md",
-    "2_Technological World/4_1_Electric Potential.md",
     "2_Modelling Space and Systems/3_1_Extreme Value Theorem.md",
     "2_Modelling Space and Systems/3_2_Unbounded Regions.md",
     "2_Modelling Space and Systems/2_2B_Critical Points.md",
@@ -203,17 +208,11 @@
     "ref/shmPhaseShift.jpg",
     "ref/parallel axis theorem.png",
     "2_Science for a Sustainable World/4_1_Chemical Equilibrium.md",
-    "2_Technological World/1_2_Point Charges and Dipoles.md",
-    "2_Technological World/2_1_Electric Field Lines and Flux.md",
-    "2_Technological World/2_2_Gauss's Law, Gaussian Surface and Charge Enclosed.md",
-    "2_Technological World/3_1_Conductor at Equilibrium.md",
-    "2_Technological World/3_2_Electrostatic Force and Energy.md",
     "2_Science for a Sustainable World/2_2_Chemical Bonds and Intermolecular Forces.md",
     "2_Science for a Sustainable World/2_1_Understand Science from Atom to molecule.md",
     "2_Science for a Sustainable World/1_Introduction to Sustainability.md",
     "日本語/2_3_文法出題基準外項目.md",
     "日本語/3_読解.md",
-    "2_Technological World/1_1_Charges and Electricity.md",
     "2_Modelling Space and Systems/2_1B_Directional Derivatives.md",
     "2_Modelling Space and Systems/2_1C_Gradient.md",
     "Modelling Space and Systems",

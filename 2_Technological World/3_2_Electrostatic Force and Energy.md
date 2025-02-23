@@ -35,7 +35,7 @@ $$
 ### Potential Energy Difference $\delta U$
 - In polar coordinates,
 $$
-\delta U = U_B - U_A = -W = -\int^B_A \vec{F}_{st} \cdot d\vec{s} = k_eq_sq_t(\frac{1}{r_B} - \frac{1}{r_A})
+\Delta U = U_B - U_A = -W = -\int^B_A \vec{F}_{st} \cdot d\vec{s} = k_eq_sq_t(\frac{1}{r_B} - \frac{1}{r_A})
 $$
 - At $r = \infty$, $U(\infty) = 0$
 ### Configuration Energy

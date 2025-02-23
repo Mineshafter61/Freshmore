@@ -1,5 +1,5 @@
 ## Conductors
-- Ideal conductor: infinite supply of mobile charge carriers
+- Ideal conductor: infinite supply of mobile charge carriers $\newcommand{\oiint}{{\subset\!\supset} \mathllap{\iint}}\newcommand{\oiiint}{{\Large{\subset\!\supset}} \mathllap{\iiint}}$
 - All charge carriers move without resistance
 ## Electric Fields & Conductors
 - If an electric field is present inside a conductor, free charges will move around
@@ -52,8 +52,9 @@ $$
 - Reflection symmetry about a perpendicular plane
 $$
 \begin{align*}
-&\oiint\vec{E}\cdot d\vec{A}=\frac{Q_{enclosed}}{\varepsilon_0}\\
-&\implies E(r)2πrl=\frac{Q_{enclosed}}{\varepsilon_0}
+\oiint\vec{E}\cdot d\vec{A}&=\frac{Q_{enclosed}}{\varepsilon_0}\\
+\implies E(r)2πrl&=\frac{Q_{enclosed}}{\varepsilon_0}\\
+E(r)&=\frac{Q_{enclosed}}{\varepsilon_02πrl}
 \end{align*}
 $$
 #### Planar symmetry

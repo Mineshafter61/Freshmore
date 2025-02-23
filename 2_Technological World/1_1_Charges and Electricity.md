@@ -36,7 +36,7 @@
 - There is no such thing as a point charge in reality, but this concept is a good approximation for a charged object if it is sufficiently far away from the observer.
 ### Coulomb's Law
 - The force on point $q_2$ due to interaction with point charge $q_1$ is proportional to the product of charges and inversely proportional to the square of the distance of separation. $$\vec{F}_{12}=k_e\frac{q_1q_2}{r_{12}^2}\hat{r}_{12}$$
-- If the interaction happens in vacuum: $k_{e}=\frac{1}{4πε_0}\approx 9\times 10^{9}Nm^2/C^2$, where $ε_0$ is the permittivity of free space.
+- **If the interaction happens in vacuum: $k_{e}=\frac{1}{4πε_0}\approx 9\times 10^{9}Nm^2/C^2$, where $ε_0$ is the permittivity of free space.**
 - Because $\hat{r}_{12}=\frac{\vec{r}_{12}}{r_{12}}$, Coulomb's force can also be written as $$\vec{F}_{12}=k_e\frac{q_1q_2}{r_{12}^3}\vec{r}_{12}$$ **Note the cube in the denominator.**
 ### Principle of Superposition for Coulomb Force
 - The total Coulomb force on a charge $q_0$ from many charges around it is $$

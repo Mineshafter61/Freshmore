@@ -35,6 +35,8 @@
 - For the far field region, a dipole can be approximated as a point dipole.
 - Electric field at point $P$, $\vec{E}_P=\frac{k_eqd}{x^3}(-\hat{j})=\frac{k_eP}{x^3}(-\hat{j})$
 - TODO: Proof of Point Dipole Approximation (1st order Taylor series expansion) ![[TW_point dipole approximation.png]]
+- Proof of Point Dipole Approximation:
+	- $E_x(r,\theta)=\frac{qd}{4π\varepsilon_{0}r^3}$
 ## Force & Torque on Electric Dipole in Electric Field
 - Force in a uniform field
 	- Let $\vec{E}=E\hat{i}$
@@ -45,7 +47,7 @@
 	- $\vec{\tau}=\vec{r}\times \vec{F}=\vec{r}\times q\vec{E}=q\vec{r}\times \vec{E}=\vec{p}\times \vec{E}$
 - Force in a non-uniform field
 	- Dipole experiences a force
-### Continuous charge distribution
+## Continuous charge distribution
 $$
 \vec{E} = \int_{body} k_e \frac{dq}{|\vec{r}|^2} \hat{r} = \int_{body} k_e \frac{dq}{|\vec{r}_p - \vec{r}_s|^3}(\vec{r}_p - \vec{r}_s)
 $$
