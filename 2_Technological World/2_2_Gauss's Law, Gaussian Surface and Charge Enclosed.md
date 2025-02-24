@@ -10,8 +10,8 @@ $$ \Phi_E = \oiint_{surface} d\Phi_i = \oiint_{surface} \vec{E} \cdot d\vec{A} $
 ## Gauss's Law, Gaussian Surface and Charge Enclosed
 - **First Maxwell Equation**: The total flux for all **closed surfaces** is given as
 $$
-\Phi_{E}=\oiint_{\text{closed surface}}\vec{E} \cdot d\vec{A}=\frac{Q_\text{enclosed}}{\varepsilon_0}
+\Phi_{E}=\oiint_{\text{closed surface}}\vec{E} \cdot d\vec{A}=\frac{Q_\text{enclosed}}{𝜀_0}
 $$
-- The total flux passing through **any closed surface** is equal to the **charged enclosed inside** divided by the **permittivity of free space** (constant $\epsilon_0$) 
+- The total flux passing through **any closed surface** is equal to the **charged enclosed inside** divided by the **permittivity of free space** (constant $𝜀_0$) 
   - The shape of the enclosed surface **does not matter** as the total electric field lines passing through the enclosed surface is constant
   - **No net flux** for any **closed surface** placed in an **external** electric field (electric field in cancels electric field out)
