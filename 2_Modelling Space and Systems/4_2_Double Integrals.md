@@ -9,6 +9,7 @@ $$
 	- where $(u_{ij},v_{ij})$ is some point in the $(i,j)$<sup>th</sup> rectangle.
 	- Such an integral is called a **double integral**.
 ## Iterated Integrals
+### Fubini's Theorem
 - Let $R$ be the bounded rectangular region $[a,b]\times[c,d]$. If $f(x,y)$ is continuous on $R$, then
 $$
 \iint f(x,y)dA=\int_{a}^{b}\int_{c}^{d} f(x,y)\,dy\,dx=\int_{c}^{d}\int_{a}^{b} f(x,y)\,dx\,dy
