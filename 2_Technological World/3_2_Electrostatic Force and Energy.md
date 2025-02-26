@@ -32,7 +32,7 @@ $$
 \Delta U=-q \int_A^B \vec{E} \cdot d\vec{s}
 \end{gather}
 $$
-### Potential Energy Difference $\delta U$
+### Potential Energy Difference $\Delta U$
 - In polar coordinates,
 $$
 \Delta U = U_B - U_A = -W = -\int^B_A \vec{F}_{st} \cdot d\vec{s} = k_eq_sq_t(\frac{1}{r_B} - \frac{1}{r_A})
