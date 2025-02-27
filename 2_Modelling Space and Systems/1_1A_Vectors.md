@@ -25,25 +25,30 @@ $\begin{bmatrix}s_{x}\\ s_{y}\\ s_{z}\end{bmatrix} = \begin{bmatrix}a_{y}b_{z}-a
 $$\begin{align}\vec{e}_{1} = \begin{bmatrix}1\\0\\0\end{bmatrix}=\hat{i}\\\vec{e}_{2} = \begin{bmatrix}0\\1\\0\end{bmatrix}=\hat{j}\\\vec{e}_{3} = \begin{bmatrix}0\\0\\1\end{bmatrix}=\hat{k}\end{align}$$
 - $\vec{e}_{1}, \vec{e}_{2},\vec{e}_{3}$ are unit vectors.
 ### Linear combinations
-- A vector $\vec{v}$ can be expressed as a linear combination of $\vec{v}_{1}$, $\vec{v}_{2}$, $\dots$, $\vec{v}_{n}$ if it can be expressed as $$\vec{v}=α_1\vec{v}_1+α_2\vec{v}_2+···+α_n\vec{v}_n$$
+- A vector $\vec{v}$ can be expressed as a linear combination of $\vec{v}_{1}$, $\vec{v}_{2}$, $\dots$, $\vec{v}_{n}$ if it can be expressed as 
+$$\vec{v}=α_1\vec{v}_1+α_2\vec{v}_2+···+α_n\vec{v}_n$$
 ## Lines and Planes
 ### Lines
 - Normal form of the equation of a line in $\mathbb{R}^2$ is $$\vec{n}\cdot(\vec{r}-\vec{r}_{0})=0$$
 	- $\vec{r}_{0}$ is the position vector of a specific point on the line
 - General form of the equation of a line in $\mathbb{R}^2$ is $$ax+by=c$$
 	- $\vec{n}=\begin{bmatrix}a\\b\end{bmatrix}$ is a normal vector of the line
-- Vector form of the equation of a line in $\mathbb{R}^2$ and higher dimensions is $$\vec{r}=\vec{r}_0+t\vec{d}\,\,\,,\,\,\,\forall\, t∈\mathbb{R}$$
-	- $\vec{r}_{0}$ is the position vector of a specific point on the line
-	- $\vec{d}\neq\vec{0}$ is a direction vector of the line (vector parallel to the line)
+- Vector form of the equation of a line in $\mathbb{R}^2$ and higher dimensions is 
+$$\vec{r}=\vec{r}_0+t\vec{d}\,\,\,,\,\,\,\forall\, t∈\mathbb{R}$$
+> - $\vec{r}_{0}$ is the position vector of a specific point on the line
+> - $\vec{d}\neq\vec{0}$ is a direction vector of the line (vector parallel to the line)
 - $\vec{n}\perp \vec{d},\vec{n}\cdot \vec{d}=0$
 ### Planes
-- Normal form of the equation of a plane in $\mathbb{R}^3$ is $$\vec{n}\cdot(\vec{r}-\vec{r}_{0})=0$$
-	- $\vec{r}_{0}$ is the position vector of a specific point on the plane
-	- $\vec{n}=\begin{bmatrix}a\\b\end{bmatrix}$ is a normal vector of the plane
-- General form of the equation of a plane in $\mathbb{R}^3$ is $$ax+by+cz=d$$
-	- $\vec{n}=\begin{bmatrix}a\\b\\c\end{bmatrix}$ is a normal vector of the plane
-	- $d$ is the dot product of the normal vector and a specific point on the plane.
-- Vector form of the equation of a plane in $\mathbb{R}^3$ and higher dimensions is $$\vec{r}=\vec{r}_0+s\vec{u}+t\vec{v}\,\,\,,\,\,\,\forall\, s,t∈\mathbb{R}$$
-	- $\vec{r}_{0}$ is the position vector of a specific point on the plane
-	- $\vec{u}\ne\vec{0}$ and $\vec{v}\ne\vec{0}$ are direction vectors of the plane
-	- $\vec{u}$ and $\vec{v}$ are parallel to the plane but NOT parallel to each other.
+- Normal form of the equation of a plane in $\mathbb{R}^3$ is 
+$$\vec{n}\cdot(\vec{r}-\vec{r}_{0})=0$$
+> - $\vec{r}_{0}$ is the position vector of a specific point on the plane
+> - $\vec{n}=\begin{bmatrix}a\\b\end{bmatrix}$ is a normal vector of the plane
+- General form of the equation of a plane in $\mathbb{R}^3$ is > 
+$$ax+by+cz=d$$
+> - $\vec{n}=\begin{bmatrix}a\\b\\c\end{bmatrix}$ is a normal vector of the plane
+> - $d$ is the dot product of the normal vector and a specific point on the plane.
+- Vector form of the equation of a plane in $\mathbb{R}^3$ and higher dimensions is
+$$\vec{r}=\vec{r}_0+s\vec{u}+t\vec{v}\,\,\,,\,\,\,\forall\, s,t∈\mathbb{R}$$
+> - $\vec{r}_{0}$ is the position vector of a specific point on the plane
+> - $\vec{u}\ne\vec{0}$ and $\vec{v}\ne\vec{0}$ are direction vectors of the plane
+> - $\vec{u}$ and $\vec{v}$ are parallel to the plane but NOT parallel to each other.

@@ -12,7 +12,7 @@ where $(u_{ijk}, v_{ijk}, w_{ijk})$ is some point in the $(i,j,k)$<sup>th</sup> 
 [[4_2_Double Integrals#Fubini's Theorem|Fubini's Theorem]] also applies.
 ## Cylindrical Coordinates
 $$
-\begin{align}
+\begin{align*}
 x &= r\cos\theta \\
 y &= r\sin\theta \\
 z &= z \\
@@ -20,18 +20,18 @@ r &= \sqrt{x^2+y^2} \\
 \theta &= \arctan(\frac{y}{x}) \text{ for } x > 0 \\
 z &= z \\
 dV &= r \, drd\theta dz
-\end{align}
+\end{align*}
 $$
 ## Spherical Coordinates
 $$
-\begin{align}
+\begin{align*}
 x &= \rho\sin\phi\cos\theta \\
 y &= \rho\sin\phi\sin\theta \\
 z &= \rho\cos\theta \\
 \rho &= \sqrt{x^2+y^2+z^2} \\
 \phi &= \arctan(\frac{\sqrt{x^2+y^2}}{z}) \text{ for } x > 0 \\
 dV &= \rho^2\sin\phi\, d\rho\, d\theta\, d\phi
-\end{align}
+\end{align*}
 $$
 - **Note:** $0≤\theta≤2π, 0≤\phi≤π$
 	- Using $\theta = 2\pi$, $\phi = 2\phi$ would give 2 spheres

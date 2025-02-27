@@ -27,7 +27,7 @@
 - *Example: Find all critical points of $f(x,y)=x^2+y^3-6xy$, and classify them as either local maxima, local minima, or saddle points.*
 
 $$
-\begin{gather}
+\begin{gather*}
 f_x(x,y)=2x-6y \\
 f_y(x,y)=3y^2-6x \\
 2x-6y=0;3y^2-6x=0 \\
@@ -39,6 +39,5 @@ D(0,0)=(2)(0)-(6)(6)=-36<0\\
 D(18,6)=(2)(36)-(6)(6)=36>0\\
 f_{xx}(18,6)=2\\
 \therefore (0,0) \text{ is a saddle point and }(18,6)\text{ is a minimum point}
-\end{gather}
-
+\end{gather*}
 $$

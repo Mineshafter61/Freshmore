@@ -8,27 +8,15 @@ Consider the function $f(x,y)=x^2+3x+y^2-2y$ where $x,y ∈ \mathbb{R}$. Find th
 > First we compute $\nabla f$, i.e. $f_{x}=2x+3$ and $f_{y}=2y-2$. Setting $\nabla f=\vec{0}$, we get the point $-\frac{3}{2},1$ and $f\left( -\frac{3}{2},1 \right)=-\frac{13}{4}$.
 > Notice that we can rewrite the function as follows:
 $$
-\begin{align}
+\begin{align*}
 f(x,y)&=x^{2}+3x+y^2-2y \\
 &=x^{2}+2 \frac{3}{2}x+\left( \frac{3}{2} \right)^{2}+y^{2}-2y+1-\left( \frac{3}{2} \right)^{2}-1 \\
 &=\left( x+\frac{3}{2} \right)^{2}+(y-1)^{2}-\frac{13}{4}
-\end{align}
+\end{align*}
 $$
 > It is clear that the first two terms are non-negative and the function is always greater than or equals to $-\frac{13}{4}$.
 > We can conclude that $f$ has a global minimum value of $-\frac{13}{4}$ at the point $\left( -\frac{3}{2},1 \right)$.
 
-
-(a)
-$f_{x}(x,y)=\frac{2x-4}{\sqrt{x^2-4x+y^2-2y+5}}$
-$f_{y}(x,y)=\frac{2y-2}{\sqrt{x^2-4x+y^2-2y+5}}$
-$2x-4=0\implies x=2$
-$2y-2=0\implies y=1$
-$f(x,y)=\sqrt{(x-2)^{2}-4+(y-1)^2+4}=\sqrt{(x-2)^{2}+(y-1)^2}$
-therefore the global minimum is (2,1,0)
-
-(b)
-$g(x,y)=-(x^2+10x+25)=-(x+5)^2$
-therefore the global maximum is (-5, y, 0).
 ## AM-GM Inequality
 - For **non-negative real numbers** $x_1+x_2+\dots+x_n$, the arithmetic mean is always at least the geometric mean. That is, 
 $$\frac{x_1+x_2+\dots+x_n}{n}>\sqrt[n]{x_1x_2\dots x_n}$$

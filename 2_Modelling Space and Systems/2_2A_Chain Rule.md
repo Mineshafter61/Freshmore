@@ -17,9 +17,9 @@ $$
 &=7t^6+8t^7
 \end{align}
 $$
-	- By substitution, $z=t^7+t^8$, therefore we can check the answer directly.
+> - By substitution, $z=t^7+t^8$, therefore we can check the answer directly.
 - *Example 2: Let $z=xy$, where $x=\sin(t)$ and $y=\cos(t)$. Compute $\frac{dz}{dt}$*
-	- Direct substitution: 
+> - Direct substitution: 
 $$
 \begin{align}
 z&=\sin(t)\cos(t) \\
@@ -27,7 +27,7 @@ z&=\sin(t)\cos(t) \\
 \frac{dz}{dt}&=\cos(2t)
 \end{align}
 $$
-	- Chain rule: 
+> - Chain rule: 
 $$
 \begin{align}
 \frac{dz}{dt}&=y\cos(t)-x\sin(t) \\
@@ -59,7 +59,7 @@ $$
 &=\frac{\partial z}{\partial y}r\cos \theta-\frac{\partial z}{\partial x}r\sin \theta
 \end{align}
 $$
-	- Find $\frac{\partial z}{\partial r}$ and $\frac{\partial z}{\partial \theta}$ if $z=xy$. 
+> - Find $\frac{\partial z}{\partial r}$ and $\frac{\partial z}{\partial \theta}$ if $z=xy$. 
 $$
 \begin{align}
 \frac{\partial z}{\partial x}&=y\\

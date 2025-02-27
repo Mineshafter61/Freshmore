@@ -6,8 +6,8 @@ $$
 $$
 \text{signed volume}=\iint_{R} f(x,y)\,dA=\lim_{ \Delta x,\Delta y \to 0 } \sum i,j(u_{ij},v_{ij})\Delta x\Delta y
 $$
-	- where $(u_{ij},v_{ij})$ is some point in the $(i,j)$<sup>th</sup> rectangle.
-	- Such an integral is called a **double integral**.
+> - where $(u_{ij},v_{ij})$ is some point in the $(i,j)$<sup>th</sup> rectangle.
+> - Such an integral is called a **double integral**.
 ## Iterated Integrals
 ### Fubini's Theorem
 - Let $R$ be the bounded rectangular region $[a,b]\times[c,d]$. If $f(x,y)$ is continuous on $R$, then
@@ -17,7 +17,7 @@ $$
 - More generally, this is true if:
 	- $f$ is bounded on $R$ and discontinuous only at a finite number of smooth curves, or
 	- $f$ is non-negative and $R$ does not need to be bounded.
-- Example:
+- *Example:*
 $$
 \begin{align}
 \int_{0}^{2}\int_{0}^{2} 16-x^2-2y^2\,dx\,dy&=\int_{0}^{2}\left[ 16x-\frac{x^3}{3} -2y^2x\right]\,dy \\
