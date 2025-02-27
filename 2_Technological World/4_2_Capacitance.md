@@ -19,19 +19,19 @@ $$
 - Usually assumed that the dimensions of the plates are very long as compared to the distance $d$ between the plates.
 - Using gaussian surfaces, between the 2 plates
 $$
-E = 2 \cdot \frac{\rho}{2𝜀_0} = \frac{Q}{A𝜀_0}
+E = 2 \cdot \frac{\rho}{2\varepsilon_0} = \frac{Q}{A\varepsilon_0}
 $$
 - Thus, potential difference between the 2 plates can be derived
 $$
-\Delta V = - \int^{\text{top}}_{\text{bottom}} \vec{E} \cdot d\vec{s} = Ed = \frac{Q}{A𝜀_0}d
+\Delta V = - \int^{\text{top}}_{\text{bottom}} \vec{E} \cdot d\vec{s} = Ed = \frac{Q}{A\varepsilon_0}d
 $$
 - Therefore, capacitance is
 $$
-C = \frac{Q}{|\Delta V|} = \frac{𝜀_0 A}{d}
+C = \frac{Q}{|\Delta V|} = \frac{\varepsilon_0 A}{d}
 $$
 - Capacitance $C$ is only dependent on **geometric factors**
 	- In this case, $A$ and $d$ for a parallel plate capacitor
-	- $𝜀_0$ can be a different value with the use of **electrolytic capacitors**
+	- $\varepsilon_0$ can be a different value with the use of **electrolytic capacitors**
 		- Insulators (dielectrics) between the 2 plates instead of vacuum
 ### When disconnected from a battery
 - We increase the separation distance $d$

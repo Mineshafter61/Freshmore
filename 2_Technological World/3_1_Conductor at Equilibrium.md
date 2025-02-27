@@ -1,5 +1,7 @@
+$\newcommand{\oiint}{{\subset\!\supset} \mathllap{\iint}}\newcommand{\oiiint}{{\Large{\subset\!\supset}} \mathllap{\iiint}}$
+(above line is for Obsidian.md to render oiint correctly)
 ## Conductors
-- Ideal conductor: infinite supply of mobile charge carriers $\newcommand{\oiint}{{\subset\!\supset} \mathllap{\iint}}\newcommand{\oiiint}{{\Large{\subset\!\supset}} \mathllap{\iiint}}$
+- Ideal conductor: infinite supply of mobile charge carriers 
 - All charge carriers move without resistance
 ## Electric Fields & Conductors
 - If an electric field is present inside a conductor, free charges will move around
@@ -24,7 +26,7 @@
 2. Ensure $|\vec{E}| = E$ is **uniform** on the surface
 - Gauss's Law simplifies to
 $$
-\oiint_{\text{G.S}} \vec{E} \cdot d\vec{A} = \pm EA_\perp = \pm\frac{Q_{\text{enclosed}}}{𝜀_0}
+\oiint_{\text{G.S}} \vec{E} \cdot d\vec{A} = \pm EA_\perp = \pm\frac{Q_{\text{enclosed}}}{\varepsilon_0}
 $$
 #### Dipole
 - No Gaussian surface
@@ -37,35 +39,35 @@ $$
 - **Outside** the sphere, $Q \propto \frac{1}{r^2}$
 $$
 \begin{align*}
-&\oiint \vec{E}\cdot d\vec{A}=\frac{Q_{enclosed}}{𝜀_0} \\
-&\implies \iint E(r)\,dA=\frac{Q}{𝜀_0} \\
-&\implies E(r)\iint dA=\frac{Q}{𝜀_0} \\
-&\implies E(r)\,4πr^2=\frac{Q}{𝜀_0} \\
-&\implies E(r)=\frac{Q}{4π𝜀_0 r^2}=k_e \frac{Q}{r^2} \\
+&\oiint \vec{E}\cdot d\vec{A}=\frac{Q_{enclosed}}{\varepsilon_0} \\
+&\implies \iint E(r)\,dA=\frac{Q}{\varepsilon_0} \\
+&\implies E(r)\iint dA=\frac{Q}{\varepsilon_0} \\
+&\implies E(r)\,4πr^2=\frac{Q}{\varepsilon_0} \\
+&\implies E(r)=\frac{Q}{4π\varepsilon_0 r^2}=k_e \frac{Q}{r^2} \\
 \end{align*}
 $$
 #### Cylindrical symmetry
 - Gaussian surface: Coaxial Cylinder
-- E Field (outside) Strength: $\vec{E} = k_e\frac{\lambda}{2\pi𝜀_0r}\hat{r}$ (Falls off by 1/r)
+- E Field (outside) Strength: $\vec{E} = k_e\frac{\lambda}{2\pi\varepsilon_0r}\hat{r}$ (Falls off by 1/r)
 - Rotational symmetry about the axis of the cylinder
 - Translational symmetry along the axis of the cylinder
 - Reflection symmetry about a perpendicular plane
 $$
 \begin{align*}
-\oiint\vec{E}\cdot d\vec{A}&=\frac{Q_{enclosed}}{𝜀_0}\\
-\implies E(r)2πrl&=\frac{Q_{enclosed}}{𝜀_0}\\
-E(r)&=\frac{Q_{enclosed}}{𝜀_02πrl}
+\oiint\vec{E}\cdot d\vec{A}&=\frac{Q_{enclosed}}{\varepsilon_0}\\
+\implies E(r)2πrl&=\frac{Q_{enclosed}}{\varepsilon_0}\\
+E(r)&=\frac{Q_{enclosed}}{\varepsilon_02πrl}
 \end{align*}
 $$
 #### Planar symmetry
 - Gaussian surface: Gaussian 'pillbox'
-- E Field (outside) Strength: $\vec{E} = \pm\frac{\rho}{2𝜀_0}\hat{i}$ (Constant)
+- E Field (outside) Strength: $\vec{E} = \pm\frac{\rho}{2\varepsilon_0}\hat{i}$ (Constant)
 - Translational symmetry along any straight path
 - Rotational symmetry about any axis perpendicular to the plane
 - Reflection symmetry about the planar charged plane.
 $$
 \begin{align*}
-&\oiint\vec{E}\cdot d\vec{A}=\frac{Q_{enclosed}}{𝜀_0}\\
-&\implies E(r)(2A_\perp)=\frac{Q_{enclosed}}{𝜀_0}
+&\oiint\vec{E}\cdot d\vec{A}=\frac{Q_{enclosed}}{\varepsilon_0}\\
+&\implies E(r)(2A_\perp)=\frac{Q_{enclosed}}{\varepsilon_0}
 \end{align*}
 $$

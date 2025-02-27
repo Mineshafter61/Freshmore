@@ -27,10 +27,10 @@ W=\Delta K
 $$
 - If the total energy of the system is conserved, $\Delta U+\Delta K=0$, thus we have the change of potential energy equal to
 $$
-\begin{gather}
+\begin{gather*}
 \Delta U=-\Delta K=-W\\
 \Delta U=-q \int_A^B \vec{E} \cdot d\vec{s}
-\end{gather}
+\end{gather*}
 $$
 ### Potential Energy Difference $\Delta U$
 - In polar coordinates,

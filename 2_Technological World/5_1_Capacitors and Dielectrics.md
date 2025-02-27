@@ -6,12 +6,12 @@ W=\int dW=\int dq \Delta V=\frac{1}{C} \int_0^Q q\,dq= \frac{1}{C} \frac{Q^2}{2}
 $$
 - **For parallel-plate capacitors only,**
 $$
-C = \frac{𝜀_0A}{d}, |V| = Ed \\
-U = \frac{1}{2}\frac{𝜀_0A}{d}(Ed)^2 = \frac{𝜀_0E^2}{2} \times (Ad) = u_E \times (\text{volume})
+C = \frac{\varepsilon_0A}{d}, |V| = Ed \\
+U = \frac{1}{2}\frac{\varepsilon_0A}{d}(Ed)^2 = \frac{\varepsilon_0E^2}{2} \times (Ad) = u_E \times (\text{volume})
 $$
 - Where electric field energy density,
 $$
-u_E = \frac{𝜀_0E^2}{2}
+u_E = \frac{\varepsilon_0E^2}{2}
 $$
 ## Combining Capacitors (Series)
 - Potential difference is **cumulative** in series
@@ -32,19 +32,19 @@ $$
 - External electric field induces an electric field in the dielectric material
 - Overall field $\vec{E}=\vec{E}_{ext}+\vec{E}_{induced}$
 - Induced field only decreases the electric field
-## Dielectric constant, $𝜅$
+## Dielectric constant, $\kappa$
 - Weakened electric field due to dielectric:
 $$
-E=E_0/𝜅
+E=E_0/\kappa
 $$
   - where $E_0$ is the original field
 - Permittivity of material
 $$
-𝜀 = 𝜅𝜀_0
+\varepsilon = \kappa\varepsilon_0
 $$
 ## Dielectric in a Capacitor
-- Capacitance becomes $𝐶=𝜅𝐶_0$ (increases)
+- Capacitance becomes $𝐶=\kappa𝐶_0$ (increases)
 	- $𝐶_0$ is the initial configuration (without dielectric)
-- Charge becomes $𝑄=𝜅𝑄_0$
+- Charge becomes $𝑄=\kappa𝑄_0$
 	- $𝑄_0$ is the initial configuration (without dielectric)
 	- The extra charge has to be provided by an external source (if there is nothing connected when the dielectric is inserted, the charge remains the same!)

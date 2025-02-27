@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語/2_1_文法.md",
+                "file": "2_Technological World/5_2_DC Circuit Analysis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2_1_文法"
+              "title": "5_2_DC Circuit Analysis"
             }
           }
         ]
@@ -169,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,22 +185,24 @@
   },
   "active": "6e2699045995430d",
   "lastOpenFiles": [
-    "日本語/1_語彙.md",
+    "2_Technological World/3_1_Conductor at Equilibrium.md",
+    "2_Technological World/5_2_DC Circuit Analysis.md",
     "ref/homework.md",
-    "2_Technological World/4_1_Electric Potential.md",
-    "2_Technological World/3_2_Electrostatic Force and Energy.md",
+    "2_Technological World/2_2_Gauss's Law, Gaussian Surface and Charge Enclosed.md",
+    "2_Technological World/2_1A_Continuous charge distribution.md",
     "2_Technological World/1_1_Charges and Electricity.md",
+    "2_Technological World/1_2_Point Charges and Dipoles.md",
+    "2_Technological World/4_1_Electric Potential.md",
+    "2_Technological World/2_1B_Electric Field Lines and Flux.md",
+    "2_Technological World/3_2_Electrostatic Force and Energy.md",
+    "日本語/2_1_文法.md",
+    "日本語/1_語彙.md",
     "2_Technological World/4_2_Capacitance.md",
     "2_Technological World/5_1_Capacitors and Dielectrics.md",
-    "2_Technological World/3_1_Conductor at Equilibrium.md",
     "2_Modelling Space and Systems/5_1B_Triple Integrals.md",
     "2_Modelling Space and Systems/5_1A_Polar Coordinate Systems.md",
     "2_Modelling Space and Systems/2_2B_Critical Points.md",
-    "2_Technological World/2_2_Gauss's Law, Gaussian Surface and Charge Enclosed.md",
-    "2_Technological World/1_2_Point Charges and Dipoles.md",
     "2_Science for a Sustainable World/0_Extras.md",
-    "日本語/2_1_文法.md",
-    "2_Technological World/2_1_Electric Field Lines and Flux.md",
     "2_Modelling Space and Systems/4_2_Double Integrals.md",
     "1_Modelling and Analysis/5_Integration.md",
     "2_Science for a Sustainable World/4_2_Acids and Bases.md",
@@ -213,8 +216,6 @@
     "ref/TW1_2_1.png",
     "ref/shmPhaseShift.jpg",
     "ref/parallel axis theorem.png",
-    "2_Science for a Sustainable World/4_1_Chemical Equilibrium.md",
-    "2_Science for a Sustainable World/2_2_Chemical Bonds and Intermolecular Forces.md",
     "Modelling Space and Systems",
     "Technological World",
     "2_Technological World",

@@ -35,18 +35,23 @@
 - So, an electron an be considered a "point" with finite charge but no interior structure.
 - There is no such thing as a point charge in reality, but this concept is a good approximation for a charged object if it is sufficiently far away from the observer.
 ### Coulomb's Law
-- The force on point $q_2$ due to interaction with point charge $q_1$ is proportional to the product of charges and inversely proportional to the square of the distance of separation. $$\vec{F}_{12}=k_e\frac{q_1q_2}{r_{12}^2}\hat{r}_{12}$$
+- The force on point $q_2$ due to interaction with point charge $q_1$ is proportional to the product of charges and inversely proportional to the square of the distance of separation.
+$$\vec{F}_{12}=k_e\frac{q_1q_2}{r_{12}^2}\hat{r}_{12}$$
 - **If the interaction happens in vacuum: $k_{e}=\frac{1}{4πε_0}\approx 9\times 10^{9}Nm^2/C^2$, where $ε_0$ is the permittivity of free space.**
-- Because $\hat{r}_{12}=\frac{\vec{r}_{12}}{r_{12}}$, Coulomb's force can also be written as $$\vec{F}_{12}=k_e\frac{q_1q_2}{r_{12}^3}\vec{r}_{12}$$ **Note the cube in the denominator.**
+- Because $\hat{r}_{12}=\frac{\vec{r}_{12}}{r_{12}}$, Coulomb's force can also be written as 
+$$\vec{F}_{12}=k_e\frac{q_1q_2}{r_{12}^3}\vec{r}_{12}$$
+**Note the cube in the denominator.**
 ### Principle of Superposition for Coulomb Force
-- The total Coulomb force on a charge $q_0$ from many charges around it is $$
+- The total Coulomb force on a charge $q_0$ from many charges around it is 
+$$
 \vec{F_{0}}=\sum_{i=1}^n\vec{F}_{i_0}=\sum_{i=1}^nk_e\frac{q_iq_0}{r_i^2}\hat{r}_i
 $$
-- Example: ![[TW1_2_1.png]]
-- $$\begin{align}
+- Example: ![image](../ref/TW1_2_1.png)
+$$\begin{align*}
 \vec{F}_{23}&=k_e \frac{q_2q_3}{r_{23}^{2}}\hat{r}_{23} \\
 &=-k_e \frac{q^2}{a^2}\hat{i} \\
 \vec{F}_{13}&=k_e \frac{q_1q_3}{r_{13}^{3}}\vec{r}_{13} \\
 &=-k_e \frac{q^2(a\hat{i}+a\hat{j})}{(\sqrt{2}a)^3} \\
 &=-k_e \frac{q^2}{(2\sqrt{2}a)^2}
-\end{align}$$
+\end{align*}
+$$

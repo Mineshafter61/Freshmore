@@ -1,5 +1,6 @@
 ## Electric Potential Difference, $\Delta V$
-- Change in potential energy per unit test charge moving from point A to B: $$\Delta V\equiv\frac{\Delta U}{q_t}=-\int_{A}^{B} \frac{\vec{F}}{q_t} \, d\vec{s}= -\int_{A}^{B} \vec{E} \, d\vec{s}$$
+- Change in potential energy per unit test charge moving from point A to B:
+$$\Delta V\equiv\frac{\Delta U}{q_t}=-\int_{A}^{B} \frac{\vec{F}}{q_t} \, d\vec{s}= -\int_{A}^{B} \vec{E} \, d\vec{s}$$
 	- Units: Joules/Coulomb = Volts
 	- The negative sign is important. It exists from the definition, $\Delta U=-W_e$
 	- Potential difference is a scalar quantity.
@@ -32,7 +33,8 @@
 7. Identify the limits of the integral and integrate $V(\vec{r})=k_e \int \frac{dq}{|\vec{r}_p-\vec{r}_s|}$
 ### Electric Potential Difference from Electric Field (Gauss’s Law)
 - If the charge distribution is highly symmetric, we can use Gauss’s Law to calculate the electric field first. 
-- Then, we calculate the electric potential _V_ using this relation: $$V_B-V_A=-\int_A^B \vec{E}\cdot d\vec{s}$$
+- Then, we calculate the electric potential $V$ using this relation:
+$$V_B-V_A=-\int_A^B \vec{E}\cdot d\vec{s}$$
 - Useful for highly symmetrical charge distributions
 - **Unlike for electric field, there cannot be a discontinuity in electric potential**
 ## Properties of equipotential lines
@@ -53,10 +55,10 @@ E_x = -\frac{\Delta V}{\Delta x} = -\frac{\partial V}{\partial x}
 $$
 - Combining all directions together,
 $$
-\begin{align}
+\begin{align*}
 \vec{\nabla}&\equiv \frac{\partial}{\partial x}\hat{i}+\frac{\partial}{\partial y}\hat{j}+\frac{\partial}{\partial z}\hat{k} \\
 \vec{E}&=-\left(\frac{\partial}{\partial x}\hat{i}+\frac{\partial}{\partial y}\hat{j}+\frac{\partial}{\partial z}\hat{k}\right)V=-\vec{\nabla}V
-\end{align}
+\end{align*}
 $$
 - Electric field is the **negative** gradient of electric potential
 	- Cannot be derived from electric potential from only one point

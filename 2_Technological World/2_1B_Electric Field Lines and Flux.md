@@ -22,7 +22,7 @@ $$
 	- Therefore, the flux is $E\cdotπr^2$
 	- Math way: (uses [[0_Spherical Coordinate System|spherical coordinates]])
 $$
-\begin{align}
+\begin{align*}
 \Phi_E&=\iint \vec{E}\cdot d\vec{A} \\
 &=\iint \vec{E}\cdot R\,d\theta\,R\sin \theta\,d\phi \\
 &=\iint \vec{E}\cdot R^2\sin \theta\,d\theta\,d\phi \\
@@ -33,5 +33,5 @@ $$
 &=π ER^2 \int_{0}^{π/2} \sin 2\theta\,d\theta \\
 &=π ER^2 \left[ \frac{-\cos2\theta}{2} \right]_{0}^{π/2} \\ \\
 &=EπR^2
-\end{align}
+\end{align*}
 $$

@@ -74,3 +74,52 @@ r&=\frac{9\times 10^{9}(-2.80\times 10^{-6})(-7.80\times 10^{-6})}{0.6087} \\
 \end{align}
 $$
 ### Problem 6
+(a)
+$$
+\begin{align}
+r≤a,\\
+\vec{E}(r)&=\nabla V \\
+&=\frac{dV}{dr} \\
+&=\frac{\rho_{0}a^2}{18\epsilon_{0}}\left[ -\frac{6r}{a^2}+\frac{6r^2}{a^3} \right] \\
+&=\frac{\rho_{0}}{3\epsilon_{0}}\left( \frac{r^2}{a}-r \right) \\
+r>a, \\
+\vec{E}(r)&=0
+\end{align}
+$$
+(b)
+$$
+\begin{align}
+\text{Let V be the volume of a sphere.} \\
+V&=\frac{4}{3}\pi r^3 \\
+dV&=4\pi r^2\,dr\\
+\vec{E}(r)&=\int k_e \frac{\rho 4\pi r^2\,dr}{r^2} \\
+&=\int k_e\rho 4\pi\,dr \\
+&=\rho k_e2\pi r \\
+\rho&=\frac{\vec{E}(r)}{k_e2\pi r} \\
+r≤a, \\
+\rho(r)&=\frac{\frac{\rho_{0}}{3\epsilon_{0}}\left( \frac{r^2}{a}-r \right)}{k_e2\pi r} \\
+&=\frac{\frac{\rho_{0}}{3\epsilon_{0}}\left( \frac{r^2}{a}-r \right)}{\frac{2\pi r}{4\pi\epsilon_{0}}} \\
+&=\frac{2\rho_{0}}{3}\left( \frac{r}{a}-1 \right) \\
+r>a, \\
+\rho(r)&=0
+\end{align}
+$$
+(c)
+We set up a spherically symmetric Gaussian surface with radius a enclosing the charge.
+
+$$
+\begin{align} \\
+\text{For all }r,\\
+E(r)&=\frac{Q}{4\pi\epsilon_{0}r^2} \\
+r=a,\\
+E(r)&=\frac{Q}{4\pi\epsilon_{0}a^2} \\
+\frac{\rho_{0}}{3\epsilon_{0}}\left( \frac{a^2}{a}-a \right)&=\frac{Q}{4\pi\epsilon_{0}a^2} \\
+\frac{\rho_{0}}{3\epsilon_{0}}(a-a)&=\frac{Q}{4\pi\epsilon_{0}a^2} \\
+0&=\frac{Q}{4\pi\epsilon_{0}a^2} \\
+Q&=0 \\
+r>a, \\
+E(r)&=\frac{Q}{4\pi\epsilon_{0}r^2} \\
+0&=\frac{Q}{4\pi\epsilon_{0}r^2} \\
+\implies Q&=0
+\end{align}
+$$

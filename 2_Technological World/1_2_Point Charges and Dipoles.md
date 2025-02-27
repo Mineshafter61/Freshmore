@@ -23,10 +23,12 @@
 - It shows the direction of **acceleration** at any point in time
 ## Electric dipole
 - Two equal but opposite charges separated in space
-- Electric dipole moment: $$\vec{P}\equiv qr\,\hat{r}=q\vec{r}=q(\vec{r}_{2}-\vec{r}_{1})=q\vec{r}_{2}-q\vec{r}_{1}=q_{2}r_{2}+q_{1}r_{1}=\sum_{i=1}^{2}q_i\vec{r}_i$$
-	- $\vec{r}_{1}$ : distance between an arbitrary point and the negative charge
-	- $\vec{r}_{2}$ : distance between an arbitrary point and the positive charge
-- If there are N charges in a neutral charge body, the dipole moment is $$\vec{P}=\sum_{i=1}^{N}q_i\vec{r}_i$$
+- Electric dipole moment: 
+$$\vec{P}\equiv qr\,\hat{r}=q\vec{r}=q(\vec{r}_{2}-\vec{r}_{1})=q\vec{r}_{2}-q\vec{r}_{1}=q_{2}r_{2}+q_{1}r_{1}=\sum_{i=1}^{2}q_i\vec{r}_i$$
+> - $\vec{r}_{1}$ : distance between an arbitrary point and the negative charge
+> - $\vec{r}_{2}$ : distance between an arbitrary point and the positive charge
+- If there are N charges in a neutral charge body, the dipole moment is
+$$\vec{P}=\sum_{i=1}^{N}q_i\vec{r}_i$$
 - $\vec{P}$ points from negative to positive charge
 - Unit: mC
 ## Electric Field Pattern of an Electric Dipole
@@ -36,7 +38,7 @@
 - Electric field at point $P$, $\vec{E}_P=\frac{k_eqd}{x^3}(-\hat{j})=\frac{k_eP}{x^3}(-\hat{j})$
 - TODO: Proof of Point Dipole Approximation (1st order Taylor series expansion) ![[TW_point dipole approximation.png]]
 - Proof of Point Dipole Approximation:
-	- $E_x(r,\theta)=\frac{qd}{4π𝜀_{0}r^3}$
+	- $E_x(r,\theta)=\frac{qd}{4π\varepsilon_{0}r^3}$
 ## Force & Torque on Electric Dipole in Electric Field
 - Force in a uniform field
 	- Let $\vec{E}=E\hat{i}$
@@ -47,15 +49,3 @@
 	- $\vec{\tau}=\vec{r}\times \vec{F}=\vec{r}\times q\vec{E}=q\vec{r}\times \vec{E}=\vec{p}\times \vec{E}$
 - Force in a non-uniform field
 	- Dipole experiences a force
-## Continuous charge distribution
-$$
-\vec{E} = \int_{body} k_e \frac{dq}{|\vec{r}|^2} \hat{r} = \int_{body} k_e \frac{dq}{|\vec{r}_p - \vec{r}_s|^3}(\vec{r}_p - \vec{r}_s)
-$$
-- $\vec{r}_p$ is a constant point of interest
-- $\vec{r}_s$ represents every single charge point in the body
-- **It is the variable to be used in integration ($x$)**
-- Similar to moment of inertia
-### Charge Density
-- Linear density = $\frac{\text{charge}}{\text{length}} \implies \lambda = \frac{Q}{L} \implies dq = \lambda dl$
-- Surface density = $\frac{\text{charge}}{\text{area}} \implies \sigma = \frac{Q}{A} \implies dq = \sigma dA$
-- Volume density = $\frac{\text{charge}}{\text{volume}} \implies \rho = \frac{Q}{V} \implies dq = \rho dV$
