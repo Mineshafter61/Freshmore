@@ -81,3 +81,29 @@
 	- **Not recyclable**, cannot be remolded or reformed upon heating
 	- Can have Tg, but they **do not soften or melt above this temperature** due to their cross-linked structure
 - Stiffness & melting point of the plastic **increases with the number of cross-links** in the structure
+## Biodegradable Plastics
+- Biodegradable Plastics have **ester bonds** because microbes are willing to work on them.
+- Degrades through **solvolysis**
+- Solvolysis is a chemical reaction where a **compound (solute) reacts with the solvent**, leading to the **substitution** or **elimination** of a part of the solute molecule. The solvent often acts as a reactant, influencing the reaction mechanism and rate.
+- Types: 
+  - Hydrolysis: solvent is water
+  - Alcoholysis: solvent is alcohol
+- **Rates** vary with **bond stability**
+- Each plastic has a specified timeframe and disposal environment for biodegradation
+### Breaking of Ester Bond via Hydrolysis
+- **Endothermic reaction**
+- **Microbes produce the appropriate conditions** for biodegradation to occur.
+  - i.e. compostable
+- PLA will show signs of biodegradation in **6 months** with appropriate conditions.
+- PLA industrial composting conditions:
+  - Temp > 60˚C
+  - Relative humidity > 90%
+  - 60-80 days
+### Pyrolysis
+- Burning plastics **with the absence of oxygen**
+- Heat **breaks down long-chain polymer molecules** in the plastic into smaller hydrocarbons.
+- Produces
+  - Gases: Light hydrocarbons (e.g. methane, ethane)
+  - Liquid oils: Pyrolysis oil; can be refined into fuels or chemical feedstock.
+  - Solid residues: Char or carbon black, used in industrial applications.
+- Temperature ranging from **300–900°C** is required.

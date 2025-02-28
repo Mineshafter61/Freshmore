@@ -23,5 +23,3 @@ $$\frac{x_1+x_2+\dots+x_n}{n}>\sqrt[n]{x_1x_2\dots x_n}$$
 - If $x_1=x_2=\dots=x_n$,
 $$\frac{x_1+x_2+\dots+x_n}{n}=\sqrt[n]{x_1x_2\dots x_n}$$
 - Sub $(x_1, y_1)$ obtained from $\nabla f = \vec{0}$ into the RHS of the inequality to determine global minimum (via ≥)
-## Gradient Vector's Direction
-TODO
