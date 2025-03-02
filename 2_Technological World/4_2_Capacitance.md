@@ -41,3 +41,13 @@ $$
 - We increase the separation distance $d$
 - Potential $V$ between the plates is constant (potential difference of battery)
 - By $V = Ed$, $E \propto Q$, $E$ and $Q$ decreases
+## Cylindrical Capacitor
+- Length of capacitor: $L$
+- Inner conductor's radius: $a$
+- Outer conductor's radius: $b$
+1. Choose our Gaussian surface to be a coaxial cylinder with length $\ell<L$ and radius $r$, $a<r<b$.
+2. Using Gauss's law, we have $E=\frac{\lambda \ell}{2π\varepsilon_0r\ell}=\frac{\lambda}{2π\varepsilon_0r}$ (from [[3_1_Conductor at Equilibrium#Cylindrical symmetry]])
+3. Potential difference $\Delta V=V_b-V_a=-\int_{a}^{b} E \, dr=-\int_{a}^{b} \frac{\lambda}{2π\varepsilon_{0}r} \, dr$
+4. Since $\lambda$, $2π$ and $\varepsilon_0$ are all constants, the integration simplifies to $-\frac{\lambda}{2π\varepsilon_0}\int_{a}^{b} \frac{1}{r} \, dr=-\frac{\lambda}{2π\varepsilon_0}\ln\left( \frac{b}{a} \right)$.
+5. Calculate capacitance $C=\frac{Q}{|\Delta V|}=\frac{\lambda L\,2π\varepsilon_0}{\lambda \ln(b/a)}=\frac{2π\varepsilon_0L}{\ln(b/a)}$
+- For non-parallel plate capacitors, **always** derive the final formula from potential difference (by integration) and charge.
