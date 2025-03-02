@@ -39,11 +39,11 @@ $$
 - **Outside** the sphere, $Q \propto \frac{1}{r^2}$
 $$
 \begin{align*}
-&\oiint \vec{E}\cdot d\vec{A}=\frac{Q_{enclosed}}{\varepsilon_0} \\
-&\implies \iint E(r)\,dA=\frac{Q}{\varepsilon_0} \\
-&\implies E(r)\iint dA=\frac{Q}{\varepsilon_0} \\
-&\implies E(r)\,4πr^2=\frac{Q}{\varepsilon_0} \\
-&\implies E(r)=\frac{Q}{4π\varepsilon_0 r^2}=k_e \frac{Q}{r^2} \\
+\oiint \vec{E}\cdot d\vec{A}&=\frac{Q_{enclosed}}{\varepsilon_0} \\
+\implies \iint E(r)\,dA&=\frac{Q}{\varepsilon_0} \\
+\implies E(r)\iint dA&=\frac{Q}{\varepsilon_0} \\
+\implies E(r)\,4πr^2&=\frac{Q}{\varepsilon_0} \\
+\implies E(r)&=\frac{Q}{4π\varepsilon_0 r^2}=k_e \frac{Q}{r^2} \\
 \end{align*}
 $$
 #### Cylindrical symmetry
@@ -67,7 +67,8 @@ $$
 - Reflection symmetry about the planar charged plane.
 $$
 \begin{align*}
-&\oiint\vec{E}\cdot d\vec{A}=\frac{Q_{enclosed}}{\varepsilon_0}\\
-&\implies E(r)(2A_\perp)=\frac{Q_{enclosed}}{\varepsilon_0}
+\oiint\vec{E}\cdot d\vec{A}&=\frac{Q_{enclosed}}{\varepsilon_0}\\
+\implies E(r)(2A_\perp)&=\frac{Q_{enclosed}}{\varepsilon_0}\\
+\implies E(r)&=\frac{Q_{enclosed}}{\varepsilon_0 2A_\perp}
 \end{align*}
 $$

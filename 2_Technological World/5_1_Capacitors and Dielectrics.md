@@ -48,3 +48,7 @@ $$
 - Charge becomes $𝑄=\kappa𝑄_0$
 	- $𝑄_0$ is the initial configuration (without dielectric)
 	- The extra charge has to be provided by an external source (if there is nothing connected when the dielectric is inserted, the charge remains the same!)
+### Partially Filled Capacitor
+- Effective $\kappa$ becomes ($\kappa x+(1-\kappa)y$)
+	- $x$ is the thickness of the dielectric
+	- $y$ is the thickness of free space (area not filled by dielectric)

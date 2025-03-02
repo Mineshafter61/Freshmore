@@ -27,10 +27,12 @@ $$\Delta V\equiv\frac{\Delta U}{q_t}=-\int_{A}^{B} \frac{\vec{F}}{q_t} \, d\vec{
 1. Choose $V(\infty)=0$
 2. From the continuous charge, choose a small $dq$. Identify the $dq$ position from the origin, $\vec{r}_s$.
 3. Identify and relate $dq$ with geometry, $dq=\begin{cases}\lambda ds: 1D\\\sigma dA:2D\\\rho dv:3D\end{cases}$
-4. Identify the position of point of interest $P$, $\vec{r}_p$.
-5. Calculate the distance from $dq$ to point $P$, $|\vec{r}_p-\vec{r}_s|$
-6. Electric potential due to $dq$ is $dV=k_e \frac{dq}{|\vec{r}_p-\vec{r}_s|}$
-7. Identify the limits of the integral and integrate $V(\vec{r})=k_e \int \frac{dq}{|\vec{r}_p-\vec{r}_s|}$
+	- Do note that in some cases, $\lambda ds$, $\sigma dA$ or $\rho dv$ may have to be rewritten again, e.g. for a ring, $\lambda ds=\lambda\,Rd\phi$.
+4. Identify the position of $dq$, $\vec{r}_s=x$.
+5. Identify the position of point of interest $P$, $\vec{r}_p=y$.
+6. Calculate the distance from $dq$ to point $P$, $|\vec{r}_p-\vec{r}_s|=\sqrt{x^2+y^2}$
+7. Electric potential due to $dq$ is $dV=k_e \frac{\rho dv}{\sqrt{x^2+y^2}}$
+8. Identify the limits of the integral and integrate $V(\vec{r})=k_e \frac{\rho dv}{\sqrt{x^2+y^2}}$
 ### Electric Potential Difference from Electric Field (Gauss’s Law)
 - If the charge distribution is highly symmetric, we can use Gauss’s Law to calculate the electric field first. 
 - Then, we calculate the electric potential $V$ using this relation:

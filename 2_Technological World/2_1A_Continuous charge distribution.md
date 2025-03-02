@@ -10,7 +10,11 @@ $$
 - Surface density = $\frac{\text{charge}}{\text{area}} \implies \sigma = \frac{Q}{A} \implies dq = \sigma dA$
 - Volume density = $\frac{\text{charge}}{\text{volume}} \implies \rho = \frac{Q}{V} \implies dq = \rho dV$
 ## Using the equation
-1. Write $dq$ in terms of geometrical parameters ($dl$, $dA$ or $dV$) using charge density.
-2. Find $\vec{r}_p$ and $\vec{r}_s$ based on the coordinate system that has been set.
-3. Calculate $\vec{r}_p-\vec{r}_s$ and $|\vec{r}_p-\vec{r}_s|$ to substitute into the equation.
-4. Perform integration to solve the problem.
+1. From the continuous charge, choose a small $dq$. Identify the $dq$ position from the origin, $\vec{r}_s$.
+2. Identify and relate $dq$ with geometry, $dq=\begin{cases}\lambda ds: 1D\\\sigma dA:2D\\\rho dv:3D\end{cases}$
+	- Do note that in some cases, $\lambda ds$, $\sigma dA$ or $\rho dv$ may have to be rewritten again, e.g. for a ring, $\lambda ds=\lambda\,Rd\phi$.
+3. Identify the position of $dq$, $\vec{r}_s=x$.
+4. Identify the position of point of interest $P$, $\vec{r}_p=y$.
+5. Calculate the distance from $dq$ to point $P$, $|\vec{r}_p-\vec{r}_s|=\sqrt{x^2+y^2}$
+6. Electric field due to $dq$ is $dE=k_e \frac{\rho dv}{(x^2+y^2)^{3/2}}(\vec{y}-\vec{x})$
+7. Identify the limits of the integral and integrate $E(\vec{r})=k_e \int\frac{\rho dv}{(x^2+y^2)^{3/2}}(\vec{y}-\vec{x})$

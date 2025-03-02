@@ -5,7 +5,7 @@ W_e=\int_A^B \vec{F}_{st}\cdot d\vec{s}=\int_A^B k_e \frac{q_sq_t}{r_{st}^2}\hat
 $$
 - If $\vec{F}$ is in the same direction as the displacement $d\vec{s}$, W is positive and vice versa.
 - The direction of displacement $d\vec{s}$ is determined by the limits of the integral.
-	- Recall: For polar coordinates, $ds = dr\hat{r} + rd\theta\hat{\theta}$
+	- Recall: For polar coordinates, $ds = dr\,\hat{r} + r\,d\theta\,\hat{\theta}$
 ## Electrostatic Potential Energy and Configuration Energy
 ### Gravity vs Electrostatics
 | Mass M | Charge q |

@@ -36,9 +36,6 @@ $$\vec{P}=\sum_{i=1}^{N}q_i\vec{r}_i$$
 - Field is due to the superposition of the electric fields contributed by the positive and negative charge in the dipole.
 - For the far field region, a dipole can be approximated as a point dipole.
 - Electric field at point $P$, $\vec{E}_P=\frac{k_eqd}{x^3}(-\hat{j})=\frac{k_eP}{x^3}(-\hat{j})$
-- TODO: Proof of Point Dipole Approximation (1st order Taylor series expansion) ![[TW_point dipole approximation.png]]
-- Proof of Point Dipole Approximation:
-	- $E_x(r,\theta)=\frac{qd}{4π\varepsilon_{0}r^3}$
 ## Force & Torque on Electric Dipole in Electric Field
 - Force in a uniform field
 	- Let $\vec{E}=E\hat{i}$
