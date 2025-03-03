@@ -1,3 +1,5 @@
+# 0_Spherical Coordinate System
+
 - $r$, $\theta$, $\phi$
 - Let $r$ be the radial distance between the point and origin
 - Let $\theta$ be the angle between the x-axis and the line that $r$ lies on
