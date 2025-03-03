@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4e2c9bbae1bb8c50",
+        "id": "8436cf194f8911eb",
         "type": "tabs",
         "children": [
           {
-            "id": "9404c5771c3a024b",
+            "id": "df50d0421ff1dff7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Technological World/1_1_Charges and Electricity.md",
+                "file": "2_Technological World/5_1_Capacitors and Dielectrics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1_1_Charges and Electricity"
+              "title": "5_1_Capacitors and Dielectrics"
             }
           },
           {
-            "id": "8b6bc742ced55905",
+            "id": "b77f388eb1b9e7d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Technological World/5_2_DC Circuit Analysis.md",
+                "file": "2_Technological World/Humongous Formula Sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5_2_DC Circuit Analysis"
+              "title": "Humongous Formula Sheet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,24 +207,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9404c5771c3a024b",
+  "active": "b77f388eb1b9e7d9",
   "lastOpenFiles": [
+    "2_Technological World/5_1_Capacitors and Dielectrics.md",
+    "2_Technological World/Humongous Formula Sheet.md",
+    "2_Technological World/4_2_Capacitance.md",
+    "2_Technological World/4_1_Electric Potential.md",
+    "2_Technological World/3_2_Electrostatic Force and Energy.md",
+    "2_Technological World/5_2_DC Circuit Analysis.md",
+    "2_Technological World/1_1_Charges and Electricity.md",
     "2_Technological World/1_2_Point Charges and Dipoles.md",
     "2_Technological World/6_1_Magnetic Field and Force.md",
-    "2_Technological World/5_2_DC Circuit Analysis.md",
     "6_1_Magnetic Field and Force.md",
-    "2_Technological World/Humongous Formula Sheet.md",
     "2_Modelling Space and Systems/6_1_Magnetic Field and Force.md",
     "2_Technological World/Untitled.md",
     "2_Modelling Space and Systems/5_2_Change of Variables.md",
     "2_Technological World/3_1_Conductor at Equilibrium.md",
-    "2_Technological World/3_2_Electrostatic Force and Energy.md",
-    "2_Technological World/4_1_Electric Potential.md",
     "2_Technological World/2_2_Gauss's Law, Gaussian Surface and Charge Enclosed.md",
     "2_Technological World/2_1B_Electric Field Lines and Flux.md",
-    "2_Technological World/1_1_Charges and Electricity.md",
-    "2_Technological World/4_2_Capacitance.md",
-    "2_Technological World/5_1_Capacitors and Dielectrics.md",
     "2_Technological World/2_1A_Continuous charge distribution.md",
     "日本語/1_語彙.md",
     "ref/homework.md",

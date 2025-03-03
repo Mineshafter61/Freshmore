@@ -14,9 +14,7 @@
 - Used to store charge and electrical energy
 - If the potential difference between the two conductors is $\Delta V$, a constant called the capacitance $C$ is defined as the **ability to store charge**,
 
-$$
-C=\frac{Q}{|\Delta V|}=\frac{\varepsilon_0A}{d}
-$$
+$$C=\frac{Q}{|\Delta V|}=\frac{\varepsilon_0A}{d}$$
 
 - Units: Coulomb per Volt or Farad (F)
 - $C$ is always **Positive**
@@ -44,6 +42,7 @@ C = \frac{Q}{|\Delta V|} = \frac{\varepsilon_0 A}{d}
 $$
 
 - Capacitance $C$ is only dependent on **geometric factors**
+	- This means that $C$ may not be $\frac{\varepsilon_{0}A}{d}$ for other geometries, e.g. cylindrical (as seen below)
   - In this case, $A$ and $d$ for a parallel plate capacitor
   - $\varepsilon_0$ can be a different value with the use of **electrolytic capacitors**
     - Insulators (dielectrics) between the 2 plates instead of vacuum

@@ -1,3 +1,5 @@
+# 4_1_Chemical Equilibrium
+
 - **Dynamic** equilibrium in which the **rates of forward** and **reverse reactions are equal** and there is no net change in composition.
 - For a reversible reaction: aA+bB⇄cC+dD
 - **No macroscopic** evidence of change
@@ -5,23 +7,29 @@
 - **Dynamic balance** of forward and reverse processes
 - Equilibrium can be reached **regardless of direction of approach** (forward or backward)
 - Equilibrium constant, $K_c$:
+
 $$
 K_c=\frac{[C]_{eq}^c[D]_{eq}^d}{[A]_{eq}^a[B]_{eq}^b}
 $$
+
 - subscript $c$: concentration
 - subscript $eq$: equilibrium
+
 ## Equilibrium constant, $K$
+
 - Relative amount of products and reactants at equilibrium
 - Constant for a particular reaction that is at equilibrium at a **specified temperature**. (i.e. depends on temperature)
 - Allows for determination of whether the mixture is at equilibrium and the extent of reaction.
 - Take note that **solids** and **liquids** do not appear in K<sub>c</sub> as their effective concenrations remain constant throughout the reaction.
-- For the reaction $aA+bB⇄cC+dD$, 
+- For the reaction $aA+bB⇄cC+dD$,
 
 | Solution | Gaseous |
 |---|---|
 | $K_c=\frac{[C]_{eq}^c[D]_{eq}^d}{[A]_{eq}^a[B]_{eq}^b}$ | $K_P=\frac{[P_C]_{eq}^c[P_D]_{eq}^d}{[P_A]_{eq}^a[P_B]_{eq}^b}$ |
 | $[]$: concentration in mol/L | $P$: partial pressure in atm |
+
 ## RICE table
+
 - Given K and initial [], calculate [] at equilibrium.
 - Components
   - **Reaction (R)**: Write the balanced chemical equation for the reaction.
@@ -55,6 +63,7 @@ K_w=[H_3O^+]_{eq}[OH^+]_{eq}=1.0\times10^{-14}\implies xx=1.0\times10^{-14}\impl
 $$
 
 ## Reaction Quotient, $Q$
+
 - Reaction Quotient are the concentrations/partial pressures of the reactants and products at non-equilibrium conditions
 - For a gas reaction, $Q=\frac{(P_C)^c(P_D)^d}{(P_A)^a(P_B)^c}$
 - $Q$ can be used to predict the direction of the reaction.
@@ -63,33 +72,35 @@ $$
   - $Q > K$: reaction shifts to left
 
 ## Disturbing an Equilibrium System
+
 - Le Châtelier’s Principle:
   – A system in equilibrium that is subjected to stress will react in a way that tends to minimise the effect of the stress.
   – Predicts qualitatively the direction of change of a system under an external perturbation.
 
 ### Three Common Disturbances to Equilibrium
+
 - Change in concentration (**does not alter K**)
   - To minimise the disturbance, the reaction goes forward to reduce the disturbed reactant (thus producing more products).
   - Q decreases when the concentration of a reactant increases
 - Change in temperature (**alters K**)
   - Exothermic reaction
-    - Increase temperature, T<sub>2</sub> > T<sub>1</sub>: 
+    - Increase temperature, T<sub>2</sub> > T<sub>1</sub>:
       - equivalent to adding more heat (i.e. adding products)
       - to remove heat, reaction moves backward
       - P<sub>A</sub> and P<sub>B</sub> increase and P<sub>C</sub> decreases → K<sub>2</sub> decreases
       - K<sub>2</sub> < K<sub>1</sub>
-    - Decrease temperature, T<sub>2</sub> < T<sub>1</sub>: 
+    - Decrease temperature, T<sub>2</sub> < T<sub>1</sub>:
       - equivalent to removing heat (i.e. removing products)
       - to replenish heat, reaction moves forward
       - P<sub>A</sub> and P<sub>B</sub> decrease and P<sub>C</sub> increases → K<sub>2</sub> increases
       - K<sub>2</sub> > K<sub>1</sub>
   - Endothermic reaction
-    - Increase temperature, T<sub>2</sub> > T<sub>1</sub>: 
+    - Increase temperature, T<sub>2</sub> > T<sub>1</sub>:
       - equivalent to adding more heat (i.e. adding products)
       - to remove heat, reaction moves forward
       - P<sub>A</sub> and P<sub>B</sub> decrease and P<sub>C</sub> increases → K<sub>2</sub> increases
       - K<sub>2</sub> > K<sub>1</sub>
-    - Decrease temperature, T<sub>2</sub> < T<sub>1</sub>: 
+    - Decrease temperature, T<sub>2</sub> < T<sub>1</sub>:
       - equivalent to removing heat (i.e. removing products)
       - to replenish heat, reaction moves backward
       - P<sub>A</sub> and P<sub>B</sub> increase and P<sub>C</sub> decreases → K<sub>2</sub> decreases
