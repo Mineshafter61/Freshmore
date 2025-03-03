@@ -33,7 +33,7 @@ $$
 - E Field (outside) Strength: Falls off by $1/r^3$
 #### Spherical Symmetry
 - Gaussian surface: Concentric Sphere
-- E Field (outside) Strength: $\vec{E} = k_e\frac{Q}{r^2}\hat{r}$ (Falls off by 1/r^2)
+- E Field (outside) Strength: $\vec{E} = k_e\frac{Q}{r^2}\hat{r}$
 - Rotational symmetry about any axis through the centre of the charge sphere
 - **Inside** the sphere, $Q \propto r^3$
 - **Outside** the sphere, $Q \propto \frac{1}{r^2}$
@@ -48,7 +48,7 @@ $$
 $$
 #### Cylindrical symmetry
 - Gaussian surface: Coaxial Cylinder
-- E Field (outside) Strength: $\vec{E} = k_e\frac{\lambda}{2\pi\varepsilon_0r}\hat{r}$ (Falls off by 1/r)
+- E Field (outside) Strength: $\vec{E} = k_e\frac{\lambda}{2\pi\varepsilon_0r}\hat{r}$
 - Rotational symmetry about the axis of the cylinder
 - Translational symmetry along the axis of the cylinder
 - Reflection symmetry about a perpendicular plane

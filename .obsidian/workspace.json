@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1bb2c309e3857525",
+        "id": "4e2c9bbae1bb8c50",
         "type": "tabs",
         "children": [
           {
-            "id": "5c6c29ed18b96858",
+            "id": "9404c5771c3a024b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Technological World/Humongous Formula Sheet.md",
+                "file": "2_Technological World/1_1_Charges and Electricity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Humongous Formula Sheet"
+              "title": "1_1_Charges and Electricity"
+            }
+          },
+          {
+            "id": "8b6bc742ced55905",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Technological World/5_2_DC Circuit Analysis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "5_2_DC Circuit Analysis"
             }
           }
         ]
@@ -182,22 +206,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c6c29ed18b96858",
+  "active": "9404c5771c3a024b",
   "lastOpenFiles": [
-    "2_Technological World/2_1B_Electric Field Lines and Flux.md",
-    "2_Technological World/2_1A_Continuous charge distribution.md",
     "2_Technological World/1_2_Point Charges and Dipoles.md",
-    "2_Technological World/4_1_Electric Potential.md",
-    "2_Technological World/3_2_Electrostatic Force and Energy.md",
-    "日本語/1_語彙.md",
-    "2_Technological World/4_2_Capacitance.md",
-    "ref/homework.md",
-    "2_Technological World/5_1_Capacitors and Dielectrics.md",
-    "2_Technological World/3_1_Conductor at Equilibrium.md",
-    "2_Technological World/1_1_Charges and Electricity.md",
+    "2_Technological World/6_1_Magnetic Field and Force.md",
     "2_Technological World/5_2_DC Circuit Analysis.md",
+    "6_1_Magnetic Field and Force.md",
     "2_Technological World/Humongous Formula Sheet.md",
+    "2_Modelling Space and Systems/6_1_Magnetic Field and Force.md",
+    "2_Technological World/Untitled.md",
+    "2_Modelling Space and Systems/5_2_Change of Variables.md",
+    "2_Technological World/3_1_Conductor at Equilibrium.md",
+    "2_Technological World/3_2_Electrostatic Force and Energy.md",
+    "2_Technological World/4_1_Electric Potential.md",
     "2_Technological World/2_2_Gauss's Law, Gaussian Surface and Charge Enclosed.md",
+    "2_Technological World/2_1B_Electric Field Lines and Flux.md",
+    "2_Technological World/1_1_Charges and Electricity.md",
+    "2_Technological World/4_2_Capacitance.md",
+    "2_Technological World/5_1_Capacitors and Dielectrics.md",
+    "2_Technological World/2_1A_Continuous charge distribution.md",
+    "日本語/1_語彙.md",
+    "ref/homework.md",
     "2_Technological World/0_Spherical Coordinate System.md",
     "日本語/2_1_文法.md",
     "2_Modelling Space and Systems/3_2_Unbounded Regions.md",
@@ -205,11 +234,6 @@
     "2_Modelling Space and Systems/2_2C_Implicit Differentiation.md",
     "日本語/2_3_文法出題基準外項目.md",
     "2_Science for a Sustainable World/4_2_Acids and Bases.md",
-    "2_Science for a Sustainable World/4_1_Chemical Equilibrium.md",
-    "2_Science for a Sustainable World/3_Thermochemistry.md",
-    "2_Science for a Sustainable World/5_Introduction to Plastics Processing.md",
-    "2_Modelling Space and Systems/5_2_Change of Variables.md",
-    "2_Modelling Space and Systems/5_2B_Vector Fields.md",
     "ref/MSS_lagrangian.png",
     "ref/TW_point dipole approximation.png",
     "ref/TW1_2_1.png",

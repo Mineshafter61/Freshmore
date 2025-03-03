@@ -53,3 +53,6 @@ $$
 3. Bring in the third charged object. It will be affected by **both** the fields created by the first and second charged objects
 $$
 \Delta U_3 = U_{12} = \frac{k_eq_1q_2}{r_{12}}$$
+## Energy Density
+- Symbol: $u_E$
+- $u_E=\frac{1}{2}\varepsilon_{0}E^2$

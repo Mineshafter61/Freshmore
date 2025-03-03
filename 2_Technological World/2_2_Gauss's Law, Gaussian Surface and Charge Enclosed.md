@@ -4,7 +4,7 @@ $\newcommand{\oiint}{{\subset\!\supset} \mathllap{\iint}}\newcommand{\oiiint}{{\
 - Closed surface contains a volume 
 - It can be made up of many open surfaces
 - The direction of the normal area vector $\hat{n}$ points from **inside out**
-$$ \Phi_E = \oiint_{surface} d\Phi_i = \oiint_{surface} \vec{E} \cdot d\vec{A} $$
+$$\Phi_E = \oiint_{surface} d\Phi_i = \oiint_{surface} \vec{E} \cdot d\vec{A}$$
 
 - $\oiint$ means **closed surface integral**
 - $d\Phi_E > 0$ if $\vec{E}$ points **outwards**
