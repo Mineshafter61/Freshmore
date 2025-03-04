@@ -84,26 +84,26 @@ $$
   - Q decreases when the concentration of a reactant increases
 - Change in temperature (**alters K**)
   - Exothermic reaction
-    - Increase temperature, T<sub>2</sub> > T<sub>1</sub>:
+    - Increase temperature, T₂ > T<sub>1</sub>:
       - equivalent to adding more heat (i.e. adding products)
       - to remove heat, reaction moves backward
-      - P<sub>A</sub> and P<sub>B</sub> increase and P<sub>C</sub> decreases → K<sub>2</sub> decreases
-      - K<sub>2</sub> < K<sub>1</sub>
-    - Decrease temperature, T<sub>2</sub> < T<sub>1</sub>:
+      - P<sub>A</sub> and P<sub>B</sub> increase and P<sub>C</sub> decreases → K₂ decreases
+      - K₂ < K<sub>1</sub>
+    - Decrease temperature, T₂ < T<sub>1</sub>:
       - equivalent to removing heat (i.e. removing products)
       - to replenish heat, reaction moves forward
-      - P<sub>A</sub> and P<sub>B</sub> decrease and P<sub>C</sub> increases → K<sub>2</sub> increases
-      - K<sub>2</sub> > K<sub>1</sub>
+      - P<sub>A</sub> and P<sub>B</sub> decrease and P<sub>C</sub> increases → K₂ increases
+      - K₂ > K<sub>1</sub>
   - Endothermic reaction
-    - Increase temperature, T<sub>2</sub> > T<sub>1</sub>:
+    - Increase temperature, T₂ > T<sub>1</sub>:
       - equivalent to adding more heat (i.e. adding products)
       - to remove heat, reaction moves forward
-      - P<sub>A</sub> and P<sub>B</sub> decrease and P<sub>C</sub> increases → K<sub>2</sub> increases
-      - K<sub>2</sub> > K<sub>1</sub>
-    - Decrease temperature, T<sub>2</sub> < T<sub>1</sub>:
+      - P<sub>A</sub> and P<sub>B</sub> decrease and P<sub>C</sub> increases → K₂ increases
+      - K₂ > K<sub>1</sub>
+    - Decrease temperature, T₂ < T<sub>1</sub>:
       - equivalent to removing heat (i.e. removing products)
       - to replenish heat, reaction moves backward
-      - P<sub>A</sub> and P<sub>B</sub> increase and P<sub>C</sub> decreases → K<sub>2</sub> decreases
-      - K<sub>2</sub> < K<sub>1</sub>
+      - P<sub>A</sub> and P<sub>B</sub> increase and P<sub>C</sub> decreases → K₂ decreases
+      - K₂ < K<sub>1</sub>
 - Adding an inert (constant pressure or constant volume)
   - Not covered in this course

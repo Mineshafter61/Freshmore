@@ -70,11 +70,11 @@
 | Species A               | Species B               | Strongest Possible<br>Interaction | Example                       |
 | ----------------------- | ----------------------- | --------------------------------- | ----------------------------- |
 | Ion                     | Ion                     | Ion-ion                           | Na<sup>+</sup> Cl<sup>-</sup> |
-| Ion                     | Atom/non-polar molecule | Ion-induced dipole                | Na<sup>+</sup> Cl<sub>2</sub> |
-| Ion                     | Polar molecule          | Ion-dipole                        | Na<sup>+</sup> H<sub>2</sub>O |
-| Polar molecule          | Polar molecule          | Dipole-dipole                     | H<sub>2</sub>O H<sub>2</sub>O |
-| Polar molecule          | Atom/non-polar molecule | Dipole-induced dipole             | H<sub>2</sub>O Cl<sub>2</sub> |
-| Atom/non-polar molecule | Atom/non-polar molecule | London dispersion forces          | Cl<sub>2</sub> Cl<sub>2</sub> |
+| Ion                     | Atom/non-polar molecule | Ion-induced dipole                | Na<sup>+</sup> Cl₂ |
+| Ion                     | Polar molecule          | Ion-dipole                        | Na<sup>+</sup> H₂O |
+| Polar molecule          | Polar molecule          | Dipole-dipole                     | H₂O H₂O |
+| Polar molecule          | Atom/non-polar molecule | Dipole-induced dipole             | H₂O Cl₂ |
+| Atom/non-polar molecule | Atom/non-polar molecule | London dispersion forces          | Cl₂ Cl₂ |
 
 ## Ion-dipole interactions
 
@@ -107,7 +107,7 @@
   - i.e. H-F, H-O, H-N
 - A lone pair is a pair of valence electrons that are not shared with another atom in a covalent bond
 - Intermolecular hydrogen bonds can exist between $H$ atom of 1 molecule and the lone pair of another molecule
-  - In H<sub>2</sub>O, 2 of 6 valence electrons used for intramolecular hydrogen bonding, the other 2 electron pairs are used for intermolecular hydrogen bonding with other H<sub>2</sub>O molecules resulting in a tetrahedral arrangement
+  - In H₂O, 2 of 6 valence electrons used for intramolecular hydrogen bonding, the other 2 electron pairs are used for intermolecular hydrogen bonding with other H₂O molecules resulting in a tetrahedral arrangement
 
 ## Dipole-induced dipole interactions
 

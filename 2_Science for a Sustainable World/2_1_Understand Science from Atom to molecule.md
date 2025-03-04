@@ -163,7 +163,7 @@
 - **Usually refers to the first ionisation energy** (IE<sub>1</sub>): the least amount of energy required to remove a single electron from a neutral atom
 - **Always positive** (endothermic reaction) (IE > 0 for all cases)
   - $M_{(g)} \to M^{+}+e^{-}$: 1st ionisation energy, **IE<sub>1</sub>**
-  - $M^{+}_{(g)} \to M^{2+}_{(g)}+e^{-}$: 2nd ionisation energy, **IE<sub>2</sub> > IE<sub>1</sub>**
+  - $M^{+}_{(g)} \to M^{2+}_{(g)}+e^{-}$: 2nd ionisation energy, **IE₂ > IE<sub>1</sub>**
 - Successive ionisation energy **increases** as the electron is **removed from a positive ion of increasing charge**
 - **Dramatic increase** occurs when the **first electron** from the **noble gas core** is removed.
 
@@ -184,9 +184,9 @@
 
 - Energy change accompanying the **addition** of 1 mol of electrons to 1 mol of gaseous atoms or ions
   - $X_{(g)} + e^{-}\to X_{(g)}^{-}$: 1st electron affinity, EA<sub>1</sub> < 0 generally
-  - $X^{-}_{(g)} + e^{-}\to X_{(g)}^{2-}$: 2nd electron affinity, EA<sub>2</sub> > 0 always
+  - $X^{-}_{(g)} + e^{-}\to X_{(g)}^{2-}$: 2nd electron affinity, EA₂ > 0 always
 - Considering EA<sub>1</sub>, if the electron is easily attracted to the atom, EA<sub>1</sub> is **generally negative** (exothermic reaction)
-- EA<sub>2</sub> and successive EAs are **always positive**
+- EA₂ and successive EAs are **always positive**
   - Energy is required (i.e. absorbed) to overcome electrostatic repulsion between anion X<sup>-</sup> and electron e<sup>-</sup>
 
 ### Trends

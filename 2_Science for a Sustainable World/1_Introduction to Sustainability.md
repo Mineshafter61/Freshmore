@@ -19,15 +19,15 @@
 – At the equator, the water at the surface move towards the poles, while water from the bottom moves up
   – Warmer, lower-salinity water moves along the surface
 
-## Concentration of CO<sub>2</sub> with Temperature
+## Concentration of CO₂ with Temperature
 
-- As water temperature increases, the ability to dissolve CO<sub>2</sub> decreases.
-- With global warming, this means that more CO<sub>2</sub> remains in the atmosphere.
+- As water temperature increases, the ability to dissolve CO₂ decreases.
+- With global warming, this means that more CO₂ remains in the atmosphere.
 
 ## Net Zero
 
 - Net zero means that the greenhouse gases entering the atmosphere are balanced out by their removal from the atmosphere.
-- Transportation and electric power are two main sources of CO<sub>2</sub> production.
+- Transportation and electric power are two main sources of CO₂ production.
 
 ## Biodiversity
 

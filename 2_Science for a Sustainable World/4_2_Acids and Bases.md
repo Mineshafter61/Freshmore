@@ -15,7 +15,7 @@
 
 - Functions as **either acids or bases**, depending on reaction conditions
 - Classic example: water
-  - H<sub>2</sub>O (l) + H<sub>2</sub>O (l) ↔︎ H<sub>3</sub>O<sup>+</sup>(aq) + OH<sup>-</sup> (aq)
+  - H₂O (l) + H₂O (l) ↔︎ H<sub>3</sub>O<sup>+</sup>(aq) + OH<sup>-</sup> (aq)
 
 ## Dissociation Constant of Water
 
@@ -32,11 +32,11 @@
 
 ### pOH
 
-- measures [OH<sup>-</sup>] concentration in a solution
+- measures $[OH^-]$ concentration in a solution
 - $pH=-\log[OH^-]$
 - **Important:** $pH+pOH = 14$
 
-## Relating K<sub>a</sub>, K_b, K_w
+## Relating $K_a$, $K_b$, $K_w$
 
 - $K_a = \frac{[NH_3][H_3O^+]}{NH_4^+}$
 - $K_b = \frac{[NH_4^+][OH^-]}{[NH_3]}$
@@ -50,7 +50,7 @@
 - Strong
   - completely dissociates
   - K<sub>a</sub> > 1
-  - HCl, HBr, HI, HNO<sub>3</sub>, H<sub>2</sub>SO<sub>4</sub>, HClО<sub>4</sub>, HClO<sub>3</sub>
+  - HCl, HBr, HI, HNO<sub>3</sub>, H₂SO<sub>4</sub>, HClО<sub>4</sub>, HClO<sub>3</sub>
   - $[HA]$ added = $[H3O^+]$ formed
 - Weak
   - partially dissociates
@@ -62,13 +62,13 @@
 
 - Strong
   - completely dissociates
-  - MOH, M(OH)<sub>2</sub> (M = group I or II metal)
+  - MOH, M(OH)₂ (M = group I or II metal)
 - Weak
   - partially dissociates
-  - B<sup>-</sup> (aq) + H<sub>2</sub>0 (l) ↔︎ HB (aq) + OH<sup>-</sup> (aq)
+  - B<sup>-</sup> (aq) + H₂0 (l) ↔︎ HB (aq) + OH<sup>-</sup> (aq)
   - Forms an equilibrium Ko (base-ionization constant)
   - Use RICE Table to find concentrations at equilibrium
-  - Examples: NH<sub>3</sub>, Amines (RNH<sub>2</sub>)
+  - Examples: NH<sub>3</sub>, Amines (RNH₂)
 
 ## Buffer solution
 
