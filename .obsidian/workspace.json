@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "right": {
     "id": "e2473dcf4995c385",
@@ -184,10 +183,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79224f75e9874963",
+  "active": "ab499776527a81aa",
   "lastOpenFiles": [
-    "2_Science for a Sustainable World/4_2_Acids and Bases.md",
     "2_Modelling Space and Systems/6_1_Line Integrals.md",
+    "Untitled.md",
+    "2_Science for a Sustainable World/6_Electrochemistry.md",
+    "2_Technological World/2_2_Gauss's Law.md",
+    "2_Science for a Sustainable World/4_2_Acids and Bases.md",
     "2_Technological World/5_1_Capacitors and Dielectrics.md",
     "2_Technological World/Humongous Formula Sheet.md",
     "2_Technological World/4_2_Capacitance.md",
@@ -209,9 +211,6 @@
     "ref/homework.md",
     "2_Technological World/0_Spherical Coordinate System.md",
     "日本語/2_1_文法.md",
-    "2_Modelling Space and Systems/3_2_Unbounded Regions.md",
-    "2_Modelling Space and Systems/2_2B_Critical Points.md",
-    "2_Modelling Space and Systems/2_2C_Implicit Differentiation.md",
     "ref/MSS_lagrangian.png",
     "ref/TW_point dipole approximation.png",
     "ref/TW1_2_1.png",

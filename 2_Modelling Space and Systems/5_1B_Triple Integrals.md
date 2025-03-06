@@ -1,4 +1,6 @@
-The triple integral of a continuous function $f(x, y, z)$over the solid region 
+# 5_1B_Triple Integrals
+
+The triple integral of a continuous function $f(x, y, z)$over the solid region
 $R = [a, b] \times [c, d] \times [p, q]$is a signed hypervolume given by
 
 $$
@@ -7,10 +9,12 @@ $$
 \sum_{i,j,k} f(u_{ijk}, v_{ijk}, w_{ijk}) \Delta x \Delta y \Delta z
 $$
 
-where $(u_{ijk}, v_{ijk}, w_{ijk})$ is some point in the $(i,j,k)$<sup>th</sup> sub-box.
+where $(u_{ijk}, v_{ijk}, w_{ijk})$ is some point in the $(i,j,k)^{th}$ sub-box.
 
 [[4_2_Double Integrals#Fubini's Theorem|Fubini's Theorem]] also applies.
+
 ## Cylindrical Coordinates
+
 $$
 \begin{align*}
 x &= r\cos\theta \\
@@ -22,7 +26,9 @@ z &= z \\
 dV &= r \, drd\theta dz
 \end{align*}
 $$
+
 ## Spherical Coordinates
+
 $$
 \begin{align*}
 x &= \rho\sin\phi\cos\theta \\
@@ -33,5 +39,6 @@ z &= \rho\cos\theta \\
 dV &= \rho^2\sin\phi\, d\rho\, d\theta\, d\phi
 \end{align*}
 $$
+
 - **Note:** $0≤\theta≤2π, 0≤\phi≤π$
-	- Using $\theta = 2\pi$, $\phi = 2\phi$ would give 2 spheres
+  - Using $\theta = 2\pi$, $\phi = 2\phi$ would give 2 spheres

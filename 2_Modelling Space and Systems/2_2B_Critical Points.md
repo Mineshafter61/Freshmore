@@ -1,3 +1,5 @@
+# 2_2B_Critical Points
+
 ## Local Extrema
 
 - $f$ has a **local maximum** at the point $(x_0, y_0)$ if $f(x, y) \leq f(x_0, y_0)$ for all points $(x, y)$ near $(x_0, y_0)$

@@ -1,10 +1,14 @@
+# 3_2_Unbounded Regions
+
 ## Completing the Square
+
 1. Compute $\nabla f$ by finding $f_x$ and $f_y$
 2. Equate $\nabla f = \vec{0}$
 3. Complete the square for the equation
-	- Recall $(x+a)^2 = x^2 + 2ax + a^2$
+   - Recall $(x+a)^2 = x^2 + 2ax + a^2$
 *Example*
 Consider the function $f(x,y)=x^2+3x+y^2-2y$ where $x,y ∈ \mathbb{R}$. Find the global extrema of $f$.
+
 > First we compute $\nabla f$, i.e. $f_{x}=2x+3$ and $f_{y}=2y-2$. Setting $\nabla f=\vec{0}$, we get the point $-\frac{3}{2},1$ and $f\left( -\frac{3}{2},1 \right)=-\frac{13}{4}$.
 > Notice that we can rewrite the function as follows:
 $$
@@ -18,7 +22,8 @@ $$
 > We can conclude that $f$ has a global minimum value of $-\frac{13}{4}$ at the point $\left( -\frac{3}{2},1 \right)$.
 
 ## AM-GM Inequality
-- For **non-negative real numbers** $x_1+x_2+\dots+x_n$, the arithmetic mean is always at least the geometric mean. That is, 
+
+- For **non-negative real numbers** $x_1+x_2+\dots+x_n$, the arithmetic mean is always at least the geometric mean. That is,
 $$\frac{x_1+x_2+\dots+x_n}{n}>\sqrt[n]{x_1x_2\dots x_n}$$
 - If $x_1=x_2=\dots=x_n$,
 $$\frac{x_1+x_2+\dots+x_n}{n}=\sqrt[n]{x_1x_2\dots x_n}$$

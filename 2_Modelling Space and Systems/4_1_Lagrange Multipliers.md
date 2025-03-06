@@ -1,3 +1,5 @@
+# 4_1_Lagrange Multipliers
+
 ## Geometrical Meaning
 
 - We illustrate the geometrical meaning with an example.
@@ -56,10 +58,8 @@ $$
 $$
 
 where $\nabla g(x_0,y_0)\neq \vec{0}$ and $x_0,y_0$ is not an endpoint of the constraint.
+
 - Other method (Lagrangian function): $L(x,y,\lambda)=f(x,y)+\lambda g(x,y)=\vec{0}$ (TODO)
-
-#### Notes
-
 - The optimum point obtained using method of Lagrange Multipliers can be a maximum, a minimum or saddle point
   - This method does **not** tell us which is the case
 - Depending on the context of the problem, you have to make appropriate arguments to justify whether the obtained point is a maximum or a minimum
