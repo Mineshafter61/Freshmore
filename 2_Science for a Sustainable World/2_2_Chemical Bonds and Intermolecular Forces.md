@@ -13,9 +13,9 @@
 - Electrons can be shared with **all metallic atoms** in a material
   - **Attraction between metal "cations" & "sea" of valence electrons**
 - Elements lose outer electrons easily (low IE, well shielded)
-- Contribute their valence electrons to form delocalized electron "sea"
+- Contribute their valence electrons to form delocalised electron "sea"
 - Valence electrons shared amongst many other atoms
-- Good electric & heat conductor, Malleable, High melting point
+- Good electric & heat conductor, malleable, high melting point
 
 ### Ionic bond
 

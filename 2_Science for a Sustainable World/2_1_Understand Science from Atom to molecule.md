@@ -218,9 +218,9 @@
 - Increase in shielding << increase in nuclear charge
 - **Overall increase in $Z_{eff}$**
 - **Overall decrease in atomic radius**
-- **General increase in IE**
-- **EA increases in magnitude**
-- **Increase in EN**
+- **General increase in Ionisation Energy**
+- **Electron Affinity increases in magnitude**
+- **Increase in Electronegativity**
 
 ### Down the group (vertical)
 
@@ -229,6 +229,6 @@
 - Increase in shielding >> increase in nuclear charge
 - **Overall decrease in $Z_{eff}$**
 - **Overall increase in atomic radius**
-- **General decrease in IE**
-- **EA decreases in magnitude**
-- **Decrease in EN**
+- **General decrease in Ionisation Energy**
+- **Electron Affinity decreases in magnitude**
+- **Decrease in Electronegativity**

@@ -92,7 +92,7 @@ K_a=\frac{[A^-]_{eq}[H_3O^+]_{eq}}{[HA]_{eq}} \\
 \text{Rearranging}:[H_3O^+]_{eq}=K_a \frac{[HA]_{eq}}{[A^-]_{eq}} \\
 -\log[H_3O^+]_{eq}=-\log K_a-\log\frac{[HA]_{eq}}{[A^-]_{eq}} \\
 pH=pK_a-\log\frac{[HA]_{eq}}{[A^-]_{eq}} \\
-\text{At equilibrium}:\log\frac{[HA]_{eq}}{[A^-]_{eq}}\approx1 \\
+\text{At equilibrium}:\frac{[HA]_{eq}}{[A^-]_{eq}}\approx1 \\
 \therefore pH=pK_a-\log\cancel{ \frac{[HA]_{eq}}{[A^-]_{eq}} } \\
 pH=pK_a
 \end{gather*}
