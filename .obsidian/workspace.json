@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14564ac0bd0c52a2",
+        "id": "ad676ff34fc25e59",
         "type": "tabs",
         "children": [
           {
-            "id": "79224f75e9874963",
+            "id": "1a535debce916ddd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ref/homework.md",
+                "file": "日本語/2_1_文法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "homework"
-            }
-          },
-          {
-            "id": "0f2d512495bd0d3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Science for a Sustainable World/Midterms Summary.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Midterms Summary"
+              "title": "2_1_文法"
             }
           }
         ]
@@ -112,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "right": {
     "id": "e2473dcf4995c385",
@@ -206,34 +183,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79224f75e9874963",
+  "active": "1a535debce916ddd",
   "lastOpenFiles": [
     "日本語/2_3_文法出題基準外項目.md",
+    "2_Technological World/5_2_DC Circuit Analysis.md",
+    "2_Technological World/5_1_Capacitors and Dielectrics.md",
+    "2_Technological World/6_1_Magnetic Field and Force.md",
+    "日本語/2_1_文法.md",
+    "日本語/2_2_N2文法.md",
+    "2_Science for a Sustainable World/4_2_Acids and Bases.md",
+    "2_Science for a Sustainable World/5_Introduction to Plastics Processing.md",
+    "2_Science for a Sustainable World/6_Electrochemistry.md",
+    "2_Science for a Sustainable World/2_2_Chemical Bonds and Intermolecular Forces.md",
+    "2_Science for a Sustainable World/0_Extras.md",
+    "2_Science for a Sustainable World/2_1_Understand Science from Atom to molecule.md",
+    "2_Science for a Sustainable World/Midterms Summary.md",
+    "2_Science for a Sustainable World/1_Introduction to Sustainability.md",
+    "日本語/1_語彙.md",
+    "2_Modelling Space and Systems/6_2A_Conservative Vector Fields.md",
+    "2_Modelling Space and Systems/6_2B_Divergence and Curl.md",
+    "ref/homework.md",
     "日本語/1_1_エクストラ語彙.md",
     "日本語/1_2_擬音語.md",
-    "日本語/2_2_N2文法.md",
-    "日本語/2_1_文法.md",
-    "日本語/1_語彙.md",
-    "2_Science for a Sustainable World/2_2_Chemical Bonds and Intermolecular Forces.md",
-    "2_Science for a Sustainable World/Midterms Summary.md",
-    "2_Science for a Sustainable World/2_1_Understand Science from Atom to molecule.md",
-    "2_Science for a Sustainable World/1_Introduction to Sustainability.md",
-    "2_Science for a Sustainable World/0_Extras.md",
-    "2_Science for a Sustainable World/5_Introduction to Plastics Processing.md",
-    "ref/homework.md",
-    "2_Science for a Sustainable World/4_2_Acids and Bases.md",
     "2_Science for a Sustainable World/4_1_Chemical Equilibrium.md",
     "2_Science for a Sustainable World/3_Thermochemistry.md",
     "2_Technological World/4_1_Electric Potential.md",
     "2_Modelling Space and Systems/6_1_Line Integrals.md",
     "Untitled.md",
-    "2_Science for a Sustainable World/6_Electrochemistry.md",
     "2_Technological World/2_2_Gauss's Law.md",
-    "2_Technological World/5_1_Capacitors and Dielectrics.md",
-    "2_Technological World/Humongous Formula Sheet.md",
-    "2_Technological World/4_2_Capacitance.md",
-    "2_Technological World/3_2_Electrostatic Force and Energy.md",
-    "2_Technological World/5_2_DC Circuit Analysis.md",
     "ref/MSS_lagrangian.png",
     "ref/TW_point dipole approximation.png",
     "ref/TW1_2_1.png",

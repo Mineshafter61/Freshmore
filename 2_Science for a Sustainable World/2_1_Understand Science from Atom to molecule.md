@@ -159,7 +159,7 @@
 
 ## Ionisation Energy (IE)
 
-- Minimum energy required to remove the highest-energy (outermost) electron from an atom or ion in the gaseous state, thereby forming a positive atom
+- Minimum energy required to **remove** the **highest-energy (outermost) electron** from an atom or ion in the gaseous state, thereby forming a positive atom
 - **Usually refers to the first ionisation energy** (IE<sub>1</sub>): the least amount of energy required to remove a single electron from a neutral atom
 - **Always positive** (endothermic reaction) (IE > 0 for all cases)
   - $M_{(g)} \to M^{+}+e^{-}$: 1st ionisation energy, **IE<sub>1</sub>**

@@ -62,4 +62,27 @@
 - Valence electrons shared amongst many other atoms
 - Good electric & heat conductor, malleable, high melting point
 **Ionic bond**
-Covalent bond
+- Metals with low IE lose one or more valence electrons to form a cation
+- Non-metals with high EA gain one or more electrons to form an anion
+- Formed between metals in Group I or II, and non-metals in Group VI or VII
+**Covalent bond**
+- Electrons can be shared between neighbouring atoms
+- Difference in electronegativity dictates the "equality" of electron sharing
+
+**Measure of Bond Polarity**
+1. Difference in EN
+(Table IMPORTANT)
+
+| ∆EN        | Bond                           |
+| ---------- | ------------------------------ |
+| 0          | Non-polar covalent, e.g. Cl-Cl |
+| 0.1 - 0.4  | Covalent, e.g. S-H             |
+| >0.4 - 1.7 | Polar covalent, e.g. H-Cl      |
+| >1.7 - 3.3 | Ionic, e.g. H-F                |
+
+2. Percent of Ionic character, $\delta$
+
+- **Diatomic**, linear molecules
+- Arbitrary cutoff at $\delta=50\%$ (IMPORTANT)
+- Similar to ∆EN cutoff at 1.7 (but not the same!)
+- HF and LiI are exceptions
