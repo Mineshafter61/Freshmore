@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Technological World/2_2_Gauss's Law.md",
+                "file": "日本語/2_1_文法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2_2_Gauss's Law"
+              "title": "2_1_文法"
             }
           }
         ]
@@ -167,8 +167,9 @@
   },
   "active": "76d27e4f06e314ed",
   "lastOpenFiles": [
-    "日本語/1_1_エクストラ語彙.md",
+    "日本語/2_3_文法出題基準外項目.md",
     "2_Technological World/2_2_Gauss's Law.md",
+    "日本語/1_1_エクストラ語彙.md",
     "2_Science for a Sustainable World/6_Electrochemistry.md",
     "/2_Technological World/Humongous Formula Sheet.md",
     "/2_Technological World/4_2_Capacitance.md",
@@ -197,7 +198,6 @@
     "/2_Technological World/6_1_Magnetic Field and Force.md",
     "/2_Technological World/5_2_DC Circuit Analysis.md",
     "/2_Technological World/5_1_Capacitors and Dielectrics.md",
-    "/2_Technological World/4_1_Electric Potential.md",
     "/日本語/anki.txt",
     "/日本語/1_語彙.xlsx",
     "ref/TW_point dipole approximation.png",
