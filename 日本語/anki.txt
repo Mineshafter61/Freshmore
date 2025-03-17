@@ -4802,3 +4802,203 @@
 中断|ちゅうだん|Interruption, Suspension
 中途|ちゅうと|Midway, Halfway
 中毒|ちゅうどく|Poisoning, Addiction
+中年|ちゅうねん|Middle Age
+中腹|ちゅうふく|Mountainside, Midway Up
+注目|ちゅうもく|Attention, Notice
+注文|ちゅうもん|Order, Request
+中立|ちゅうりつ|Neutrality
+中和|ちゅうわ|Neutralization, Harmonization
+〜著|〜ちょ|Author of ~
+〜町|〜ちょう|Town, District
+〜帳|〜ちょう|Ledger, Notebook
+〜兆|〜ちょう|Trillion, Omen
+〜庁|〜ちょう|Government Agency
+〜長|〜ちょう|Head, Chief
+長〜|ちょう〜|Long ~, Chief ~
+腸|ちょう|Intestines, Bowels
+蝶|ちょう|Butterfly
+超〜|ちょう〜|Super ~, Ultra ~
+調印|ちょういん|Signing, Signature
+超過|ちょうか|Excess, Surplus
+聴覚|ちょうかく|Sense of Hearing
+朝刊|ちょうかん|Morning Newspaper
+長官|ちょうかん|Director, Secretary-General
+長期|ちょうき|Long-term
+聴講|ちょうこう|Auditing a Class
+彫刻|ちょうこく|Sculpture, Carving
+調査|ちょうさ|Investigation, Survey
+調子|ちょうし|Condition, Tune, Mood
+徴収|ちょうしゅう|Collection (of Fees, Taxes)
+長所|ちょうしょ|Strong Point, Merit
+長女|ちょうじょ|Eldest Daughter
+頂上|ちょうじょう|Summit, Peak
+聴診器|ちょうしんき|Stethoscope
+調整|ちょうせい|Adjustment, Coordination
+調節|ちょうせつ|Regulation, Control
+挑戦|ちょうせん|Challenge
+ちょうだい|ちょうだい|Please Give Me (Casual)
+長短|ちょうたん|Strengths and Weaknesses
+調停|ちょうてい|Mediation, Arbitration
+頂点|ちょうてん|Apex, Vertex
+丁度|ちょうど|Exactly, Just Right
+長男|ちょうなん|Eldest Son
+重複|ちょうふく／じゅうふく|Duplication, Overlapping
+長編|ちょうへん|Long Work (Film, Novel, etc.)
+重宝|ちょうほう|Handy, Convenient
+長方形|ちょうほうけい|Rectangle
+調味料|ちょうみりょう|Seasoning, Condiment
+〜丁目|〜ちょうめ|City Block (Japanese Address System)
+調理|ちょうり|Cooking, Food Preparation
+調和|ちょうわ|Harmony, Balance
+チョーク|チョーク|Chalk
+貯金|ちょきん|Savings, Deposit
+直後|ちょくご|Immediately After
+直接|ちょくせつ|Direct, Directly
+直線|ちょくせん|Straight Line
+直前|ちょくぜん|Immediately Before
+ちょくちょく|ちょくちょく|Often, Frequently
+直通|ちょくつう|Direct Connection
+直面|ちょくめん|Facing, Confrontation
+直流|ちょくりゅう|Direct Current (Electricity)
+チョコレート|チョコレート|Chocolate
+著者|ちょしゃ|Author
+著書|ちょしょ|Book, Literary Work
+貯蔵|ちょぞう|Storage, Preservation
+貯蓄|ちょちく|Savings, Accumulation
+直角|ちょっかく|Right Angle
+直感|ちょっかん|Intuition, Hunch
+直径|ちょっけい|Diameter
+ちょっと|ちょっと|A Little, Slightly
+著名|ちょめい|Well-Known, Famous
+散らかす|ちらかす|To Scatter, To Mess Up
+散らかる|ちらかる|To Be Scattered, To Be Messy
+散らす|ちらす|To Disperse, To Spread
+ちらっと|ちらっと|Glance, Peek
+地理|ちり|Geography
+塵|ちり|Dust, Dirt
+塵紙|ちりがみ|Tissue Paper, Waste Paper
+塵取り|ちりとり|Dustpan
+治療|ちりょう|Medical Treatment
+散る|ちる|To Scatter, To Fall (Leaves, etc.)
+賃金|ちんぎん|Wages, Pay
+沈澱|ちんでん|Sedimentation, Precipitation
+沈没|ちんぼつ|Sinking
+沈然|ちんぜん|Silence, Quietness
+陳列|ちんれつ|Display, Exhibition
+対|たい|Opposition; versus
+追加|ついか|Addition; to add
+追及|ついきゅう|Pursuit; to pursue
+追跡|ついせき|Tracking; pursuit
+一日|いちにち|One day
+序で|じょで|Incidentally; by the way
+遂に|ついに|Finally
+追放|ついほう|Expulsion; banishment
+費やす|ついやす|To spend (time, money)
+墜落|ついらく|Crash; fall (e.g. airplane crash)
+〜通|〜つう|Suffix: “according to” or “by way of”
+通貨|つうか|Currency
+通過|つうか|Passage; to pass through
+通学|つうがく|Commuting to school
+痛感|つうかん|Deeply feel; keenly sense
+通勤|つうきん|Commuting to work
+通行|つうこう|Passage; traffic (of pedestrians or vehicles)
+通常|つうじょう|Usual; normal
+通じる/ずる|つうじる／ずる|To be understood; to communicate
+通信|つうしん|Communication
+痛切|つうせつ|Keenly; deeply (feeling pain)
+通知|つうち|Notification
+通帳|つうちょう|Passbook
+通訳|つうやく|Interpretation; interpreter
+通用|つうよう|Be in use; to be generally accepted
+通路|つうろ|Passageway; corridor
+杖|つえ|Cane; walking stick
+〜遣い|〜づかい|Suffix: one who uses (e.g. “calculator‐user”)
+使い道|つかいみち|Use; purpose (of something)
+使う|つかう|To use
+仕える|つかえる|To serve; to attend (one’s master)
+司る|つかさどる|To govern; to be in charge of
+つかのま|つかのま|For a moment; briefly
+捕まえる|つかまえる|To catch; to arrest
+捕まる|つかまる|To be caught; to be arrested
+掴む|つかむ|To grab; to seize
+疲れ|つかれ|Fatigue; tiredness
+疲れる|つかれる|To get tired
+〜月|〜つき|Suffix: per month
+月|つき|Moon; month
+月|げつ|(In compounds) “month” (counter reading)
+～付[き]|～づき|Suffix: attached to; with
+次|つぎ|Next; following
+付き合い|つきあい|Association; relationship
+付き合う|つきあう|To associate with; to go out with
+突き当り|つきあたり|Dead end; the end of the road
+突き当たる|つきあたる|To run into (an obstacle)
+次々に|つぎつぎに|One after another
+月並み|つきなみ|Ordinary; commonplace
+月日|つきひ|Time; days and months
+継ぎ目|つぎめ|Junction; seam
+尽きる|つきる|To run out; to be exhausted
+着く|つく|To arrive
+つく|つく|(Alternate form) To stick; to adhere
+突く|つつく|To poke; to prod
+付／着／点／就く|つく|To attach; to be fixed; to be added
+次ぐ|つぐ|To follow; to come after
+注ぐ|つぐ|To pour; to flow
+接ぐ|つぐ|To join (e.g. pieces together)
+継ぐ|つぐ|To inherit; to succeed
+机|つくえ|Desk; table
+尽す|つくす|To exhaust; to use up
+つくづく|つくづく|Deeply; seriously (reflectively)
+償い|つぐない|Atonement; compensation
+作り|つくり|Construction; making (noun form)
+作る|つくる|To make; to create
+繕う|つくろう|To mend; to repair
+付[け]加える|つけくわえる|To add; to supplement
+つける|つける|To attach; to apply
+漬ける|つける|To pickle; to soak
+つける|つける|(Alternate meaning) To immerse (e.g. in water)
+浸ける／漬ける|つける|To soak; to marinate
+付／着／点ける|つける|To affix; to switch on
+告げる|つげる|To inform; to announce
+都合|つごう|Circumstances; convenience
+つじつま|つじつま|Consistency; logic
+伝える|つたえる|To convey; to tell
+伝わる|つたわる|To be transmitted; to spread
+土|つち|Soil; earth
+〜つつ|〜つつ|Suffix: while; although (conjunction)
+筒|つつ|Cylinder; tube
+〜つつある|〜つつある|In the process of; gradually becoming
+続き|つづき|Continuation; sequel
+続く|つづく|To continue; to last
+〜続く|〜つづく|Suffix: continuing
+突く/突っつく|つつく|To poke; to prod (colloquial variation)
+続ける|つづける|To continue; to keep on
+～続ける|～つづける|Suffix: to continue doing
+突っ込む|つっこむ|To thrust into; to charge in
+慎む|つつしむ|To be circumspect; to refrain
+突っ張る|つっぱる|To stiffen; to stretch out
+包[み]|つつみ|Wrapping; package (noun)
+包む|つつむ|To wrap; to cover
+務まる|つとまる|To be capable of (a duty); to fulfill
+勤め／務め|つとめ|Service; employment
+勤め先|つとめさき|Place of employment
+努めて|つとめて|Diligently; earnestly (adverbial use)
+勤める|つとめる|To work for; to serve
+勤／務／努める|つとめる|To serve; to work (various kanji forms)
+綱|つな|Rope; cable
+繋がり|つながり|Connection; relationship
+繋がる|つながる|To be connected; to link
+繋ぐ|つなぐ|To connect; to tie together
+繋げる|つなげる|To link; to connect
+津波|つなみ|Tsunami
+常に|つねに|Always; constantly
+つねる|つねる|To pinch; to nudge
+角|つの|Horn; angle
+募る|つのる|To be abundant; to be solicited
+唾|つば|Spit; saliva
+翼|つばさ|Wing; wings
+粒|つぶ|Grain; small particle
+潰す|つぶす|To crush; to smash
+呟く|つぶやく|To murmur; to mutter
+つぶらな|つぶらな|(Colloquial) Adjective describing round, cute eyes
+つぶる|つぶる|To crush; to squeeze
+潰れる|つぶれる|To be crushed; to collapse
