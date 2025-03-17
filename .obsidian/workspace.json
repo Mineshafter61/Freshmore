@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語/2_1_文法.md",
+                "file": "2_Technological World/8_1_Biot-Savart Law.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2_1_文法"
+              "title": "8_1_Biot-Savart Law"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "right": {
     "id": "e2473dcf4995c385",
@@ -185,11 +184,12 @@
   },
   "active": "1a535debce916ddd",
   "lastOpenFiles": [
+    "日本語/2_1_文法.md",
+    "2_Technological World/8_1_Biot-Savart Law.md",
     "日本語/2_3_文法出題基準外項目.md",
     "2_Technological World/5_2_DC Circuit Analysis.md",
     "2_Technological World/5_1_Capacitors and Dielectrics.md",
     "2_Technological World/6_1_Magnetic Field and Force.md",
-    "日本語/2_1_文法.md",
     "日本語/2_2_N2文法.md",
     "2_Science for a Sustainable World/4_2_Acids and Bases.md",
     "2_Science for a Sustainable World/5_Introduction to Plastics Processing.md",
@@ -210,7 +210,6 @@
     "2_Technological World/4_1_Electric Potential.md",
     "2_Modelling Space and Systems/6_1_Line Integrals.md",
     "Untitled.md",
-    "2_Technological World/2_2_Gauss's Law.md",
     "ref/MSS_lagrangian.png",
     "ref/TW_point dipole approximation.png",
     "ref/TW1_2_1.png",
