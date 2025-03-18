@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語/2_1_文法.md",
+                "file": "2_Technological World/6_1_Magnetic Field and Force.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2_1_文法"
+              "title": "6_1_Magnetic Field and Force"
             }
           }
         ]
@@ -167,6 +167,10 @@
   },
   "active": "76d27e4f06e314ed",
   "lastOpenFiles": [
+    "2_Technological World/8_1_Biot-Savart Law.md",
+    "日本語/2_1_文法.md",
+    "2_Modelling Space and Systems/8_1B_Elementary Row Operations.md",
+    "2_Modelling Space and Systems/8_1A_Linear Systems.md",
     "日本語/2_3_文法出題基準外項目.md",
     "2_Technological World/2_2_Gauss's Law.md",
     "日本語/1_1_エクストラ語彙.md",
@@ -193,11 +197,7 @@
     "2_Technological World/6_1_Magnetic Field and Force.md",
     "/日本語/1_語彙.md",
     "/日本語",
-    "/ref/homework.md",
     "/ref",
-    "/2_Technological World/6_1_Magnetic Field and Force.md",
-    "/2_Technological World/5_2_DC Circuit Analysis.md",
-    "/2_Technological World/5_1_Capacitors and Dielectrics.md",
     "/日本語/anki.txt",
     "/日本語/1_語彙.xlsx",
     "ref/TW_point dipole approximation.png",

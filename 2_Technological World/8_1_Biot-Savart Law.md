@@ -2,7 +2,7 @@
 
 $$
 \begin{align}
-d\vec{B}&=\frac{\mu_0}{4\pi}\frac{Id\vec{s}\times\hat{r}_{sp}}{_{sp}^2}\\
+d\vec{B}&=\frac{\mu_0}{4\pi}\frac{Id\vec{s}\times\hat{r}_{sp}}{r_{sp}^2}\\
 \vec{B}&=\frac{\mu_0}{4\pi}\int\frac{Id\vec{s}\times\hat{r}_{sp}}{_{sp}^2}\\
 &=\frac{\mu_0}{4\pi}\int\frac{Id\vec{s}\times\vec{r}_{sp}}{r_{sp}^3}\\
 &=\frac{\mu_0}{4\pi}\int\frac{Id\vec{s}\times(\vec{r}_p-\vec{r}_s)}{|\vec{r}_p-\vec{r}_s|^3}
