@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad676ff34fc25e59",
+        "id": "3b7f6f5c71ba3cf4",
         "type": "tabs",
         "children": [
           {
-            "id": "1a535debce916ddd",
+            "id": "dd685416d32136f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Science for a Sustainable World/6_Electrochemistry.md",
+                "file": "2_Technological World/8_2_Ampere's Law.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6_Electrochemistry"
+              "title": "8_2_Ampere's Law"
             }
           }
         ]
@@ -182,13 +182,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab499776527a81aa",
+  "active": "dd685416d32136f4",
   "lastOpenFiles": [
+    "2_Technological World/8_2_Ampere's Law.md",
+    "2_Technological World/8_1_Biot-Savart Law.md",
+    "2_Technological World/6_1_Magnetic Field and Force.md",
+    "2_Science for a Sustainable World/6_Electrochemistry.md",
+    "2_Modelling Space and Systems/8_1_Systems of Linear Equations, Elementary Row Operations and Gaussian Elimination.md",
     "2_Modelling Space and Systems/8_1B_Elementary Row Operations.md",
     "2_Modelling Space and Systems/8_1A_Linear Systems.md",
     "2_Modelling Space and Systems/8_1B_Elementary Row Operations and Gaussian Elimination.md",
-    "2_Science for a Sustainable World/6_Electrochemistry.md",
-    "2_Modelling Space and Systems/8_1_Systems of Linear Equations, Elementary Row Operations and Gaussian Elimination.md",
     "2_Science for a Sustainable World/5_Introduction to Plastics Processing.md",
     "2_Science for a Sustainable World/4_2_Acids and Bases.md",
     "2_Science for a Sustainable World/4_1_Chemical Equilibrium.md",
@@ -198,18 +201,15 @@
     "2_Science for a Sustainable World/Midterms Summary.md",
     "2_Science for a Sustainable World/0_Extras.md",
     "2_Science for a Sustainable World/1_Introduction to Sustainability.md",
-    "2_Technological World/8_1_Biot-Savart Law.md",
     "日本語/2_1_文法.md",
     "日本語/2_3_文法出題基準外項目.md",
     "2_Technological World/5_2_DC Circuit Analysis.md",
     "2_Technological World/5_1_Capacitors and Dielectrics.md",
-    "2_Technological World/6_1_Magnetic Field and Force.md",
     "日本語/2_2_N2文法.md",
     "日本語/1_語彙.md",
     "2_Modelling Space and Systems/6_2A_Conservative Vector Fields.md",
     "2_Modelling Space and Systems/6_2B_Divergence and Curl.md",
     "ref/homework.md",
-    "日本語/1_1_エクストラ語彙.md",
     "ref/MSS_lagrangian.png",
     "ref/TW_point dipole approximation.png",
     "ref/TW1_2_1.png",
