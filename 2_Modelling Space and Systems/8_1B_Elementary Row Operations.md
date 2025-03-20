@@ -18,12 +18,12 @@ $$
 - **Augmented matrices**, where $b$ is the coefficient of the constant term
 
 $$
-\begin{bmatrix}
-a_{11} & a_{12} & \dots & a_{1n} &\bigm| & b_1 \\
-a_{21} & a_{22} & \dots & a_{2n} &\bigm| & b_2 \\
-\vdots & \vdots &       & \vdots &\bigm| & \vdots \\
-a_{m1} & a_{m2} & \dots & a_{mn} &\bigm| & b_m
-\end{bmatrix}
+\left[\begin{array}{cccc|c}
+a_{11} & a_{12} & \dots & a_{1n} & b_1 \\
+a_{21} & a_{22} & \dots & a_{2n} & b_2 \\
+\vdots & \vdots &       & \vdots & \vdots \\
+a_{m1} & a_{m2} & \dots & a_{mn} & b_m
+\end{array}\right]
 $$
 
 - The augmented matrix contains a **coefficient matrix** (the values left of the vertical line that do not correspond to the constant terms):
@@ -57,11 +57,11 @@ $$
 - e.g.
 
 $$
-\begin{bmatrix}
-    2 & 1 & 1 &\bigm| & 5 \\
-    0 & 8 & 5 &\bigm| & 6 \\
-    0 & 0 & 1 &\bigm| & 6
-\end{bmatrix}
+\left[\begin{array}{ccc|c}
+    2 & 1 & 1 & 5 \\
+    0 & 8 & 5 & 6 \\
+    0 & 0 & 1 & 6
+\end{array}\right]
 $$
 
 ### Gaussian Elimination

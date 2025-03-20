@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Technological World/8_2_Ampere's Law.md",
+                "file": "2_Modelling Space and Systems/8_2_Gauss Jordan Elimination.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "8_2_Ampere's Law"
+              "title": "8_2_Gauss Jordan Elimination"
+            }
+          },
+          {
+            "id": "424faddf43bc95a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Modelling Space and Systems/8_1B_Elementary Row Operations.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "8_1B_Elementary Row Operations"
             }
           }
         ]
@@ -184,12 +208,13 @@
   },
   "active": "dd685416d32136f4",
   "lastOpenFiles": [
+    "2_Modelling Space and Systems/8_1B_Elementary Row Operations.md",
+    "2_Modelling Space and Systems/8_2_Gauss Jordan Elimination.md",
     "2_Technological World/8_2_Ampere's Law.md",
     "2_Technological World/8_1_Biot-Savart Law.md",
     "2_Technological World/6_1_Magnetic Field and Force.md",
     "2_Science for a Sustainable World/6_Electrochemistry.md",
     "2_Modelling Space and Systems/8_1_Systems of Linear Equations, Elementary Row Operations and Gaussian Elimination.md",
-    "2_Modelling Space and Systems/8_1B_Elementary Row Operations.md",
     "2_Modelling Space and Systems/8_1A_Linear Systems.md",
     "2_Modelling Space and Systems/8_1B_Elementary Row Operations and Gaussian Elimination.md",
     "2_Science for a Sustainable World/5_Introduction to Plastics Processing.md",
@@ -209,7 +234,6 @@
     "日本語/1_語彙.md",
     "2_Modelling Space and Systems/6_2A_Conservative Vector Fields.md",
     "2_Modelling Space and Systems/6_2B_Divergence and Curl.md",
-    "ref/homework.md",
     "ref/MSS_lagrangian.png",
     "ref/TW_point dipole approximation.png",
     "ref/TW1_2_1.png",
