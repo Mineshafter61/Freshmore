@@ -1,9 +1,9 @@
 # 6_2B_Divergence and Curl
 
 - Divergence: scalar
-  - $\nabla\cdot F$
+  - $\nabla\cdot\vec{F}$
 - Curl: vector
-  - $\nabla\times F$
+  - $\nabla\times\vec{F}$
 
 ## Vector differential operator
 

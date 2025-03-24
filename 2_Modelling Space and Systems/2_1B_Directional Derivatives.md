@@ -4,6 +4,7 @@
 $$D_{\vec{u}}f(x_0,y_0)=\lim_{ h \to 0 } \frac{f(x_0+h\,u_1, y_0+h\,u_2)-f(x_0,y_0)}{h}$$
 provided the limit exists
 - If the given vector $\vec{v}$ is **not a unit vector**, we let $\displaystyle\vec{u}=\frac{\vec{v}}{||\vec{v}||}$ (normalisation).
+- The **quickest rate of increase** is simply $\nabla f$.
 
 ## Directional derivative from partial derivative
 

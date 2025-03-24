@@ -21,13 +21,14 @@ $$
 
 ## Jacobian
 
-- The Jacobian of the transformation given by $x=g(u,v)$ and $y=h(u,v)$ is
+- The **Jacobian** of the transformation given by $x=g(u,v)$ and $y=h(u,v)$ is
 
 $$
 \begin{vmatrix} g_u&g_v \\ h_u&h_v \end{vmatrix}=g_uh_v-g_vh_u
 $$
 
 - $\begin{vmatrix} g_u&g_v \\ h_u&h_v \end{vmatrix}$ is the determinant of the matrix $\begin{bmatrix} g_u&g_v \\ h_u&h_v \end{bmatrix}$.
+- Example (polar coordinates, $r$ is the Jacobian): $dx\,dy = r\,dr\,dθ$
 
 ## General Approach
 
