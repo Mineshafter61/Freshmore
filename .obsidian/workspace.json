@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Technological World/9_1_Faraday's and Lenz's Law.md",
+                "file": "2_Modelling Space and Systems/9_1_Introduction to Matrices.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "9_1_Faraday's and Lenz's Law"
+              "title": "9_1_Introduction to Matrices"
             }
           }
         ]
@@ -169,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,32 +184,32 @@
   },
   "active": "91bbe430b4fc65e7",
   "lastOpenFiles": [
-    "2_Technological World/8_2_Ampere's Law.md",
-    "2_Technological World/9_1_Faraday's and Lenz's Law.md",
+    "2_Modelling Space and Systems/8_1B_Elementary Row Operations.md",
+    "2_Modelling Space and Systems/9_1_Introduction to Matrices.md",
     "2_Modelling Space and Systems/8_2_Gauss Jordan Elimination.md",
-    "ref/homework.md",
-    "2_Modelling Space and Systems/5_1A_Polar Coordinate Systems.md",
+    "2_Modelling Space and Systems/6_2A_Conservative Vector Fields.md",
+    "2_Science for a Sustainable World/9_1_Atomic Orbitals.md",
+    "1_Modelling and Analysis/1_4_Trigonometric Functions.md",
+    "1_Modelling and Analysis/5_Integration.md",
+    "1_Modelling and Analysis/4_4_Optimisation.md",
+    "2_Modelling Space and Systems/6_2B_Divergence and Curl.md",
+    "2_Modelling Space and Systems/6_1_Line Integrals.md",
     "2_Modelling Space and Systems/5_2_Change of Variables.md",
     "2_Modelling Space and Systems/5_1B_Triple Integrals.md",
+    "2_Modelling Space and Systems/5_1A_Polar Coordinate Systems.md",
     "2_Modelling Space and Systems/4_2_Double Integrals.md",
+    "2_Modelling Space and Systems/4_1_Lagrange Multipliers.md",
+    "2_Modelling Space and Systems/3_2_Unbounded Regions.md",
     "2_Modelling Space and Systems/3_1_Extreme Value Theorem.md",
+    "2_Modelling Space and Systems/2_2C_Implicit Differentiation.md",
+    "2_Modelling Space and Systems/2_2B_Critical Points.md",
     "2_Modelling Space and Systems/2_2A_Chain Rule.md",
-    "2_Modelling Space and Systems/2_1B_Directional Derivatives.md",
     "2_Modelling Space and Systems/2_1C_Gradient.md",
+    "2_Modelling Space and Systems/2_1B_Directional Derivatives.md",
     "2_Modelling Space and Systems/2_1A_Tangent Plane Approximation.md",
     "2_Modelling Space and Systems/1_2_Level Curves and Partial Differentiation.md",
     "2_Modelling Space and Systems/1_1B_Multivariable Functions.md",
-    "2_Modelling Space and Systems/1_1A_Vectors.md",
-    "2_Modelling Space and Systems/4_1_Lagrange Multipliers.md",
-    "2_Modelling Space and Systems/6_2B_Divergence and Curl.md",
-    "2_Science for a Sustainable World/6_Electrochemistry.md",
-    "2_Modelling Space and Systems/3_2_Unbounded Regions.md",
-    "2_Modelling Space and Systems/8_1B_Elementary Row Operations.md",
-    "2_Technological World/8_1_Biot-Savart Law.md",
-    "2_Technological World/6_1_Magnetic Field and Force.md",
-    "2_Modelling Space and Systems/8_1_Systems of Linear Equations, Elementary Row Operations and Gaussian Elimination.md",
-    "2_Modelling Space and Systems/8_1A_Linear Systems.md",
-    "2_Modelling Space and Systems/8_1B_Elementary Row Operations and Gaussian Elimination.md",
+    "2_Technological World/9_1_Faraday's and Lenz's Law.md",
     "ref/MSS_lagrangian.png",
     "ref/TW_point dipole approximation.png",
     "ref/TW1_2_1.png",

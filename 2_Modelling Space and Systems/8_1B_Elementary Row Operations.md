@@ -8,9 +8,9 @@ $$
 \underset{m \times n}{A}=
 \begin{bmatrix}
 a_{11} & \dots & a_{1j} & \dots & a_{1n} \\
-\vdots && \vdots && \vdots \\
+\vdots &\ddots& \vdots &\ddots& \vdots \\
 a_{i1} & \dots & a_{ij} & \dots & a_{in} \\
-\vdots && \vdots && \vdots \\
+\vdots &\ddots& \vdots &\ddots& \vdots \\
 a_{m1} & \dots & a_{mj} & \dots & a_{mn}
 \end{bmatrix}
 $$
@@ -21,7 +21,7 @@ $$
 \left[\begin{array}{cccc|c}
 a_{11} & a_{12} & \dots & a_{1n} & b_1 \\
 a_{21} & a_{22} & \dots & a_{2n} & b_2 \\
-\vdots & \vdots &       & \vdots & \vdots \\
+\vdots & \vdots & \ddots& \vdots & \vdots \\
 a_{m1} & a_{m2} & \dots & a_{mn} & b_m
 \end{array}\right]
 $$
@@ -32,7 +32,7 @@ $$
 \begin{bmatrix}
 a_{11} & a_{12} & \dots & a_{1n} \\
 a_{21} & a_{22} & \dots & a_{2n} \\
-\vdots & \vdots &       & \vdots \\
+\vdots & \vdots & \ddots& \vdots \\
 a_{m1} & a_{m2} & \dots & a_{mn}
 \end{bmatrix}
 $$

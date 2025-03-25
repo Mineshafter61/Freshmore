@@ -2,7 +2,7 @@
 
 ## Gradient Vector
 
-- The expression for $D_{\vec{u}}f(x_0,y_0)$ could also be written as a dot product of $\vec{u}$ and another vector:
+- The expression for $D_{\vec{u}}f(x_0,y_0)$ could also be written as a dot product of $\vec{u}$ and the gradient vector:
 
 $$
 \begin{align*}
