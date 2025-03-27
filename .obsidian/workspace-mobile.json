@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Technological World/6_1_Magnetic Field and Force.md",
+                "file": "2_Technological World/8_2_Ampere's Law.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6_1_Magnetic Field and Force"
+              "title": "8_2_Ampere's Law"
             }
           }
         ]
@@ -167,6 +167,7 @@
   },
   "active": "76d27e4f06e314ed",
   "lastOpenFiles": [
+    "2_Technological World/6_1_Magnetic Field and Force.md",
     "2_Technological World/8_1_Biot-Savart Law.md",
     "日本語/2_1_文法.md",
     "2_Modelling Space and Systems/8_1B_Elementary Row Operations.md",
@@ -194,7 +195,6 @@
     "日本語/2_2_N2文法.md",
     "2_Technological World/4_2_Capacitance.md",
     "2_Technological World/Humongous Formula Sheet.md",
-    "2_Technological World/6_1_Magnetic Field and Force.md",
     "/日本語/1_語彙.md",
     "/日本語",
     "/ref",
