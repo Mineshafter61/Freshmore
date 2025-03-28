@@ -42,8 +42,6 @@ $$
 - $n$: energy level
 - $e$: charge of single electron, $1.602\times 10^{^-19} C$
 
-- ![image](ref/binding%20energy%20variables.png)
-
 ## Energy Transition between Orbitals
 
 - Moving from initial energy level $n_i$ to final energy level $n_f$,
@@ -61,3 +59,15 @@ $$
 ## Absorption & Emission Spectrums
 
 - Every element has a unique spectrum based on electrons changing energy levels
+
+## Describing an Orbital using Quantum Numbers
+### Angular Momentum Number ($l$)
+- Shape of the orbital
+- 0: spherical
+- 1: two bulbs
+- 2: four bulbs
+- 3: more bulbs and so on
+### Magnetic quantum number ($m_l$)
+- $-l≤m_l≤l$ (integers)
+- *Example*: $l=1; m_l=-1,0,1$ ($l=1$ can follow 3 orientations, x, y, z)
+- *Example*: $l=2; m_l=-2,-1,0,1,2$ ($l=2$ can follow 5 orientations)

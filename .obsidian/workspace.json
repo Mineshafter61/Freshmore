@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6caac349ebfb9656",
+        "id": "a929fb69471d82b6",
         "type": "tabs",
         "children": [
           {
-            "id": "91bbe430b4fc65e7",
+            "id": "8c996cd9721db49d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語/2_2_文法出題基準外項目.md",
+                "file": "2_Science for a Sustainable World/9_2A_Molecular Orbital Theory.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2_2_文法出題基準外項目"
+              "title": "9_2A_Molecular Orbital Theory"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "right": {
     "id": "e2473dcf4995c385",
@@ -183,25 +182,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91bbe430b4fc65e7",
+  "active": "8c996cd9721db49d",
   "lastOpenFiles": [
-    "Untitled.md",
+    "ref/SSW_P2_Z≤7.png",
+    "2_Science for a Sustainable World/9_2B_Band Theory.md",
+    "ref/SSW_P1.png",
+    "2_Science for a Sustainable World/9_2A_Molecular Orbital Theory.md",
+    "ref/SSW_P2_Z≥8.png",
+    "2_Science for a Sustainable World/9_1_Atomic Orbitals.md",
+    "日本語/1_語彙.md",
+    "日本語/1_2_擬音語.md",
+    "日本語/1_1_エクストラ語彙.md",
+    "日本語/2_1_文法.md",
     "日本語/2_2_文法出題基準外項目.md",
     "日本語/2_3_N2文法.md",
-    "日本語/2_1_文法.md",
     "2_Technological World/8_1_Biot-Savart Law.md",
     "2_Technological World/9_2C_Energy to Charge an Inductor.md",
     "2_Technological World/9_2B_Mutual Inductance.md",
     "2_Modelling Space and Systems/9_2_Matrix Inverses.md",
     "2_Technological World/9_2A_Self Inductance of an Inductor.md",
-    "日本語/1_語彙.md",
     "ref/TW_inductionBehaviour.png",
     "2_Modelling Space and Systems/9_1_Introduction to Matrices.md",
     "日本語/~$1_語彙.xlsx",
     "2_Modelling Space and Systems/8_1B_Elementary Row Operations.md",
     "2_Modelling Space and Systems/8_2_Gauss Jordan Elimination.md",
     "2_Modelling Space and Systems/6_2A_Conservative Vector Fields.md",
-    "2_Science for a Sustainable World/9_1_Atomic Orbitals.md",
     "1_Modelling and Analysis/1_4_Trigonometric Functions.md",
     "1_Modelling and Analysis/5_Integration.md",
     "1_Modelling and Analysis/4_4_Optimisation.md",
@@ -209,10 +214,6 @@
     "2_Modelling Space and Systems/6_1_Line Integrals.md",
     "2_Modelling Space and Systems/5_2_Change of Variables.md",
     "2_Modelling Space and Systems/5_1B_Triple Integrals.md",
-    "2_Modelling Space and Systems/5_1A_Polar Coordinate Systems.md",
-    "2_Modelling Space and Systems/4_2_Double Integrals.md",
-    "2_Modelling Space and Systems/4_1_Lagrange Multipliers.md",
-    "2_Modelling Space and Systems/3_2_Unbounded Regions.md",
     "ref/MSS_lagrangian.png",
     "ref/TW_point dipole approximation.png",
     "ref/TW1_2_1.png",
@@ -228,8 +229,6 @@
     "Modelling Space and Systems/2_2B_Critical Points.ms",
     "Modelling Space and Systems/2_2B_Critical Points",
     "ref/directionalDerivativeProof.png",
-    "Screenshot 2025-02-04 at 13.45.31.png",
-    "Screenshot 2025-02-04 at 13.43.27.png",
-    "ref/law of limits infinity.png"
+    "Screenshot 2025-02-04 at 13.45.31.png"
   ]
 }
