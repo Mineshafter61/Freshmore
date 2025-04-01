@@ -8,7 +8,7 @@
 
 ### $R_n \leftrightarrow R_m$
 
-- Apply the same elemetary matrix to get the original
+- Apply the same elementary matrix to get the original
 - Therefore $E_A = E^{-1}_A$
 
 ### $R_n \rightarrow kR_n$

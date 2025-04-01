@@ -53,9 +53,15 @@ $$
 - Bond order > 0: **molecule more stable** than separate atoms, therefore **molecule forms**
 - Bond order > 0: **molecule is as stable** as separate atoms, therefore **molecule will not form**
 - A **higher bond order** means a **larger bond strength**.
-## Paramagnetic and Diamagnetic
-- A species containing **one or more unpaired electrons (only one arrow)** is **paramagnetic** and is split by an external magnetic field.
-- A species with **no unpaired electrons (all fields have 2 arrows)** is **diamagnetic** and is not attracted to an external magnetic field.
+## Magnetic Properties
+- Electron spin generates a tiny magnetic field
+- **Paramagnetic** species: 
+    - Contains one or more unpaired electrons
+    - Split by an external magnetic field
+    - Contains **one or more unpaired electrons (only one arrow)**
+- **Diamagnetic**: 
+    - No unpaired electrons (all fields have 2 arrows)
+    - Not affected by an external magnetic field
 ## HOMO & LUMO
 - HOMO
     - **Highest Occupied Molecular Orbital**

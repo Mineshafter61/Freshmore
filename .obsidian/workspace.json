@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Science for a Sustainable World/9_2A_Molecular Orbital Theory.md",
+                "file": "2_Modelling Space and Systems/10_1_Trace and Determinant.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "9_2A_Molecular Orbital Theory"
+              "title": "10_1_Trace and Determinant"
             }
           }
         ]
@@ -184,10 +184,14 @@
   },
   "active": "8c996cd9721db49d",
   "lastOpenFiles": [
-    "ref/SSW_P2_Z≤7.png",
+    "2_Modelling Space and Systems/9_2_Matrix Inverses.md",
+    "2_Modelling Space and Systems/10_1_Trace and Determinant.md",
+    "2_Modelling Space and Systems/9_1_Introduction to Matrices.md",
+    "2_Science for a Sustainable World/10_Solar Energy and Photovoltaic Cells.md",
     "2_Science for a Sustainable World/9_2B_Band Theory.md",
-    "ref/SSW_P1.png",
     "2_Science for a Sustainable World/9_2A_Molecular Orbital Theory.md",
+    "ref/SSW_P2_Z≤7.png",
+    "ref/SSW_P1.png",
     "ref/SSW_P2_Z≥8.png",
     "2_Science for a Sustainable World/9_1_Atomic Orbitals.md",
     "日本語/1_語彙.md",
@@ -199,10 +203,8 @@
     "2_Technological World/8_1_Biot-Savart Law.md",
     "2_Technological World/9_2C_Energy to Charge an Inductor.md",
     "2_Technological World/9_2B_Mutual Inductance.md",
-    "2_Modelling Space and Systems/9_2_Matrix Inverses.md",
     "2_Technological World/9_2A_Self Inductance of an Inductor.md",
     "ref/TW_inductionBehaviour.png",
-    "2_Modelling Space and Systems/9_1_Introduction to Matrices.md",
     "日本語/~$1_語彙.xlsx",
     "2_Modelling Space and Systems/8_1B_Elementary Row Operations.md",
     "2_Modelling Space and Systems/8_2_Gauss Jordan Elimination.md",
@@ -213,7 +215,6 @@
     "2_Modelling Space and Systems/6_2B_Divergence and Curl.md",
     "2_Modelling Space and Systems/6_1_Line Integrals.md",
     "2_Modelling Space and Systems/5_2_Change of Variables.md",
-    "2_Modelling Space and Systems/5_1B_Triple Integrals.md",
     "ref/MSS_lagrangian.png",
     "ref/TW_point dipole approximation.png",
     "ref/TW1_2_1.png",
@@ -228,7 +229,6 @@
     "1_Modelling and Analysis",
     "Modelling Space and Systems/2_2B_Critical Points.ms",
     "Modelling Space and Systems/2_2B_Critical Points",
-    "ref/directionalDerivativeProof.png",
-    "Screenshot 2025-02-04 at 13.45.31.png"
+    "ref/directionalDerivativeProof.png"
   ]
 }
