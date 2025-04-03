@@ -20,7 +20,7 @@ $$
 - Relative amount of products and reactants at equilibrium
 - Constant for a particular reaction that is at equilibrium at a **specified temperature**. (i.e. depends on temperature)
 - Allows for determination of whether the mixture is at equilibrium and the extent of reaction.
-- Take note that **solids** and **liquids** do not appear in K<sub>c</sub> as their effective concenrations remain constant throughout the reaction.
+- Take note that **solids** and **liquids** do not appear in $K_c$ as their effective concenrations remain constant throughout the reaction.
 - For the reaction $aA+bB⇄cC+dD$,
 
 | Solution                                                | Gaseous                                                         |
@@ -32,10 +32,10 @@ $$
 
 - Given K and initial [], calculate [] at equilibrium.
 - Components
-  - **Reaction (R)**: Write the balanced chemical equation for the reaction.
-  - **Initial (I)**: List the initial concentrations or pressures of the reactants and products.
-  - **Change (C)**: Indicate the changes in concentrations or pressures as the system moves towards equilibrium.
-  - **Equilibrium (E)**: Calculate the equilibrium concentrations or pressures.
+    - **Reaction (R)**: Write the balanced chemical equation for the reaction.
+    - **Initial (I)**: List the initial concentrations or pressures of the reactants and products.
+    - **Change (C)**: Indicate the changes in concentrations or pressures as the system moves towards equilibrium.
+    - **Equilibrium (E)**: Calculate the equilibrium concentrations or pressures.
 - Example 1: $2NO_2$ (g) $⇄$ $2NO$ (g) $O_2$ (g); Initial pressure of $NO_2$ = 0.75 atm; $K_P=5.9\times10^{-13}@25˚C$
 
 | -   | Reactant        | $⇄$ | Product 1 | Product 2 |
@@ -67,9 +67,9 @@ $$
 - Reaction Quotient are the concentrations/partial pressures of the reactants and products at non-equilibrium conditions
 - For a gas reaction, $Q=\frac{(P_C)^c(P_D)^d}{(P_A)^a(P_B)^c}$
 - $Q$ can be used to predict the direction of the reaction.
-  - $Q < K$: reaction shifts to right
-  - $Q = K$: equilibrium ➔ no shift
-  - $Q > K$: reaction shifts to left
+    - $Q < K$: reaction shifts to right
+    - $Q = K$: equilibrium ➔ no shift
+    - $Q > K$: reaction shifts to left
 
 ## Disturbing an Equilibrium System
 
@@ -80,30 +80,30 @@ $$
 ### Three Common Disturbances to Equilibrium
 
 - Change in concentration (**does not alter K**)
-  - To minimise the disturbance, the reaction goes forward to reduce the disturbed reactant (thus producing more products).
-  - Q decreases when the concentration of a reactant increases
+    - To minimise the disturbance, the reaction goes forward to reduce the disturbed reactant (thus producing more products).
+    - Q decreases when the concentration of a reactant increases
 - Change in temperature (**alters K**)
-  - Exothermic reaction ($\Delta H_{rxn}^{0}>0$)
-    - Increase temperature, T₂ > T<sub>1</sub>:
-      - equivalent to adding more heat (i.e. adding products)
-      - to remove heat, reaction moves backward
-      - P<sub>A</sub> and P<sub>B</sub> increase and P<sub>C</sub> decreases → K₂ decreases
-      - K₂ < K<sub>1</sub>
-    - Decrease temperature, T₂ < T<sub>1</sub>:
-      - equivalent to removing heat (i.e. removing products)
-      - to replenish heat, reaction moves forward
-      - P<sub>A</sub> and P<sub>B</sub> decrease and P<sub>C</sub> increases → K₂ increases
-      - K₂ > K<sub>1</sub>
-  - Endothermic reaction ($\Delta H_{rxn}^{0}<0$)
-    - Increase temperature, T₂ > T<sub>1</sub>:
-      - equivalent to adding more heat (i.e. adding products)
-      - to remove heat, reaction moves forward
-      - P<sub>A</sub> and P<sub>B</sub> decrease and P<sub>C</sub> increases → K₂ increases
-      - K₂ > K<sub>1</sub>
-    - Decrease temperature, T₂ < T<sub>1</sub>:
-      - equivalent to removing heat (i.e. removing products)
-      - to replenish heat, reaction moves backward
-      - P<sub>A</sub> and P<sub>B</sub> increase and P<sub>C</sub> decreases → K₂ decreases
-      - K₂ < K<sub>1</sub>
+    - Exothermic reaction ($\Delta H_{rxn}^{0}>0$)
+        - Increase temperature, T₂ > T₁:
+            - equivalent to adding more heat (i.e. adding products)
+            - to remove heat, reaction moves backward
+            - $P_A$ and $P_B$ increase and $P_C$ decreases → K₂ decreases
+            - K₂ < K₁
+        - Decrease temperature, T₂ < T₁:
+            - equivalent to removing heat (i.e. removing products)
+            - to replenish heat, reaction moves forward
+            - $P_A$ and $P_B$ decrease and $P_C$ increases → K₂ increases
+            - K₂ > K₁
+    - Endothermic reaction ($\Delta H_{rxn}^{0}<0$)
+        - Increase temperature, T₂ > T₁:
+            - equivalent to adding more heat (i.e. adding products)
+            - to remove heat, reaction moves forward
+            - $P_A$ and $P_B$ decrease and $P_C$ increases → K₂ increases
+            - K₂ > K₁
+        - Decrease temperature, T₂ < T₁:
+            - equivalent to removing heat (i.e. removing products)
+            - to replenish heat, reaction moves backward
+            - $P_A$ and $P_B$ increase and $P_C$ decreases → K₂ decreases
+            - K₂ < K₁
 - Adding an inert (constant pressure or constant volume)
-  - Not covered in this course
+    - Not covered in this course

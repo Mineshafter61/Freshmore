@@ -5,7 +5,7 @@
 - $f$ has a **local maximum** at the point $(x_0, y_0)$ if $f(x, y) \leq f(x_0, y_0)$ for all points $(x, y)$ near $(x_0, y_0)$
 - $f$ has a **local minimum** at the point $(x_0, y_0)$ if $f(x, y) \geq f(x_0, y_0)$ for all points $(x, y)$ near $(x_0, y_0)$
 - At local extrema $(x_0, y_0)$ where it is differentiable, then $\nabla f(x_0, y_0) = \vec{0}$
-  - That is, $f_x(x_0, y_0) = 0$ and $f_y(x_0, y_0) = 0$
+    - That is, $f_x(x_0, y_0) = 0$ and $f_y(x_0, y_0) = 0$
 - Local extrema can also have an **undefined gradient**.
 
 ## Critical Points
@@ -22,10 +22,10 @@
 ## Second Derivative Test
 
 - Define $D(x_0,y_0)=f_{xx}(x_0,y_0)f_{yy}(x_0,y_0)-f_{xy}(x_0,y_0)f_{yx}(x_0,y_0)$
-  - $D<0$, then $(x_0,y_0)$ is a saddle point
-  - $D>0$ and $f_{xx}>0$, then $(x_0,y_0)$ is a **local minimum**
-  - $D>0$ and $f_{xx}<0$, then $(x_0,y_0)$ is a **local maximum**
-  - $D=0$, then this test is inconclusive and another method is required to determine the nature of the critical point.
+    - $D<0$, then $(x_0,y_0)$ is a saddle point
+    - $D>0$ and $f_{xx}>0$, then $(x_0,y_0)$ is a **local minimum**
+    - $D>0$ and $f_{xx}<0$, then $(x_0,y_0)$ is a **local maximum**
+    - $D=0$, then this test is inconclusive and another method is required to determine the nature of the critical point.
 - *Example: Find all critical points of $f(x,y)=x^2+y^3-6xy$, and classify them as either local maxima, local minima, or saddle points.*
 
 $$

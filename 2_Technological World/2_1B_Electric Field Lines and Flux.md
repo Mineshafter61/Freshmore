@@ -27,9 +27,9 @@ $$
 
 - **Double integral** is required because of surface area
 - *Example 1: Electric flux through a hemisphere*
-  - By intuition, the area of a circle ("shadow" of hemisphere) is $πr^2$
-  - Therefore, the flux is $E\cdotπr^2$
-  - Math way: (uses [[0_Spherical Coordinate System|spherical coordinates]])
+    - By intuition, the area of a circle ("shadow" of hemisphere) is $πr^2$
+    - Therefore, the flux is $E\cdotπr^2$
+    - Math way: (uses [[0_Spherical Coordinate System|spherical coordinates]])
 
 $$
 \begin{align*}

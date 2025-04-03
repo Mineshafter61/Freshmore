@@ -50,8 +50,8 @@ $$
 ## Row Echelon Form
 
 - A matrix is in row echelon form (REF) if
-  - Any **rows of zeros** are grouped at the bottom.
-  - In each *non-zero* row, the **first non-zero entry from the left** (called the **leading entry**) is in a **column to the left of any leading entries below it**.
+    - Any **rows of zeros** are grouped at the bottom.
+    - In each *non-zero* row, the **first non-zero entry from the left** (called the **leading entry**) is in a **column to the left of any leading entries below it**.
 - These properties guarantee that the leading entries form a staircase pattern.
 - Leading entries are sometimes called the pivot points.
 - e.g.

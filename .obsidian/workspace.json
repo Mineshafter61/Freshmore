@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Modelling Space and Systems/10_1_Trace and Determinant.md",
+                "file": "2_Technological World/10_1B_RC Circuit Analysis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10_1_Trace and Determinant"
+              "title": "10_1B_RC Circuit Analysis"
             }
           }
         ]
@@ -184,8 +184,19 @@
   },
   "active": "8c996cd9721db49d",
   "lastOpenFiles": [
-    "2_Modelling Space and Systems/9_2_Matrix Inverses.md",
+    "2_Science for a Sustainable World/4_2_Acids and Bases.md4_2_Acids and Bases.md",
+    "2_Science for a Sustainable World/4_1_Chemical Equilibrium.md4_1_Chemical Equilibrium.md",
+    "2_Science for a Sustainable World/3_Thermochemistry.md3_Thermochemistry.md",
+    "2_Technological World/9_2C_Energy to Charge an Inductor.md",
+    "2_Technological World/10_1A_Kirchhoff Voltage and Current Law.md",
+    "2_Technological World/10_1B_RC Circuit Analysis.md",
+    "2_Technological World/9_1_Faraday's and Lenz's Law.md",
+    "2_Technological World/9_2A_Self Inductance of an Inductor.md",
+    "2_Technological World/9_2B_Mutual Inductance.md",
+    "2_Technological World/Humongous Formula Sheet.md",
+    "2_Technological World/4_2_Capacitance.md",
     "2_Modelling Space and Systems/10_1_Trace and Determinant.md",
+    "2_Modelling Space and Systems/9_2_Matrix Inverses.md",
     "2_Modelling Space and Systems/9_1_Introduction to Matrices.md",
     "2_Science for a Sustainable World/10_Solar Energy and Photovoltaic Cells.md",
     "2_Science for a Sustainable World/9_2B_Band Theory.md",
@@ -201,20 +212,9 @@
     "日本語/2_2_文法出題基準外項目.md",
     "日本語/2_3_N2文法.md",
     "2_Technological World/8_1_Biot-Savart Law.md",
-    "2_Technological World/9_2C_Energy to Charge an Inductor.md",
-    "2_Technological World/9_2B_Mutual Inductance.md",
-    "2_Technological World/9_2A_Self Inductance of an Inductor.md",
     "ref/TW_inductionBehaviour.png",
     "日本語/~$1_語彙.xlsx",
     "2_Modelling Space and Systems/8_1B_Elementary Row Operations.md",
-    "2_Modelling Space and Systems/8_2_Gauss Jordan Elimination.md",
-    "2_Modelling Space and Systems/6_2A_Conservative Vector Fields.md",
-    "1_Modelling and Analysis/1_4_Trigonometric Functions.md",
-    "1_Modelling and Analysis/5_Integration.md",
-    "1_Modelling and Analysis/4_4_Optimisation.md",
-    "2_Modelling Space and Systems/6_2B_Divergence and Curl.md",
-    "2_Modelling Space and Systems/6_1_Line Integrals.md",
-    "2_Modelling Space and Systems/5_2_Change of Variables.md",
     "ref/MSS_lagrangian.png",
     "ref/TW_point dipole approximation.png",
     "ref/TW1_2_1.png",

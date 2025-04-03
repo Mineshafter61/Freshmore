@@ -20,5 +20,5 @@ $$
 $$
 
 - The total flux passing through **any closed surface** is equal to the **charged enclosed inside** divided by the **permittivity of free space** (constant $\varepsilon_0$)
-  - The shape of the enclosed surface **does not matter** as the total electric field lines passing through the enclosed surface is constant
-  - **No net flux** for any **closed surface** placed in an **external** electric field (electric field in cancels electric field out)
+    - The shape of the enclosed surface **does not matter** as the total electric field lines passing through the enclosed surface is constant
+    - **No net flux** for any **closed surface** placed in an **external** electric field (electric field in cancels electric field out)

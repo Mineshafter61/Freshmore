@@ -1,11 +1,11 @@
 # 4_2_Capacitance
 
 - Conductor
-  - Charges are free to move
-  - Electrons are weakly bound to the atoms
+    - Charges are free to move
+    - Electrons are weakly bound to the atoms
 - Insulator
-  - Charges are not free to move
-  - Electrons are strongly bound to atoms
+    - Charges are not free to move
+    - Electrons are strongly bound to atoms
 
 ## Capacitor
 
@@ -42,10 +42,10 @@ C = \frac{Q}{|\Delta V|} = \frac{\varepsilon_0 A}{d}
 $$
 
 - Capacitance $C$ is only dependent on **geometric factors**
-	- This means that $C$ may not be $\frac{\varepsilon_{0}A}{d}$ for other geometries, e.g. cylindrical (as seen below)
-  - In this case, $A$ and $d$ for a parallel plate capacitor
-  - $\varepsilon_0$ can be a different value with the use of **electrolytic capacitors**
-    - Insulators (dielectrics) between the 2 plates instead of vacuum
+    - This means that $C$ may not be $\frac{\varepsilon_{0}A}{d}$ for other geometries, e.g. cylindrical (as seen below)
+    - In this case, $A$ and $d$ for a parallel plate capacitor
+    - $\varepsilon_0$ can be a different value with the use of **electrolytic capacitors**
+        - Insulators (dielectrics) between the 2 plates instead of vacuum
 
 ### When disconnected from a battery
 

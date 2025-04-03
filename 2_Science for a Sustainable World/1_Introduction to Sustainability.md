@@ -7,10 +7,10 @@
 - This denser water sinks and the surrounding saltwater moves in to fill the gap.
 - These differences in water density creates currents, responsible for 90% of the water movement in ocean.
 - Oceans are in dynamic equilibrium with the atmosphere
-  - A warming atmosphere transfers much of the heat into the oceans
-  - As the oceans circulate around the globe, heat is transported across the planet.
+    - A warming atmosphere transfers much of the heat into the oceans
+    - As the oceans circulate around the globe, heat is transported across the planet.
 - Example: The thermohaline circulation transports warm water to the coastline of Western Europe
-  - Postulated to be the reason why Europe's climate is up to 10°C warmer than it would normally be on the same latitude
+    - Postulated to be the reason why Europe's climate is up to 10°C warmer than it would normally be on the same latitude
 
 ### Worldwide current system
 
@@ -48,9 +48,9 @@
 
 - a tool to compare the biodiversity between two or more sampling areas using a simple number.
 - **Shannon Index (H)**:
-  - Takes into account both the **richness** and **evenness** of the species in the community.
-  - A higher number means the overall biodiversity is higher.
-  - Formula: $$-\sum_{i=1}^S p_i \ln p_i$$ where
+    - Takes into account both the **richness** and **evenness** of the species in the community.
+    - A higher number means the overall biodiversity is higher.
+    - Formula: $$-\sum_{i=1}^S p_i \ln p_i$$ where
 - $S$: the number of species in a community
 - $p$: proportion of individuals of $i$-th species in a community ($p=\frac{n}{N}$ where $n$ is the individuals of a given type/species and $N$ is the total number of individuals in a community)
 
@@ -58,32 +58,30 @@
 
 - Tends to create winner (population increases over time) and loser (population decreases over time) species
 - Winners tend to be:
-  - **Generalists**, using many resources and habitats
-  - Geographically widespread
-  - Users of open, early successional habitats
-  - Able to cope with fast-changing conditions
-  - Small and fast-reproducing
-  - Low on the food chain
-  - Not in need of large areas of habitat
-  - Mainland species
+    - **Generalists**, using many resources and habitats
+    - Geographically widespread
+    - Users of open, early successional habitats
+    - Able to cope with fast-changing conditions
+    - Small and fast-reproducing
+    - Low on the food chain
+    - Not in need of large areas of habitat
+    - Mainland species
 - Losers tend to be:
-  - **Specialists** on certain resources or habitats
-  - Limited to a small range
-  - Users of mature, dense habitats
-  - Needing stable conditions
-  - Large and slow-reproducing
-  - High on the food chain
-  - Needing large areas of habitat
-  - Island species
+    - **Specialists** on certain resources or habitats
+    - Limited to a small range
+    - Users of mature, dense habitats
+    - Needing stable conditions
+    - Large and slow-reproducing
+    - High on the food chain
+    - Needing large areas of habitat
+    - Island species
 
 ## Five Major Causes of Biodiversity Loss
 
 1. Habitat Loss
-
-- single greatest threat to biodiversity
-- Caused by urban development, farming, grazing, clearing forests, and damming rivers
-- occurs through gradual, piecemeal degradation called habitat fragmentation
-
+    - single greatest threat to biodiversity
+    - Caused by urban development, farming, grazing, clearing forests, and damming rivers
+    - occurs through gradual, piecemeal degradation called habitat fragmentation
 2. Pollution
 3. Overharvesting
 4. Invasive “Alien” Species

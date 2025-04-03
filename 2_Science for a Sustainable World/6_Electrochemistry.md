@@ -10,8 +10,8 @@
 - Study of chemical processes that cause electrons ($e^–$) to move
 - Movement of electrons from one element to another to generate electricity
 - Redox reactions: oxidation and reduction reactions
-  - **Oxidation**: electron **donating**
-  - **Reduction**: electron **accepting**
+    - **Oxidation**: electron **donating**
+    - **Reduction**: electron **accepting**
 
 ### Oxidation numbers
 
@@ -116,10 +116,10 @@ Add hydroxide to both sides: 14H²O(l) + Cr₂O₇²⁻(aq) + 6Fe²⁺(aq) ⇄ 2
 
 - Measure of the driving force of the electrochemical cell reaction.
 - Composed of:
-  - **Oxidation** potential for the oxidation half-reaction at the **anode**
-    - Larger **negative** potential indicates the element is oxidised easier (stronger reducing agent)
-  - **Reduction** potential for the reduction half-reaction at the **cathode**
-    - Larger **positive** potential indicates the element is reduced easier (stronger oxidising agent)
+    - **Oxidation** potential for the oxidation half-reaction at the **anode**
+        - Larger **negative** potential indicates the element is oxidised easier (stronger reducing agent)
+    - **Reduction** potential for the reduction half-reaction at the **cathode**
+        - Larger **positive** potential indicates the element is reduced easier (stronger oxidising agent)
 
 $$
 E_{cell}^0=E_{cathode}^{o,red}-E_{anode}^{o,red}
@@ -131,17 +131,17 @@ $$
 ### Standard Hydrogen Electrode (S.H.E)
 
 - The reaction of H+ to Hz under standard conditions is taken as the reference half-cell.
-  - Assigned a potential of 0.00 V
-  - Standard Hydrogen Electrode (S.H.E): $2H^+(aq) + 2e^- ⇄ H2(g)$, $E^0 = 0.00V$
+    - Assigned a potential of 0.00 V
+    - Standard Hydrogen Electrode (S.H.E): $2H^+(aq) + 2e^- ⇄ H2(g)$, $E^0 = 0.00V$
 
 ## Standard Electrode Potential
 
 - Electrode Potential when:
-  - concentrations of solutes are 1 M (=1 mol/l)
-  - gas pressures are 1 atm
-  - temperature has a specified value (usually 25°C but not always)
-  - The superscript degree sign (°) signifies standard state conditions
-  - S.H.E is the reference electrode assigned as 0.0 V
+    - concentrations of solutes are 1 M (=1 mol/l)
+    - gas pressures are 1 atm
+    - temperature has a specified value (usually 25°C but not always)
+    - The superscript degree sign (°) signifies standard state conditions
+    - S.H.E is the reference electrode assigned as 0.0 V
 - If the anode is at S.H.E, $E_{cathode}^0 = E_{cell}^0$
 
 ## Nernst Equation
@@ -153,13 +153,13 @@ $$
 $$
 
 - Where
-  - $E_{\text{cell}}$ = cell potential under non-standard conditions (V)
-  - $E^o_{\text{cell}}$ = standard cell potential (V)
-  - Faraday constant ($F$) = $96,485\, C mol^{-1}$
-  - Gas constant ($R$) = $8.314\, J mol^{-1} K^{-1}$
-  - $n$ = number of moles of transferred electrons
-  - $T$ = temperature in Kelvin (K)
-  - $Q$ = reaction quotient
+    - $E_{\text{cell}}$ = cell potential under non-standard conditions (V)
+    - $E^o_{\text{cell}}$ = standard cell potential (V)
+    - Faraday constant ($F$) = $96,485\, C mol^{-1}$
+    - Gas constant ($R$) = $8.314\, J mol^{-1} K^{-1}$
+    - $n$ = number of moles of transferred electrons
+    - $T$ = temperature in Kelvin (K)
+    - $Q$ = reaction quotient
 
 $$
 E_{cell}=E_{cell}^0-\frac{RT}{nF}\ln Q

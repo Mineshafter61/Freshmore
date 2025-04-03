@@ -44,6 +44,6 @@ $$\epsilon_{induced}=-\frac{d\Phi_B}{dt}=-L\frac{dI}{dt}$$
 - Inductor with constant current does nothing.
 
 - Induced EMF opposes **change** of $I$
-  - **Create an imaginary battery that creates a current that opposes the change**
+    - **Create an imaginary battery that creates a current that opposes the change**
 
 ![image](TW_inductionBehaviour.png)

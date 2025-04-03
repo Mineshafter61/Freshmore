@@ -4,18 +4,18 @@
 
 - Change in potential energy per unit test charge moving from point A to B:
 $$\Delta V\equiv\frac{\Delta U}{q_t}=-\int_{A}^{B} \frac{\vec{F}}{q_t} \, d\vec{s}= -\int_{A}^{B} \vec{E} \, d\vec{s}$$
-  - Units: Joules/Coulomb = Volts
-  - The negative sign is important. It exists from the definition, $\Delta U=-W_e$
-  - Potential difference is a scalar quantity.
-  - It tells you the potential energy difference of a charge $q_t$ between 2 points.
-  - Also known as voltage.
+    - Units: Joules/Coulomb = Volts
+    - The negative sign is important. It exists from the definition, $\Delta U=-W_e$
+    - Potential difference is a scalar quantity.
+    - It tells you the potential energy difference of a charge $q_t$ between 2 points.
+    - Also known as voltage.
 - Force on a charged particle $q$ by electric field $\vec{E}$: $\vec{F}=q\vec{E}$
 - Potential energy change of $q$ when it is moved over a displacement of electric potential $\Delta V$: $\Delta U=q\Delta V$.
 - If there is no external force acting on the particle over the displacement, kinetic energy change $\Delta K=-\Delta U$.
 - If there is an external force acting on the system, $\Delta K+\Delta U=W_{ext}$, where $W_{ext}$ is the work done by the external force.
-  - Total energy of the system is increased due to $W_{ext}$.
+    - Total energy of the system is increased due to $W_{ext}$.
 - If the kinetic energy remains over the displacement, $W_{ext}=\Delta U=q\Delta V$.
-  - Work done by the external force converts to the potential energy stored in the system.
+    - Work done by the external force converts to the potential energy stored in the system.
 - $\Delta V$ does not depend on $q_t$
 
 ## Electric Potential Field of a Continuous Charge Body
@@ -54,7 +54,7 @@ $$V_B-V_A=-\int_A^B \vec{E}\cdot d\vec{s}$$
 - E field lines point from high to low electric potential.
 - E field lines is always perpendicular to equipotential lines.
 - E field has no component along equipotential lines.
-  - No E field implies equipotential!
+    - No E field implies equipotential!
 - The electrostatic force does zero work to move a charged particle along an equipotential line.
 - Conductors are equipotential surfaces
 
@@ -82,4 +82,4 @@ $$
 $$
 
 - Electric field is the **negative** gradient of electric potential
-  - Cannot be derived from electric potential from only one point
+    - Cannot be derived from electric potential from only one point

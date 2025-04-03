@@ -74,10 +74,10 @@ $$
 $$
 
 - $\rho_0$ is the resistivity at some reference temperature $T_0$.
-  - $T_0$ is usually taken to be $20˚C$.
+    - $T_0$ is usually taken to be $20˚C$.
 - $\alpha$ is the temperature coefficient of resistivity
 - Notes: Not all materials behave in such a way.
-  - Resistance of intrinsic semiconductor materials decrease with increasing temperature.
+    - Resistance of intrinsic semiconductor materials decrease with increasing temperature.
 
 ## Electrical Symbols
 
@@ -100,14 +100,14 @@ $$
 
 - The same current $I$ must flow through both resistors.
 - Potential difference is **cumulative** in series
-  - $\Delta V = \Delta V_1 + \Delta V_2$
+    - $\Delta V = \Delta V_1 + \Delta V_2$
 - $\Delta V=IR_1+IR_2=I(R_1+R_2)=IR_{eq}$
 - $R_{eq}=R_1+R_2$
 
 ## Resistors In Parallel
 
 - Potential difference across 2 points in parallel is **constant**
-  - $\Delta V = \Delta V_1 = \Delta V_2$
+    - $\Delta V = \Delta V_1 = \Delta V_2$
 - $I=I_1+I_2$
 - $\Delta V=\Delta V_1=\Delta V_2=I_1R_1=I_2R_2=IR_{eq}$
 - $I=I_1+I_2=\frac{\Delta V}{R_1}+\frac{\Delta V}{R_2}=\frac{\Delta V}{R_{eq}}$

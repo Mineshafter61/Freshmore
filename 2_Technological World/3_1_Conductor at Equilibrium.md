@@ -8,18 +8,18 @@
 ## Electric Fields & Conductors
 
 - If an electric field is present inside a conductor, free charges will move around
-  - Not an electrostatic condition
+    - Not an electrostatic condition
 - The free charges in a conductor will redistribute themselves and stop moving
-  - External and internal electric fields cancel each other
-  - Now the conductor is in electrostatic equilibrium
-  - The **net** electric field in a conductor is **zero**
+    - External and internal electric fields cancel each other
+    - Now the conductor is in electrostatic equilibrium
+    - The **net** electric field in a conductor is **zero**
 
 ## Electrostatic Equilibrium
 
 - Tangential component of $\vec{E}$ is **zero** on the surface of the conductor
-  - Otherwise, charges will move tangentially along the surface which is a non-static condition
+    - Otherwise, charges will move tangentially along the surface which is a non-static condition
 - $\vec{E}$ can only be **normal** to the surface outside the conductor
-  - Due to the different density of positive and negative charges at different points
+    - Due to the different density of positive and negative charges at different points
 
 1. No $\vec{E}$ field inside conductor
 2. No net charge

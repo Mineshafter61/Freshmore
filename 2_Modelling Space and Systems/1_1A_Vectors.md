@@ -45,9 +45,9 @@ $$\vec{v}=α_1\vec{v}_1+α_2\vec{v}_2+···+α_n\vec{v}_n$$
 ### Lines
 
 - Normal form of the equation of a line in $\mathbb{R}^2$ is $$\vec{n}\cdot(\vec{r}-\vec{r}_{0})=0$$
-  - $\vec{r}_{0}$ is the position vector of a specific point on the line
+    - $\vec{r}_{0}$ is the position vector of a specific point on the line
 - General form of the equation of a line in $\mathbb{R}^2$ is $$ax+by=c$$
-  - $\vec{n}=\begin{bmatrix}a\\b\end{bmatrix}$ is a normal vector of the line
+    - $\vec{n}=\begin{bmatrix}a\\b\end{bmatrix}$ is a normal vector of the line
 - Vector form of the equation of a line in $\mathbb{R}^2$ and higher dimensions is
 $$\vec{r}=\vec{r}_0+t\vec{d}\,\,\,,\,\,\,\forall\, t∈\mathbb{R}$$
 >

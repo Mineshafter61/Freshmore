@@ -28,11 +28,11 @@ $$\epsilon=-\frac{d\Phi_B}{dt}$$
 - **Final law**
 $$\oint\vec{E}\cdot d\vec{s}=-\frac{d}{dt}\iint_S\vec{B}\cdot d\vec{A}$$
 - Directions of $d\vec{s}$ and $d\vec{A}$
-  - If $d\vec{s}$ is chosen in the clockwise direction, $d\vec{A}$ is pointing into the page by the right hand rule.
-  - Magnetic flux is **positive** if $\vec{B}$ is into the page, and **negative** if $\vec{B}$ is out of the page.
-  - $-\frac{d}{dt}\iint_S\vec{B}\cdot d\vec{A}>0$ implies $\vec{E}$ and $d\vec{s}$ are in the **same direction**, otherwise $\vec{E}$ and $d\vec{s}$ are in the **opposite direction**.
-  - Current induced by magnetic field is **opposite** to the cross product directions that give the magnetic field.
+    - If $d\vec{s}$ is chosen in the clockwise direction, $d\vec{A}$ is pointing into the page by the right hand rule.
+    - Magnetic flux is **positive** if $\vec{B}$ is into the page, and **negative** if $\vec{B}$ is out of the page.
+    - $-\frac{d}{dt}\iint_S\vec{B}\cdot d\vec{A}>0$ implies $\vec{E}$ and $d\vec{s}$ are in the **same direction**, otherwise $\vec{E}$ and $d\vec{s}$ are in the **opposite direction**.
+    - Current induced by magnetic field is **opposite** to the cross product directions that give the magnetic field.
 - Directions in terms of magnets: *Induced magnetic field* created by *induced current* always form poles that **oppose** the **change** in the original magnetic field
-  - Pulling apart forms N-S to attract
-  - Pushing together forms N-N or S-S to repel
-  - Use right hand rule to determine current
+    - Pulling apart forms N-S to attract
+    - Pushing together forms N-N or S-S to repel
+    - Use right hand rule to determine current

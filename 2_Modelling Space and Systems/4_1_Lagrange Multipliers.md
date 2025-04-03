@@ -10,24 +10,24 @@
 - The level curves of $f$ and the constraint are shown, with notable points $P_1, P_2, P_3$.
   ![[MSS_lagrangian.png]]
 - **Observations:**
-  - At $P_1$, moving clockwise increases the function value, so $P_1$ is **not a maximum**.
-  - We seek the maximum of $f$ along the circle constraint.
+    - At $P_1$, moving clockwise increases the function value, so $P_1$ is **not a maximum**.
+    - We seek the maximum of $f$ along the circle constraint.
 
 ### Geometrical Meaning of Gradients
 
 - At point $P_2$ (**potential maximum**):
 
-  - The gradient of $f$ is $\nabla f\left(\frac{1}{\sqrt{2}}, \frac{1}{\sqrt{2}}\right) = \begin{bmatrix}1\\1\end{bmatrix}$.
-  - The gradient of $g$ is $\nabla g\left(\frac{1}{\sqrt{2}}, \frac{1}{\sqrt{2}}\right) = \begin{bmatrix}\frac{\sqrt{2}}{\sqrt{2}}\\\frac{\sqrt{2}}{\sqrt{2}}\end{bmatrix}$.
-  - **Key Insight:**  $\nabla f$ and $\nabla g$ are parallel at $P_2$.
+    - The gradient of $f$ is $\nabla f\left(\frac{1}{\sqrt{2}}, \frac{1}{\sqrt{2}}\right) = \begin{bmatrix}1\\1\end{bmatrix}$.
+    - The gradient of $g$ is $\nabla g\left(\frac{1}{\sqrt{2}}, \frac{1}{\sqrt{2}}\right) = \begin{bmatrix}\frac{\sqrt{2}}{\sqrt{2}}\\\frac{\sqrt{2}}{\sqrt{2}}\end{bmatrix}$.
+    - **Key Insight:**  $\nabla f$ and $\nabla g$ are parallel at $P_2$.
 - At point $P_3$ (**potential minimum**):
 
-  - The gradient of $g$ is $\nabla g\left(-\frac{1}{\sqrt{2}}, -\frac{1}{\sqrt{2}}\right) = -\begin{bmatrix}\frac{\sqrt{2}}{\sqrt{2}}\\\frac{\sqrt{2}}{\sqrt{2}}\end{bmatrix}$.
-  - Here, $\nabla f$ and $\nabla g$ are anti-parallel.
+    - The gradient of $g$ is $\nabla g\left(-\frac{1}{\sqrt{2}}, -\frac{1}{\sqrt{2}}\right) = -\begin{bmatrix}\frac{\sqrt{2}}{\sqrt{2}}\\\frac{\sqrt{2}}{\sqrt{2}}\end{bmatrix}$.
+    - Here, $\nabla f$ and $\nabla g$ are anti-parallel.
 - **Conclusion:**
 
-  - At optimal points, $\nabla f$ and $\nabla g$ are either **parallel** or **anti-parallel**.
-  - Mathematically:
+    - At optimal points, $\nabla f$ and $\nabla g$ are either **parallel** or **anti-parallel**.
+    - Mathematically:
 
   $$
   \nabla f(x_0, y_0) + \lambda \nabla g(x_0, y_0) = \vec{0}
@@ -36,7 +36,7 @@
 
   where $\lambda \in \mathbb{R}$ is the **Lagrange Multiplier**.
 
-  - Note that $\nabla g(x_0,y_0)\neq \vec{0}$ and $x_0,y_0$ is not an endpoint of the constraint.
+    - Note that $\nabla g(x_0,y_0)\neq \vec{0}$ and $x_0,y_0$ is not an endpoint of the constraint.
 
 ### Key Insights on Lagrange Multipliers
 
@@ -61,9 +61,9 @@ where $\nabla g(x_0,y_0)\neq \vec{0}$ and $x_0,y_0$ is not an endpoint of the co
 
 - Other method (Lagrangian function): $L(x,y,\lambda)=f(x,y)+\lambda g(x,y)=\vec{0}$ (TODO)
 - The optimum point obtained using method of Lagrange Multipliers can be a maximum, a minimum or saddle point
-  - This method does **not** tell us which is the case
+    - This method does **not** tell us which is the case
 - Depending on the context of the problem, you have to make appropriate arguments to justify whether the obtained point is a maximum or a minimum
-  - E.g. EVT, AM-GM
+    - E.g. EVT, AM-GM
 
 ### Several constraints
 

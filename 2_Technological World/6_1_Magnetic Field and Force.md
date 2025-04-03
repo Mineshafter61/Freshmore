@@ -5,11 +5,11 @@
 - Magnetic field ($B$) is a vector
 - Unit: Tesla (T)
 - Inside magnets, - Magnetic field lines must **connect** to form a circle
-  - **Outside** the magnet, they point from North to South
-  - **Inside** the magnet, they point from South to North magnetic field lines point **from south to north**.
+    - **Outside** the magnet, they point from North to South
+    - **Inside** the magnet, they point from South to North magnetic field lines point **from south to north**.
 - Maxwell's 2nd Equation states that **magnetic monopoles do not exist in isolation**, i.e. they are always **dipoles**.
-  - Magnetic fields do not begin or end at any point
-  - Number of B-field lines entering a closed surface = number of lines leaving the surface
+    - Magnetic fields do not begin or end at any point
+    - Number of B-field lines entering a closed surface = number of lines leaving the surface
 - Magnets always rotates to orient with any external magnetic field.
 
 ## Gauss's Law for Magnetism
@@ -82,8 +82,8 @@ $$
 where $\vec{L}$ is the length of the wire.
 
 - **Important**: For a **closed current loop** in a **uniform magnetic field**, $\vec{F}_{mag}=0$
-  - Only current perpendicular to the magnetic field contributes to the magnetic force
-  - Vector sum of all magnetic forces cancel out
+    - Only current perpendicular to the magnetic field contributes to the magnetic force
+    - Vector sum of all magnetic forces cancel out
 
 ## Torque on a Current Loop
 

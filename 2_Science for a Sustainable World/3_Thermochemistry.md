@@ -8,12 +8,12 @@
 
 - **Sum** of all energies in a system
 - For a closed system: $\Delta E=E_{final}-E_{initial}=E_{products}-E_{reactants}$
-  - For this class: function of temperature $T$ and other things
+    - For this class: function of temperature $T$ and other things
 - $E$ is a **state** function
-  - Function independent of path (final - initial)
-  - e.g. Distance vs displacement:
-    - Distance: dependent on path
-    - Displacement: independent of path (hence state function)
+    - Function independent of path (final - initial)
+    - e.g. Distance vs displacement:
+        - Distance: dependent on path
+        - Displacement: independent of path (hence state function)
 
 ## 1st Law of Thermodynamics
 
@@ -21,9 +21,9 @@
 
 - Law of **conservation of energy**: $\Delta E=E_2-E_1=q+w$
 - 3 forms of energy:
-  - Internal energy
-  - Heat ($q$)
-  - Work ($w$)
+    - Internal energy
+    - Heat ($q$)
+    - Work ($w$)
 - When heat is entering the system: positive energy
 - When work is done on the system: positive energy
 
@@ -33,7 +33,7 @@
 - Constant pressure: $\Delta H=\Delta E+P\Delta V$
 - For **solution** at constant pressure: $\Delta H=q$
 - Heat capacity ($c$): the amount of heat/energy to raise the temperature of 1g of substance by $\Delta T$
-  - $c=\frac{q}{m\Delta T}$
+    - $c=\frac{q}{m\Delta T}$
 - $\Delta H$ can be obtained by **measuring** heat absorbed or released at constant pressure for a reaction: $\Delta H=q_p=mc\Delta T$ for system
 
 ### Enthalpy of a reaction ($\Delta H_{rxn}$)
@@ -42,9 +42,9 @@
 - **Endothermic**: absorbs heat; heat flows into the system ($ΔH_{rxn} > 0$)
 - **Exothermic**: releases heat; heat flows out of the system ($ΔH_{rxn} < 0$)
 - Related to
-  - bonds formation
-  - bond breaking
-  - intermolecular interactions (e.g., freezing, melting, dissolution)
+    - bonds formation
+    - bond breaking
+    - intermolecular interactions (e.g., freezing, melting, dissolution)
 
 ### Hess's Law
 
@@ -54,12 +54,12 @@
 ## Intensive vs Extensive Property
 
 - **Extensive property**: depends on amount of substance
-  - Volume
-  - Mass
-  - Enthalpy
+    - Volume
+    - Mass
+    - Enthalpy
 - **Intensive property**: independent on amount of substance
-  - Density
-  - Temperature
+    - Density
+    - Temperature
 
 ## Calculating Enthalpy
 
@@ -71,7 +71,7 @@ $$
 \Delta H_{rxn}^{o}=\sum n\Delta H^o-\sum m\Delta H^o
 $$
 
-- the superscript <sup>o</sup> means standard state condition (1 atm for gas, 1 mol/L for solution at 1 atm)
+- the superscript $^o$ means standard state condition (1 atm for gas, 1 mol/L for solution at 1 atm)
 - $n\Delta H^o$: bond broken
 - $m\Delta H^o$: bond formed
 
@@ -81,4 +81,4 @@ $$
 \Delta H_{rxn}^{o}=\sum n\Delta H_f^o-\sum m\Delta H_f^o
 $$
 
-- **The $ΔH_f^o$ for an element in its most stable form is exactly 0.00 kJ mol<sup>-1</sup>.**
+- **The $ΔH_f^o$ for an element in its most stable form is exactly 0.00 kJ mol⁻¹.**

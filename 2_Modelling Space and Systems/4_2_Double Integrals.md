@@ -26,8 +26,8 @@ $$
 $$
 
 - More generally, this is true if:
-  - $f$ is bounded on $R$ and discontinuous only at a finite number of smooth curves, or
-  - $f$ is non-negative and $R$ does not need to be bounded.
+    - $f$ is bounded on $R$ and discontinuous only at a finite number of smooth curves, or
+    - $f$ is non-negative and $R$ does not need to be bounded.
 - *Example:*
 
 $$

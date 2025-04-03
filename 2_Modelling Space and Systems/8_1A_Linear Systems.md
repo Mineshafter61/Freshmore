@@ -47,8 +47,8 @@ $$
 
 - A linear system is called **consistent** if it has *at least one solution*, otherwise it has *no solutions* and is called **inconsistent**
 - When a linear system has a *unique* solution, it is called **nonsingular**. Otherwise it has *either no solution or infinitely many solutions*, and is called **singular**
-  - Unique means exctly one solution
-  - Singular means "exceptional" and **not** single
+    - Unique means exctly one solution
+    - Singular means "exceptional" and **not** single
 
 | 1 solution | Infinite solutions | No solutions |
 |---|---|---|

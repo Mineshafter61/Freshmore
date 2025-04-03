@@ -70,7 +70,7 @@ $$
 $$
 
 - *Example: Let $z=f(x,y)$, where $x=x(r,\theta)=r\cos \theta,y=y(r,\theta)=r\sin \theta$*
-  - Find the general expressions for $\frac{\partial z}{\partial r}$ and $\frac{\partial z}{\partial \theta}$ in terms of $\frac{\partial z}{\partial x}$, $\frac{\partial z}{\partial y}$, $r$ and $\theta$.
+    - Find the general expressions for $\frac{\partial z}{\partial r}$ and $\frac{\partial z}{\partial \theta}$ in terms of $\frac{\partial z}{\partial x}$, $\frac{\partial z}{\partial y}$, $r$ and $\theta$.
 
 $$
 \begin{align}

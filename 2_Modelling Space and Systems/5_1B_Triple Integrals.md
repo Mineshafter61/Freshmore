@@ -41,4 +41,4 @@ dV &= \rho^2\sin\phi\, d\rho\, d\theta\, d\phi
 $$
 
 - **Note:** $0≤\theta≤2π, 0≤\phi≤π$
-  - Using $\theta = 2\pi$, $\phi = 2\phi$ would give 2 spheres
+    - Using $\theta = 2\pi$, $\phi = 2\phi$ would give 2 spheres

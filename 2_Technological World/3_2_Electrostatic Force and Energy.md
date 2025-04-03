@@ -10,7 +10,7 @@ $$
 
 - If $\vec{F}$ is in the same direction as the displacement $d\vec{s}$, W is positive and vice versa.
 - The direction of displacement $d\vec{s}$ is determined by the limits of the integral.
-  - Recall: For polar coordinates, $ds = dr\,\hat{r} + r\,d\theta\,\hat{\theta}$
+    - Recall: For polar coordinates, $ds = dr\,\hat{r} + r\,d\theta\,\hat{\theta}$
 
 ## Electrostatic Potential Energy and Configuration Energy
 
@@ -62,8 +62,8 @@ $$
 ### Configuration Energy
 
 - The potential energy stored in any configuration of charged objects is the sum of its **potential energy $\Delta U$**
-  - Kinetic energy $\Delta K$ is 0 as the process is **time independent**
-  - $t = \infty \implies v = s/t = 0 \implies \Delta K = 0$
+    - Kinetic energy $\Delta K$ is 0 as the process is **time independent**
+    - $t = \infty \implies v = s/t = 0 \implies \Delta K = 0$
 - Configuration energy is the potential energy stored in a configuration of charged objects. It is also the energy needed to form such a configuration.
 
 1. Start from infinity, choose $U(\infty) = 0$, bring in the first charged object. Because there is no external electric field, $\Delta U_1 = 0$

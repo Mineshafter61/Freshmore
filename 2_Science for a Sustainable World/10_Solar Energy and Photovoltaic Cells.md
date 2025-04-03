@@ -1,18 +1,18 @@
 # 10_Solar Energy and Photovoltaic Cells
 
 - When energy equal to the energy level of the conduction band is absorbed by an electron, it can be freed, leaving a hole behind.
-  - A hole is an empty electron spot in the positive charge
-  - It can move around freely
-  - It is also free to conduct electricity
+    - A hole is an empty electron spot in the positive charge
+    - It can move around freely
+    - It is also free to conduct electricity
 - At $T = 0K$, all electrons are occupied in covalent bonds and are not free to move in the lattice structure (conduct)
 - At $T > 0K$, thermal energy can create few electron-hole **pairs** resulting in weak conduction
 
 ## Intrinsic & Compound Semiconductors
 
 - Pure or intrinsic semiconductors: made of a single pure semiconductor material.
-  - e.g. B, Si, Ge, As, Sb, As, Te, Po.
+    - e.g. B, Si, Ge, As, Sb, As, Te, Po.
 - Compound semiconductors: comprised of more than 2 semiconductor materials.
-  - e.g. GaAs & InSb (III-V), CdS & ZnTe (II-VI)
+    - e.g. GaAs & InSb (III-V), CdS & ZnTe (II-VI)
 - A larger electronegativity difference between elements results in wider energy gap. (different combinations of elements produce different band gaps)
 
 ## Photovoltaic (PV) or Solar Cells
@@ -21,7 +21,7 @@
 - The electrons are free to move based on the $+$ and $–$ terminals present in the solar panel (FYI: p-n junction)
 - Connecting the two plates with wires enables the electrons to flow back to the original plate, creating an electrical **DC current**, which can be converted into alternating (AC) current
 - Only photons with **energy larger than the bandgap** of the semiconductor will be absorbed to excite electrons to the conduction band
-  - **One** absorbed photon will generate **one** pair of electron and hole (electron-hole pair), no adding halves
+    - **One** absorbed photon will generate **one** pair of electron and hole (electron-hole pair), no adding halves
 - Recall,
 
 $$
@@ -40,11 +40,11 @@ $$
 ### Generation and Recombination
 
 - **Generation**
-  - Electrons that get excited into the conduction band leave a hole in the valence band.
-  - Generates pairs of electrons and holes. Electron gains energy either by thermal energy (lattice vibration), applied voltage, or light (photons).
+    - Electrons that get excited into the conduction band leave a hole in the valence band.
+    - Generates pairs of electrons and holes. Electron gains energy either by thermal energy (lattice vibration), applied voltage, or light (photons).
 - **Recombination**
-  - Electrons in the conduction band go down in energy to occupy a vacant site in the valence band, i.e. electron recombines with a hole.
-  - Electron loses its energy in the form of light, or thermal energy, i.e. photons, and phonons (lattice vibrations)
+    - Electrons in the conduction band go down in energy to occupy a vacant site in the valence band, i.e. electron recombines with a hole.
+    - Electron loses its energy in the form of light, or thermal energy, i.e. photons, and phonons (lattice vibrations)
 
 ## Types of PV Cells
 

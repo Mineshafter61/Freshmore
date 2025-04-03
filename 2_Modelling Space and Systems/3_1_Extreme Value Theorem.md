@@ -14,14 +14,14 @@
 ## Open and Closed Region
 
 - A region is **closed** if it contains **ALL** its boundary.
-  - If constrains have only $≤$, $≥$ or $=$, it is a closed region.
+    - If constrains have only $≤$, $≥$ or $=$, it is a closed region.
 - A region is **open** if it **does not contain any part** of its boundary.
-  - If constrains have only $<$ or $>$, it is an open region.
+    - If constrains have only $<$ or $>$, it is an open region.
 - A region is **neither closed nor open** if it contains only **part** of its boundary.
 - $\mathbb{R}^n$ and the empty set $∅$ are both open and closed.
 - **Note, 'bounded' and 'containing the boundary' (i.e. closed) are completely different concepts**
-  - There are closed regions that is not bounded, for example $[0, ∞)$ in $\mathbb{R}$
-  - There are bounded regions that are not closed, for example $(0, 1)$ in $\mathbb{R}$
+    - There are closed regions that is not bounded, for example $[0, ∞)$ in $\mathbb{R}$
+    - There are bounded regions that are not closed, for example $(0, 1)$ in $\mathbb{R}$
 
 ## Intersection of Closed Sets
 

@@ -1,8 +1,8 @@
 # 6_1_Line Integrals
 
 - Integral along a line, $\gamma$
-  - $f(x)$ in a scalar field
-  - $\vec{F}(x)$ in a vector field (e.g. work done, flux, etc.)
+    - $f(x)$ in a scalar field
+    - $\vec{F}(x)$ in a vector field (e.g. work done, flux, etc.)
 
 ## Parametrisation
 

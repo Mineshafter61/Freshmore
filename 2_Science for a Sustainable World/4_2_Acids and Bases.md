@@ -15,7 +15,7 @@
 
 - Functions as **either acids or bases**, depending on reaction conditions
 - Classic example: water
-  - H₂O (l) + H₂O (l) ↔︎ H<sub>3</sub>O<sup>+</sup>(aq) + OH<sup>-</sup> (aq)
+    - H₂O (l) + H₂O (l) ↔︎ H₃O⁺(aq) + OH⁻ (aq)
 
 ## Dissociation Constant of Water
 
@@ -26,7 +26,7 @@
 
 ### pH
 
-- measures H<sup>+</sup> concentration in a solution
+- measures H⁺ concentration in a solution
 - numerical scale (1-14) used to measure if an aqueous solution is acidic, neutral or basic.
 - $pH=-\log[H_3O^+]$
 
@@ -48,39 +48,39 @@
 ## Two categories of acids
 
 - Strong
-  - completely dissociates
-  - K<sub>a</sub> > 1
-  - HCl, HBr, HI, HNO<sub>3</sub>, H₂SO<sub>4</sub>, HClО<sub>4</sub>, HClO<sub>3</sub>
-  - $[HA]$ added = $[H3O^+]$ formed
+    - completely dissociates
+    - $K_a$ > 1
+    - HCl, HBr, HI, HNO₃, H₂SO₄, HClО₄, HClO₃
+    - $[HA]$ added = $[H3O^+]$ formed
 - Weak
-  - partially dissociates
-  - Forms an equilibrium K<sub>a</sub> (usually < 1)
-  - Use RICE Table to find concentrations at equilibrium
-  - Examples: HF, HCN, CH<sub>3</sub>COOH
+    - partially dissociates
+    - Forms an equilibrium $K_a$ (usually < 1)
+    - Use RICE Table to find concentrations at equilibrium
+    - Examples: HF, HCN, CH₃COOH
 
 ## Two categories of bases
 
 - Strong
-  - completely dissociates
-  - MOH, M(OH)₂ (M = group I or II metal)
+    - completely dissociates
+    - MOH, M(OH)₂ (M = group I or II metal)
 - Weak
-  - partially dissociates
-  - B<sup>-</sup> (aq) + H₂0 (l) ↔︎ HB (aq) + OH<sup>-</sup> (aq)
-  - Forms an equilibrium Ko (base-ionization constant)
-  - Use RICE Table to find concentrations at equilibrium
-  - Examples: NH<sub>3</sub>, Amines (RNH₂)
+    - partially dissociates
+    - B⁻ (aq) + H₂0 (l) ↔︎ HB (aq) + OH⁻ (aq)
+    - Forms an equilibrium Ko (base-ionization constant)
+    - Use RICE Table to find concentrations at equilibrium
+    - Examples: NH₃, Amines (RNH₂)
 
 ## Buffer solution
 
 - Resists changes in pH when small amounts of an acid or a base are added.
 - Crucial in **maintaining stable pH levels** in various chemical and biological systems
 - Typically consists of
-  - **Acid buffer**: a **weak acid and its conjugate base**, or
-  - **Base buffer**: a **weak base and its conjugate acid**
+    - **Acid buffer**: a **weak acid and its conjugate base**, or
+    - **Base buffer**: a **weak base and its conjugate acid**
 - Mechanism:
-  - Acid added to buffer, conjugate base in the buffer neutralises it
-  - Base added to buffer, weak acid in the buffer neutralises it
-  - Dual action helps maintain a relatively constant pH
+    - Acid added to buffer, conjugate base in the buffer neutralises it
+    - Base added to buffer, weak acid in the buffer neutralises it
+    - Dual action helps maintain a relatively constant pH
 - Widely used in biological systems, industrial processes, and lab experiments to ensure reactions occur under optimal pH conditions.
 
 ### Best Buffer Region

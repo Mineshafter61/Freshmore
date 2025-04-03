@@ -5,7 +5,7 @@
 1. Compute $\nabla f$ by finding $f_x$ and $f_y$
 2. Equate $\nabla f = \vec{0}$
 3. Complete the square for the equation
-   - Recall $(x+a)^2 = x^2 + 2ax + a^2$
+    - Recall $(x+a)^2 = x^2 + 2ax + a^2$
 *Example*
 Consider the function $f(x,y)=x^2+3x+y^2-2y$ where $x,y ∈ \mathbb{R}$. Find the global extrema of $f$.
 

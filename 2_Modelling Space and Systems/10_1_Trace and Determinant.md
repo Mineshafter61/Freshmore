@@ -72,8 +72,8 @@ $$
 ### Laplace Expansion Theorem
 
 - The determinant of an $n \times n$ matrix $A$ can be computed as
-  - Cofactor expansion along row $i$ for any $i \in \{1,2,\cdots,n\}$, or
-  - Cofactor expansion along column $j$ for any $j \in \{1,2,\cdots,n\}$
+    - Cofactor expansion along row $i$ for any $i \in \{1,2,\cdots,n\}$, or
+    - Cofactor expansion along column $j$ for any $j \in \{1,2,\cdots,n\}$
 - Choose a row or column with the most $0$s to find the determinant
 
 ## Special Matrices

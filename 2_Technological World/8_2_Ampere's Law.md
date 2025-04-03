@@ -35,13 +35,13 @@ $$I=\iint \vec{J}\cdot d\vec{A}$$
 - Therefore, Ampere's law becomes
 $$\oint \vec{B}\cdot d\vec{s}=\mu_0\iint_{\text{open surface}} \vec{J}\cdot d\vec{A}$$
 - Calculating $B$ field:
-  - $\oint d\vec{s}=2πr$
-  - $\iint dA = \int 2\pi r dr$, express $dA$ in terms of $dr$
-  - Perform integration to express $B$ in terms of $r$ and $J$
+    - $\oint d\vec{s}=2πr$
+    - $\iint dA = \int 2\pi r dr$, express $dA$ in terms of $dr$
+    - Perform integration to express $B$ in terms of $r$ and $J$
 - Note: an open surface is always bounded by a closed boundary.
 - Use right hand rule to determine sign of current
-  - If the direction of $\vec{J}$ (fingers) and the normal $\hat{n}$ (thumb) to the plane $\vec{A}$ are in the **same direction**, the current is **positive**.
-  - If the directions are **opposite**, the current is **negative**.
+    - If the direction of $\vec{J}$ (fingers) and the normal $\hat{n}$ (thumb) to the plane $\vec{A}$ are in the **same direction**, the current is **positive**.
+    - If the directions are **opposite**, the current is **negative**.
 
 ## Magnetic field of ideal solenoid
 

@@ -22,8 +22,8 @@ $$c_{ij}=\sum_{k=1}^{n} a_{ik}b_{kj}$$
 
 - Size of $C$: $m\times r$ ($\underset{ m\times n }{ A }\,\underset{ n\times r }{ B }=\underset{ m\times r }{ AB }$)
 - Generalisation of vector dot product.
-  - The $(i,j)$th entry of $C=AB$ is the dot product of $i$th row of $A$ and the $j$th column of $B$.
-  - $c_{ij} = \begin{bmatrix}a_{i1}&a_{i2}&\dots&a_{in}\end{bmatrix}•\begin{bmatrix}b_{1j}\\b_{2j}\\\vdots\\b_{nj}\end{bmatrix}$
+    - The $(i,j)$th entry of $C=AB$ is the dot product of $i$th row of $A$ and the $j$th column of $B$.
+    - $c_{ij} = \begin{bmatrix}a_{i1}&a_{i2}&\dots&a_{in}\end{bmatrix}•\begin{bmatrix}b_{1j}\\b_{2j}\\\vdots\\b_{nj}\end{bmatrix}$
 - Matrix multiplication is **not commutative**.
 - $AB=O$ does **not** imply $A=O$ or $B=O$.
 - *Examples*

@@ -3,20 +3,20 @@
 - Maximum number of electrons in shell $n$ is $2n^2$.
 - An electron can have only certain energy values, also known as energy levels
 - Energy levels are **quantized**
-  - Electrons can only exist at certain **discrete** energy levels, rather than any value within a range
-  - At $n = 1$, the electron in the atom is in its lowest energy state, called the ground state
-  - At $n > 1$, the electron in the atom is in an excited state
+    - Electrons can only exist at certain **discrete** energy levels, rather than any value within a range
+    - At $n = 1$, the electron in the atom is in its lowest energy state, called the ground state
+    - At $n > 1$, the electron in the atom is in an excited state
 
 - An electron can change energy levels by
-  - absorbing energy to move to a higher energy level
-  - emitting energy to move to a lower energy level
+    - absorbing energy to move to a higher energy level
+    - emitting energy to move to a lower energy level
 - The energy absorbed or emitted is usually in the form of photons
 - **Light of smaller wavelength (higher frequency) is emitted at higher energy levels**
 - The change in energy state, where
-  - $h$ = Planck's constant
-  - $ν$ = frequency
-  - $\lambda$ = wavelength
-  - $c$ = speed of light
+    - $h$ = Planck's constant
+    - $ν$ = frequency
+    - $\lambda$ = wavelength
+    - $c$ = speed of light
 
 $$
 |\Delta E|=|E_{\text{final}}-E_{\text{initial}}| \\
@@ -26,9 +26,9 @@ $$
 ## Binding Energy (BE)
 
 - BE is the energy that holds the electrons to the nucleus
-  - It represents the strength of the attraction between the electron and the nucleus
-  - The closer an electron is to the nucleus, the higher its binding energy due to the stronger attraction
-  - Formula equal but opposite to **ionisation energy**.
+    - It represents the strength of the attraction between the electron and the nucleus
+    - The closer an electron is to the nucleus, the higher its binding energy due to the stronger attraction
+    - Formula equal but opposite to **ionisation energy**.
 
 $$
 E_{n}={\frac{-Z^{2}e^{4}m_{e}}{8\varepsilon_{o}n^{2}h^{2}}}
@@ -61,13 +61,17 @@ $$
 - Every element has a unique spectrum based on electrons changing energy levels
 
 ## Describing an Orbital using Quantum Numbers
+
 ### Angular Momentum Number ($l$)
+
 - Shape of the orbital
 - 0: spherical
 - 1: two bulbs
 - 2: four bulbs
 - 3: more bulbs and so on
+
 ### Magnetic quantum number ($m_l$)
+
 - $-l≤m_l≤l$ (integers)
 - *Example*: $l=1; m_l=-1,0,1$ ($l=1$ can follow 3 orientations, x, y, z)
 - *Example*: $l=2; m_l=-2,-1,0,1,2$ ($l=2$ can follow 5 orientations)
