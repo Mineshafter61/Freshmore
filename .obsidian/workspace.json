@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59cd593df0de7d27",
+        "id": "b5582807d22e81dc",
         "type": "tabs",
         "children": [
           {
-            "id": "548b8a06e2f97cdf",
+            "id": "4399bf9b08a4b8a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Technological World/8_1_Biot-Savart Law.md",
+                "file": "日本語/2_1_文法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "8_1_Biot-Savart Law"
+              "title": "2_1_文法"
             }
           }
         ]
@@ -182,17 +182,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "548b8a06e2f97cdf",
+  "active": "4399bf9b08a4b8a9",
   "lastOpenFiles": [
-    "2_Technological World/8_2_Ampere's Law.md",
-    "2_Technological World/8_1_Biot-Savart Law.md",
-    "2_Technological World/4_2_Capacitance.md",
-    "2_Technological World/5_2_DC Circuit Analysis.md",
-    "2_Technological World/5_1_Capacitors and Dielectrics.md",
     "2_Technological World/9_1_Faraday's and Lenz's Law.md",
+    "2_Technological World/9_2C_Energy to Charge an Inductor.md",
+    "2_Technological World/9_2B_Mutual Inductance.md",
+    "2_Technological World/2_2_Gauss's Law.md",
+    "2_Technological World/3_1_Conductor at Equilibrium.md",
+    "2_Technological World/2_1B_Electric Field Lines and Flux.md",
     "2_Technological World/9_2A_Self Inductance of an Inductor.md",
-    "2_Modelling Space and Systems/10_2_Span, Linear Independence and Subspaces.md",
+    "2_Technological World/5_1_Capacitors and Dielectrics.md",
+    "2_Technological World/5_2_DC Circuit Analysis.md",
+    "2_Technological World/6_1_Magnetic Field and Force.md",
+    "2_Technological World/8_1_Biot-Savart Law.md",
+    "2_Technological World/8_2_Ampere's Law.md",
     "日本語/2_1_文法.md",
+    "2_Technological World/4_2_Capacitance.md",
+    "2_Modelling Space and Systems/10_2_Span, Linear Independence and Subspaces.md",
     "日本語/1_2_擬音語.md",
     "日本語/1_語彙.md",
     "1_Physical World/11_Simple Harmonic Motion.md",
@@ -206,12 +212,6 @@
     "2_Modelling Space and Systems/9_2_Matrix Inverses.md",
     "2_Modelling Space and Systems/9_1_Introduction to Matrices.md",
     "2_Technological World/10_1B_RC Circuit Analysis.md",
-    "2_Modelling Space and Systems/1_1A_Vectors.md",
-    "2_Technological World/9_2C_Energy to Charge an Inductor.md",
-    "2_Technological World/Humongous Formula Sheet.md",
-    "2_Science for a Sustainable World/4_2_Acids and Bases.md4_2_Acids and Bases.md",
-    "2_Science for a Sustainable World/4_1_Chemical Equilibrium.md4_1_Chemical Equilibrium.md",
-    "2_Science for a Sustainable World/3_Thermochemistry.md3_Thermochemistry.md",
     "ref/SSW_P2_Z≤7.png",
     "ref/SSW_P1.png",
     "ref/SSW_P2_Z≥8.png",
