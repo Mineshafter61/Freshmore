@@ -1,10 +1,10 @@
 # 8_2_Gauss Jordan Elimination
 
-- Process to bring a matrix into reduced row echelon form
+- Process to bring a matrix into **reduced row echelon form**
 - Algorithm:
-    - Apply steps 1 to 4 in algorithm for Gaussian Elimination to bring the matrix into REF.
-    - Multiply a suitable constant to each row so that all the leading entries become 1.
-    - Starting with the last non-zero row and working upward, add suitable multiples of each row to the rows above to produce zeros above the leading entries. (All entries above leading 1’s will become zero.)
+    - Apply steps 1 to 4 in algorithm for **[[8_1B_Elementary Row Operations#Gaussian Elimination|Gaussian Elimination]]** to bring the matrix into **REF**.
+    - **Multiply a suitable constant to each row** so that **all the leading entries become 1**.
+    - Starting with the **last non-zero row** and **working upward**, add **suitable multiples of each row** to the **rows above** to produce **zeros above the leading entries**. (All entries above leading 1’s will become zero.)
 
 ## Reduced Row Echelon Form (RREF)
 

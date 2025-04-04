@@ -30,7 +30,7 @@ $$A = E_1^{-1}E_2^{-1}E_3^{-1}$$
 ## Gauss-Jordan Method
 
 1. Form the augmented matrix $[A|I]$. For example, $\left[\begin{array}{cc|cc}1&2&1&0\\3&5&0&1\end{array}\right]$.
-2. Perform **Gauss-Jordan elimination** on $[A|I]$.
+2. Perform **[[8_2_Gauss Jordan Elimination|Gauss Jordan Elimination]]** on $[A|I]$.
 3. If the left half is reduced to $I$, then the **RREF** is $[I|A^{−1}]$, so its **right half is $A^{-1}$**. If the left half **cannot be reduced** to $I$, then $A$ is **not invertible**.
 
 ## Fundamental Theorem of Invertible Matrices (Part 1)
@@ -47,5 +47,5 @@ Note: Statements in the Fundamental Theorem must either be **ALL TRUE** or **ALL
 
 ## Inverse of an 2 × 2 Matrix
 
-Let $A=\begin{bmatrix}a&b\\c&d\end{bmatrix}$. A is invertible if $ad−bc \neq 0$.
+Let $A=\begin{bmatrix}a&b\\c&d\end{bmatrix}$. A is **invertible if $ad−bc \neq 0$**.
 $$A^{-1}=\frac1{ad-bc}\begin{bmatrix}d&-b\\-c&a\end{bmatrix}$$

@@ -1,34 +1,20 @@
 {
   "main": {
-    "id": "a38e418bd3e772cb",
+    "id": "df69d0498d1255a1",
     "type": "split",
     "children": [
       {
-        "id": "44c59c2f113d99ea",
+        "id": "a26b43f9c498ec9a",
         "type": "tabs",
         "children": [
           {
-            "id": "76d27e4f06e314ed",
+            "id": "22f29af1995b9688",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Technological World/8_2_Ampere's Law.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "8_2_Ampere's Law"
+              "title": "New tab"
             }
           }
         ]
@@ -37,11 +23,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "97b73a9f8d8c39f7",
+    "id": "48ddef209ed5bc74",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "e6ff19cf3e8db3cf",
+        "id": "1d6ec1c3d4abc37c",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -54,7 +40,7 @@
         }
       },
       {
-        "id": "8e12d996f3ef6ede",
+        "id": "9640f4d09f65938c",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -71,20 +57,22 @@
         }
       },
       {
-        "id": "5eb3e359ee477da2",
+        "id": "35648650f5fe015f",
         "type": "leaf",
         "state": {
           "type": "tag",
           "state": {
             "sortOrder": "frequency",
-            "useHierarchy": true
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-tags",
           "title": "Tags"
         }
       },
       {
-        "id": "c7bcd4f0eecab296",
+        "id": "59751c0a4b0b4cd7",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -97,11 +85,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "dd8755a86543857e",
+    "id": "a49362a9d72eb893",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "60be6883cfecf4ab",
+        "id": "b4ace3d308e82cf7",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -119,7 +107,7 @@
         }
       },
       {
-        "id": "b9f3f7067ad0e1c5",
+        "id": "b236266b0110e149",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -132,27 +120,21 @@
         }
       },
       {
-        "id": "542b39dbf413bfcd",
+        "id": "adf43eedb16c1fc3",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
           "icon": "lucide-list",
           "title": "Outline"
         }
-      },
-      {
-        "id": "928fc0c81cd567ec",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,57 +143,50 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "76d27e4f06e314ed",
+  "active": "22f29af1995b9688",
   "lastOpenFiles": [
-    "2_Technological World/6_1_Magnetic Field and Force.md",
-    "2_Technological World/8_1_Biot-Savart Law.md",
-    "日本語/2_1_文法.md",
-    "2_Modelling Space and Systems/8_1B_Elementary Row Operations.md",
-    "2_Modelling Space and Systems/8_1A_Linear Systems.md",
-    "日本語/2_3_文法出題基準外項目.md",
-    "2_Technological World/2_2_Gauss's Law.md",
-    "日本語/1_1_エクストラ語彙.md",
-    "2_Science for a Sustainable World/6_Electrochemistry.md",
-    "/2_Technological World/Humongous Formula Sheet.md",
-    "/2_Technological World/4_2_Capacitance.md",
-    "/2_Technological World",
-    "/2_Science for a Sustainable World/6_Electrochemistry.md",
-    "/2_Science for a Sustainable World/5_Introduction to Plastics Processing.md",
-    "/2_Science for a Sustainable World/4_2_Acids and Bases.md",
-    "/2_Science for a Sustainable World/4_1_Chemical Equilibrium.md",
-    "/2_Science for a Sustainable World/3_Thermochemistry.md",
-    "/2_Science for a Sustainable World/2_2_Chemical Bonds and Intermolecular Forces.md",
-    "/2_Science for a Sustainable World/2_1_Understand Science from Atom to molecule.md",
-    "/2_Science for a Sustainable World/1_Introduction to Sustainability.md",
-    "/2_Science for a Sustainable World/0_Extras.md",
-    "/2_Science for a Sustainable World",
-    "/2_Modelling Space and Systems/6_1_Line Integrals.md",
-    "2_Modelling Space and Systems/6_1_Line Integrals.md",
-    "/2_Modelling Space and Systems",
-    "日本語/2_2_N2文法.md",
-    "2_Technological World/4_2_Capacitance.md",
-    "2_Technological World/Humongous Formula Sheet.md",
-    "/日本語/1_語彙.md",
-    "/日本語",
-    "/ref",
-    "/日本語/anki.txt",
-    "/日本語/1_語彙.xlsx",
+    "ref/SSW_P2_Z≤7.png",
+    "ref/TW_inductionBehaviour.png",
+    "ref/SSW_P2_Z≥8.png",
+    "ref/SSW_P1.png",
     "ref/TW_point dipole approximation.png",
-    "/ref/TW_point dipole approximation.png",
+    "2_Technological World/8_2_Ampere's Law.md",
+    "1_Modelling and Analysis/6_1_Improper Integrals.md",
+    "1_Modelling and Analysis/6_5_Differential Equations.md",
+    "1_Modelling and Analysis/1_4_Trigonometric Functions.md",
+    "1_Modelling and Analysis/4_1_Maximum and Minimum Values.md",
+    "1_Modelling and Analysis/4_3_Comparing Rates of Growth.md",
+    "ref/homework.md",
+    "2_Technological World/3_1_Conductor at Equilibrium.md",
+    "1_Modelling and Analysis/2_5_Continuity of Functions.md",
+    "1_Modelling and Analysis/1_3_Exponential and Logarithmic functions.md",
+    "1_Modelling and Analysis/6_4_Moments, Center of Mass.md",
+    "1_Modelling and Analysis/1_2_Inverse functions.md",
+    "2_Technological World/8_1_Biot-Savart Law.md",
+    "1_Modelling and Analysis/4_2_How Derivatives Affect the Shape of the Graph.md",
+    "2_Technological World/10_1A_Kirchhoff Voltage and Current Law.md",
+    "1_Modelling and Analysis/3_Derivatives.md",
+    "1_Modelling and Analysis/4_4_Optimisation.md",
+    "ref/PW_shmPhaseShift.jpg",
     "ref/MSS_lagrangian.png",
-    "/ref/MSS_lagrangian.png",
+    "2_Technological World/2_1B_Electric Field Lines and Flux.md",
+    "1_Modelling and Analysis/5_Integration.md",
+    "1_Modelling and Analysis/2_1_Sequences and Difference Equations.md",
+    "1_Modelling and Analysis/2_4_Limits of Functions at Finite Numbers.md",
+    "1_Modelling and Analysis/チートシートチェックリスト.md",
+    "1_Modelling and Analysis/1_1_Functions.md",
+    "2_Technological World/3_2_Electrostatic Force and Energy.md",
+    "2_Technological World/0_Spherical Coordinate System.md",
     "ref/TW1_2_1.png",
-    "/ref/TW1_2_1.png",
-    "/ref/Screenshot 2025-02-03 at 17.48.51.png",
-    "ref/Screenshot 2025-02-03 at 17.48.51.png",
-    "2_Technological World",
+    "ref/PW_parallelAxisTheorem.png",
+    "日本語/anki.txt",
+    "日本語/1_語彙.xlsx",
+    "日本語/to_anki.py",
+    "1_Physical World",
     "2_Science for a Sustainable World",
-    "2_Modelling Space and Systems",
-    "ref/parallel axis theorem.png",
-    "/ref/parallel axis theorem.png"
+    "2_Modelling Space and Systems"
   ]
 }

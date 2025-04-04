@@ -80,4 +80,4 @@ $$
 - Let the moment of inertia about parallel axis through Point S be $I_S$.
 - Let the perpendicular distance between 2 parallel axes be $d_{S,CM}$
 - **Parallel Axis Theorem**: $I_{S} = Md_{S,CM}^2+I_{CM}$
-![[parallel axis theorem.png]]
+![[PW_parallelAxisTheorem.png]]
