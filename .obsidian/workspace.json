@@ -11,24 +11,14 @@
             "id": "4399bf9b08a4b8a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "日本語/2_1_文法.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "日本語/.to_anki.py.swp",
+                "bFile": "日本語/.to_anki.py.swp",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2_1_文法"
+              "icon": "diff",
+              "title": "Diff: .to_anki.py.swp"
             }
           }
         ]
@@ -182,10 +172,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4399bf9b08a4b8a9",
+  "active": "dfe3d44474ad1e48",
   "lastOpenFiles": [
-    "日本語/2_2_文法出題基準外項目.md",
+    "日本語/1_語彙.md",
+    "日本語/~$1_語彙.xlsx",
     "日本語/2_1_文法.md",
+    "日本語/2_2_文法出題基準外項目.md",
     "日本語/2_3_N2文法.md",
     "2_Technological World/9_1_Faraday's and Lenz's Law.md",
     "2_Technological World/9_2C_Energy to Charge an Inductor.md",
@@ -202,7 +194,6 @@
     "2_Technological World/4_2_Capacitance.md",
     "2_Modelling Space and Systems/10_2_Span, Linear Independence and Subspaces.md",
     "日本語/1_2_擬音語.md",
-    "日本語/1_語彙.md",
     "1_Physical World/11_Simple Harmonic Motion.md",
     "1_Physical World/12_Thermodynamics.md",
     "2_Modelling Space and Systems/10_1_Trace and Determinant.md",
@@ -211,12 +202,10 @@
     "ref/PW_parallelAxisTheorem.png",
     "2_Modelling Space and Systems/8_2_Gauss Jordan Elimination.md",
     "2_Modelling Space and Systems/8_1B_Elementary Row Operations.md",
-    "2_Modelling Space and Systems/9_2_Matrix Inverses.md",
     "ref/SSW_P2_Z≤7.png",
     "ref/SSW_P1.png",
     "ref/SSW_P2_Z≥8.png",
     "ref/TW_inductionBehaviour.png",
-    "日本語/~$1_語彙.xlsx",
     "ref/MSS_lagrangian.png",
     "ref/TW_point dipole approximation.png",
     "ref/TW1_2_1.png",
