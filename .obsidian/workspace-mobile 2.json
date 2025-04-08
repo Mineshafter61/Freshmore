@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "a38e418bd3e772cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "44c59c2f113d99ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76d27e4f06e314ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Technological World/8_2_Ampere's Law.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "8_2_Ampere's Law"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97b73a9f8d8c39f7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e6ff19cf3e8db3cf",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "8e12d996f3ef6ede",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "5eb3e359ee477da2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c7bcd4f0eecab296",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "dd8755a86543857e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "60be6883cfecf4ab",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "b9f3f7067ad0e1c5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "542b39dbf413bfcd",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "928fc0c81cd567ec",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "76d27e4f06e314ed",
+  "lastOpenFiles": [
+    "2_Technological World/6_1_Magnetic Field and Force.md",
+    "2_Technological World/8_1_Biot-Savart Law.md",
+    "日本語/2_1_文法.md",
+    "2_Modelling Space and Systems/8_1B_Elementary Row Operations.md",
+    "2_Modelling Space and Systems/8_1A_Linear Systems.md",
+    "日本語/2_3_文法出題基準外項目.md",
+    "2_Technological World/2_2_Gauss's Law.md",
+    "日本語/1_1_エクストラ語彙.md",
+    "2_Science for a Sustainable World/6_Electrochemistry.md",
+    "/2_Technological World/Humongous Formula Sheet.md",
+    "/2_Technological World/4_2_Capacitance.md",
+    "/2_Technological World",
+    "/2_Science for a Sustainable World/6_Electrochemistry.md",
+    "/2_Science for a Sustainable World/5_Introduction to Plastics Processing.md",
+    "/2_Science for a Sustainable World/4_2_Acids and Bases.md",
+    "/2_Science for a Sustainable World/4_1_Chemical Equilibrium.md",
+    "/2_Science for a Sustainable World/3_Thermochemistry.md",
+    "/2_Science for a Sustainable World/2_2_Chemical Bonds and Intermolecular Forces.md",
+    "/2_Science for a Sustainable World/2_1_Understand Science from Atom to molecule.md",
+    "/2_Science for a Sustainable World/1_Introduction to Sustainability.md",
+    "/2_Science for a Sustainable World/0_Extras.md",
+    "/2_Science for a Sustainable World",
+    "/2_Modelling Space and Systems/6_1_Line Integrals.md",
+    "2_Modelling Space and Systems/6_1_Line Integrals.md",
+    "/2_Modelling Space and Systems",
+    "日本語/2_2_N2文法.md",
+    "2_Technological World/4_2_Capacitance.md",
+    "2_Technological World/Humongous Formula Sheet.md",
+    "/日本語/1_語彙.md",
+    "/日本語",
+    "/ref",
+    "/日本語/anki.txt",
+    "/日本語/1_語彙.xlsx",
+    "ref/TW_point dipole approximation.png",
+    "/ref/TW_point dipole approximation.png",
+    "ref/MSS_lagrangian.png",
+    "/ref/MSS_lagrangian.png",
+    "ref/TW1_2_1.png",
+    "/ref/TW1_2_1.png",
+    "/ref/Screenshot 2025-02-03 at 17.48.51.png",
+    "ref/Screenshot 2025-02-03 at 17.48.51.png",
+    "2_Technological World",
+    "2_Science for a Sustainable World",
+    "2_Modelling Space and Systems",
+    "ref/parallel axis theorem.png",
+    "/ref/parallel axis theorem.png"
+  ]
+}
