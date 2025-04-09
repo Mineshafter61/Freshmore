@@ -4,24 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "486772f3ab069a71",
+        "id": "60b1e77fe22aeae9",
         "type": "tabs",
         "children": [
           {
-            "id": "b4582a8a1dbc4e68",
+            "id": "48b6b97920cee164",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace-mobile.json",
-                "bFile": ".obsidian/workspace-mobile.json",
-                "aRef": ""
+                "file": "2_Modelling Space and Systems/9_2_Matrix Inverses.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: workspace-mobile.json"
+              "icon": "lucide-file",
+              "title": "9_2_Matrix Inverses"
+            }
+          },
+          {
+            "id": "ff0c7647bbe14e5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ref/homework.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "homework"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,8 +207,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4582a8a1dbc4e68",
+  "active": "dfe3d44474ad1e48",
   "lastOpenFiles": [
+    "日本語/N1_漢字.md",
+    "2_Modelling Space and Systems/9_2_Matrix Inverses.md",
+    "2_Modelling Space and Systems/9_1_Introduction to Matrices.md",
+    "2_Modelling Space and Systems/8_2_Gauss Jordan Elimination.md",
     "ref/MSS_changeOfBasis.png",
     "ref/homework.md",
     "2_Modelling Space and Systems/11_1_Basis, Orthogonal Basis and Change of Basis.md",
@@ -202,9 +241,6 @@
     "2_Technological World/2_2_Gauss's Law.md",
     "2_Technological World/3_1_Conductor at Equilibrium.md",
     "2_Technological World/2_1B_Electric Field Lines and Flux.md",
-    "2_Technological World/5_1_Capacitors and Dielectrics.md",
-    "2_Technological World/5_2_DC Circuit Analysis.md",
-    "2_Technological World/6_1_Magnetic Field and Force.md",
     "ref/PW_shmPhaseShift.jpg",
     "ref/PW_parallelAxisTheorem.png",
     "ref/SSW_P2_Z≤7.png",
