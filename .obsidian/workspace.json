@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "9_2_Matrix Inverses"
             }
-          },
-          {
-            "id": "ff0c7647bbe14e5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ref/homework.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "homework"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,12 +184,12 @@
   },
   "active": "dfe3d44474ad1e48",
   "lastOpenFiles": [
+    "ref/homework.md",
     "日本語/N1_漢字.md",
     "2_Modelling Space and Systems/9_2_Matrix Inverses.md",
     "2_Modelling Space and Systems/9_1_Introduction to Matrices.md",
     "2_Modelling Space and Systems/8_2_Gauss Jordan Elimination.md",
     "ref/MSS_changeOfBasis.png",
-    "ref/homework.md",
     "2_Modelling Space and Systems/11_1_Basis, Orthogonal Basis and Change of Basis.md",
     "ref/MSS_BasisChange.png",
     "ref/MSS_bases.png",
