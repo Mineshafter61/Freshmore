@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8caff81cb070cc05",
+        "id": "486772f3ab069a71",
         "type": "tabs",
         "children": [
           {
-            "id": "8355dabe3e1ad4d8",
+            "id": "b4582a8a1dbc4e68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "2_Modelling Space and Systems/11_1_Basis, Orthogonal Basis and Change of Basis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": ".obsidian/workspace-mobile.json",
+                "bFile": ".obsidian/workspace-mobile.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "11_1_Basis, Orthogonal Basis and Change of Basis"
+              "icon": "diff",
+              "title": "Diff: workspace-mobile.json"
             }
           }
         ]
@@ -182,10 +172,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab499776527a81aa",
+  "active": "b4582a8a1dbc4e68",
   "lastOpenFiles": [
-    "ref/MSS_bases.png",
+    "ref/MSS_changeOfBasis.png",
+    "ref/homework.md",
     "2_Modelling Space and Systems/11_1_Basis, Orthogonal Basis and Change of Basis.md",
+    "ref/MSS_BasisChange.png",
+    "ref/MSS_bases.png",
     "MSS_Bases.png",
     "2_Science for a Sustainable World/9_2B_Band Theory.md",
     "2_Science for a Sustainable World/11_Water Quality.md",
@@ -197,7 +190,6 @@
     "2_Technological World/10_2_RL Circuit Analysis.md",
     "2_Technological World/11_1_LC and Undriven RLC Circuits.md",
     "2_Technological World/9_2A_Self Inductance of an Inductor.md",
-    "ref/homework.md",
     "ref/MSS_lagrangian.png",
     "日本語/1_語彙.md",
     "日本語/~$1_語彙.xlsx",
@@ -218,8 +210,6 @@
     "ref/SSW_P2_Z≤7.png",
     "ref/SSW_P1.png",
     "ref/SSW_P2_Z≥8.png",
-    "ref/TW_inductionBehaviour.png",
-    "ref/TW_point dipole approximation.png",
     "Modelling Space and Systems",
     "Technological World",
     "2_Technological World",

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ed5e180e7ab84d0e",
+        "id": "6b89b072e878d412",
         "type": "tabs",
         "children": [
           {
-            "id": "49659b2b250106b5",
+            "id": "b3ce531f2a7441f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Modelling Space and Systems/11_1_Basis, Orthogonal Basis and Change of Basis.md",
+                "file": "2_Modelling Space and Systems/8_1B_Elementary Row Operations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "11_1_Basis, Orthogonal Basis and Change of Basis"
+              "title": "8_1B_Elementary Row Operations"
             }
           }
         ]
@@ -172,13 +172,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49659b2b250106b5",
+  "active": "b3ce531f2a7441f4",
   "lastOpenFiles": [
+    "2_Modelling Space and Systems/8_1A_Linear Systems.md",
+    "2_Modelling Space and Systems/8_1B_Elementary Row Operations.md",
+    "2_Modelling Space and Systems/8_2_Gauss Jordan Elimination.md",
+    "2_Modelling Space and Systems/11_1_Basis, Orthogonal Basis and Change of Basis.md",
+    "日本語/1_語彙.md",
     "ref/MSS_bases.png",
     "2_Science for a Sustainable World/11_Water Quality.md",
     "11_Water Quality.md",
-    "2_Modelling Space and Systems/11_1_Basis, Orthogonal Basis and Change of Basis.md",
-    "2_Modelling Space and Systems/8_2_Gauss Jordan Elimination.md",
     "ref/homework.md",
     "/日本語/1_語彙.md",
     "/日本語",
@@ -190,7 +193,6 @@
     "日本語/2_1_文法.md",
     "日本語/2_2_文法出題基準外項目.md",
     "2_Technological World/0_Spherical Coordinate System.md",
-    "日本語/1_語彙.md",
     "日本語/語彙資料",
     "日本語/N1_漢字",
     "/日本語/語彙資料",
@@ -209,7 +211,6 @@
     "1_Modelling and Analysis/1_4_Trigonometric Functions.md",
     "1_Modelling and Analysis/4_1_Maximum and Minimum Values.md",
     "1_Modelling and Analysis/4_3_Comparing Rates of Growth.md",
-    "2_Technological World/3_1_Conductor at Equilibrium.md",
     "ref/PW_shmPhaseShift.jpg",
     "ref/MSS_lagrangian.png",
     "ref/TW1_2_1.png",

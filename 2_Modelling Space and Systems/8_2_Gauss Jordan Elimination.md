@@ -97,9 +97,9 @@ $$
 
 ### Observations
 
-- A linear system is **inconsistent** (i.e. has no solutions) if the last column of a row echelon form of the augmented matrix contains a leading entry, i.e. the last column is a pivot column.
-- A **consistent** linear system has **a unique solution** if except for the last column, every column of a row echelon form of the augmented matrix contains a leading entry, i.e. all columns (except the last column) are pivot columns.
-- A **consistent** linear system has **infinitely many solutions** if apart from the last column, a row echelon form of the augmented matrix has at least one more column that does NOT contain a leading entry, i.e. at least one more column (apart from the last) is a non-pivot column. The variable corresponding to this non-pivot column is a free variable.
+- A linear system is **inconsistent** (i.e. has no solutions) if the **last column of a row echelon form of the augmented matrix contains a leading entry**, i.e. the last column is a pivot column.
+- A **consistent** linear system has **a unique solution** if **except for the last column, every column of a row echelon form of the augmented matrix contains a leading entry**, i.e. all columns (except the last column) are pivot columns.
+- A **consistent** linear system has **infinitely many solutions** if apart from the last column, a **row echelon form of the augmented matrix has at least one more column that does NOT contain a leading entry**, i.e. at least one more column (apart from the last) is a non-pivot column. The variable corresponding to this non-pivot column is a free variable.
 
 ## Homogeneous Linear Systems
 

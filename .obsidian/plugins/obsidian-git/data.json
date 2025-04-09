@@ -4,7 +4,7 @@
   "autoSaveInterval": 0,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
-  "autoPullOnBoot": true,
+  "autoPullOnBoot": false,
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
@@ -29,6 +29,7 @@
   "showFileMenu": true,
   "authorInHistoryView": "hide",
   "dateInHistoryView": false,
+  "diffStyle": "split",
   "lineAuthor": {
     "show": false,
     "followMovement": "inactive",
