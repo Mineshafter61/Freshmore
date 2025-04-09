@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "60b1e77fe22aeae9",
+        "id": "0f2e1a8b9e6e8a10",
         "type": "tabs",
         "children": [
           {
-            "id": "48b6b97920cee164",
+            "id": "56f6834c864586a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Modelling Space and Systems/9_2_Matrix Inverses.md",
+                "file": "ref/homework.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "9_2_Matrix Inverses"
+              "title": "homework"
             }
           }
         ]
@@ -182,15 +182,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfe3d44474ad1e48",
+  "active": "ab499776527a81aa",
   "lastOpenFiles": [
+    "2_Modelling Space and Systems/11_1_Basis, Orthogonal Basis and Change of Basis.md",
+    "2_Technological World/11_1_LC and Undriven RLC Circuits.md",
+    "!TW_rlcCircuit.png.md",
+    "ref/TW_rlcCircuit.png",
+    "ref/TW_rlcDamping.png",
+    "2_Technological World/11_2_.md",
+    "2_Modelling Space and Systems/9_2_Matrix Inverses.md",
+    "日本語/2_2_文法出題基準外項目.md",
     "ref/homework.md",
     "日本語/N1_漢字.md",
-    "2_Modelling Space and Systems/9_2_Matrix Inverses.md",
     "2_Modelling Space and Systems/9_1_Introduction to Matrices.md",
     "2_Modelling Space and Systems/8_2_Gauss Jordan Elimination.md",
     "ref/MSS_changeOfBasis.png",
-    "2_Modelling Space and Systems/11_1_Basis, Orthogonal Basis and Change of Basis.md",
     "ref/MSS_BasisChange.png",
     "ref/MSS_bases.png",
     "MSS_Bases.png",
@@ -202,25 +208,19 @@
     "2_Science for a Sustainable World/9_1_Atomic Orbitals.md",
     "2_Science for a Sustainable World/6_Electrochemistry.md",
     "2_Technological World/10_2_RL Circuit Analysis.md",
-    "2_Technological World/11_1_LC and Undriven RLC Circuits.md",
     "2_Technological World/9_2A_Self Inductance of an Inductor.md",
     "ref/MSS_lagrangian.png",
     "日本語/1_語彙.md",
     "日本語/~$1_語彙.xlsx",
     "日本語/2_1_文法.md",
-    "日本語/2_2_文法出題基準外項目.md",
     "日本語/2_3_N2文法.md",
     "2_Technological World/9_1_Faraday's and Lenz's Law.md",
     "2_Technological World/9_2C_Energy to Charge an Inductor.md",
     "2_Technological World/9_2B_Mutual Inductance.md",
     "2_Technological World/2_2_Gauss's Law.md",
-    "2_Technological World/3_1_Conductor at Equilibrium.md",
-    "2_Technological World/2_1B_Electric Field Lines and Flux.md",
     "ref/PW_shmPhaseShift.jpg",
     "ref/PW_parallelAxisTheorem.png",
     "ref/SSW_P2_Z≤7.png",
-    "ref/SSW_P1.png",
-    "ref/SSW_P2_Z≥8.png",
     "Modelling Space and Systems",
     "Technological World",
     "2_Technological World",

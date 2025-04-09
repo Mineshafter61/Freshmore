@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Modelling Space and Systems/8_1B_Elementary Row Operations.md",
+                "file": "2_Technological World/11_1_LC and Undriven RLC Circuits.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "8_1B_Elementary Row Operations"
+              "title": "11_1_LC and Undriven RLC Circuits"
             }
           }
         ]
@@ -174,10 +174,12 @@
   },
   "active": "b3ce531f2a7441f4",
   "lastOpenFiles": [
-    "2_Modelling Space and Systems/8_1A_Linear Systems.md",
-    "2_Modelling Space and Systems/8_1B_Elementary Row Operations.md",
-    "2_Modelling Space and Systems/8_2_Gauss Jordan Elimination.md",
+    "ref/TW_rlcDamping.png",
+    "ref/TW_rlcCircuit.png",
     "2_Modelling Space and Systems/11_1_Basis, Orthogonal Basis and Change of Basis.md",
+    "2_Modelling Space and Systems/8_1B_Elementary Row Operations.md",
+    "2_Modelling Space and Systems/8_1A_Linear Systems.md",
+    "2_Modelling Space and Systems/8_2_Gauss Jordan Elimination.md",
     "日本語/1_語彙.md",
     "ref/MSS_bases.png",
     "2_Science for a Sustainable World/11_Water Quality.md",
@@ -210,11 +212,9 @@
     "1_Modelling and Analysis/6_5_Differential Equations.md",
     "1_Modelling and Analysis/1_4_Trigonometric Functions.md",
     "1_Modelling and Analysis/4_1_Maximum and Minimum Values.md",
-    "1_Modelling and Analysis/4_3_Comparing Rates of Growth.md",
     "ref/PW_shmPhaseShift.jpg",
     "ref/MSS_lagrangian.png",
     "ref/TW1_2_1.png",
-    "ref/PW_parallelAxisTheorem.png",
     "日本語/anki.txt",
     "日本語/1_語彙.xlsx",
     "日本語/to_anki.py",
