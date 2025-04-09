@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ref/homework.md",
+                "file": "日本語/1_2_漢字.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "homework"
+              "title": "1_2_漢字"
             }
           }
         ]
@@ -184,16 +184,19 @@
   },
   "active": "ab499776527a81aa",
   "lastOpenFiles": [
+    "日本語/2_1_文法.md",
+    "2_Modelling Space and Systems/10_2_Span, Linear Independence and Subspaces.md",
+    "2_Modelling Space and Systems/10_1_Trace and Determinant.md",
+    "2_Modelling Space and Systems/9_2_Matrix Inverses.md",
+    "ref/homework.md",
     "2_Modelling Space and Systems/11_1_Basis, Orthogonal Basis and Change of Basis.md",
     "2_Technological World/11_1_LC and Undriven RLC Circuits.md",
     "!TW_rlcCircuit.png.md",
     "ref/TW_rlcCircuit.png",
     "ref/TW_rlcDamping.png",
     "2_Technological World/11_2_.md",
-    "2_Modelling Space and Systems/9_2_Matrix Inverses.md",
     "日本語/2_2_文法出題基準外項目.md",
-    "ref/homework.md",
-    "日本語/N1_漢字.md",
+    "日本語/1_2_漢字.md",
     "2_Modelling Space and Systems/9_1_Introduction to Matrices.md",
     "2_Modelling Space and Systems/8_2_Gauss Jordan Elimination.md",
     "ref/MSS_changeOfBasis.png",
@@ -210,14 +213,11 @@
     "2_Technological World/10_2_RL Circuit Analysis.md",
     "2_Technological World/9_2A_Self Inductance of an Inductor.md",
     "ref/MSS_lagrangian.png",
-    "日本語/1_語彙.md",
+    "日本語/1_1_語彙.md",
     "日本語/~$1_語彙.xlsx",
-    "日本語/2_1_文法.md",
     "日本語/2_3_N2文法.md",
     "2_Technological World/9_1_Faraday's and Lenz's Law.md",
     "2_Technological World/9_2C_Energy to Charge an Inductor.md",
-    "2_Technological World/9_2B_Mutual Inductance.md",
-    "2_Technological World/2_2_Gauss's Law.md",
     "ref/PW_shmPhaseShift.jpg",
     "ref/PW_parallelAxisTheorem.png",
     "ref/SSW_P2_Z≤7.png",
