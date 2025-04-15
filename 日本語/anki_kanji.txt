@@ -1,0 +1,1872 @@
+#separator:pipe
+#html:false
+#deck:JLPT N1 漢字
+#notetype:Ikoma Kanji
+亜熱帯|あねったい|subtropical|あの国は{{c1::亜熱帯}}気候だ。
+亜細亜|アジア|Asia|{{c1::亜細亜}}と書いてアジアと読む。
+哀願|あいがん|plea; earnest request|助命を{{c1::哀願}}する。
+哀れむ|あわれむ|to pity; to feel compassion|傷ついた小鳥を{{c1::哀れむ}}。
+哀れな|あわれな|pitiful; pathetic|{{c1::哀れな}}姿だ。
+挨拶|あいさつ|greeting|{{c1::挨拶}}に行く。
+挨拶状|あいさつじょう|greeting letter|{{c1::挨拶状}}を書く。
+垢|あか|dirt; filth|{{c1::垢}}を落とす。
+水垢|みずあか|water stain|{{c1::水垢}}がたまる。
+垢抜け|あかぬけ|refined; polished|{{c1::垢抜け}}している。
+握手|あくしゅ|handshake|卒業の時、先生と{{c1::握手}}した。
+握力|あくりょく|grip strength|{{c1::握力}}を踊る。
+握る|にぎる|to grasp; to seize|政権を{{c1::握る}}。
+憧れ|あこがれ|longing; yearning|都会の生活に{{c1::憧れ}}ている。「{{c1::憧れ}}を胸に秘めている。」
+扱って|あつかって|handling; dealing with|あの店では、コンサートのチケットも{{c1::扱って}}いる。
+取り扱い|とりあつかい|handling; management|取扱いにご注意ください。
+宛名|あてな|recipient's name|{{c1::宛名}}を書き間違えてしまった。
+宛てて|あてて|addressed to|安達に{{c1::宛てて}}手紙を書いた。
+嵐|あらし|storm|A地方は{{c1::嵐}}に見舞われた。
+或日|あるひ|one day|{{c1::或日}}、一通の手紙が届いた。
+或は|あるいは|or; possibly|今日のランチは、A定食{{c1::或は}}B定食です。
+提案|ていあん|proposal; suggestion|企画を{{c1::提案}}する。
+案外|あんがい|unexpectedly|今回の試験は{{c1::案外}}やさしかった。
+案ずる|あんずる|to be anxious; to worry|事の成り行きを{{c1::案ずる}}。
+威力|いりょく|power; might|新兵器の{{c1::威力}}を試す。
+権威|けんい|authority; prestige|{{c1::権威}}を示す。
+威張っている|いばっている|to act big; to be arrogant|あの人はいつも{{c1::威張っている}}。
+行為|こうい|act; deed|勇気ある{{c1::行為}}だった。
+為替|かわせ|exchange; money order|{{c1::為替}}の変動に注目する。
+異常|いじょう|abnormality|{{c1::異常}}気象が続いた。
+大同小異|だいどうしょうい|almost the same|{{c1::大同小異}}の意見ばかりだった。
+異なる|ことなる|to differ|その話は事実と{{c1::異なる}}。
+維持|いじ|maintenance|健康を{{c1::維持}}するために、毎朝ランニングをしている。
+化学繊維|かがくせんい|chemical fiber|この箱は{{c1::化学繊維}}だ。
+慰霊塔|いれいとう|memorial tower|{{c1::慰霊塔}}をたてた。
+慰めた|なぐさめた|comforted|遺族を{{c1::慰めた}}。
+慰める|なぐさめる|to comfort|美しい海を見ていると心が{{c1::慰める}}。
+遺失物|いしつぶつ|lost item|{{c1::遺失物}}取扱い所に行く。
+遺言|ゆいごん|will; testament|{{c1::遺言}}を残す。
+遺跡|いせき|ruins; archeological site|{{c1::遺跡}}を発掘した。
+緯度|いど|latitude|北海道は東京より{{c1::緯度}}が高い。
+経緯|けいい|details; circumstances|事件の{{c1::経緯}}を見守る。
+椅子|いす|chair|{{c1::椅子}}にかけてお待ちください。
+炒めて|いためて|to stir-fry|肉と野菜を{{c1::炒めて}}食べた。
+炒り卵|いりたまご|scrambled eggs|朝に{{c1::炒り卵}}を作る。
+壱万円|いちまんえん|ten thousand yen (formal)|{{c1::壱万円}}を寄付した。
+逸話|いつわ|anecdote|彼は{{c1::逸話}}の多い人だ。
+逸脱|いつだつ|deviation|目的から{{c1::逸脱}}してしまった。
+逸する|いっする|to miss (an opportunity)|好機を{{c1::逸する}}。
+芋|いも|potato|{{c1::芋}}をふかして食べる。
+婚姻届|こんいんとどけ|marriage registration|{{c1::婚姻届}}を提出した。
+陰気|いんき|gloomy|彼は無口で{{c1::陰気}}な性格だ。
+陰|かげ|shade; shadow; behind-the-scenes|{{c1::陰}}で悪口を言う。
+陰り|かげり|darkness; decline|繁栄に{{c1::陰り}}が見える。
+隠居生活|いんきょせいかつ|retirement life|{{c1::隠居生活}}を送っている。
+隠して|かくして|to hide|無事を{{c1::隠して}}いた。
+余韻|よいん|reverberation; lingering memory|コンサートの興奮の{{c1::余韻}}がさめない。
+嬉しかった|うれしかった|was happy|彼のやさしい言葉が{{c1::嬉しかった}}。
+噂|うわさ|rumor|「人の{{c1::噂}}も七十五日」、というから、気にしないほうがいい。
+詠嘆|えいたん|exclamation; deep emotion|{{c1::詠嘆}}の声をあげた。
+詠む|よむ|to compose (a poem)|歌を{{c1::詠む}}。
+影響|えいきょう|influence|{{c1::影響}}を与える。
+人影|ひとかげ|figure of a person|チラッと{{c1::人影}}が見えた。
+衛生|えいせい|hygiene|{{c1::衛生}}に気をつけて調理してください。
+人工衛星|じんこうえいせい|artificial satellite|{{c1::人工衛星}}が打ち上げられた。
+免疫|めんえき|immunity|{{c1::免疫}}があるので失笑美だ。
+疫病神|やくびょうがみ|jinx; bearer of misfortune|彼は{{c1::疫病神}}と言われている。
+利益|りえき|profit; benefit|{{c1::利益}}があることを有益という。
+有益|ゆうえき|beneficial|毎日お参りをしていたら御利益があった。
+御利益|ごりやく|blessing; divine favor|{{c1::御利益}}があった。
+餌|えさ|bait; food (for animals)|動物に{{c1::餌}}をやる。
+悦|えつ|joy; pleasure|期待より良い成績だったので、一人で{{c1::悦}}に入っていた。
+閲覧|えつらん|reading; browsing|図書室で{{c1::閲覧}}する。
+検閲|けんえつ|censorship|外国に手紙を出す際、文面を{{c1::検閲}}された。
+沿線|えんせん|along a railway line|達は中央線{{c1::沿線}}に住んでいる。
+炎上|えんじょう|blaze; bursting into flames|若油タンクが{{c1::炎上}}した。
+肺炎|はいえん|pneumonia|{{c1::肺炎}}になってしまった。
+炎|ほのお|flame|家が{{c1::炎}}に包まれた。
+宴会|えんかい|banquet; party|{{c1::宴会}}場は、こちらです。
+披露宴|ひろうえん|wedding reception|すばらしい{{c1::披露宴}}だった。
+応援|おうえん|cheering; support|Aチームを{{c1::応援}}している。
+援助|えんじょ|assistance; aid|政府の{{c1::援助}}を受ける。
+支援|しえん|support; backing|小林氏の活動を{{c1::支援}}する。
+猿|さる|monkey|ゴリラなどを類人{{c1::猿}}という。
+類人猿|るいじんえん|anthropoid ape|ゴリラなどを{{c1::類人猿}}という。
+鉛筆|えんぴつ|pencil|解答を{{c1::鉛筆}}で書く。
+鉛|なまり|lead (metal)|この荷物は{{c1::鉛}}のように重い。
+縁談|えんだん|marriage proposal|{{c1::縁談}}が持ち上がり、お見合いすることになった。
+縁|ふち|rim; edge|茶わんの{{c1::縁}}が欠けた。
+応急|おうきゅう|emergency|{{c1::応急}}手当で一命をとりとめた。
+反応|はんのう|reaction|相手の{{c1::反応}}を見る。
+適応|てきおう|adaptation|彼は環境に{{c1::適応}}できた。
+往診|おうしん|house call (medical)|祖父の具合が悪いので、{{c1::往診}}してもらった。
+往復|おうふく|round trip|職場の{{c1::往復}}に2時間もかかる。
+殴打|おうだ|blow; strike|顔を{{c1::殴打}}されてけがを負った。
+殴られた|なぐられた|was hit|父に{{c1::殴られた}}。
+桜|さくら|cherry blossom|{{c1::桜}}の花を{{c1::桜}}花とも言う。
+桜花|おうか|cherry blossom (poetic)|桜の花を{{c1::桜花}}とも言う。
+記憶|きおく|memory|全然、{{c1::記憶}}にない。
+記憶力|きおくりょく|memory power|彼の{{c1::記憶力}}はすごい。
+俺|おれ|I (male, informal)|「{{c1::俺}}の部屋に入るな」と、息子は言った。
+卸して|おろして|to wholesale|この会社は、生鮮食品を{{c1::卸して}}いる。
+卸売り|おろしうり|wholesale|{{c1::卸売り}}と小売りの価格に開きがある。
+恩恵|おんけい|grace; blessing|{{c1::恩恵}}を受ける。
+恩|おん|favor; kindness|{{c1::恩}}に着る。
+穏便|おんびん|amicable|話を{{c1::穏便}}に収めようとした。
+穏やかな|おだやかな|calm; gentle|彼は{{c1::穏やかな}}人柄だ。
+仮定|かてい|assumption|事実と{{c1::仮定}}してみる。
+仮病|けびょう|feigned illness|{{c1::仮病}}で会社を休んだ。
+仮縫い|かりぬい|basting (temporary sewing)|ミシンで縫う前に{{c1::仮縫い}}する。
+佳作|かさく|honourable mention; good work|彼女の詩は、{{c1::佳作}}だった。
+価格|かかく|price|にせものに高い{{c1::価格}}をつけて売っている。
+価する|あたいする|to be worth|その美しさは、ご覧に値する。
+架空|かくう|fictional; imaginary|これは{{c1::架空}}の物語です。
+架かる|かかる|to be built (bridge)|橋が{{c1::架かる}}。
+架け橋|かけはし|bridge (between things)|両国の{{c1::架け橋}}となる。
+餌|えさ|bait; animal feed|猿に{{c1::餌}}を与えないでください。
+卸す|おろす|to wholesale|この会社は、生鮮食品を卸している。
+叱られる|しかられる|to be scolded|桜の頃、悪いことをして父に叱られた。
+穏やか|おだやか|calm; gentle|彼は{{c1::穏やか}}な人柄だ。
+恩に着る|おんにきる|to be grateful|{{c1::恩に着る}}。
+殴る|なぐる|to hit; to punch|顔を殴打されてけがを負った。
+値する|あたいする|to be worth|その美しさは、ご覧に{{c1::値する}}。
+華道|かどう|flower arrangement|{{c1::華道}}を習っている。
+華|はな|splendor; flower|彼女は社交界の{{c1::華}}だった。
+華やか|はなやか|gorgeous; showy|{{c1::華やか}}な気質に参加する。
+渦中|かちゅう|midst (of a situation)|事件の{{c1::渦中}}に巻き込まれる。
+渦|うず|whirlpool|洗顔機の栓で茶が{{c1::渦}}を巻いている。
+転嫁|てんか|diversion (of blame)|責任を{{c1::転嫁}}する。
+花嫁|はなよめ|bride|{{c1::花嫁}}はとても美しかった。
+嫁いで|とついで|to marry into a family|彼女は彼の家に{{c1::嫁いで}}行った。
+余暇|よか|leisure|あなたは{{c1::余暇}}をどのように過ごしますか。
+暇な|ひまな|free (time)|{{c1::暇な}}時は、ビデオを借りてきて見る。
+災禍|さいか|calamity|演説で{{c1::災禍}}をこうむった。
+禍根|かこん|source of calamity|その一件は後に{{c1::禍根}}を残した。
+寡黙|かもく|taciturn|彼は{{c1::寡黙}}だが、しっかりした考えをもっている。
+箇所|かしょ|place; part|訂正すべき{{c1::箇所}}があったら教えてください。
+箇条書き|かじょうがき|itemized list|要点を{{c1::箇条書き}}にまとめる。
+板前稼業|いたまえかぎょう|chef profession|{{c1::板前稼業}}は苦労が多い。
+共稼ぎ|ともかせぎ|dual-income household|あの夫婦は{{c1::共稼ぎ}}です。
+蚊|か|mosquito|{{c1::蚊}}に刺されたところがかゆい。
+喧嘩|けんか|fight; quarrel|親と{{c1::喧嘩}}してしまった。
+我慢|がまん|patience; endurance|嫌でも{{c1::我慢}}した。
+我先|われさき|every man for himself|人々は{{c1::我先}}にと非常口へ向かった。
+発芽|はつが|germination|チューリップが{{c1::発芽}}した。
+芽|め|bud; sprout|蒔いたヒマワリの種が、{{c1::芽}}を出した。
+祝賀会|しゅくがかい|celebration party|優勝したので{{c1::祝賀会}}をひらいた。
+年賀状|ねんがじょう|New Year’s card|{{c1::年賀状}}を書いた。
+優雅|ゆうが|elegant; graceful|彼は{{c1::優雅}}な生活を送っている。
+飢餓|きが|famine|{{c1::飢餓}}に苦しんでいる人も少なくない。
+餓死|がし|starvation|食料がなくなり{{c1::餓死}}した。
+警戒|けいかい|vigilance|未審な人物の{{c1::警戒}}に当たる。
+戒めた|いましめた|admonished; warned|無駄遣いを{{c1::戒めた}}。
+奇怪|きかい|strange; bizarre|{{c1::奇怪}}な事件だった。
+怪しい|あやしい|suspicious|空模様が{{c1::怪しい}}。
+怪我|けが|injury|交通事故で{{c1::怪我}}をした。
+誘拐犯|ゆうかいはん|kidnapper|{{c1::誘拐犯}}が捕まった。
+後悔|こうかい|regret|やめればよかったと{{c1::後悔}}している。
+悔しい|くやしい|frustrating; regrettable|逆転負けしたので{{c1::悔しい}}。
+悔しむ|くやしむ|to regret|失敗を悔やむ。
+金塊|きんかい|gold bar; ingot|{{c1::金塊}}がみつかった。
+塊|かたまり|lump; mass|肉の{{c1::塊}}を切り分ける。
+破壊|はかい|destruction|自然がどんどん{{c1::破壊}}されていく。
+壊れた|こわれた|broken|{{c1::壊れた}}箇所を修理する。
+懐中電灯|かいちゅうでんとう|flashlight|停電で、{{c1::懐中電灯}}をさがした。
+懐|ふところ|pocket; financial condition|給料をもらって{{c1::懐}}が暖かい。
+懐かしい|なつかしい|nostalgic|故郷が{{c1::懐かしい}}。
+弾劾|だんがい|impeachment|政府を{{c1::弾劾}}する記事を書いた。
+生涯|しょうがい|lifetime|留学生活は{{c1::生涯}}忘れられないだろう。
+天涯孤独|てんがいこどく|completely alone in the world|彼は{{c1::天涯孤独}}の身の上だ。
+街頭|がいとう|in the streets|{{c1::街頭}}演説をする。
+街道|かいどう|highway; main road|苦い歴史をもつ{{c1::街道}}を歩く。
+街角|まちかど|street corner|{{c1::街角}}でばったり会った。
+憤慨|ふんがい|indignation|彼は店のサービスの悪さに{{c1::憤慨}}していた。
+慨嘆|がいたん|lamentation|悲運を{{c1::慨嘆}}する。
+該当|がいとう|applicable|{{c1::該当}}する項目に印をつける。
+大概|たいがい|mostly; generally|{{c1::大概}}の人はもう知っている。
+一概に|いちがいに|categorically|{{c1::一概に}}悪いとは言えない。
+垣根|かきね|hedge|このへんの家は{{c1::垣根}}で囲まれている。
+石垣|いしがき|stone wall|あの街には古い{{c1::石垣}}が多い。
+鍵|かぎ|key|家の{{c1::鍵}}をなくしてしまった。
+拡張|かくちょう|expansion|将来は事業を{{c1::拡張}}したいと考えている。
+拡大|かくだい|enlargement|{{c1::拡大}}コピーをとる。
+核兵器|かくへいき|nuclear weapon|{{c1::核兵器}}の持ち込みに反対する。
+核|かく|core; nuclear|この団体には、{{c1::核}}となる人物がいない。
+甲殻類|こうかくるい|crustacean|エビやカニなどは{{c1::甲殻類}}に属する。
+殻|から|shell|卵の{{c1::殻}}を割る。
+貝殻|かいがら|seashell|浜辺で{{c1::貝殻}}を拾った。
+輪郭|りんかく|outline; contour|顔の{{c1::輪郭}}が父親に似ている。
+比較|ひかく|comparison|この店の品物は他の店と{{c1::比較}}して安い。
+隔週|かくしゅう|every other week|会社は土曜日は{{c1::隔週}}で休みだ。
+隔てて|へだてて|across; in between|彼の家は通りを{{c1::隔てて}}向こう側にある。
+内閣総理大臣|ないかくそうりだいじん|Prime Minister|田中氏が{{c1::内閣総理大臣}}になった。
+天守閣|てんしゅかく|castle tower|大阪城の{{c1::天守閣}}から街を見下ろした。
+捕獲|ほかく|capture|鱗を{{c1::捕獲}}した。
+獲物|えもの|prey|ライオンは{{c1::獲物}}を見つけると、近づいていった。
+収穫|しゅうかく|harvest; gain|今日の{{c1::収穫}}はゼロだった。
+山岳地帯|さんがくちたい|mountainous region|{{c1::山岳地帯}}は天気が変わりやすい。
+八ヶ岳|やつがたけ|Mount Yatsugatake|登山家が{{c1::八ヶ岳}}に登る。
+崖|がけ|cliff|{{c1::崖}}が崩れた。
+賭け事|かけごと|gambling|{{c1::賭け事}}は禁止する。
+籠|かご|basket|竹で{{c1::籠}}を編んだ。
+霞んで|かすんで|to be hazy|月が{{c1::霞んで}}いる。
+新潟県|にいがたけん|Niigata Prefecture|彼は{{c1::新潟県}}の出身だそうだ。
+干潟|ひがた|tidal flat|{{c1::干潟}}の埋め立てに反対する。
+総括|そうかつ|summary; generalization|意見を{{c1::総括}}して結論を出す。
+括弧|かっこ|parentheses|{{c1::括弧}}の中に適当な言葉を入れる。
+恐喝|きょうかつ|blackmail|{{c1::恐喝}}で逮捕された。
+渇水|かっすい|drought; water shortage|{{c1::渇水}}で農業は困っている。
+渇き|かわき|thirst|のどの{{c1::渇き}}を潤す。
+円滑|えんかつ|smooth; harmonious|話が{{c1::円滑}}に進む。
+滑る|すべる|to slip|路面が凍って{{c1::滑る}}。
+滑らか|なめらか|smooth (texture)|クリームをつけると肌が{{c1::滑らか}}になる。
+茶褐色|ちゃかっしょく|dark brown|彼女は{{c1::茶褐色}}のコートを着ていた。
+統轄|とうかつ|supervision; control|学校関係のことは文部省が{{c1::統轄}}している。
+曾て|かつて|once; formerly|それはかつて見たことがない素晴らしい作品だった。
+鞄|かばん|bag; briefcase|彼の{{c1::鞄}}は重そうだ。
+株式会社|かぶしきがいしゃ|joint-stock company|{{c1::株式会社}}をつくった。
+古株|ふるかぶ|veteran (member)|山田さんは、この店の{{c1::古株}}だ。
+電気釜|でんきがま|electric rice cooker|{{c1::電気釜}}でごはんを炊く。
+嚙む|かむ|to chew; to bite|ガムを噛む。
+嚙まれた|かまれた|was bitten|犬に手を噛まれた。
+刈る|かる|to cut; to mow|草を{{c1::刈る}}。
+稲刈り|いねかり|rice harvesting|{{c1::稲刈り}}をした。
+瓦屋根|かわらやね|tiled roof|あの{{c1::瓦屋根}}の家が自宅だ。
+肝心な|かんじんな|essential; important|{{c1::肝心な}}ことを伝え損ねた。
+栄冠|えいかん|honor; laurel; crown|{{c1::栄冠}}を勝ちとった。
+冠|かんむり|crown|王様は{{c1::冠}}をかぶっていた。
+看病|かんびょう|nursing (a patient)|祖父の{{c1::看病}}をしている。
+看護婦|かんごふ|nurse (outdated term)|将来は{{c1::看護婦}}になりたい。
+欠陥商品|けっかんしょうひん|defective product|{{c1::欠陥商品}}が売られていた。
+陥る|おちいる|to fall into (a trap, chaos)|パニックに{{c1::陥る}}。
+陥れられた|おとしいれられた|was entrapped|奈落の底に{{c1::陥れられた}}。
+勘定|かんじょう|bill; check; calculation|{{c1::勘定}}を済ませた。
+勘当|かんどう|disownment|家出した息子を{{c1::勘当}}した。
+貫通|かんつう|penetration; going through|トンネルが{{c1::貫通}}した。
+貫禄|かんろく|presence; dignity|会長としての{{c1::貫禄}}がある。
+貫こう|つらぬこう|to carry through|初志を{{c1::貫こう}}。
+喚声|かんせい|shout of joy or surprise|すばらしい技に驚きの{{c1::喚声}}があがった。
+喚問|かんもん|summons (for testimony)|証人を{{c1::喚問}}する。
+堪忍|かんにん|patience; forgiveness|もうこれ以上{{c1::堪忍}}できない。
+堪える|たえる|to endure; to bear|鑑賞に{{c1::堪える}}。
+勇敢|ゆうかん|bravery|{{c1::勇敢}}に戦った。
+敢闘|かんとう|fighting bravely|最後まで{{c1::敢闘}}する。
+出棺|しゅっかん|departure of a coffin|{{c1::出棺}}を見送った。
+納棺|のうかん|placing in a coffin|遺体を{{c1::納棺}}した。
+閑静な|かんせいな|quiet and calm|{{c1::閑静な}}住宅街に引っ越した。
+安閑|あんかん|idly; carefree|こんな時に{{c1::安閑}}としてはいられない。
+勧告|かんこく|recommendation; advice|辞任を{{c1::勧告}}した。
+勧誘|かんゆう|solicitation; recruitment|保険の{{c1::勧誘}}の仕事をしている。
+勧めた|すすめた|recommended|進学を{{c1::勧めた}}。
+寛大な|かんだいな|lenient; generous|{{c1::寛大な}}処置だった。
+寛容な|かんような|tolerant|{{c1::寛容な}}心を持っている。
+新幹線|しんかんせん|bullet train|{{c1::新幹線}}に乗った。
+幹部|かんぶ|executive; management|彼は組合の{{c1::幹部}}だ。
+幹|みき|tree trunk|木の{{c1::幹}}をよじのぼった。
+歓迎会|かんげいかい|welcome party|新入社員のための{{c1::歓迎会}}を開いた。
+歓声|かんせい|cheer; shout of joy|{{c1::歓声}}があがった。
+監督|かんとく|supervision; director|部下を{{c1::監督}}する。
+監視|かんし|monitoring; surveillance|国境では{{c1::監視}}の目を光らせている。
+緩和|かんわ|easing; mitigation|混雑を{{c1::緩和}}するために時差通勤を呼びかける。
+緩やか|ゆるやか|gentle; slow|{{c1::緩やか}}なカーブ。
+緩む|ゆるむ|to loosen|緊張が{{c1::緩む}}。
+遺憾|いかん|regret|その件については私も{{c1::遺憾}}に思っている。
+還暦|かんれき|60th birthday|父も今年、{{c1::還暦}}を迎える。
+返還|へんかん|return (of something)|北方領土の{{c1::返還}}を叫ぶ。
+還元|かんげん|return; restoration|利益を{{c1::還元}}する。
+環境|かんきょう|environment|{{c1::環境}}に恵まれている。
+循環|じゅんかん|circulation|このバスは市内を{{c1::循環}}している。
+戦艦|せんかん|battleship|昔の{{c1::戦艦}}が海の底に沈んでいる。
+艦隊|かんたい|fleet|{{c1::艦隊}}を編成して戦場に向かう。
+鑑定|かんてい|appraisal; judgment|{{c1::鑑定}}を依頼した。
+文芸年鑑|ぶんげいねんかん|literary yearbook|{{c1::文芸年鑑}}を買った。
+音楽鑑賞|おんがくかんしょう|music appreciation|私の趣味は{{c1::音楽鑑賞}}です。
+眼科|がんか|ophthalmology|{{c1::眼科}}が専門だ。
+近眼|きんがん|nearsightedness|{{c1::近眼}}の人は眼鏡をかける。
+眼鏡|めがね|glasses|{{c1::眼鏡}}をかける。
+寝ぼけ眼|ねぼけまなこ|sleepy eyes|息子は{{c1::寝ぼけ眼}}で起きてきた。
+頑張って|がんばって|hang in there|{{c1::頑張って}}ください。
+頑丈な|がんじょうな|solid; sturdy|この家は{{c1::頑丈な}}造りだ。
+企画|きかく|planning|新番組を{{c1::企画}}する。
+大企業|だいきぎょう|large corporation|{{c1::大企業}}が倒産した。
+企てる|くわだてる|to plan; to scheme|海外進出を{{c1::企てる}}。
+岐路|きろ|crossroads|人生の{{c1::岐路}}に立っている。
+多岐|たき|many directions; diverse|その発展の専門分野は{{c1::多岐}}にわたっている。
+忌引|きびき|bereavement leave|{{c1::忌引}}で会社を休んだ。
+忌まわしい|いまわしい|abominable; detestable|{{c1::忌まわしい}}出来事だった。
+忌む|いむ|to detest; to avoid|死を{{c1::忌む}}。
+汽車|きしゃ|train (steam-powered)|8時発の{{c1::汽車}}に乗る。
+汽笛|きてき|steam whistle|船が{{c1::汽笛}}を鳴らしながら港に入ってきた。
+奇数|きすう|odd number|{{c1::奇数}}と偶数。
+奇遇|きぐう|strange coincidence|こんな所でお会いするとは{{c1::奇遇}}ですね。
+奇想天外な|きそうてんがいな|fantastic; bizarre|{{c1::奇想天外な}}発想だ。
+新世紀|しんせいき|new century|いよいよ{{c1::新世紀}}だ。
+風紀|ふうき|public morals|{{c1::風紀}}が乱れている。
+無軌道|むきどう|lawless; reckless|{{c1::無軌道}}な若者が増えている。
+軌道|きどう|orbit; path|事業が{{c1::軌道}}に乗る。
+既存|きそん|existing|{{c1::既存}}の施設を利用した。
+既に|すでに|already|私が着いた時には、{{c1::既に}}電車は出た後だった。
+飢餓|きが|famine|{{c1::飢餓}}に苦しんでいる人々がいる。
+飢えた|うえた|hungry; starved|{{c1::飢えた}}猿が山から下りてきた。
+鬼才|きさい|genius|彼は{{c1::鬼才}}だ。
+鬼|おに|ogre; demon|彼は仕事の{{c1::鬼}}だ。
+鬼にする|おににする|harden one's heart|心を{{c1::鬼にする}}。
+基礎|きそ|foundation|{{c1::基礎}}からやり直す。
+基準|きじゅん|standard|厳しい{{c1::基準}}を設けた。
+基づく|もとづく|to be based on|憲法に{{c1::基づく}}。
+基|もと|base; origin|歯の{{c1::基}}を築く。
+指揮|しき|command; direction|私が工事の{{c1::指揮}}をとる。
+発揮|はっき|demonstration; display|実力を{{c1::発揮}}する。
+棋士|きし|shogi player|将来は{{c1::棋士}}になりたい。
+将棋|しょうぎ|Japanese chess|{{c1::将棋}}を指す。
+貴重|きちょう|precious; valuable|{{c1::貴重}}な体験をした。
+貴い|とうとい|noble; precious|{{c1::貴い}}命を大切にする。
+貴ぶ|とうとぶ|to value; to respect|人の意見を{{c1::貴ぶ}}。
+棄権|きけん|withdrawal; abstention|マラソンを途中で{{c1::棄権}}してしまった。
+廃棄処分|はいきしょぶん|disposal (as waste)|古いピアノを{{c1::廃棄処分}}にした。
+国旗|こっき|national flag|{{c1::国旗}}をかかげる。
+旗|はた|flag|{{c1::旗}}を振る。
+手旗信号|てばたしんごう|semaphore signal|{{c1::手旗信号}}を送る。
+光輝|こうき|radiance; brilliance|{{c1::光輝}}を放つ。
+輝いて|かがやいて|shining|ダイヤモンドが{{c1::輝いて}}いる。
+輝かしい|かがやかしい|brilliant; glorious|{{c1::輝かしい}}成功をおさめる。
+騎乗|きじょう|horseback riding|白馬に{{c1::騎乗}}する。
+騎馬戦|きばせん|cavalry battle (school sport)|体育祭では{{c1::騎馬戦}}に参加した。
+便宜|べんぎ|convenience|友人に{{c1::便宜}}を図る。
+適宜|てきぎ|appropriately|{{c1::適宜}}な処置をとる。
+偽造|ぎぞう|forgery|公文書の{{c1::偽造}}は罪になる。
+偽って|いつわって|to pretend; to fake|病気と{{c1::偽って}}欠席した。
+偽札|にせさつ|counterfeit bill|{{c1::偽札}}を作り、捕まる。
+詐欺|さぎ|fraud|{{c1::詐欺}}をはたらき捕まった。
+欺く|あざむく|to deceive|人を{{c1::欺く}}ようなことはするな。
+義理|ぎり|duty; obligation|{{c1::義理}}を欠くわけにはいかない。
+講義|こうぎ|lecture|あの先生の{{c1::講義}}はつまらない。
+義務|ぎむ|duty; obligation|{{c1::義務}}を果たす。
+儀式|ぎしき|ceremony|創立記念の{{c1::儀式}}が行われた。
+地球儀|ちきゅうぎ|globe|{{c1::地球儀}}で自分の国をさがした。
+戯曲化|ぎきょくか|dramatization|小説が{{c1::戯曲化}}される。
+戯れて|たわむれて|to frolic; to play|子犬がボールと{{c1::戯れて}}いる。
+悪戯|いたずら|mischief|この子は{{c1::悪戯}}好きだ。
+模擬試験|もぎしけん|mock exam|{{c1::模擬試験}}を受けてみた。
+擬音語|ぎおんご|onomatopoeia|日本語の{{c1::擬音語}}はおもしろい。
+擬態語|ぎたいご|mimetic word|{{c1::擬態語}}の使い方を学ぶ。
+犠牲|ぎせい|sacrifice|彼は家庭を{{c1::犠牲}}にして働いている。
+菊|きく|chrysanthemum|{{c1::菊}}の花が咲いている。
+野菊|のぎく|wild chrysanthemum|{{c1::野菊}}をとってきて部屋に飾った。
+大吉|だいきち|great fortune|おみくじを引いたら{{c1::大吉}}だった。
+不吉な|ふきつな|ominous|なんとなく{{c1::不吉な}}予感がする。
+売却|ばいきゃく|sale|土地を{{c1::売却}}した。
+却下|きゃっか|rejection|新しい企画の申請は{{c1::却下}}された。
+失脚|しっきゃく|loss of position|クーデターで{{c1::失脚}}した政治家。
+脚|あし|leg; foot|机の{{c1::脚}}に足をぶつけた。
+普及|ふきゅう|spread; popularization|パソコンが{{c1::普及}}する。
+及ぶ|およぶ|to reach; to extend|水害が町全体に{{c1::及ぶ}}。
+及ぼす|およぼす|to exert (influence, etc.)|彼の言動が世界に影響を{{c1::及ぼす}}。
+弓道|きゅうどう|Japanese archery|彼は{{c1::弓道}}をやっている。
+弓|ゆみ|bow|彼は強い{{c1::弓}}を使っている。
+丘陵|きゅうりょう|hill; hillock|海岸に沿って、なだらかな{{c1::丘陵}}が続いている。
+丘|おか|hill|小高い{{c1::丘}}に登る。
+老朽化|ろうきゅうか|aging and deterioration|{{c1::老朽化}}したので、新築することにした。
+朽ちて|くちて|to rot; decay|栄光の橋が{{c1::朽ちて}}落ちた。
+紛糾|ふんきゅう|complication; entanglement|異論が続出して会議は{{c1::紛糾}}した。
+糾明|きゅうめい|inquiry; investigation|今回の事件の解明が必要だ。
+宮殿|きゅうでん|palace|ベルサイユ{{c1::宮殿}}を訪れた。
+明治神宮|めいじじんぐう|Meiji Shrine|{{c1::明治神宮}}へ行った。
+宮参り|みやまいり|shrine visit for a newborn|赤ちゃんを抱いてお{{c1::宮参り}}に出かけた。
+窮乏|きゅうぼう|poverty|{{c1::窮乏}}した生活を送る。
+窮まった|きわまった|to reach an extreme|もはや進退{{c1::窮まった}}。
+拒絶|きょぜつ|rejection|支援要請は{{c1::拒絶}}された。
+拒まれた|こばまれた|to be refused|相手側に{{c1::拒まれた}}。
+根拠|こんきょ|basis; foundation|どんな{{c1::根拠}}に基づいて主張するのか。
+証拠|しょうこ|evidence|有罪だという{{c1::証拠}}はない。
+一挙に|いっきょに|at once; in one stroke|その問題を{{c1::一挙に}}解決する。
+挙げたい|あげたい|to hold; to raise|教会で結婚式を{{c1::挙げたい}}。
+謙虚な|けんきょな|humble|彼は{{c1::謙虚な}}人だ。
+虚空|こくう|void; empty space|鳥は{{c1::虚空}}に向かって舞い上がっていった。
+距離|きょり|distance|ここから空港までは、かなり{{c1::距離}}がある。
+凶暴な|きょうぼうな|ferocious; brutal|{{c1::凶暴な}}男が逃走中だ。
+凶器|きょうき|deadly weapon|犯人は{{c1::凶器}}を持っているそうだ。
+狂喜|きょうき|ecstasy; wild joy|当選の知らせに支援者は{{c1::狂喜}}した。
+狂って|くるって|to go mad; to be out of order|この時計は{{c1::狂って}}いる。
+享受|きょうじゅ|enjoyment; receiving|人類が平和を{{c1::享受}}できるように。
+名声を享受する|めいせいをきょうじゅする|to enjoy fame|彼は{{c1::名声を享受する}}。
+海峡|かいきょう|strait|ドーバー{{c1::海峡}}を渡ってフランスへ行った。
+恭順|きょうじゅん|submission; obedience|社長に{{c1::恭順}}の意を表す。
+恭しい|うやうやしい|respectful|接客態度はとても恭しかった。
+脅迫状|きょうはくじょう|threatening letter|犯人は{{c1::脅迫状}}を送ってきた。
+脅かした|おどかした|to frighten; to scare|友達をそっと{{c1::脅かした}}。
+故郷|こきょう|hometown|高校を卒業後、{{c1::故郷}}を離れた。
+郷里|きょうり|hometown; birthplace|三十年ぶりに{{c1::郷里}}を訪れた。
+矯正|きょうせい|correction; rectification|歯並びの{{c1::矯正}}には時間がかかる。
+矯めた|ためた|to straighten; to bend|盆栽の枝を針金で{{c1::矯めた}}。
+望遠鏡|ぼうえんきょう|telescope|{{c1::望遠鏡}}で東京の街を眺めた。
+鏡を磨く|かがみをみがく|to polish a mirror|鏡を磨いた。
+反響|はんきょう|reaction; echo|製品は{{c1::反響}}を呼んだ。
+響く|ひびく|to echo; to resonate|上の階の足音が{{c1::響く}}。
+驚異的|きょういてき|astonishing; phenomenal|{{c1::驚異的}}な強さで優勝した。
+驚いた|おどろいた|was surprised|子どもが突然泣き出したので{{c1::驚いた}}。
+信仰|しんこう|faith; belief|{{c1::信仰}}を持つ。
+仰天|ぎょうてん|being greatly surprised|びっくり{{c1::仰天}}した。
+仰せ|おおせ|command (honorific)|{{c1::仰せ}}のとおりです。
+仰ぐ|あおぐ|to look up to; to seek|指示を{{c1::仰ぐ}}。
+暁星|ぎょうせい|morning star|空に{{c1::暁星}}が輝く。
+暁|あかつき|dawn|美しい{{c1::暁}}の空。
+凝視した|ぎょうしした|stared at; gazed|テレビの画面を{{c1::凝視した}}。
+凝っている|こっている|to be absorbed in|父は釣りに{{c1::凝っている}}。
+殺菌効果|さっきんこうか|germicidal effect|{{c1::殺菌効果}}のある石けんを使う。
+細菌学|さいきんがく|bacteriology|彼は{{c1::細菌学}}の研究をしている。
+木琴|もっきん|xylophone|日本料理店で{{c1::木琴}}の音が流れていた。
+琴|こと|koto (Japanese harp)|彼女は{{c1::琴}}を演奏する。
+鉄筋|てっきん|reinforced concrete|{{c1::鉄筋}}コンクリートの家を新築した。
+筋|すじ|muscle; storyline|あの人の話は{{c1::筋}}が通っていない。
+緊張|きんちょう|nervousness|彼は{{c1::緊張}}した顔つきで会議室に入ってきた。
+緊迫|きんぱく|tension|国際情勢が{{c1::緊迫}}している。
+謹慎|きんしん|house arrest; disciplinary action|会社での不正が発覚し、自宅{{c1::謹慎}}になった。
+謹んで|つつしんで|humbly; respectfully|{{c1::謹んで}}お詫び申し上げます。
+開襟シャツ|かいきんしゃつ|open-collar shirt|夏は{{c1::開襟シャツ}}を着る人が多い。
+襟|えり|collar|寒いのでコートの{{c1::襟}}を立てた。
+吟味|ぎんみ|careful selection|料理の材料を{{c1::吟味}}する。
+吟じる|ぎんじる|to chant; to recite|詩を{{c1::吟じる}}。
+句読点|くとうてん|punctuation|{{c1::句読点}}に注意して文章を書く。
+文句|もんく|complaint|隣の部屋がうるさいので{{c1::文句}}を言った。
+駆使|くし|freely use|さまざまな道具を{{c1::駆使}}して家具を作った。
+駆け|かけ|to run|運動場を{{c1::駆け}}まわる。
+愚痴|ぐち|grumble; complaint|つらくても{{c1::愚痴}}をこぼさない。
+愚かな|おろかな|foolish|あんなことをするなんて{{c1::愚かな}}人だ。
+奇遇|きぐう|unexpected meeting|こんなところで会うとは{{c1::奇遇}}だねえ。
+待遇|たいぐう|treatment; working conditions|労働者たちは{{c1::待遇}}の改善を要求した。
+退屈な|たいくつな|boring|仕事を辞めてから{{c1::退屈な}}毎日だ。
+屈折|くっせつ|bending; warping|彼の心は{{c1::屈折}}している。
+繰り返し|くりかえし|repetition|失敗を{{c1::繰り返し}}ながら成長していく。
+繰り上げて|くりあげて|to move up (a schedule)|旅行の日程を一日{{c1::繰り上げて}}帰宅した。
+薫風|くんぷう|balmy breeze|{{c1::薫風}}に誘われてピクニックに出かけた。
+風薫る|かぜかおる|breezy and fragrant|{{c1::風薫る}}季節になりました。
+刑事|けいじ|detective|{{c1::刑事}}になりたいと思っている。
+終身刑|しゅうしんけい|life imprisonment|裁判官は{{c1::終身刑}}を言い渡した。
+文科系|ぶんかけい|humanities field|大学は{{c1::文科系}}を受験するつもりです。
+系列|けいれつ|affiliation; group|この会社はA社の{{c1::系列}}です。
+半径|はんけい|radius|{{c1::半径}}の2倍が直径だ。
+直径|ちょっけい|diameter|半径の2倍が{{c1::直径}}だ。
+地下茎|ちかけい|underground stem|じゃがいもは、{{c1::地下茎}}のある植物です。
+茎|くき|stem|台風で花の{{c1::茎}}が折れてしまった。
+契約|けいやく|contract|新しい部屋を{{c1::契約}}した。
+契り|ちぎり|pledge; vow|彼らは将来の{{c1::契り}}を結んだ。
+恩恵|おんけい|benefit; blessing|現代人は科学の{{c1::恩恵}}を受けている。
+知恵|ちえ|wisdom|全員で{{c1::知恵}}を出し合う。
+恵み|めぐみ|blessing; grace|雨は天の{{c1::恵み}}だ。
+拝啓|はいけい|Dear Sir/Madam (letter opening)|{{c1::拝啓}}、秋も深まってきましたが…。
+啓示|けいじ|revelation|神の{{c1::啓示}}。
+掲示板|けいじばん|bulletin board|{{c1::掲示板}}に試験の日程表が貼ってあった。
+掲げる|かかげる|to raise; to post|オリンピック出場を目標に{{c1::掲げる}}。
+渓流|けいりゅう|mountain stream|{{c1::渓流}}を渡った。
+渓谷|けいこく|valley|深い{{c1::渓谷}}に橋を架けるのは難しい。
+蛍光灯|けいこうとう|fluorescent light|{{c1::蛍光灯}}を使っているオフィスが多い。
+蛍|ほたる|firefly|{{c1::蛍}}を見たことがありますか。
+携帯電話|けいたいでんわ|mobile phone|{{c1::携帯電話}}を持っている人が増えている。
+携えて|たずさえて|to carry in hand|ラジオを{{c1::携えて}}登山する。
+継続|けいぞく|continuation|英会話のコースを{{c1::継続}}して受講する。
+継いで|ついで|to succeed; to take over|父のあとを{{c1::継いで}}医者になった。
+慶事|けいじ|happy event|息子の結婚、娘の出産と{{c1::慶事}}が続いた。
+休憩室|きゅうけいしつ|break room|{{c1::休憩室}}でゆっくり話しましょう。
+憩う|いこう|to rest|友達と公園で{{c1::憩う}}。
+養鶏場|ようけいじょう|poultry farm|父は{{c1::養鶏場}}で働いている。
+鶏|にわとり|chicken|私の家では{{c1::鶏}}を飼っている。
+滑稽な|こっけいな|funny; ridiculous|あの人が社長だなんて、{{c1::滑稽な}}話だ。
+稽古日|けいこび|training/practice day|今日はお茶の{{c1::稽古日}}です。
+捕鯨船|ほげいせん|whaling ship|{{c1::捕鯨船}}も少なくなった。
+鯨|くじら|whale|{{c1::鯨}}が泳いでいるのを見たことがありますか。
+打撃|だげき|blow; damage|台風で農家は大きな{{c1::打撃}}を受けた。
+撃たれて|うたれて|was shot|ピストルで{{c1::撃たれて}}死んだ。
+感激|かんげき|deep emotion; impression|その話を聞いて{{c1::感激}}した。
+急激に|きゅうげきに|suddenly; rapidly|物価が{{c1::急激に}}上がった。
+激しく|はげしく|intensely|雨が{{c1::激しく}}降り出した。
+洞穴|どうけつ|cave; cavern|山の側に{{c1::洞穴}}ができていた。
+穴|あな|hole|針の{{c1::穴}}に糸を通した。
+豪傑|ごうけつ|hero; strong person|彼は{{c1::豪傑}}だ。
+傑作|けっさく|masterpiece|この絵画は今世紀最大の{{c1::傑作}}だ。
+清潔な|せいけつな|clean|{{c1::清潔な}}衣類を身につける。
+簡潔に|かんけつに|briefly|用件を{{c1::簡潔に}}伝える。
+潔く|いさぎよく|gracefully; bravely|{{c1::潔く}}謝ったほうがいい。
+倹約家|けんやくか|thrifty person|彼は{{c1::倹約家}}だ。
+兼任|けんにん|concurrent post|営業部長と宣伝部長を{{c1::兼任}}する。
+兼ねて|かねて|also serve as|クラス委員がクラス会の議長も{{c1::兼ねて}}いる。
+剣道部|けんどうぶ|kendo club|{{c1::剣道部}}に入っている。
+剣|つるぎ|sword|弥生時代の{{c1::剣}}が遺跡から発見された。
+健康|けんこう|health|{{c1::健康}}に注意しよう。
+健在|けんざい|being in good health|両親とも{{c1::健在}}だ。
+健やかに|すこやかに|healthily|{{c1::健やかに}}お過ごしでしょうか。
+首都圏|しゅとけん|capital region|{{c1::首都圏}}の交通情報をお知らせします。
+合格圏内|ごうかくけんない|within passing range|今のあなたの成績なら、{{c1::合格圏内}}だ。
+嫌悪感|けんおかん|feeling of disgust|彼に{{c1::嫌悪感}}を覚える。
+機嫌|きげん|mood|父の{{c1::機嫌}}をとる。
+嫌われる|きらわれる|to be disliked|{{c1::嫌われる}}仕事。
+嫌がって|いやがって|to dislike|彼女が{{c1::嫌がって}}いる。
+参考文献|さんこうぶんけん|reference|{{c1::参考文献}}を論文の最後に書いてください。
+献立|こんだて|menu; meal plan|毎日の{{c1::献立}}を考えるのも大変だ。
+正絹|しょうけん|pure silk|{{c1::正絹}}の着物を桐の箱にしまう。
+絹|きぬ|silk|{{c1::絹}}のシャツは肌ざわりがいい。
+派遣|はけん|dispatch|政府から{{c1::派遣}}され、A国で技術指導をしている。
+小遣い|こづかい|pocket money|祖父から{{c1::小遣い}}をもらった。
+憲法|けんぽう|constitution|{{c1::憲法}}を守らなければならない。
+謙譲語|けんじょうご|humble language|{{c1::謙譲語}}はむずかしい。
+謙虚|けんきょ|modesty; humility|彼は常に{{c1::謙虚}}だ。
+顕微鏡|けんびきょう|microscope|{{c1::顕微鏡}}で微生物を見た。
+自己顕示欲|じこけんじよく|desire to show off|彼は{{c1::自己顕示欲}}が強い。
+懸賞|けんしょう|prize|{{c1::懸賞}}に応募する。
+懸念|けねん|concern; fear|開発には自然破壊の{{c1::懸念}}がある。
+懸ける|かける|to hang; to risk|はしごを屋根に{{c1::懸ける}}。
+喧騒|けんそう|bustle; noise|都会の{{c1::喧騒}}をのがれて田舎に行く。
+喧嘩|けんか|fight; quarrel|友達と{{c1::喧嘩}}をした。
+幻想|げんそう|illusion; fantasy|{{c1::幻想}}を抱く。
+幻|まぼろし|phantom; illusion|{{c1::幻}}を見たのかと思った。
+玄関|げんかん|entrance; foyer|{{c1::玄関}}に誰か来た。
+玄人|くろうと|expert; professional|{{c1::玄人}}の目はごまかせない。
+弦楽器|げんがっき|string instrument|バイオリンやギターなどを{{c1::弦楽器}}という。
+弦を張る|げんをはる|to string (an instrument)|琴に{{c1::弦を張る}}。
+天然資源|てんねんしげん|natural resources|日本は{{c1::天然資源}}がとぼしい国だ。
+源を発している|みなもとをはっしている|originates from|発生川は岩手県の山地に{{c1::源を発している}}。
+厳重|げんじゅう|strict; severe|{{c1::厳重}}に注意した。
+厳しい|きびしい|strict; intense|寒さが{{c1::厳しい}}。
+自己紹介|じこしょうかい|self-introduction|{{c1::自己紹介}}をした。
+知己|ちき|acquaintance|多くの同好の{{c1::知己}}を得る。
+己|おのれ|oneself|{{c1::己}}をふりかえってみる。
+孤独|こどく|loneliness|都会での生活は、ときどき{{c1::孤独}}を感じる。
+孤立|こりつ|isolation|彼は{{c1::孤立}}している。
+括弧|かっこ|parentheses|「」の符号は{{c1::括弧}}と読みます。
+弧状|こじょう|arc-shaped|湖が{{c1::弧状}}に広がる。
+故障|こしょう|breakdown|買ってすぐ{{c1::故障}}してしまった。
+故に|ゆえに|therefore; consequently|少しさの{{c1::故に}}過ちを犯した。
+誇示|こじ|display; ostentation|国は武力を{{c1::誇示}}した。
+誇る|ほこる|to be proud of|彼は世界に{{c1::誇る}}建築家だ。
+鼓膜|こまく|eardrum|{{c1::鼓膜}}が破れるほどの音楽が鳴り響いた。
+舌鼓|したづつみ|smack lips (at good food)|おいしい海鮮料理に{{c1::舌鼓}}を打った。
+顧客|こきゃく|customer|{{c1::顧客}}にファッションショーの案内状を送った。
+顧みる|かえりみる|to reflect on; to look back|自分の人生を{{c1::顧みる}}。
+呉服屋|ごふくや|kimono shop|この着物は駅前の{{c1::呉服屋}}でつくりました。
+娯楽番組|ごらくばんぐみ|entertainment show|日曜日は家で{{c1::娯楽番組}}を見ながら過ごす。
+覚悟|かくご|resolution; preparedness|失敗を{{c1::覚悟}}でやってみた。
+悟る|さとる|to perceive; to realize|象は死期を{{c1::悟る}}と群れから離れる。
+碁|ご|go (board game)|祖父の趣味は{{c1::碁}}を打つことだ。
+囲碁|いご|go (strategy board game)|彼は{{c1::囲碁}}の名人だ。
+弁護士|べんごし|lawyer|将来は{{c1::弁護士}}になりたい。
+保護|ほご|protection|絶滅寸前の動物を{{c1::保護}}した。
+公然|こうぜん|open; public|二十歳になれば{{c1::公然}}と酒が飲める。
+公|おおやけ|public|{{c1::公}}の場での発言には注意が必要だ。
+瞳孔|どうこう|pupil (of eye)|{{c1::瞳孔}}が開いていて危険な状態だった。
+成功|せいこう|success|新製品の開発に{{c1::成功}}した。
+功徳|くどく|merit; good deeds|{{c1::功徳}}を積んだお坊さんの話に感動した。
+巧妙|こうみょう|clever; skillful|{{c1::巧妙}}な手口で女性をだました。
+巧み|たくみ|skillful|{{c1::巧み}}な話術で関心を引きつける。
+甲殻類|こうかくるい|crustaceans|エビやカニなどは{{c1::甲殻類}}だ。
+甲板|かんぱん|deck (of a ship)|{{c1::甲板}}に出て、写真をとった。
+揚子江|ようすこう|Yangtze River|中国旅行で{{c1::揚子江}}を見る。
+江戸時代|えどじだい|Edo period|今日の歴史の授業は{{c1::江戸時代}}についてだ。
+炭坑|たんこう|coal mine|{{c1::炭坑}}の出入り口で事故があったそうだ。
+孝行息子|こうこうむすこ|dutiful son|彼は親思いの{{c1::孝行息子}}だ。
+抗議|こうぎ|protest|一方的な役所からの通知に{{c1::抗議}}した。
+対抗|たいこう|competition; opposition|クラス{{c1::対抗}}の野球の試合がある。
+専攻|せんこう|major (subject)|大学で西洋史を{{c1::専攻}}している。
+攻めて|せめて|to attack|真正面から{{c1::攻めて}}こい。
+拘束|こうそく|restraint; detention|容疑者は警察に身柄を{{c1::拘束}}された。
+恒例|こうれい|annual event|毎年6月に研修旅行を行うのが{{c1::恒例}}だ。
+洪水|こうずい|flood|{{c1::洪水}}に見舞われた。
+貢献|こうけん|contribution|チームの優勝に{{c1::貢献}}する。
+貢いだ|みついだ|to support financially|彼は権力者に品物を{{c1::貢いだ}}。
+健康|けんこう|health|金よりも{{c1::健康}}が大切だ。
+控除|こうじょ|deduction|税金を{{c1::控除}}する。
+控えた|ひかえた|refrained from|退院後も、塩分を{{c1::控えた}}食事を心がけてください。
+金融恐慌|きんゆうきょうこう|financial panic|{{c1::金融恐慌}}を引き起こす。
+慌ただしく|あわただしく|hurriedly|朝寝坊して{{c1::慌ただしく}}家を出た。
+絞殺死体|こうさつしたい|strangled corpse|{{c1::絞殺死体}}が発見された。
+絞る|しぼる|to narrow down; to squeeze|狙いを{{c1::絞る}}。
+絞める|しめる|to strangle|自分の首を{{c1::絞める}}ような発言だ。
+項目別|こうもくべつ|by item|資料を{{c1::項目別}}に整理する。
+入試要項|にゅうしようこう|entrance exam guide|大学の{{c1::入試要項}}を取り寄せた。
+排水溝|はいすいこう|drain|{{c1::排水溝}}の掃除をした。
+溝|みぞ|ditch; gap|意見の違いから二人の間に{{c1::溝}}ができた。
+綱領|こうりょう|platform; policy|党の{{c1::綱領}}を発表した。
+綱引き|つなひき|tug of war|運動会では{{c1::綱引き}}に出場した。
+発酵|はっこう|fermentation|米を{{c1::発酵}}させて日本酒を造る。
+原稿用紙|げんこうようし|manuscript paper|{{c1::原稿用紙}}に作文を書く。
+投稿|とうこう|submission|私が{{c1::投稿}}した記事が雑誌に掲載された。
+興奮|こうふん|excitement|コンサートに{{c1::興奮}}する。
+興味|きょうみ|interest|心理学に{{c1::興味}}がある。
+興す|おこす|to start (a business)|新しい会社を{{c1::興す}}。
+均衡|きんこう|balance|需要と供給の{{c1::均衡}}が崩れる。
+鉄工所|てっこうじょ|steel mill|父は{{c1::鉄工所}}を経営している。
+鋼|はがね|steel|刃物には固くて強い{{c1::鋼}}が使われるそうだ。
+購入|こうにゅう|purchase|教科書は学校がまとめて{{c1::購入}}する。
+剛健|ごうけん|robustness; strength|両親は{{c1::剛健}}な男の子になってほしいと願っている。
+豪華|ごうか|luxurious|その歌手は{{c1::豪華}}な衣装でステージに現れた。
+豪快|ごうかい|hearty; lively|社長は{{c1::豪快}}に笑う。
+克服|こくふく|overcoming|数々の障害を{{c1::克服}}した。
+克明|こくめい|detailed|彼女は子どもの成長を{{c1::克明}}に記録していた。
+穀物|こくもつ|grains|食料としての{{c1::穀物}}を穀類という。
+穀類|こくるい|cereals|食料としての{{c1::穀類}}を大事にする。
+冷酷|れいこく|cruel; cold-hearted|彼はやさしそうに見えるが、実は{{c1::冷酷}}な男だ。
+地獄|じごく|hell|爆発事故の現場はまるで{{c1::地獄}}だった。
+監獄|かんごく|prison|受刑者が{{c1::監獄}}で書いた手記を発表した。
+頃|ころ|time; period|若い{{c1::頃}}は徹夜しても疲れなかった。
+昆虫採集|こんちゅうさいしゅう|insect collecting|子どもの頃、{{c1::昆虫採集}}をしたものです。
+悔恨|かいこん|regret; remorse|{{c1::悔恨}}の念にさいなまれた。
+恨む|うらむ|to resent|世の中を{{c1::恨む}}。
+紺色|こんいろ|navy blue|{{c1::紺色}}のスカートをはいている人が林さんだ。
+魂胆|こんたん|ulterior motive|彼女には何か{{c1::魂胆}}があるに違いない。
+魂|たましい|soul|死者の{{c1::魂}}を慰める。
+懇切丁寧|こんせつていねい|very kind and thorough|道を尋ねたら{{c1::懇切丁寧}}に教えてくれた。
+懇ろ|ねんごろ|cordial; courteous|来客を{{c1::懇ろ}}にもてなした。
+補佐|ほさ|assistance; aide|副会長は会長を{{c1::補佐}}する役である。
+示唆|しさ|suggestion; hint|外務大臣は{{c1::示唆}}した。
+唆された|そそのかされた|to be instigated|彼に無理を{{c1::唆された}}。
+詐称|さしょう|false claim|彼は経歴を{{c1::詐称}}していた。
+詐欺師|さぎし|swindler|彼女は、実は{{c1::詐欺師}}だった。
+閉鎖|へいさ|closure; shutdown|事情により施設を{{c1::閉鎖}}することになった。
+鎖|くさり|chain|犬を{{c1::鎖}}でつなぐ。
+ご無沙汰|ごぶさた|long silence; neglecting to stay in touch|すっかり{{c1::ご無沙汰}}してしまった。
+沙汰|さた|news; affair|地獄の{{c1::沙汰}}も金次第といわれる。
+災害|さいがい|disaster|{{c1::災害}}には天災だけではなく、火災もある。
+天災|てんさい|natural disaster|地震や台風などの{{c1::天災}}に備える。
+人災|じんさい|man-made disaster|{{c1::人災}}による被害も無視できない。
+災い|わざわい|misfortune; calamity|自然も時には人間に{{c1::災い}}をもたらす。
+砕石機|さいせきき|rock crusher|{{c1::砕石機}}を使って作業を進めた。
+砕いた|くだいた|crushed|{{c1::砕いた}}氷を使って冷やした。
+主宰|しゅさい|organizer; preside over|彼は若いながらも劇団を{{c1::主宰}}している。
+盆栽|ぼんさい|bonsai|{{c1::盆栽}}をいじることが祖父の楽しみの一つだ。
+水彩画|すいさいが|watercolor painting|彼の描く{{c1::水彩画}}は色彩が鮮やかだ。
+色彩|しきさい|color; hue|美しい花が室内を彩っている。
+彩って|いろどって|to color; to decorate|花が祭壇を{{c1::彩って}}いる。
+書斎|しょさい|study room|父の{{c1::書斎}}には本が並んでいる。
+独裁政治|どくさいせいじ|dictatorship|その国はいまだに{{c1::独裁政治}}が続いている。
+裁って|たって|to cut|生地を{{c1::裁って}}服を作る。
+裁く|さばく|to judge|罪を{{c1::裁く}}。
+債権者|さいけんしゃ|creditor|倒産した会社に{{c1::債権者}}が押しかけた。
+負債|ふさい|debt|{{c1::負債}}を返済するために働いている。
+開催|かいさい|holding (a meeting, event)|オリンピックは4年ごとに{{c1::開催}}される。
+催す|もよおす|to host; to hold|歓迎会を{{c1::催す}}。
+掲載|けいさい|publication; appearance in print|記事が新聞に{{c1::掲載}}された。
+載って|のって|to be mentioned; to be printed|その言葉は辞書にも{{c1::載って}}いなかった。
+錠剤|じょうざい|tablet (medicine)|ビタミンの{{c1::錠剤}}を毎日飲んでいる。
+調剤薬局|ちょうざいやっきょく|pharmacy|兄は{{c1::調剤薬局}}に勤めている。
+削減|さくげん|reduction|経費の{{c1::削減}}のために工夫している。
+削った|けずった|sharpened; scraped|ナイフで鉛筆を{{c1::削った}}。
+捜索|そうさく|search (for a missing person or item)|行方不明者の{{c1::捜索}}は続いている。
+方策|ほうさく|measure; plan|具体的な{{c1::方策}}を立てる必要がある。
+酢|す|vinegar|{{c1::酢}}を使った料理。
+酢酸|さくさん|acetic acid|酢の酸味の主成分は{{c1::酢酸}}だ。
+搾乳|さくにゅう|milking|酪農家で{{c1::搾乳}}を体験した。
+搾る|しぼる|to squeeze|レモンを{{c1::搾る}}。
+錯覚|さっかく|illusion; hallucination|彼女たちは姉妹かと{{c1::錯覚}}するほど似ていた。
+大匙|おおさじ|tablespoon|{{c1::大匙}}一杯の油をフライパンに入れてください。
+撮影会|さつえいかい|photo session|モデルを囲んで{{c1::撮影会}}が行われた。
+撮る|とる|to take (a picture)|写真を{{c1::撮る}}。
+経済摩擦|けいざいまさつ|economic friction|日米間の{{c1::経済摩擦}}が問題になっている。
+擦る|する|to rub|マッチを{{c1::擦る}}。
+靴擦れ|くつずれ|blister (from shoes)|{{c1::靴擦れ}}で足が痛い。
+挨拶|あいさつ|greeting|都会では{{c1::挨拶}}しない人も多い。
+爽やか|さわやか|refreshing; fresh|彼は{{c1::爽やか}}な好青年だ。
+桟橋|さんばし|pier|{{c1::桟橋}}で釣りをしている人を見かけた。
+養蚕業|ようさんぎょう|sericulture|おじは{{c1::養蚕業}}を営んでいる。
+蚕|かいこ|silkworm|{{c1::蚕}}から絹がとれる。
+大惨事|だいさんじ|great disaster|たった一人の飲酒運転が{{c1::大惨事}}を引き起こした。
+惨めな|みじめな|miserable|{{c1::惨めな}}敗北だった。
+傘下|さんか|affiliated with|あの会社は{{c1::傘下}}に多くの子会社を持っている。
+傘|かさ|umbrella|電車に{{c1::傘}}を置き忘れた。
+酸味|さんみ|acidity; sourness|タイ料理は強い{{c1::酸味}}がある。
+酸い|すい|sour|祖父は{{c1::酸い}}も甘いも知っている人だ。
+暫定|ざんてい|provisional|月末までに{{c1::暫定}}予算案を提出する。
+紳士的|しんしてき|gentlemanly|彼はいつも{{c1::紳士的}}な態度で接する。
+氏名|しめい|full name|応募用紙に{{c1::氏名}}を明記してください。
+氏より育ち|うじよりそだち|upbringing over lineage|「{{c1::氏より育ち}}」とよく言われる。
+司会|しかい|master of ceremonies|友人の結婚パーティーの{{c1::司会}}を頼まれた。
+一矢|いっし|a retaliatory arrow|矢を報いる（＝{{c1::一矢}}を報いる）。
+矢面|やおもて|line of fire|社長が{{c1::矢面}}に立たされた。
+要旨|ようし|summary|講演を読んで{{c1::要旨}}をまとめる。
+旨|むね|intent; purport|出欠はその{{c1::旨}}ご連絡ください。
+至急|しきゅう|urgent|{{c1::至急}}、職員室へ来てください。
+至る|いたる|to reach|朝早くから深夜に{{c1::至る}}まで働く。
+医学部志望|いがくぶしぼう|aspiring medical student|私は{{c1::医学部志望}}です。
+志して|こころざして|to aspire|画家を{{c1::志して}}フランスへ渡った。
+福祉関係|ふくしかんけい|welfare-related|将来は{{c1::福祉関係}}の仕事につきたい。
+選択肢|せんたくし|options; choices|{{c1::選択肢}}は二つにしかない。
+姿勢|しせい|posture|私は{{c1::姿勢}}が悪いと母に注意される。
+姿|すがた|appearance; figure|自分の{{c1::姿}}を鏡に映した。
+施行|しこう|enforcement|新しい法律が{{c1::施行}}される。
+施されて|ほどこされて|to be applied; to be decorated with|宮殿には装飾が{{c1::施されて}}いた。
+視点|してん|viewpoint|物事はさまざまな{{c1::視点}}から見ることが必要だ。
+紫外線|しがいせん|ultraviolet rays|5月になると{{c1::紫外線}}が強くなる。
+紫色|むらさきいろ|purple|あの{{c1::紫色}}の着物はとても美しい。
+詩人|しじん|poet|学生時代、{{c1::詩人}}になることを夢見ていた。
+飼育|しいく|breeding; raising (animals)|動物を{{c1::飼育}}していると愛情がわく。
+飼う|かう|to keep (a pet)|金魚を{{c1::飼う}}。
+雌雄|しゆう|male and female|ひよこの{{c1::雌雄}}を見分ける。
+雌|めす|female (animal)|お宅の犬は{{c1::雌}}ですか？
+諮問機関|しもんきかん|advisory body|首相は{{c1::諮問機関}}に意見を求めた。
+諮る|はかる|to consult|その企画を重役会議に{{c1::諮る}}。
+侍医|じい|imperial doctor|あの大学の教授は{{c1::侍医}}もしている。
+侍|さむらい|samurai|父は{{c1::侍}}の出てくる時代劇が好きだ。
+滋養|じよう|nutrition|風邪の時は{{c1::滋養}}のあるものを食べるとよい。
+慈善事業|じぜんじぎょう|charity work|{{c1::慈善事業}}に参加する。
+慈しみ|いつくしみ|affection|草木を{{c1::慈しみ}}、手入れを怠らない。
+陶磁器|とうじき|ceramics; porcelain|さまざまな国の{{c1::陶磁器}}を集めている。
+𠮟られた|しかられた|was scolded|悪戯をして母に{{c1::𠮟られた}}。
+掛け軸|かけじく|hanging scroll|床の間に{{c1::掛け軸}}をかけた。
+軸|じく|axis; shaft|マッチの{{c1::軸}}で模型を作った。
+疾患|しっかん|illness; disease|皮膚の{{c1::疾患}}には清潔が第一。
+執筆|しっぴつ|writing (as a job)|原稿の{{c1::執筆}}に取りかかる。
+漆器|しっき|lacquerware|{{c1::漆器}}は水洗いしないほうがいい。
+漆塗り|うるしぬり|lacquer-coated|{{c1::漆塗り}}のお椀を買った。
+芝|しば|turf; lawn|庭に{{c1::芝}}を植える。
+芝生|しばふ|lawn|{{c1::芝生}}に寝転がって読書した。
+校舎|こうしゃ|school building|{{c1::校舎}}の改築工事が行われている。
+田舎|いなか|countryside|{{c1::田舎}}から出てきた。
+放射能|ほうしゃのう|radioactivity|{{c1::放射能}}による大気汚染が問題になっている。
+射る|いる|to shoot (an arrow)|父は矢を{{c1::射る}}。
+容赦|ようしゃ|mercy; leniency|記者会見では{{c1::容赦}}ない質問が飛びかった。
+傾斜|けいしゃ|slope; inclination|この坂道は{{c1::傾斜}}がかなりきつい。
+斜面|しゃめん|slope|山の{{c1::斜面}}に雪が積もった。
+斜め|ななめ|diagonal; slanted|道を{{c1::斜め}}に横切る。
+煮沸消毒|しゃふつしょうどく|boiling sterilization|哺乳瓶は{{c1::煮沸消毒}}している。
+煮る|にる|to boil; to simmer|鍋で野菜を{{c1::煮る}}。
+遮光|しゃこう|light shielding|{{c1::遮光}}カーテンは光を遮る。
+遮る|さえぎる|to block; to intercept|光を{{c1::遮る}}。
+面会謝絶|めんかいしゃぜつ|no visitors allowed|{{c1::面会謝絶}}で会えなかった。
+謝る|あやまる|to apologize|頭を下げて{{c1::謝る}}。
+無邪気|むじゃき|innocence; naivety|子どもが{{c1::無邪気}}に遊んでいる。
+風邪|かぜ|common cold|{{c1::風邪}}をひいてしまった。
+大蛇|だいじゃ|giant snake|私は{{c1::大蛇}}が苦手です。
+長蛇|ちょうだ|long line|店の前には{{c1::長蛇}}の列ができていた。
+蛇|へび|snake|{{c1::蛇}}を見た。
+尺度|しゃくど|scale; measure|人によって考え方の{{c1::尺度}}は違う。
+巻尺|まきじゃく|tape measure|{{c1::巻尺}}で家具のサイズを測った。
+晩酌|ばんしゃく|evening drink|仕事を終えて{{c1::晩酌}}をしている。
+酌み交わした|くみかわした|shared drinks|久しぶりに酒を{{c1::酌み交わした}}。
+解釈|かいしゃく|interpretation|どう{{c1::解釈}}するかは人によって違う。
+静寂|せいじゃく|silence; stillness|この山荘は{{c1::静寂}}に包まれている。
+寂しく|さびしく|lonely|一人暮らしは時には{{c1::寂しく}}なる。
+朱肉|しゅにく|red ink pad|印鑑は持ってきたが{{c1::朱肉}}がなかった。
+朱色|しゅいろ|vermilion|{{c1::朱色}}の風呂敷で包む。
+狩猟生活|しゅりょうせいかつ|hunting life|昔の人間は{{c1::狩猟生活}}を営んでいた。
+狩り|かり|hunting|父は{{c1::狩り}}に行き、鳥を三羽しとめた。
+特殊|とくしゅ|special; unique|彼は{{c1::特殊}}な才能を持っていた。
+殊に|ことに|particularly|今年は{{c1::殊に}}大雪だ。
+珠算|しゅざん|abacus calculation|私は{{c1::珠算}}二級を持っている。
+真珠|しんじゅ|pearl|両親から{{c1::真珠}}のネックレスをもらった。
+趣味|しゅみ|hobby|{{c1::趣味}}は読書です。
+趣|おもむき|elegance; charm; taste|{{c1::趣}}のある立派な庭園ですね。
+平均寿命|へいきんじゅみょう|average life expectancy|男女の{{c1::平均寿命}}には差がある。
+呪文|じゅもん|spell; incantation|苦い{{c1::呪文}}を唱える。
+呪った|のろった|cursed|私は運命を{{c1::呪った}}。
+授業|じゅぎょう|class; lesson|次の{{c1::授業}}は英語だ。
+授かり|さずかり|to be blessed with|子どもは神からの{{c1::授かり}}ものだ。
+需要|じゅよう|demand|{{c1::需要}}と供給の関係で価格が決まる。
+必需品|ひつじゅひん|necessities|海辺では水は{{c1::必需品}}だ。
+儒教|じゅきょう|Confucianism|{{c1::儒教}}の影響を受けて育った。
+樹木|じゅもく|trees and shrubs|門から玄関まで両側に{{c1::樹木}}が茂っている。
+優秀|ゆうしゅう|excellent|{{c1::優秀}}な成績で卒業した。
+秀でた|ひいでた|excelled in|一芸に{{c1::秀でた}}人が集まった。
+宗教|しゅうきょう|religion|多くの{{c1::宗教}}は宗派に分かれている。
+宗派|しゅうは|sect; denomination|宗教はいくつかの{{c1::宗派}}に分かれている。
+悪臭|あくしゅう|bad smell|{{c1::悪臭}}が漂う。
+臭い|くさい|smelly|ガス{{c1::臭い}}匂いがした。
+臭み|くさみ|fishy or bad odor|魚料理の{{c1::臭み}}を取る。
+修理工場|しゅうりこうじょう|repair shop|車の{{c1::修理工場}}で働く。
+修業中|しゅぎょうちゅう|in training|今はコックとして{{c1::修業中}}です。
+修めた|おさめた|completed (studies)|英国の大学院で学位を{{c1::修めた}}。
+就職|しゅうしょく|finding employment|金融機関に{{c1::就職}}する。
+成就|じょうじゅ|realization; fulfillment|願いが{{c1::成就}}した。
+就く|つく|to take (a position)|希望する職に{{c1::就く}}のは難しい。
+公衆|こうしゅう|the public|{{c1::公衆}}の面前で恥をかいた。
+大衆的|たいしゅうてき|popular; mass appeal|{{c1::大衆的}}な居酒屋で飲んだ。
+哀愁|あいしゅう|melancholy|{{c1::哀愁}}を帯びた旋律が魅力だ。
+愁い|うれい|sorrow|{{c1::愁い}}に沈む。
+応酬|おうしゅう|exchange; response|彼は冷静に{{c1::応酬}}した。
+醜態|しゅうたい|disgraceful behavior|酔って{{c1::醜態}}をさらした。
+醜い|みにくい|ugly|けばけばしく{{c1::醜い}}。
+襲撃|しゅうげき|attack; assault|敵の{{c1::襲撃}}を受けた。
+襲われている|おそわれている|being attacked|いつも不安に{{c1::襲われている}}。
+果汁|かじゅう|fruit juice|{{c1::果汁}}100%のジュースを飲む。
+味噌汁|みそしる|miso soup|{{c1::味噌汁}}が好きになった。
+充実|じゅうじつ|fulfilling; enrichment|{{c1::充実}}した生活を送りたい。
+充てる|あてる|to assign; to devote|ボーナスを返済に{{c1::充てる}}。
+従業員|じゅうぎょういん|employee|{{c1::従業員}}に給料を支払った。
+従って|したがって|therefore; accordingly / follow|順路に{{c1::従って}}進む。
+渋滞|じゅうたい|traffic jam|この道はいつも{{c1::渋滞}}している。
+銃撃戦|じゅうげきせん|gun battle|ニュースによると、A国で{{c1::銃撃戦}}があり多くの負傷者が出た。
+獣医|じゅうい|veterinarian|愛犬を{{c1::獣医}}に診てもらう。
+獣|けもの|beast; animal|{{c1::獣}}がよく通る道を{{c1::獣}}道という。
+獣道|けものみち|animal trail|獣がよく通ることからできた道を{{c1::獣道}}という。
+操縦|そうじゅう|steering; piloting|いつか飛行機を{{c1::操縦}}してみたい。
+縦|たて|vertical|正方形は{{c1::縦}}と横の長さが同じ。
+叔父|おじ|uncle|{{c1::叔父}}から入学祝いが送られてきた。
+叔母|おば|aunt|{{c1::叔母}}から入学祝いが送られてきた。
+紳士淑女|しんししゅくじょ|ladies and gentlemen|この会は{{c1::紳士淑女}}の集まりです。
+静粛|せいしゅく|silence|テスト中は{{c1::静粛}}に。
+厳粛|げんしゅく|solemnity|{{c1::厳粛}}な儀式に臨む。
+自粛|じしゅく|self-restraint|病気をしてから酒を{{c1::自粛}}している。
+短縮|たんしゅく|shortening|電話番号を{{c1::短縮}}ダイヤルにした。
+縮めた|ちぢめた|shortened|スカートの丈が長いので{{c1::縮めた}}。
+学習塾|がくしゅうじゅく|cram school|週に3回{{c1::学習塾}}に通っている。
+熟睡|じゅくすい|deep sleep|{{c1::熟睡}}していて目覚ましが鳴っても気づかなかった。
+熟れる|うれる|to ripen|柿の実が{{c1::熟れる}}。
+俊敏|しゅんびん|agile; quick|{{c1::俊敏}}なジャーナリストの記事は興味深い。
+瞬間|しゅんかん|moment; instant|決定的{{c1::瞬間}}をカメラに収めた。
+瞬く|またたく|to blink; twinkle|サイレンの音で強盗は{{c1::瞬く}}うちに逃げた。
+上旬|じょうじゅん|early in the month|来月の{{c1::上旬}}には帰国するつもりだ。
+中旬|ちゅうじゅん|middle of the month|来月の{{c1::中旬}}に予定がある。
+旬|しゅん|in season|{{c1::旬}}の野菜を使って料理する。
+巡査|じゅんさ|police officer|駅前の交番の{{c1::巡査}}はとても親切だ。
+巡る|めぐる|to go around|京都のお寺を{{c1::巡る}}。
+矛盾|むじゅん|contradiction|言っていることが{{c1::矛盾}}している。
+盾|たて|shield|選挙を{{c1::盾}}にとって行動する。
+批准|ひじゅん|ratification|条約の{{c1::批准}}は困難な見通しだ。
+殉職|じゅんしょく|death in the line of duty|山本刑事は事件で{{c1::殉職}}した。
+循環|じゅんかん|circulation|町を{{c1::循環}}するバスが走っている。
+利潤|りじゅん|profit|商売で{{c1::利潤}}をあげる。
+潤ませて|うるませて|to moisten (e.g. eyes)|映画のシーンで目を{{c1::潤ませて}}いた。
+遵守|じゅんしゅ|observance; compliance|法律を{{c1::遵守}}しなければならない。
+庶民的|しょみんてき|common; down-to-earth|彼女は{{c1::庶民的}}な人だった。
+突如|とつじょ|suddenly|{{c1::突如}}ガス爆発が起きた。
+如実|にょじつ|vividly; clearly|努力の成果が{{c1::如実}}に現れた。
+順序|じゅんじょ|order; sequence|{{c1::順序}}立てて話してください。
+叙情詩|じょじょうし|lyrical poem|彼は{{c1::叙情詩}}を書く詩人です。
+叙勲|じょくん|conferment of decorations|長年の功績が認められ{{c1::叙勲}}を受けた。
+徐行運転|じょこううんてん|slow driving|スクールゾーンでは{{c1::徐行運転}}を心がけてください。
+一升瓶|いっしょうびん|1.8L sake bottle|最近は一般家庭で{{c1::一升瓶}}を見かけなくなった。
+升|ます|measuring box; unit of volume|{{c1::升}}で白米を計る。
+師匠|ししょう|master; teacher|私と山田さんは{{c1::師匠}}と弟子の関係だ。
+戸籍抄本|こせきしょうほん|extract of family register|履歴書と一緒に{{c1::戸籍抄本}}を提出してください。
+肖像画|しょうぞうが|portrait|宮殿には歴代の国王の{{c1::肖像画}}が飾られていた。
+高尚|こうしょう|refined; noble|オペラ鑑賞とは{{c1::高尚}}な趣味ですね。
+老松|ろうしょう|old pine tree|{{c1::老松}}が門前に立っていた。
+松の木|まつのき|pine tree|{{c1::松の木}}が海岸沿いに立っている。
+沼沢地|しょうたくち|marshland|この辺は{{c1::沼沢地}}になっている。
+泥沼|どろぬま|bog; quagmire|グラウンドは{{c1::泥沼}}のようだ。
+昭和|しょうわ|Showa era|{{c1::昭和}}から平成に元号は変わった。
+春宵一刻値千金|しゅんしょういっこくあたいせんきん|A spring evening is worth a thousand gold pieces|{{c1::春宵一刻値千金}}という。
+宵闇|よいやみ|twilight dusk|{{c1::宵闇}}が迫ると駅は混雑する。
+症状|しょうじょう|symptom|風邪の{{c1::症状}}が出た。
+発祥|はっしょう|origin|ナイル川流域は古代文明{{c1::発祥}}の地だ。
+称賛|しょうさん|praise|技術が世界的に{{c1::称賛}}されている。
+合唱団|がっしょうだん|choir|ウィーン少年{{c1::合唱団}}が来日した。
+唱えて|となえて|to recite; chant|スローガンを{{c1::唱えて}}歩いた。
+交渉|こうしょう|negotiation|{{c1::交渉}}は難航していた。
+干渉|かんしょう|interference|母は私のすることにいちいち{{c1::干渉}}する。
+民事訴訟|みんじそしょう|civil lawsuit|{{c1::民事訴訟}}を起こされた。
+車掌|しゃしょう|train conductor|{{c1::車掌}}さんが近づいてきた。
+結晶|けっしょう|crystal|雪の{{c1::結晶}}は美しい。
+水晶|すいしょう|crystal (quartz)|{{c1::水晶}}を使って飾りを作る。
+焦点|しょうてん|focus|{{c1::焦点}}を絞る。
+焦げて|こげて|burned|何かが{{c1::焦げて}}いる匂いがする。
+焦った|あせった|got flustered|待ち合わせに遅れそうで{{c1::焦った}}。
+硝酸|しょうさん|nitric acid|{{c1::硝酸}}は劇薬に指定されている。
+化粧|けしょう|makeup|役者が楽屋で{{c1::化粧}}を始めた。
+証人|しょうにん|witness|{{c1::証人}}として出廷した。
+証言|しょうげん|testimony|裁判で{{c1::証言}}した。
+負傷|ふしょう|injury|衝突して{{c1::負傷}}した。
+傷口|きずぐち|wound|{{c1::傷口}}が痛む。
+傷んで|いたんで|damaged|家が{{c1::傷んで}}きた。
+奨学金|しょうがくきん|scholarship|{{c1::奨学金}}がもらえることになった。
+詳細|しょうさい|details|{{c1::詳細}}は後日連絡します。
+詳しく|くわしく|in detail|{{c1::詳しく}}解説してくれる。
+表彰|ひょうしょう|commendation|父は安全運転で{{c1::表彰}}された。
+障害|しょうがい|obstacle; disability|私たちの結婚には多くの{{c1::障害}}があった。
+障ります|さわります|to harm (health)|無理をすると体に{{c1::障ります}}よ。
+衝撃的|しょうげきてき|shocking|{{c1::衝撃的}}な体験を聞いた。
+補償|ほしょう|compensation|損害を与えた場合、{{c1::補償}}するのは当然だ。
+償う|つぐなう|to make amends|罪を{{c1::償う}}。
+座礁|ざしょう|running aground|タンカーが{{c1::座礁}}して原油が流出した。
+半鐘|はんしょう|fire alarm bell|火事を知らせるとき、{{c1::半鐘}}を鳴らした。
+鐘|かね|bell|除夜の{{c1::鐘}}をつく。
+醤油|しょうゆ|soy sauce|欧米でも{{c1::醤油}}を売っている。
+大丈夫|だいじょうぶ|okay; alright|そんなに心配しなくても{{c1::大丈夫}}ですよ。
+丈|たけ|length|スカートの{{c1::丈}}をつめた。
+冗談|じょうだん|joke|彼は{{c1::冗談}}を言って笑わせる。
+条件|じょうけん|condition|先方の{{c1::条件}}をのんで契約した。
+箇条書き|かじょうがき|itemized list|点を{{c1::箇条書き}}にする。
+洗浄|せんじょう|cleaning|容器は{{c1::洗浄}}してから再利用する。
+浄水|じょうすい|purified water|{{c1::浄水}}を飲む。
+余剰人員|よじょうじんいん|surplus personnel|{{c1::余剰人員}}は子会社に回す。
+縄文時代|じょうもんじだい|Jomon period|{{c1::縄文時代}}の土器が発見された。
+縄跳び|なわとび|jump rope|子どもの頃、{{c1::縄跳び}}をよくした。
+土壌|どじょう|soil|この{{c1::土壌}}は農作物に適していない。
+お嬢さん|おじょうさん|young lady|{{c1::お嬢さん}}が席を譲ってくれた。
+1錠|いちじょう|one tablet|この薬は{{c1::1錠}}を1日3回服用する。
+分譲|ぶんじょう|condominium unit sale|ここには{{c1::分譲}}マンションが建つ。
+譲った|ゆずった|gave up (seat, etc.)|席をお年寄りに{{c1::譲った}}。
+醸造酒|じょうぞうしゅ|brewed liquor|私は{{c1::醸造酒}}が好きだ。
+醸し出して|かもしだして|to bring about|独特の雰囲気を{{c1::醸し出して}}いる。
+繁殖力|はんしょくりょく|reproductive power|ゴキブリの{{c1::繁殖力}}はすごい。
+殖やそうか|ふやそうか|to try to increase|財産をどう{{c1::殖やそうか}}考えている。
+装飾品|そうしょくひん|ornament|彼は{{c1::装飾品}}を集めている。
+着飾って|きかざって|to dress up|{{c1::着飾って}}パーティーに行った。
+委嘱|いしょく|commission|主題歌の作曲を{{c1::委嘱}}された。
+染織|せんしょく|dyeing and weaving|帯は日本伝統の{{c1::染織}}品です。
+組織|そしき|organization|個人では力不足なので{{c1::組織}}を作る。
+織物|おりもの|woven fabric|これは伝統的な{{c1::織物}}です。
+屈辱|くつじょく|humiliation|絶対勝てる試合に負けて{{c1::屈辱}}だった。
+辱しめて|はずかしめて|to disgrace|母校の名を{{c1::辱しめて}}いる。
+尻|しり|buttocks|いたずらして{{c1::尻}}を叩かれた。
+不法侵入|ふほうしんにゅう|illegal entry|海からの{{c1::不法侵入}}を防ぐ。
+侵して|おかして|to violate|他国の王を{{c1::侵して}}はならない。
+興味津々|きょうみしんしん|very interested|子どもたちは実験に{{c1::興味津々}}だった。
+津波|つなみ|tsunami|{{c1::津波}}の恐れがある。
+読唇術|どくしんじゅつ|lip reading|彼は{{c1::読唇術}}ができる。
+唇|くちびる|lips|怒ると{{c1::唇}}をとがらせる。
+妊娠|にんしん|pregnancy|{{c1::妊娠}}と出産に関する雑誌が人気。
+振動|しんどう|vibration|車体の{{c1::振動}}が激しい。
+振って|ふって|to shake|犬はしっぽを{{c1::振って}}近寄る。
+浸食|しんしょく|erosion|波に{{c1::浸食}}されて不思議な形の岩ができた。
+浸した|ひたした|to soak|火傷した指を急いで水に{{c1::浸した}}。
+紳士服|しんしふく|gentlemen’s clothing|{{c1::紳士服}}の売り場は5階です。
+診療時間|しんりょうじかん|consultation hours|{{c1::診療時間}}は午前9時からです。
+診て|みて|to examine|医者に胃の様子を{{c1::診て}}もらう。
+慎重|しんちょう|cautious|{{c1::慎重}}に行動しよう。
+慎む|つつしむ|to refrain|無礼な言動は{{c1::慎む}}べきだ。
+第一次審査|だいいちじしんさ|first screening|私の作品は{{c1::第一次審査}}に合格した。
+審判|しんぱん|referee|{{c1::審判}}が笛を吹いた。
+自刃|じじん|suicide by sword|武士が{{c1::自刃}}した。
+刃|やいば|blade|カッターの{{c1::刃}}で手を切った。
+刃渡り|はわたり|blade length|ナイフの{{c1::刃渡り}}は10センチです。
+仁愛|じんあい|benevolence|祖母は{{c1::仁愛}}の心を持っていた。
+仁義|じんぎ|duty and humanity|彼は{{c1::仁義}}を重んじる人だ。
+尽力|じんりょく|effort|計画実現のため{{c1::尽力}}した。
+尽きて|つきて|to be exhausted|力{{c1::尽きて}}倒れた。
+迅速|じんそく|quick|{{c1::迅速}}な対応で助かった。
+甚大|じんだい|enormous|{{c1::甚大}}な損害を受けた。
+甚だ|はなはだ|extremely|{{c1::甚だ}}残念です。
+報道陣|ほうどうじん|press corps|{{c1::報道陣}}に囲まれた。
+尋問|じんもん|interrogation|警官に{{c1::尋問}}された。
+尋ねた|たずねた|asked|人に道を{{c1::尋ねた}}。
+肝腎|かんじん|essential|{{c1::肝腎}}なことを忘れた。
+腎臓|じんぞう|kidney|{{c1::腎臓}}の調子が悪い。
+垂直分布|すいちょくぶんぷ|vertical distribution|植物の{{c1::垂直分布}}を調べる。
+垂れて|たれて|to drip|汗が全身から{{c1::垂れて}}いた。
+炊飯器|すいはんき|rice cooker|新しい{{c1::炊飯器}}を買った。
+炊ける|たける|to cook (rice)|電子レンジでご飯が{{c1::炊ける}}。
+純粋|じゅんすい|pure|{{c1::純粋}}な心を持っている。
+衰退|すいたい|decline|経済が{{c1::衰退}}している。
+衰える|おとろえる|to weaken|年とともに体力が{{c1::衰える}}。
+推理小説|すいりしょうせつ|mystery novel|姉は{{c1::推理小説}}が好きだ。
+麻酔|ますい|anesthesia|{{c1::麻酔}}をかけてから歯を抜いた。
+酔って|よって|to get drunk|お酒に弱いのですぐ{{c1::酔って}}しまった。
+遂行|すいこう|accomplishment|彼には任務を{{c1::遂行}}する義務がある。
+遂げた|とげた|achieved|A国はめざましい発展を{{c1::遂げた}}。
+睡眠|すいみん|sleep|{{c1::睡眠}}は早めにとると良い。
+熟睡|じゅくすい|deep sleep|授業中に{{c1::熟睡}}してしまった。
+出穂期|しゅっすいき|heading stage (rice)|稲は{{c1::出穂期}}を迎えた。
+稲穂|いなほ|rice ear|{{c1::稲穂}}が垂れて刈り入れを待っている。
+付随|ふずい|incidental|本文と{{c1::付随}}の条件を読んでください。
+随時|ずいじ|at any time|{{c1::随時}}、申し込みを受け付けます。
+骨髄|こつずい|bone marrow|{{c1::骨髄}}バンクに登録した。
+脊髄|せきずい|spinal cord|事故で{{c1::脊髄}}に障害を負った。
+中枢神経|ちゅうすうしんけい|central nervous system|薬が{{c1::中枢神経}}に作用する。
+崇高|すうこう|noble|{{c1::崇高}}な理想を掲げる。
+据え置かれた|すえおかれた|left as is|家賃は{{c1::据え置かれた}}。
+据え付けて|すえつけて|installed|棚は壁に{{c1::据え付けて}}あった。
+隙間風|すきまかぜ|draft|窓の{{c1::隙間風}}が寒い。
+杉木立|すぎこだち|grove of cedars|{{c1::杉木立}}を歩く。
+凄いな|すごいな|amazing|連休だけあって人出が{{c1::凄いな}}。
+裾|すそ|hem|ズボンの{{c1::裾}}を詰めた。
+裾野|すその|foothills|山の{{c1::裾野}}に町が広がっている。
+寸法|すんぽう|measurement|ズボンの{{c1::寸法}}を測る。
+瀬戸物|せともの|pottery|これは{{c1::瀬戸物}}なので扱いに注意。
+是非|ぜひ|by all means|{{c1::是非}}また遊びに来てください。
+天井|てんじょう|ceiling|{{c1::天井}}にひびが入っている。
+市井|しせい|townspeople|彼は{{c1::市井}}の人として生活している。
+井戸水|いどみず|well water|この地域では{{c1::井戸水}}を使っている。
+遠征|えんせい|expedition|チームが{{c1::遠征}}に出発した。
+一斉|いっせい|simultaneous|人々が{{c1::一斉}}に立ち上がった。
+犠牲|ぎせい|sacrifice|家庭を{{c1::犠牲}}にしてまでも会社のために働く。
+逝去|せいきょ|passing away|{{c1::逝去}}の知らせが届いた。
+逝く|ゆく|to pass away|偉人な作家が{{c1::逝く}}。
+盛大|せいだい|grand, magnificent|{{c1::盛大}}なパレードが行われた。
+繁盛|はんじょう|prosperity (business)|その店は{{c1::繁盛}}している。
+山盛り|やまもり|heaping pile|{{c1::山盛り}}のみかんを買った。
+盛ん|さかん|active, thriving|魚釣りが{{c1::盛ん}}に行われる。
+花婿|はなむこ|bridegroom|{{c1::花婿}}が教会の中で待っている。
+聖火|せいか|sacred flame, Olympic torch|{{c1::聖火}}リレーのランナーを選ぶ。
+聖書|せいしょ|Bible|{{c1::聖書}}は多くの言語に翻訳されている。
+誠実|せいじつ|sincere|彼はとても{{c1::誠実}}な人だ。
+誠|まこと|truth, sincerity|{{c1::誠}}の愛を見つけた。
+誓約書|せいやくしょ|written oath|{{c1::誓約書}}にサインした。
+誓った|ちかった|vowed|金メダルをとると心に{{c1::誓った}}。
+要請|ようせい|request|A国が援助を{{c1::要請}}した。
+請け負う|うけおう|to contract, undertake|工事を{{c1::請け負う}}。
+請う|こう|to beg, request|親に許しを{{c1::請う}}。
+整列|せいれつ|line up|生徒たちは{{c1::整列}}して話を聞いた。
+整って|ととのって|be prepared|設備が{{c1::整って}}いる。
+排斥|はいせき|rejection, exclusion|幕府はキリスト教を{{c1::排斥}}した。
+分析|ぶんせき|analysis|原因を{{c1::分析}}する。
+解析|かいせき|scientific analysis|データを{{c1::解析}}する。
+惜別|せきべつ|farewell, parting|友人を{{c1::惜別}}の情で見送った。
+惜しんで|おしんで|reluctantly, valuing|時間を{{c1::惜しんで}}勉強した。
+咳|せき|cough|風邪で{{c1::咳}}が止まらない。
+稚拙|ちせつ|clumsy, childish|彼の手紙は{{c1::稚拙}}だった。
+窃盗|せっとう|theft|{{c1::窃盗}}の容疑で逮捕された。
+摂取|せっしゅ|intake|栄養をバランスよく{{c1::摂取}}する。
+節約|せつやく|saving|水を{{c1::節約}}する。
+節水|せっすい|water saving|{{c1::節水}}に協力してください。
+節目|ふしめ|turning point|人生の{{c1::節目}}を迎える。
+毒舌|どくぜつ|sharp tongue|彼は{{c1::毒舌}}で知られている。
+舌|した|tongue|{{c1::舌}}を出す子ども。
+仙人|せんにん|hermit, sage|彼は{{c1::仙人}}のような生活をしている。
+宣伝|せんでん|advertisement, publicity|食後のテレビ番組は{{c1::宣伝}}がすぎる。
+汚染|おせん|pollution|大気{{c1::汚染}}が問題になる。
+染まる|そまる|to be dyed|裏山が夕日に赤く{{c1::染まる}}。
+染みた|しみた|to soak into|紙にインクが{{c1::染みた}}。
+扇風機|せんぷうき|electric fan|{{c1::扇風機}}をつけたまま寝てはいけない。
+扇|おうぎ|folding fan|京都で美しい{{c1::扇}}を買った。
+栓抜き|せんぬき|bottle opener|{{c1::栓抜き}}にもさまざまなデザインがある。
+栓|せん|stopper, plug|風呂の{{c1::栓}}をして湯を入れる。
+旋回|せんかい|circling|飛行機は空港の上空を{{c1::旋回}}した。
+実践|じっせん|practice|とにかく{{c1::実践}}してみることだ。
+小銭|こぜに|small change|{{c1::小銭}}がないので両替してもらった。
+金銭|きんせん|money|その問題は{{c1::金銭}}で解決できるだろうか。
+潜る|もぐる|to dive|海に潜って魚と泳いだ。
+潜む|ひそむ|to hide|物陰に{{c1::潜む}}。
+潜入|せんにゅう|infiltration|敵地に{{c1::潜入}}して様子をうかがう。
+変遷|へんせん|transition|時代の{{c1::変遷}}とともに生活様式も変わった。
+推薦|すいせん|recommendation|恩師に{{c1::推薦}}状を書いていただいた。
+薦める|すすめる|to recommend|議長に田中氏を{{c1::薦める}}。
+繊細|せんさい|delicate, sensitive|彼は{{c1::繊細}}な神経の持ち主だ。
+鮮やか|あざやか|vivid, bright|{{c1::鮮やか}}な色彩に目を奪われる。
+新鮮|しんせん|fresh|{{c1::新鮮}}なうちに食べたほうがおいしい。
+最善|さいぜん|the best|試合は{{c1::最善}}を尽くして頑張る。
+善い|よい|good|{{c1::善い}}行いをすると気持ちがいい。
+座禅|ざぜん|seated Zen meditation|禅堂でお坊さんが{{c1::座禅}}を組んでいる。
+禅|ぜん|Zen|{{c1::禅}}の道を極める。
+漸進|ぜんしん|gradual progress|{{c1::漸進}}主義で目的を達成する。
+修繕|しゅうぜん|repair|靴を{{c1::修繕}}してもらった。
+繕う|つくろう|to mend|制服のほころびを母に繕ってもらった。
+阻害|そがい|obstruction|大臣の発言は関係を{{c1::阻害}}した。
+阻む|はばむ|to block|崖が進行の行く手を{{c1::阻む}}。
+租税|そぜい|taxes|{{c1::租税}}には国税と地方税がある。
+素朴|そぼく|simple, naive|彼は{{c1::素朴}}な性格です。
+素足|すあし|barefoot|{{c1::素足}}で歩くと気持ちがいい。
+素人|しろうと|amateur|彼は料理の{{c1::素人}}だ。
+措置|そち|measure|負傷者に対して速やかな{{c1::措置}}を施す。
+粗末|そまつ|crude; shabby|彼は{{c1::粗末}}な服を着ていたが、実は金持ちだった。
+疎遠|そえん|estranged|卒業してから、学友となんとなく{{c1::疎遠}}になった。
+疎い|うとい|uninformed|彼女は政治に{{c1::疎い}}。
+訴訟|そしょう|lawsuit|話し合いでは解決しないので{{c1::訴訟}}を起こした。
+訴える|うったえる|to appeal; to sue|患者は医師に痛みを訴えた。
+味噌汁|みそしる|miso soup|日本へ来てから{{c1::味噌汁}}が好きになった。
+基礎|きそ|foundation|{{c1::基礎}}からしっかり勉強しなおそう。
+礎|いしずえ|cornerstone|この分野の{{c1::礎}}となる研究結果だ。
+蘇生|そせい|revival|死んだはずの蛍が{{c1::蘇生}}した。
+蘇る|よみがえる|to be revived|久しぶりの前で、記憶が蘇った。
+壮大|そうだい|magnificent|{{c1::壮大}}な規模の事業を計画する。
+勇壮|ゆうそう|heroic|{{c1::勇壮}}な行進曲が鳴り響いた。
+演奏会|えんそうかい|recital|ピアノの{{c1::演奏会}}まであと少しだ。
+奏でる|かなでる|to play (an instrument)|ギターを奏でながら歌を口ずさんでいる。
+別荘|べっそう|villa|富山のふもとに{{c1::別荘}}を建てた。
+荘厳|そうごん|solemn|教会は{{c1::荘厳}}な雰囲気に包まれている。
+倉庫|そうこ|warehouse|港の近くには{{c1::倉庫}}が立ち並んでいる。
+倉|くら|storehouse|米を貯蔵しておく{{c1::倉}}を米{{c1::倉}}という。
+米倉|こめぐら|rice granary|昔の村には{{c1::米倉}}があった。
+挿入|そうにゅう|insertion|彼の卒業論文には図やグラフが{{c1::挿入}}されている。
+挿す|さす|to insert|バラの花を花瓶に挿した。
+桑|くわ|mulberry|{{c1::桑}}の葉は蚕の飼料となる。
+病巣|びょうそう|lesion|手術で{{c1::病巣}}を切除した。
+巣|す|nest|軒下につばめが{{c1::巣}}をつくった。
+独創性|どくそうせい|originality|優れた芸術家は{{c1::独創性}}を高く評価されている。
+創刊号|そうかんごう|first issue|{{c1::創刊号}}は特別価格で発売中です。
+喪失|そうしつ|loss|試験の結果を見て自信を{{c1::喪失}}した。
+喪主|もしゅ|chief mourner|{{c1::喪主}}は長男だそうだ。
+葬儀|そうぎ|funeral|{{c1::葬儀}}は1時より執り行われます。
+葬る|ほうむる|to bury|事件の真相は闇に葬られた。
+僧|そう|monk|出家して仏門に入った人を{{c1::僧}}という。
+僧侶|そうりょ|Buddhist priest|{{c1::僧侶}}としての生活を続けている。
+遭遇|そうぐう|encounter|熊に{{c1::遭遇}}した。
+遭難|そうなん|disaster|雪山で{{c1::遭難}}する。
+遭う|あう|to encounter|思いがけない人に遭った。
+水槽|すいそう|water tank|{{c1::水槽}}にいっぱいの水がたまっている。
+浴槽|よくそう|bathtub|{{c1::浴槽}}にお湯をためる。
+操縦|そうじゅう|control, pilot|彼は奥さんにうまく{{c1::操縦}}されている。
+操り人形|あやつりにんぎょう|puppet|かわいい{{c1::操り人形}}ですね。
+霜害|そうがい|frost damage|豊作物の{{c1::霜害}}が心配だ。
+霜柱|しもばしら|frost column|朝起きて庭を見たら、{{c1::霜柱}}ができていた。
+物騒な|ぶっそうな|dangerous|最近は{{c1::物騒な}}事件が多い。
+騒ぎ|さわぎ|commotion|観衆が{{c1::騒ぎ}}だした。
+海藻|かいそう|seaweed|{{c1::海藻}}は体に良いそうだ。
+藻|も|algae|水草や海草を{{c1::藻}}という。
+即座|そくざ|immediately|彼女は私のことばを{{c1::即座}}に理解した。
+即時|そくじ|instant, immediate|{{c1::即時}}、実行する。
+催促|さいそく|urge, press|出前がなかなか届かないので{{c1::催促}}した。
+促した|うながした|urged|返事を{{c1::促した}}。
+風俗|ふうぞく|customs, manners|国によって{{c1::風俗}}がちがう。
+俗っぽい|ぞくっぽい|vulgar|彼女は{{c1::俗っぽい}}話が好きだ。
+所属|しょぞく|belonging|妹は演劇部に{{c1::所属}}している。
+配属先|はいぞくさき|assigned post|新しい{{c1::配属先}}が決まった。
+盗賊|とうぞく|bandit|このほら穴は昔、{{c1::盗賊}}のかくし場所だった。
+半袖|はんそで|short sleeves|{{c1::半袖}}のTシャツの上に長袖を着る。
+長袖|ながそで|long sleeves|{{c1::長袖}}のカーディガンを着た。
+剃る|そる|shave|父は毎朝ひげを{{c1::剃る}}。
+揃った|そろった|assembled|全員{{c1::揃った}}ら出発します。
+揃える|そろえる|arrange, gather|脱いだ靴を{{c1::揃える}}。
+ご無沙汰|ごぶさた|long silence|{{c1::ご無沙汰}}しております。
+妥協|だきょう|compromise|この点だけは{{c1::妥協}}できない。
+妥当|だとう|reasonable|{{c1::妥当}}なところで手を打つ。
+妥結|だけつ|settlement|会社との交渉が{{c1::妥結}}した。
+堕落|だらく|corruption|学生時代に比べて{{c1::堕落}}した。
+怠惰|たいだ|laziness|私は{{c1::怠惰}}な生活を送ってきた。
+駄作|ださく|poor work|この作家の作品は{{c1::駄作}}ばかりだ。
+無駄遣い|むだづかい|wasteful spending|{{c1::無駄遣い}}しないで貯金しなさい。
+耐久性|たいきゅうせい|durability|このガラスは{{c1::耐久性}}に優れている。
+耐え抜く|たえぬく|endure to the end|厳しい練習に{{c1::耐え抜く}}。
+怠慢|たいまん|negligence, laziness|彼の{{c1::怠慢}}でプロジェクトに迷惑をかけた。
+怠け者|なまけもの|lazy person|彼は{{c1::怠け者}}で、宿題を全然やらない。
+胎児|たいじ|fetus|{{c1::胎児}}の健康のために栄養に気をつける。
+泰然|たいぜん|calm, composed|彼は大勢の前でも{{c1::泰然}}としていた。
+逮捕|たいほ|arrest|警察が犯人を{{c1::逮捕}}した。
+滞在|たいざい|stay, sojourn|京都に1週間{{c1::滞在}}する予定です。
+滞って|とどこおって|to be delayed, stagnant|支払いが{{c1::滞って}}いる。
+態度|たいど|attitude|その{{c1::態度}}では面接で落ちてしまうよ。
+事態|じたい|situation|{{c1::事態}}が急変した。
+滝沢|たきざわ|Takizawa (surname/place)|{{c1::滝沢}}さんは新しいプロジェクトのリーダーです。
+選択|せんたく|selection|三つのコースから一つを{{c1::選択}}する。
+採択|さいたく|adoption (e.g. of a policy)|その法案は国会で{{c1::採択}}された。
+光沢|こうたく|gloss, shine|この布は美しい{{c1::光沢}}がある。
+沢|さわ|stream, swamp|{{c1::沢}}の水は澄んでいてきれいだ。
+食卓|しょくたく|dining table|家族そろって{{c1::食卓}}を囲む。
+卓越|たくえつ|excellence|彼は数学に{{c1::卓越}}した才能を持っている。
+開拓精神|かいたくせいしん|pioneering spirit|彼は強い{{c1::開拓精神}}を持っている。
+託児所|たくじしょ|daycare center|子どもを{{c1::託児所}}に預けた。
+委託|いたく|consignment, trust|調査を外部に{{c1::委託}}した。
+承諾|しょうだく|consent|妻の{{c1::承諾}}なしには返事できない。
+許諾|きょだく|authorization, permission|裁判所の{{c1::許諾}}を得る必要がある。
+濁流|だくりゅう|muddy stream|橋が{{c1::濁流}}に流された。
+濁って|にごって|to become muddy|台風の後、川の水が{{c1::濁って}}いた。
+叩き起こされた|たたきおこされた|to be woken up violently|夜中に{{c1::叩き起こされた}}。
+叩く|たたく|to hit|子どもがおもちゃを叩いて遊んでいる。
+脱退|だったい|withdrawal (from a group)|彼はクラブを{{c1::脱退}}した。
+脱げて|ぬげて|to come off (clothes)|この靴はすぐ{{c1::脱げて}}しまう。
+争奪戦|そうだつせん|scramble, competition|人気商品の{{c1::争奪戦}}が始まった。
+奪われた|うばわれた|to be stolen, taken|財布を{{c1::奪われた}}。
+棚|たな|shelf|{{c1::棚}}の上に箱を置いた。
+本棚|ほんだな|bookshelf|新しい{{c1::本棚}}を買った。
+溜める|ためる|to store, to accumulate|バケツに水を{{c1::溜める}}。
+誰|だれ|who|このジャケットは{{c1::誰}}の物ですか。
+丹精|たんせい|devoted care|このバラは父が{{c1::丹精}}こめて世話したものだ。
+大胆|だいたん|bold|彼女は{{c1::大胆}}なデザインの洋服を好む。
+落胆|らくたん|disappointment|不合格との知らせを聞いて{{c1::落胆}}した。
+冷淡|れいたん|indifferent|彼は{{c1::冷淡}}な人だ。
+淡水魚|たんすいぎょ|freshwater fish|金魚は{{c1::淡水魚}}だ。
+淡い|あわい|light (color)|私は{{c1::淡い}}色が好きだ。
+嘆息|たんそく|sigh (with emotion)|友人は、人生のままならなさを{{c1::嘆息}}した。
+嘆く|なげく|lament|自分の人生の幸を{{c1::嘆く}}。
+先端|せんたん|cutting-edge|ファッションの{{c1::先端}}をいく。
+道端|みちばた|roadside|{{c1::道端}}に野菊が咲いている。
+中途半端|ちゅうとはんぱ|half-hearted|彼は{{c1::中途半端}}な人だ。
+誕生日|たんじょうび|birthday|夫が{{c1::誕生日}}のプレゼントをくれた。
+生誕|せいたん|birth|今年は聖人の{{c1::生誕}}五百年にあたる。
+鍛錬|たんれん|discipline|祖父は{{c1::鍛錬}}してきたので、体も丈夫だ。
+鍛え上げられた|きたえあげられた|trained (thoroughly)|彼は厳しい練習で、{{c1::鍛え上げられた}}。
+一旦|いったん|once/temporarily|{{c1::一旦}}、家に帰ってから出かけよう。
+旦那様|だんなさま|husband (formal)|{{c1::旦那様}}もぜひどうぞ。
+弾力|だんりょく|elasticity|ボールの{{c1::弾力}}が落ちて弾まなくなる。
+弾まなく|はずまなく|not bounce|ボールが{{c1::弾まなく}}なった。
+弾く|ひく|to play (instrument)|ピアノを{{c1::弾く}}。
+弾|たま|bullet|{{c1::弾}}にあたる。
+花壇|かだん|flower bed|{{c1::花壇}}に花を植える。
+土壇場|どたんば|last moment|{{c1::土壇場}}で逆転された。
+一致|いっち|agreement|意見が{{c1::一致}}した。
+致す|いたす|to do (humble)|このような結果は私の未熟の{{c1::致す}}ところだ。
+幼稚園|ようちえん|kindergarten|この子は来年から{{c1::幼稚園}}に通う。
+ご馳走|ごちそう|feast|我が家ですき焼きは{{c1::ご馳走}}だ。
+逐一連絡|ちくいちらんらく|report in detail|経過を{{c1::逐一連絡}}してください。
+貯蓄|ちょちく|savings|今後のために{{c1::貯蓄}}は必要だ。
+蓄える|たくわえる|store/save|アリが巣の中に餌を{{c1::蓄える}}。
+秩序|ちつじょ|order|あなたの行動は会社の{{c1::秩序}}を乱す。
+窒息|ちっそく|suffocation|赤ちゃんはうつぶせで寝かせると{{c1::窒息}}することがある。
+沖天|ちゅうてん|soaring skyward|トビウオのジャンプは{{c1::沖天}}の勢いがあった。
+沖|おき|offshore/open sea|{{c1::沖}}まで遠泳しよう。
+忠誠|ちゅうせい|loyalty|上司に{{c1::忠誠}}をつくす。
+忠告|ちゅうこく|advice|父親の{{c1::忠告}}に耳をかそうともしなかった。
+抽選|ちゅうせん|lottery|{{c1::抽選}}で香港旅行が当たります。
+抽象的|ちゅうしょうてき|abstract|{{c1::抽象的}}な表現では意見が伝わりません。
+和洋折衷|わようせっちゅう|blend of Japanese and Western styles|{{c1::和洋折衷}}の創作料理が自慢だ。
+鋳造|ちゅうぞう|casting (metal)|この製品はあの場で{{c1::鋳造}}される。
+鋳り|い|to cast|鉄を{{c1::鋳り}}、あぶみを作る。
+包丁|ほうちょう|kitchen knife|プロの料理人は{{c1::包丁}}を毎日研ぐ。
+丁寧|ていねい|polite|あの人の話し方は{{c1::丁寧}}だ。
+弔電|ちょうでん|condolence telegram|{{c1::弔電}}を打つ。
+弔う|とむらう|to mourn|死者の冥福を{{c1::弔う}}。
+挑戦|ちょうせん|challenge|もうひとつ上のレベルに{{c1::挑戦}}してみよう。
+挑む|いどむ|to challenge|幅跳びの新記録に{{c1::挑む}}。
+几帳面|きちょうめん|methodical|あの人は{{c1::几帳面}}だ。
+手帳|てちょう|notebook|{{c1::手帳}}に書きこむ。
+預金通帳|よきんつうちょう|bankbook|{{c1::預金通帳}}に記帳する。
+記帳|きちょう|to write in a register|会議の内容を{{c1::記帳}}した。
+自己主張|じこしゅちょう|self-assertion|あの人は{{c1::自己主張}}が強い。
+張って|はって|to stretch|氷が{{c1::張って}}いる。
+彫刻|ちょうこく|sculpture|あの{{c1::彫刻}}のモデルは誰だろう。
+木彫り|きぼり|wood carving|北海道土産に{{c1::木彫り}}の熊をもらった。
+眺望|ちょうぼう|view|ここからの{{c1::眺望}}は日本一だ。
+眺めましょう|ながめましょう|let's gaze|一緒に景色を{{c1::眺めましょう}}。
+釣魚大全|ちょうぎょたいぜん|The Compleat Angler|{{c1::釣魚大全}}を読んで釣りを始めた。
+釣った|つった|caught (a fish)|まるで海老で鯛を{{c1::釣った}}ようだ。
+胃腸|いちょう|stomach and intestines|私は{{c1::胃腸}}が弱い。
+盲腸|もうちょう|appendix|これは{{c1::盲腸}}の手術跡だ。
+跳馬|ちょうば|vaulting horse|体操の種目では{{c1::跳馬}}が好きだ。
+跳ぶ|とぶ|to jump|とび箱を{{c1::跳ぶ}}。
+跳ね出た|はねでた|leapt out|魚が水面上に{{c1::跳ね出た}}。
+象徴|しょうちょう|symbol|天皇は日本の{{c1::象徴}}です。
+特徴|とくちょう|feature|犯人の{{c1::特徴}}を言ってください。
+干潮|かんちょう|low tide|{{c1::干潮}}の時刻を調べて、潮干狩りに行こう。
+潮干狩り|しおひがり|clam digging|{{c1::潮干狩り}}に家族で出かけた。
+潮|しお|tide|{{c1::潮}}が引くように流行が去った。
+清澄|せいちょう|clear and serene|冬の夜空に{{c1::清澄}}な月が浮かんでいる。
+澄ます|すます|to clear (one’s mind or ears)|耳を{{c1::澄ます}}と蛍の声が聞こえる。
+聴診器|ちょうしんき|stethoscope|医者は{{c1::聴診器}}をあて、心音をきいた。
+聴く|きく|to listen|部屋で好きなレコードを{{c1::聴く}}。
+懲戒免職処分|ちょうかいめんしょくしょぶん|dismissal for disciplinary reasons|横領が発覚し、{{c1::懲戒免職処分}}になった。
+懲らしめる|こらしめる|to punish|落書きした子を{{c1::懲らしめる}}。
+蝶|ちょう|butterfly|{{c1::蝶}}や虫を集めて、昆虫採集の宿題を作る。
+陳列|ちんれつ|display|このグラスは{{c1::陳列}}台の左はしにあった物です。
+運賃|うんちん|fare|このバスの{{c1::運賃}}は先払いです。
+賃金|ちんぎん|wages|{{c1::賃金}}を上げてくれるよう交渉した。
+鎮痛剤|ちんつうざい|painkiller|頭が痛いので{{c1::鎮痛剤}}を飲んだ。
+鎮まった|しずまった|subsided|嵐はすっかり{{c1::鎮まった}}。
+鎮める|しずめる|to calm|詩の一節で心を{{c1::鎮める}}。
+墜落|ついらく|crash|操縦ミスで飛行機が{{c1::墜落}}した。
+失墜|しっつい|loss (of prestige)|威信を{{c1::失墜}}させる。
+塚|つか|mound|散歩の途中でアリ{{c1::塚}}を見つけた。
+アリ塚|ありづか|anthill|散歩の途中で{{c1::アリ塚}}を見つけた。
+漬ける|つける|to pickle|キュウリをぬかみそに{{c1::漬ける}}。
+漬かる|つかる|to be soaked|本が水に漬かってしまった。
+呟く|つぶやく|to murmur|彼女は母国語で何かを呟いた。
+坪|つぼ|tsubo (area unit)|{{c1::坪}}は土地や建物の面積を表す単位です。
+壷|つぼ|pot|アンティークショップで苦い{{c1::壷}}を買った。
+爪|つめ|nail|彼女は{{c1::爪}}をのばしている。
+吊り革|つりかわ|hanging strap (in trains)|{{c1::吊り革}}につかまってください。
+進呈|しんてい|presentation (of gift)|開店祝いに記念品を{{c1::進呈}}する。
+呈する|ていする|to present|株式市場が活況を{{c1::呈する}}。
+宮廷|きゅうてい|imperial court|博物館で昔の{{c1::宮廷}}の衣装を見た。
+小法廷|しょうほうてい|small courtroom|その事件の裁判は{{c1::小法廷}}で開廷されます。
+法廷|ほうてい|courtroom|裁判は小{{c1::法廷}}で開廷された。
+開廷|かいてい|opening of court|裁判は小法廷で{{c1::開廷}}された。
+抵当|ていとう|mortgage|土地を{{c1::抵当}}にして、銀行からお金を借りた。
+抵抗|ていこう|resistance|侵略者に{{c1::抵抗}}する。
+邸宅|ていたく|mansion|丘の上の大{{c1::邸宅}}は映画スターの物だ。
+大邸宅|だいていたく|grand mansion|丘の上の{{c1::大邸宅}}は映画スターの物だ。
+豪邸|ごうてい|luxurious residence|一等地に{{c1::豪邸}}が建つ。
+料亭|りょうてい|traditional Japanese restaurant|あの{{c1::料亭}}で一度食事がしてみたい。
+貞淑|ていしゅく|chaste/modest|{{c1::貞淑}}な女性と結婚する。
+訂正|ていせい|correction|間違いを{{c1::訂正}}する。
+改訂版|かいていばん|revised edition|その本の{{c1::改訂版}}が出た。
+偵察|ていさつ|reconnaissance|敵の動きを{{c1::偵察}}する。
+探偵小説|たんていしょうせつ|detective novel|面白いと評判の{{c1::探偵小説}}を読む。
+堤防|ていぼう|embankment|{{c1::堤防}}沿いに歩いて帰ろう。
+堤|つつみ|embankment (short form)|{{c1::堤}}が切れて川の水があふれ出した。
+提携|ていけい|partnership|海外の企業と{{c1::提携}}することになった。
+提げて|さげて|to carry in hand|箱からカバンを{{c1::提げて}}いた。
+艇庫|ていこ|boathouse|川沿いに大学のボート部の{{c1::艇庫}}がある。
+飛行艇|ひこうてい|flying boat|{{c1::飛行艇}}を発進させる。
+締結|ていけつ|conclusion (of treaty, etc.)|条約を{{c1::締結}}した。
+締める|しめる|to tighten|一人で帯を{{c1::締める}}。
+取り締まる|とりしまる|to crack down on|飲酒運転を{{c1::取り締まる}}。
+汽笛|きてき|steam whistle|{{c1::汽笛}}を鳴らす。
+笛|ふえ|flute, whistle|{{c1::笛}}に合わせて体操をしている。
+指摘|してき|pointing out|ミスを{{c1::指摘}}されてしまった。
+摘んで|つんで|to pick (flowers, etc.)|セリを{{c1::摘んで}}きて、てんぷらにした。
+敵意|てきい|hostility|犬が{{c1::敵意}}をむき出しにしてにらみ合っていた。
+商売敵|しょうばいがたき|business rival|AとB店は{{c1::商売敵}}だ。
+更迭|こうてつ|dismissal, reshuffling|汚職が発覚して大臣が{{c1::更迭}}された。
+哲学|てつがく|philosophy|古今の{{c1::哲学}}を学ぶ。
+哲学を学ぶ|てつがくをまなぶ|to study philosophy|大学で{{c1::哲学を学ぶ}}。
+徹夜|てつや|staying up all night|{{c1::徹夜}}で試験勉強をした。
+頑固一徹|がんこいってつ|stubborn and unyielding|父は{{c1::頑固一徹}}な性格だ。
+撤去|てっきょ|removal|ここにある立て看板を{{c1::撤去}}してください。
+百科事典|ひゃっかじてん|encyclopedia|{{c1::百科事典}}で調べる。
+典型的|てんけいてき|typical|{{c1::典型的}}な冬型の気圧配置だ。
+展示|てんじ|exhibition|作品はどこに{{c1::展示}}されていますか。
+経済発展|けいざいはってん|economic development|めざましい{{c1::経済発展}}を遂げる。
+添加物|てんかぶつ|additive|{{c1::添加物}}なしのジュースはおいしい。
+添って|そって|to accompany|ひと晩中つき{{c1::添って}}看病した。
+北斗星|ほくとせい|Big Dipper|今夜は{{c1::北斗星}}がきれいに見える。
+吐息|といき|sigh|美しさに思わず{{c1::吐息}}をもらした。
+吐く|はく|to exhale, to breathe out|寒い夜空に白い息を{{c1::吐く}}。
+日本刀|にほんとう|Japanese sword|彼は{{c1::日本刀}}を収集している。
+刀|かたな|sword|昔の人は{{c1::刀}}を儀式に使った。
+大豆|だいず|soybean|{{c1::大豆}}は豆腐の原料だ。
+豆腐|とうふ|tofu|{{c1::豆腐}}の味噌汁が好きです。
+豆まき|まめまき|bean-throwing (ritual)|節分の日には{{c1::豆まき}}をする。
+唐突|とうとつ|abrupt|彼女は{{c1::唐突}}に歌い始めた。
+唐草模様|からくさもよう|arabesque pattern|仏像の台に{{c1::唐草模様}}が彫られている。
+白桃|はくとう|white peach|{{c1::白桃}}は岡山県の名産品だ。
+桃|もも|peach|{{c1::桃}}は冷やすと甘さがよりひき立ちます。
+討論|とうろん|debate|激しい{{c1::討論}}を繰り広げる。
+討ち取った|うちとった|defeated (enemy)|敵将を{{c1::討ち取った}}。
+浸透|しんとう|penetration|環境保護の考えがやっと{{c1::浸透}}してきた。
+透かす|すかす|to look through|明かりに{{c1::透かす}}。
+哀悼|あいとう|condolence|{{c1::哀悼}}の意を表す。
+悼み|いたみ|mourning|死を{{c1::悼み}}、黙とうをささげた。
+陶製|とうせい|ceramic|このマグカップは{{c1::陶製}}だ。
+陶酔|とうすい|rapture|すばらしい演奏にすっかり{{c1::陶酔}}してしまった。
+搭乗口|とうじょうぐち|boarding gate|あなたの{{c1::搭乗口}}は5番です。
+搭載|とうさい|equipped with|最新のエンジンを{{c1::搭載}}している。
+第三病棟|だいさんびょうとう|third ward|あの患者さんは{{c1::第三病棟}}に入院している。
+棟続き|むねつづき|adjoining wings|母屋と{{c1::棟続き}}だ。
+人口統計|じんこうとうけい|population statistics|これが1995年の{{c1::人口統計}}です。
+大統領|だいとうりょう|president|{{c1::大統領}}は選挙で決まる。
+統べ治める|すべおさめる|to govern|国を{{c1::統べ治める}}。
+稲|いね|rice plant|{{c1::稲}}には水{{c1::稲}}と陸{{c1::稲}}がある。
+水稲|すいとう|wet rice|{{c1::水稲}}は水田で育てる。
+陸稲|りくとう|upland rice|{{c1::陸稲}}は水を必要としない。
+稲穂|いなほ|ear of rice|秋になって{{c1::稲穂}}が垂れている。
+舞踏会|ぶとうかい|ball|{{c1::舞踏会}}に出る。
+踏まれた|ふまれた|stepped on|人に足を{{c1::踏まれた}}。
+踏まえて|ふまえて|based on|調査結果を{{c1::踏まえて}}リポートをまとめた。
+砂糖|さとう|sugar|コーヒーに{{c1::砂糖}}とミルクを入れる。
+糖分|とうぶん|sugar content|{{c1::糖分}}を控え目にとる。
+戦闘|せんとう|battle|{{c1::戦闘}}に負ける。
+闘争|とうそう|struggle|賃上げ{{c1::闘争}}に勝利した。
+闘う|たたかう|to fight|病と{{c1::闘う}}。
+高騰|こうとう|price surge|物価が{{c1::高騰}}し、市民の生活は苦しくなった。
+洞窟|どうくつ|cave|この{{c1::洞窟}}はうす暗い。
+洞穴|ほらあな|cavern|{{c1::洞穴}}を掘って身を潜める。
+胴上げ|どうあげ|tossing someone in celebration|優勝した監督の{{c1::胴上げ}}が始まった。
+峠|とうげ|mountain pass|あの{{c1::峠}}を越えると、故郷の町が見えてくる。
+匿名|とくめい|anonymous|寄付金が{{c1::匿名}}で届けられた。
+監督|かんとく|supervisor/director|試験の{{c1::監督}}を頼まれた。
+督促|とくそく|urging/pressing|返事が遅いので{{c1::督促}}する。
+不徳|ふとく|lack of virtue|このような失敗は私の{{c1::不徳}}の致す所だ。
+道徳教育|どうとくきょういく|moral education|学校が{{c1::道徳教育}}に力を入れている。
+危篤|きとく|critical condition|母が{{c1::危篤}}なので病院に向かった。
+豚カツ|とんかつ|pork cutlet|揚げたての{{c1::豚カツ}}はおいしい。
+豚肉|ぶたにく|pork|{{c1::豚肉}}を使った料理を作る。
+整理整頓|せいりせいとん|tidiness and order|日頃から{{c1::整理整頓}}を心がけている。
+丼|どんぶり|rice bowl|ラーメン用の{{c1::丼}}を二つ貸してください。
+丼勘定|どんぶりかんじょう|rough accounting|{{c1::丼勘定}}で経営していては危ない。
+旦那|だんな|master (of the house)|あの店の{{c1::旦那}}さんは親切です。
+謎|なぞ|mystery|ピラミッドには{{c1::謎}}がたくさんある。
+撫でて|なでて|stroke|犬の頭をやさしく{{c1::撫でて}}いる。
+鍋|なべ|pot|大きな{{c1::鍋}}でカレーを作りましょう。
+尼僧|にそう|Buddhist nun|{{c1::尼僧}}の服装は暑そうだった。
+尼寺|あまでら|nunnery|京都の{{c1::尼寺}}を訪れた。
+匂う|におう|to smell|梅の花が{{c1::匂う}}。
+匂いがする|においがする|to have a smell|おいしそうな{{c1::匂いがする}}。
+賑わっている|にぎわっている|to be bustling|祭りで街は{{c1::賑わっている}}。
+賑やか|にぎやか|lively|商店街はとても{{c1::賑やか}}だ。
+尿検査|にょうけんさ|urine test|健康診断で{{c1::尿検査}}を受けた。
+睨んでいる|にらんでいる|to glare, to suspect|刑事は彼が犯人だと{{c1::睨んでいる}}。
+妊娠|にんしん|pregnancy|妹は{{c1::妊娠}}している。
+忍耐力|にんたいりょく|perseverance|成功には強い{{c1::忍耐力}}が必要だ。
+忍び込んできた|しのびこんできた|snuck in|泥棒が家に{{c1::忍び込んできた}}。
+濡れながら|ぬれながら|while getting wet|雨に{{c1::濡れながら}}帰宅した。
+濡らして|ぬらして|to make wet|大事な資料を{{c1::濡らして}}しまった。
+丁寧|ていねい|polite|彼はいつも{{c1::丁寧}}な言葉遣いをする。
+狙いをつけて|ねらいをつけて|to take aim|{{c1::狙いをつけて}}矢を放った。
+粘土遊び|ねんどあそび|clay play|子どもは{{c1::粘土遊び}}が大好きだ。
+粘り強い|ねばりづよい|persistent|彼は{{c1::粘り強い}}性格の持ち主だ。
+収納|しゅうのう|storage|この部屋には{{c1::収納}}スペースが少ない。
+納得|なっとく|understanding, consent|いろいろ考えて{{c1::納得}}した。
+納める|おさめる|to pay, to deliver|税金を{{c1::納める}}。
+覗き込んだ|のぞきこんだ|peeked in|池を{{c1::覗き込んだ}}。
+喉|のど|throat|長い距離を歩いたので、{{c1::喉}}が痛い。
+把握|はあく|grasp, understanding|この問題をきちんと{{c1::把握}}していない。
+流派|りゅうは|school (of art, etc.)|茶道にはいろいろな{{c1::流派}}がある。
+派遣社員|はけんしゃいん|temporary worker|彼女は{{c1::派遣社員}}として働いている。
+制覇|せいは|conquest|全国大会を{{c1::制覇}}した。
+覇権|はけん|supremacy|{{c1::覇権}}を争う。
+肺活量|はいかつりょう|lung capacity|この機械で{{c1::肺活量}}が測れる。
+肺炎|はいえん|pneumonia|風邪から{{c1::肺炎}}になることもある。
+俳優|はいゆう|actor|彼は有名な{{c1::俳優}}です。
+俳句|はいく|haiku|祖母は{{c1::俳句}}を習っている。
+排水口|はいすいこう|drain|{{c1::排水口}}から水が流れた。
+排出|はいしゅつ|discharge|汚水が大量に{{c1::排出}}された。
+廃止|はいし|abolition|その制度は{{c1::廃止}}された。
+廃れて|すたれて|become obsolete|一時流行したが今は{{c1::廃れて}}いる。
+先輩|せんぱい|senior|彼は私の{{c1::先輩}}です。
+梅雨前線|ばいうぜんせん|seasonal rain front|{{c1::梅雨前線}}が北上している。
+梅|うめ|plum|庭に{{c1::梅}}の花が咲いた。
+栽培|さいばい|cultivation|コーヒーの{{c1::栽培}}で成功した。
+培ってきた|つちかってきた|have cultivated|実力を長年{{c1::培ってきた}}。
+陪審制度|ばいしんせいど|jury system|日本には{{c1::陪審制度}}がない。
+媒酌人|ばいしゃくにん|matchmaker|{{c1::媒酌人}}が二人を紹介した。
+情報媒体|じょうほうばいたい|information medium|テレビは最大の{{c1::情報媒体}}だ。
+賠償金|ばいしょうきん|compensation money|多額の{{c1::賠償金}}を支払った。
+這う|はう|to crawl|赤ちゃんが這い始めた。
+Ｋ画伯|けいがはく|Master painter K|その絵は{{c1::Ｋ画伯}}に依頼された。
+伯父|おじ|uncle|彼は私の{{c1::伯父}}です。
+拍手|はくしゅ|applause|素晴らしい演奏に{{c1::拍手}}が起きた。
+手拍子|てびょうし|clapping in rhythm|観客が{{c1::手拍子}}を打った。
+迫害|はくがい|persecution|宗教的理由で{{c1::迫害}}された。
+迫った|せまった|approached|締切が{{c1::迫った}}。
+船舶|せんぱく|vessel|大型の{{c1::船舶}}が港に停泊した。
+博識|はくしき|erudition|彼は非常に{{c1::博識}}な人物だ。
+賭博|とばく|gambling|{{c1::賭博}}は法律で禁止されている。
+砂漠|さばく|desert|ラクダに乗って{{c1::砂漠}}を旅した。
+漠然|ばくぜん|vague|将来について{{c1::漠然}}とした不安がある。
+束縛|そくばく|restraint|{{c1::束縛}}のない自由な生活がしたい。
+縛られた|しばられた|was tied|縄で{{c1::縛られた}}。
+箸|はし|chopsticks|{{c1::箸}}を使って食事をする。
+手筈|てはず|arrangement|出発の{{c1::手筈}}を整える。
+鉢植え|はちうえ|potted plant|{{c1::鉢植え}}に水をやる。
+伐採|ばっさい|logging|森林が大量に{{c1::伐採}}された。
+処罰|しょばつ|punishment|違反者は{{c1::処罰}}される。
+罰|ばつ|penalty|嘘をついて{{c1::罰}}を受けた。
+派閥|はばつ|faction|党内の{{c1::派閥}}争いが激しい。
+学閥|がくばつ|academic clique|この会社には{{c1::学閥}}がある。
+貼る|はる|to stick|ポスターを壁に{{c1::貼る}}。
+腫れて|はれて|swollen|虫に刺されて{{c1::腫れて}}いる。
+出帆|しゅっぱん|setting sail|船は朝早く{{c1::出帆}}した。
+帆|ほ|sail|風を受けて{{c1::帆}}が膨らんだ。
+夫婦同伴|ふうふどうはん|accompanied by spouse|パーティーには{{c1::夫婦同伴}}で出席した。
+伴奏|ばんそう|musical accompaniment|彼の歌にピアノで{{c1::伴奏}}した。
+伴って|ともなって|accompanying|技術の進歩に{{c1::伴って}}生活が変わった。
+班|はん|group|各{{c1::班}}に分かれて作業を始めた。
+湖畔|こはん|lakeside|{{c1::湖畔}}のホテルに泊まった。
+搬入|はんにゅう|carrying in|作品を会場に{{c1::搬入}}する。
+運搬|うんぱん|transportation|コンテナにのせて荷物を{{c1::運搬}}する。
+煩雑|はんざつ|complicated|手続きが{{c1::煩雑}}でよく分からない。
+煩わす|わずらわす|to trouble|人の手を{{c1::煩わす}}。
+煩わしい|わずらわしい|troublesome|人間関係が{{c1::煩わしい}}。
+頒布|はんぷ|distribution|パンフレットを{{c1::頒布}}した。
+模範|もはん|model/example|あの人の行動は皆の{{c1::模範}}だ。
+範囲|はんい|scope|試験の{{c1::範囲}}が発表された。
+繁栄|はんえい|prosperity|この町は昔から{{c1::繁栄}}している。
+繁殖|はんしょく|breeding|カビが{{c1::繁殖}}する。
+繁る|しげる|to grow thickly|通りの木々が繁っている。
+野蛮|やばん|barbaric|彼は{{c1::野蛮}}な行為をした。
+基盤|きばん|foundation|生活の{{c1::基盤}}が失われた。
+地盤|じばん|ground/terrain|{{c1::地盤}}がゆるんでいる。
+批判|ひはん|criticism|この薬には{{c1::批判}}が多い。
+批評|ひひょう|review|私の作品を{{c1::批評}}してください。
+結婚披露宴|けっこんひろうえん|wedding reception|友人の{{c1::結婚披露宴}}に招待された。
+化学肥料|かがくひりょう|chemical fertilizer|{{c1::化学肥料}}を使った作物は避ける。
+肥えて|こえて|to be fertile|ここの土地は良く{{c1::肥えて}}いる。
+卑劣|ひれつ|mean/despicable|そういうやり方は{{c1::卑劣}}だ。
+卑しい|いやしい|greedy/base|彼は{{c1::卑しい}}人だ。
+秘密|ひみつ|secret|隠し場所は{{c1::秘密}}です。
+神秘的|しんぴてき|mysterious|彼女の瞳は{{c1::神秘的}}だ。
+秘める|ひめる|to hide/harbor|強い決意を胸に{{c1::秘める}}。
+門扉|もんぴ|gate door|あの家の{{c1::門扉}}は鉄製だ。
+歌碑|かひ|poem monument|山頂に{{c1::歌碑}}を建てる。
+罷免|ひめん|dismissal|官僚は{{c1::罷免}}された。
+避難|ひなん|evacuation|水害の危険があるので{{c1::避難}}した。
+避けている|さけている|avoiding|彼は私に会うのを{{c1::避けている}}。
+首尾|しゅび|outcome|この仕事は{{c1::首尾}}よく運んだ。
+尾|お|tail|犬が{{c1::尾}}をふって近づいてくる。
+微妙|びみょう|subtle|線をなぞっても、{{c1::微妙}}にずれてしまう。
+微笑|びしょう|smile|彼女は{{c1::微笑}}を浮かべた。
+膝|ひざ|knee|サッカーの試合で{{c1::膝}}をけがしてしまった。
+肘掛け|ひじかけ|armrest|革製の{{c1::肘掛け}}椅子が欲しい。
+瞳|ひとみ|pupil (of the eye)|フランス人形の{{c1::瞳}}はブルーで美しい。
+お姫様|おひめさま|princess|{{c1::お姫様}}のようなドレスを着て、パーティーに行きたい。
+紐|ひも|string|小包で送るので箱に{{c1::紐}}をかけてしばる。
+土俵入り|どひょういり|ring-entering ceremony|横綱が{{c1::土俵入り}}した。
+俵|たわら|straw bag|いなりずしは{{c1::俵}}の形をしている。
+投票|とうひょう|voting|国民の権利なので{{c1::投票}}に行くべきだ。
+好評|こうひょう|favorable reputation|この映画は{{c1::好評}}らしい。
+評判|ひょうばん|reputation|あの店は安いという{{c1::評判}}だ。
+漂流|ひょうりゅう|drifting|船員は数日間も{{c1::漂流}}した。
+漂っている|ただよっている|floating|クラゲが波に揺られて{{c1::漂っている}}。
+標語|ひょうご|slogan|交通安全の{{c1::標語}}を作りましょう。
+標準語|ひょうじゅんご|standard language|{{c1::標準語}}と方言はかなりの違いがある。
+種苗店|しゅびょうてん|seedling store|{{c1::種苗店}}で苗を購入した。
+苗|なえ|seedling|{{c1::苗}}を植える。
+描写|びょうしゃ|depiction|なるべく正確に{{c1::描写}}してください。
+描く|えがく|to draw|雪山をキャンバスに{{c1::描く}}。
+海浜公園|かいひんこうえん|seaside park|{{c1::海浜公園}}へ行った。
+浜辺|はまべ|beach|{{c1::浜辺}}でキャンプをしよう。
+来賓|らいひん|guest of honor|{{c1::来賓}}の方の御挨拶を頂きましょう。
+国賓|こくひん|state guest|{{c1::国賓}}はたいてい迎賓館に宿泊されます。
+迎賓館|げいひんかん|guest house|{{c1::迎賓館}}に泊まった。
+頻繁|ひんぱん|frequent|{{c1::頻繁}}に足を運ぶ。
+頻発|ひんぱつ|frequent occurrence|このカーブでは衝突事故が{{c1::頻発}}している。
+出題頻度|しゅつだいひんど|question frequency|{{c1::出題頻度}}が高い。
+敏感|びんかん|sensitive|新しい情報に{{c1::敏感}}に反応する。
+機敏|きびん|agile|体操選手の{{c1::機敏}}な動きに感心する。
+扶養家族|ふようかぞく|dependent family|私の{{c1::扶養家族}}は妻と娘の一人です。
+赴任先|ふにんさき|place of assignment|お父さんは単身赴任で{{c1::赴任先}}に行った。
+赴いた|おもむいた|headed to|現地に{{c1::赴いた}}。
+豆腐|とうふ|tofu|{{c1::豆腐}}は大豆からできています。
+腐り|くさり|to rot|梅雨時は食物が{{c1::腐り}}やすい。
+座敷|ざしき|tatami room|奥の{{c1::座敷}}の方へどうぞ。
+敷地|しきち|site, land|ここがビル建設予定の{{c1::敷地}}です。
+敷く|しく|to lay|玄関にマットを{{c1::敷く}}。
+月賦|げっぷ|monthly installment|このオーディオセットは高価だったので{{c1::月賦}}で買った。
+楽譜|がくふ|music score|{{c1::楽譜}}を見ながらでないと、その曲は弾けません。
+侮辱|ぶじょく|insult|彼は{{c1::侮辱}}に憤りを感じた。
+侮って|あなどって|to belittle|相手を{{c1::侮って}}はいけない。
+無条件降伏|むじょうけんこうふく|unconditional surrender|敵は{{c1::無条件降伏}}した。
+伏せて|ふせて|to lie face down/turn over|落ちたコップは、そこに{{c1::伏せて}}おいてください。
+覆面強盗|ふくめんごうとう|masked robber|{{c1::覆面強盗}}が店に押し入った。
+覆る|くつがえる|to be overturned|その判決は上訴によって覆った。
+覆う|おおう|to cover|雲が空を覆っている。
+蓋|ふた|lid|{{c1::蓋}}が、なかなか開かない。
+紛失|ふんしつ|loss|パスポートを{{c1::紛失}}した。
+紛らわす|まぎらわす|to distract|気を{{c1::紛らわす}}ためにテレビをつけた。
+紛れもない|まぎれもない|unmistakable|それは{{c1::紛れもない}}事実だ。
+雰囲気|ふんいき|atmosphere|{{c1::雰囲気}}のいいレストランで食事したい。
+噴水|ふんすい|fountain|公園の{{c1::噴水}}の前で待ち合わせした。
+噴火|ふんか|eruption|火山が{{c1::噴火}}した。
+噴いて|ふいて|to spout/blow|笛を{{c1::噴いて}}音を出す。
+古墳|こふん|ancient tomb|奈良県には{{c1::古墳}}がたくさんある。
+憤慨|ふんがい|indignation|不正に{{c1::憤慨}}している。
+憤り|いきどおり|resentment/anger|国民は{{c1::憤り}}を感じている。
+興奮|こうふん|excitement|その試合に{{c1::興奮}}した。
+奮って|ふるって|with enthusiasm|{{c1::奮って}}ご参加ください。
+合併|がっぺい|merger|二つの会社が{{c1::合併}}した。
+併せて|あわせて|in addition/together|詳細は{{c1::併せて}}ご確認ください。
+横柄|おうへい|arrogant|彼の{{c1::横柄}}な態度に腹が立った。
+小柄|こがら|petite/small build|彼女は{{c1::小柄}}で可愛らしい人だ。
+傘の柄|かさのえ|umbrella handle|{{c1::傘の柄}}が壊れてしまった。
+塀|へい|wall/fence|{{c1::塀}}を乗り越える子猫がいた。
+板塀|いたべい|board fence|古い家には{{c1::板塀}}が多かった。
+貨幣|かへい|currency|古代の{{c1::貨幣}}が発見された。
+紙幣|しへい|paper money|古い{{c1::紙幣}}を記念に集めている。
+弊害|へいがい|harmful effect|都市化の{{c1::弊害}}が目立ってきた。
+壁画|へきが|mural|教会の{{c1::壁画}}が有名だ。
+壁|かべ|wall|{{c1::壁}}にポスターを貼った。
+盗癖|とうへき|stealing habit|彼には{{c1::盗癖}}がある。
+癖|くせ|habit|話すときに髪を触る{{c1::癖}}がある。
+偏食|へんしょく|unbalanced diet|{{c1::偏食}}をしていると栄養が偏るよ。
+偏る|かたよる|to be unbalanced|栄養が{{c1::偏る}}。
+普遍的|ふへんてき|universal|{{c1::普遍的}}なテーマだ。
+弁護|べんご|defense (in court)|彼のしたことは{{c1::弁護}}の余地がない。
+弁償|べんしょう|reparation|ガラスを割ったので{{c1::弁償}}した。
+保存|ほぞん|preservation|冷蔵庫で{{c1::保存}}してください。
+保つ|たもつ|to keep, to preserve|品質を{{c1::保つ}}。
+津々浦々|つつうらうら|everywhere across the country|全国{{c1::津々浦々}}から珍しいペットを紹介。
+店舗|てんぽ|store, shop|適当な{{c1::店舗}}を探している。
+老舗|しにせ|long-established store|{{c1::老舗}}の旅館に泊まった。
+墓地|ぼち|cemetery|{{c1::墓地}}に埋葬した。
+墓参り|はかまいり|visiting a grave|命日には{{c1::墓参り}}をする。
+慕情|ぼじょう|longing|映画「{{c1::慕情}}」を見た。
+慕って|したって|to yearn for|姉を{{c1::慕って}}会いに行く。
+簿記|ぼき|bookkeeping|{{c1::簿記}}の勉強を始めた。
+帳簿|ちょうぼ|account book|{{c1::帳簿}}をつける。
+芳香剤|ほうこうざい|air freshener|{{c1::芳香剤}}を使う家庭が増えている。
+芳しくない|かんばしくない|not favorable|成績は芳しくなかった。
+邦画|ほうが|Japanese film|洋画より{{c1::邦画}}をよく見る。
+連邦国家|れんぽうこっか|federal nation|A国は{{c1::連邦国家}}だ。
+邦訳|ほうやく|Japanese translation|{{c1::邦訳}}を出版する。
+奉仕|ほうし|service|{{c1::奉仕}}の精神を忘れない。
+奉った|たてまつった|to offer (respectfully)|珍しい物を国王に{{c1::奉った}}。
+発泡|はっぽう|foaming|{{c1::発泡}}する浴剤を使う。
+泡立てて|あわだてて|to foam, to whip|卵白を{{c1::泡立てて}}お菓子を作る。
+細胞|さいぼう|cell (biology)|{{c1::細胞}}を顕微鏡で見る。
+同胞|どうほう|fellow countryman|{{c1::同胞}}は支えあって生きる。
+年俸制|ねんぽうせい|annual salary system|姿は{{c1::年俸制}}で給料を払う。
+減俸|げんぽう|pay cut|営業成績が上がらず、{{c1::減俸}}になった。
+模倣|もほう|imitation|著名な画家の{{c1::模倣}}だ。
+倣って|ならって|to imitate|例に{{c1::倣って}}文を書く。
+連峰|れんぽう|mountain range|南アルプス{{c1::連峰}}に登る。
+峰続き|みねつづき|continuous peaks|山と山が{{c1::峰続き}}です。
+崩壊|ほうかい|collapse|建物が{{c1::崩壊}}した。
+崩して|くずして|to break down (body, structure)|体調を{{c1::崩して}}休んだ。
+飽和状態|ほうわじょうたい|saturated state|市場は{{c1::飽和状態}}だ。
+飽きっぽくて|あきっぽくて|easily bored|{{c1::飽きっぽくて}}長続きしない。
+褒美|ほうび|reward|合格の{{c1::褒美}}に、パソコンを買ってやろう。
+褒められた|ほめられた|was praised|作文で先生に{{c1::褒められた}}。
+裁縫|さいほう|sewing|母は{{c1::裁縫}}が得意だ。
+縫った|ぬった|sewed|母が私の服を{{c1::縫った}}。
+貧乏|びんぼう|poverty|子どものころは{{c1::貧乏}}だった。
+乏しい|とぼしい|scarce|知識が{{c1::乏しい}}。
+妨害|ぼうがい|obstruction|昨夜も安眠を{{c1::妨害}}された。
+妨げとなる|さまたげとなる|become an obstacle|交通の便が悪く、発展の{{c1::妨げとなる}}。
+冷房|れいぼう|air conditioning|{{c1::冷房}}が強すぎると体によくない。
+一房|ひとふさ|a bunch|この時期、ぶどうは{{c1::一房}}で売られる。
+某課長|ぼうかちょう|a certain section chief|{{c1::某課長}}が左遷されるという噂だ。
+冒頭|ぼうとう|beginning|会議は{{c1::冒頭}}から活発だった。
+冒して|おかして|risking|危険を{{c1::冒して}}南極へ行く。
+解剖|かいぼう|dissection|理科の授業でカエルを{{c1::解剖}}した。
+混紡|こんぼう|blended fabric|このセーターは綿とナイロンの{{c1::混紡}}です。
+紡ぐ|つむぐ|to spin (thread)|糸を{{c1::紡ぐ}}。
+傍観|ぼうかん|bystanding|事故を{{c1::傍観}}していた。
+傍ら|かたわら|beside / while doing something|参考書を{{c1::傍ら}}に置いて勉強した。
+膨張|ぼうちょう|expansion|宇宙が{{c1::膨張}}している。
+膨らむ|ふくらむ|to swell|夢が{{c1::膨らむ}}。
+膨れた|ふくれた|swelled|お腹が{{c1::膨れた}}。
+無謀|むぼう|reckless|彼の{{c1::無謀}}な挑戦は止められなかった。
+謀反|むほん|rebellion|{{c1::謀反}}を企てる。
+謀られた|はかられた|was plotted against|敵に{{c1::謀られた}}。
+吠える|ほえる|to bark|犬が吠えている。
+頬|ほお／ほほ|cheek|彼女は{{c1::頬}}を赤らめた。
+頬杖|ほおづえ|resting chin on hand|{{c1::頬杖}}をついて外を見た。
+素朴|そぼく|simple, naive|{{c1::素朴}}な疑問が浮かんだ。
+牧師|ぼくし|pastor|彼は教会の{{c1::牧師}}です。
+牧場|ぼくじょう|ranch|{{c1::牧場}}で牛が放牧されている。
+牧草|ぼくそう|pasture grass|{{c1::牧草}}を刈る。
+僕|ぼく|I (used by males)|{{c1::僕}}は学生です。
+水墨画|すいぼくが|ink wash painting|祖父の趣味は{{c1::水墨画}}だ。
+墨|すみ|ink|{{c1::墨}}をこぼしてしまった。
+全身打撲|ぜんしんだぼく|whole-body bruise|事故で{{c1::全身打撲}}を負った。
+相撲|すもう|sumo|初めて{{c1::相撲}}を見た。
+惚けて|ぼけて|becoming senile|祖母は最近、少し{{c1::惚けて}}きたようだ。
+沈没|ちんぼつ|sinking (of a ship)|船が{{c1::沈没}}した。
+没頭|ぼっとう|absorption, immersion|趣味に{{c1::没頭}}する。
+堀|ほり|moat|城は{{c1::堀}}に囲まれていた。
+釣り堀|つりぼり|fishing pond|{{c1::釣り堀}}で魚釣りをした。
+自由奔放|じゆうほんぽう|freewheeling, uninhibited|彼は{{c1::自由奔放}}に生きている。
+翻訳|ほんやく|translation|その本は英語に{{c1::翻訳}}された。
+翻る|ひるがえる|flutter, turn over|旗が風に{{c1::翻る}}。
+平凡|へいぼん|ordinary|うちは{{c1::平凡}}な家庭です。
+凡例|はんれい|legend, key (on a map)|この本の{{c1::凡例}}は分かりやすい。
+盆地|ぼんち|basin (geography)|この地域は大きな{{c1::盆地}}だ。
+盆踊り|ぼんおどり|Bon festival dance|8月に{{c1::盆踊り}}が催される。
+麻酔|ますい|anesthesia|歯を抜くために{{c1::麻酔}}をかけた。
+浅|あさ|shallow|この川は{{c1::浅}}い。
+貿易摩擦|ぼうえきまさつ|trade friction|{{c1::貿易摩擦}}が悪化している。
+邪魔|じゃま|obstruction, hindrance|ちょっと{{c1::邪魔}}だからどいて。
+悪魔|あくま|devil, demon|人間には{{c1::悪魔}}の心もある。
+開幕|かいまく|opening (of event)|プロ野球が4月に{{c1::開幕}}する。
+幕末|ばくまつ|late Edo period|これは{{c1::幕末}}の話だ。
+鼓膜|こまく|eardrum|爆音で{{c1::鼓膜}}が破れそうだった。
+水を撒く|みずをまく|to sprinkle water|朝に庭に{{c1::水を撒く}}。
+種を蒔いた|たねをまいた|planted seeds|ヒマワリの{{c1::種を蒔いた}}。
+膝枕|ひざまくら|resting head on someone's lap|子どもが母の{{c1::膝枕}}で眠った。
+又|また|again; also|彼は小説家、また画家でもある。
+二股|ふたまた|two-timing, fork (in road)|道が{{c1::二股}}に分かれている。
+抹茶|まっちゃ|matcha (powdered green tea)|{{c1::抹茶}}を点てる。
+抹消|まっしょう|erasure, deletion|登録を{{c1::抹消}}された。
+眉|まゆ|eyebrow|彼女は{{c1::眉}}が整っている。
+我慢|がまん|endurance, patience|足がしびれて痛かったが、お茶会が終わるまでは{{c1::我慢}}した。
+漫画|まんが|comics|本で{{c1::漫画}}を読む。
+散漫な印象|さんまんないんしょう|distracted impression|彼の話は{{c1::散漫な印象}}を与えた。
+魅力的|みりょくてき|charming, attractive|彼女はとても{{c1::魅力的}}な人だ。
+魅了|みりょう|fascinate, captivate|彼の音楽に皆が{{c1::魅了}}された。
+岬|みさき|cape (geography)|{{c1::岬}}の先に灯台がある。
+密集|みっしゅう|dense gathering|この辺は住宅が{{c1::密集}}している。
+密接|みっせつ|closely connected|彼と松本氏は{{c1::密接}}なつながりがある。
+脈|みゃく|pulse|血圧と{{c1::脈}}を測ってみましょう。
+山脈|さんみゃく|mountain range|日本アルプス{{c1::山脈}}はとても美しい。
+奇妙|きみょう|strange|それは{{c1::奇妙}}な出来事だった。
+巧妙|こうみょう|clever, ingenious|彼は{{c1::巧妙}}な手口でだました。
+矛盾|むじゅん|contradiction|彼の証言は前の話と{{c1::矛盾}}している。
+矛先|ほこさき|target, point of attack|批判の{{c1::矛先}}が私に向けられた。
+濃霧注意報|のうむちゅういほう|dense fog advisory|今朝は{{c1::濃霧注意報}}が出ている。
+霧|きり|fog|{{c1::霧}}が出てきて視界が悪くなった。
+同盟|どうめい|alliance|日本はイギリスと{{c1::同盟}}を結んだ。
+連盟|れんめい|federation|複数の団体が{{c1::連盟}}を設立した。
+銘菓|めいか|noted confectionery|京都の{{c1::銘菓}}を土産に買った。
+感銘|かんめい|deep impression|彼の話に深く{{c1::感銘}}を受けた。
+絶滅寸前|ぜつめつすんぜん|on the verge of extinction|トキは{{c1::絶滅寸前}}だ。
+滅びる|ほろびる|to perish|恐竜は何百万年も前に滅びた。
+運転免許|うんてんめんきょ|driver’s license|やっと{{c1::運転免許}}を取れた。
+免除|めんじょ|exemption|成績優秀のため授業料が{{c1::免除}}された。
+免れた|まぬかれた|escaped, avoided|危険を{{c1::免れた}}。
+繁茂|はんも|luxuriant growth|庭には雑草が{{c1::繁茂}}していた。
+茂って|しげって|overgrown|木々が道の両側に{{c1::茂って}}いた。
+模範|もはん|model, example|彼は学生の{{c1::模範}}だ。
+大規模|だいきぼ|large scale|{{c1::大規模}}なマンションが建設された。
+妄想|もうそう|delusion|彼は{{c1::妄想}}に取り憑かれていた。
+妄言|ぼうげん|reckless remark|彼は酔って{{c1::妄言}}を口にした。
+盲目|もうもく|blindness|{{c1::盲目}}のピアニストが演奏した。
+盲点|もうてん|blind spot|その計画には重大な{{c1::盲点}}がある。
+消耗|しょうもう|exhaustion, consumption|長時間の労働で体力を{{c1::消耗}}した。
+心神耗弱|しんしんこうじゃく|diminished mental capacity|{{c1::心神耗弱}}で責任能力が問われなかった。
+猛烈|もうれつ|fierce, intense|日が{{c1::猛烈}}に照りつけている。
+猛威|もうい|rampage, destructive force|{{c1::猛威}}をふるった台風は太平洋にぬけた。
+網羅|もうら|comprehensive coverage|資料室には、自社製品の広告がすべて{{c1::網羅}}されている。
+網|あみ|net|{{c1::網}}を打って魚をとる。
+沈黙|ちんもく|silence|知人に久しぶりに会ったが、気まずい{{c1::沈黙}}が続いた。
+黙って|だまって|silently|彼はずっと{{c1::黙って}}いた。
+貰った|もらった|received|友だちから誕生日のプレゼントを{{c1::貰った}}。
+波紋を投げる|はもんをなげる|cause a ripple|課長の発言は社内に大きな波紋を投げかけた。
+厄年|やくどし|unlucky year|今年は{{c1::厄年}}だから、神社に厄除けに行った。
+厄除け|やくよけ|warding off evil|{{c1::厄除け}}のお守りを買った。
+通訳|つうやく|interpreter|フランス語の{{c1::通訳}}ができる人を探している。
+活躍|かつやく|active, success|彼女は芸能界で{{c1::活躍}}している。
+躍る|おどる|leap, jump (figurative)|デートのことを考えると胸が{{c1::躍る}}。
+暗闇|くらやみ|darkness|{{c1::暗闇}}の中で、猫の目だけが光っていた。
+愉快|ゆかい|pleasant, amusing|彼との会話はとても{{c1::愉快}}だった。
+教諭|きょうゆ|teacher|山中{{c1::教諭}}が担任です。
+諭された|さとされた|was advised, was persuaded|父に進学は無理だと{{c1::諭された}}。
+治癒|ちゆ|healing, recovery|けがは一週間で{{c1::治癒}}した。
+癒着|ゆちゃく|collusion|役人と企業の{{c1::癒着}}が問題になっている。
+唯一|ゆいいつ|only, sole|弟だけが{{c1::唯一}}の肉親だ。
+幽霊|ゆうれい|ghost|その古い旅館には{{c1::幽霊}}が出るという噂がある。
+悠々|ゆうゆう|leisurely|休日は{{c1::悠々}}と過ごしたい。
+猶予|ゆうよ|grace period|一週間の{{c1::猶予}}を与えます。
+裕福|ゆうふく|wealthy|彼女は{{c1::裕福}}な家庭に育った。
+余裕|よゆう|room, margin, allowance|軍を買う{{c1::余裕}}はない。
+英雄|えいゆう|hero|彼は子どもを助けて{{c1::英雄}}になった。
+雄|おす|male (animal), heroic|このライオンは{{c1::雄}}だ。
+誘導|ゆうどう|guidance|係員が客を避難口へ{{c1::誘導}}した。
+誘って|さそって|invited|友人を{{c1::誘って}}海へ行った。
+憂慮|ゆうりょ|concern, anxiety|教育の現状が{{c1::憂慮}}される。
+憂れしい|うれしい|sad (archaic)|備えあれば憂いなし。
+金融機関|きんゆうきかん|financial institution|彼は{{c1::金融機関}}に勤めている。
+融資|ゆうし|financing, loan|銀行から{{c1::融資}}を受ける。
+茹で卵|ゆでたまご|boiled egg|{{c1::茹で卵}}とサンドイッチのごはんを食べた。
+茹でる|ゆでる|to boil|ほうれん草を{{c1::茹でる}}。
+名誉|めいよ|honor|この賞は私の{{c1::名誉}}です。
+誉れ高い|ほまれたかい|honorable, prestigious|夜の{{c1::誉れ高い}}先生に褒めてもらう。
+羊毛|ようもう|wool|このコートは、さすがに温かい。
+羊|ひつじ|sheep|{{c1::羊}}の毛を刈る実演を見た。
+中庸|ちゅうよう|moderation|{{c1::中庸}}を持つのがよい。
+凡庸|ぼんよう|mediocre|彼は{{c1::凡庸}}で魅力に欠ける。
+意気揚々|いきようよう|triumphantly|{{c1::意気揚々}}と会場をあとにした。
+揚げたて|あげたて|freshly fried|{{c1::揚げたて}}の天ぷらが食べたいな。
+動揺|どうよう|disturbance, agitation|その話を聞いて、{{c1::動揺}}した。
+揺れている|ゆれている|shaking|未笠が風で{{c1::揺れている}}。
+窯業|ようぎょう|ceramics industry|彼の家は{{c1::窯業}}を営んでいる。
+窯元|かまもと|pottery workshop|抹茶碗を{{c1::窯元}}で選んだ。
+教師養成|きょうしようせい|teacher training|日本語{{c1::教師養成}}コースがある。
+養う|やしなう|to support, to raise|三人の子どもを{{c1::養う}}。
+人権擁護|じんけんようご|human rights protection|{{c1::人権擁護}}が叫ばれている。
+童謡|どうよう|children’s song|たまに{{c1::童謡}}を口ずさむ。
+謡曲を謡う|ようきょくをうたう|to chant Noh songs|{{c1::謡曲を謡う}}声が聞こえた。
+抑制|よくせい|restraint, control|感情は{{c1::抑制}}しなければならない。
+抑えた|おさえた|suppressed|薬で熱を{{c1::抑えた}}。
+主翼|しゅよく|main wing (of plane)|飛行機の{{c1::主翼}}に異常があった。
+翼|つばさ|wing|鳥が{{c1::翼}}を広げて飛び立った。
+裸体画|らたいが|nude painting|彼は{{c1::裸体画}}を得意としている。
+裸の王様|はだかのおうさま|The Emperor's New Clothes|「{{c1::裸の王様}}」を読んだ。
+網羅|もうら|comprehensive coverage|この本は水害の記録を{{c1::網羅}}している。
+落雷|らくらい|lightning strike|{{c1::落雷}}があったそうだ。
+雷|かみなり|thunder|{{c1::雷}}が鳴っている。
+酪農|らくのう|dairy farming|兄は北海道で{{c1::酪農}}をしている。
+展覧会|てんらんかい|exhibition|{{c1::展覧会}}の会場はこちらです。
+ご覧ください|ごらんください|please look|作品をどうぞ{{c1::ご覧ください}}。
+濫用|らんよう|abuse|薬の{{c1::濫用}}は、やめたほうがいい。
+氾濫|はんらん|overflow, flood|集中豪雨で河川が{{c1::氾濫}}した。
+空欄|くうらん|blank column|{{c1::空欄}}に住所、氏名を書いてください。
+欄|らん|column, field|その{{c1::欄}}には何も書かないこと。
+郷里|きょうり|hometown|彼の{{c1::郷里}}は、山形県です。
+里|さと|village|暮れには必ず{{c1::里}}へ帰る。
+履歴書|りれきしょ|resume|就職活動をするために、{{c1::履歴書}}を書いた。
+草履|ぞうり|zori sandals|和服にはそろいの{{c1::草履}}が似合う。
+離婚|りこん|divorce|{{c1::離婚}}することにした。
+離れて|はなれて|apart|私は18歳の時から、親元を{{c1::離れて}}暮らしている。
+川柳|せんりゅう|senryu poem|{{c1::川柳}}を詠んだことがありますか。
+柳|やなぎ|willow|{{c1::柳}}が風に揺れている。
+竜|りゅう|dragon|{{c1::竜}}は想像上の動物だ。
+恐竜|きょうりゅう|dinosaur|太古の地球に{{c1::恐竜}}がいた。
+竜巻|たつまき|tornado|{{c1::竜巻}}が起こった。
+隆盛|りゅうせい|prosperity|国家の{{c1::隆盛}}は喜ばしいことだ。
+興隆|こうりゅう|rising prosperity|新勢力が{{c1::興隆}}する。
+硫酸|りゅうさん|sulfuric acid|その瓶には{{c1::硫酸}}が入っていますから、気をつけてください。
+捕虜|ほりょ|prisoner of war|彼は戦時中、{{c1::捕虜}}になったことがある。
+遠慮|えんりょ|restraint|{{c1::遠慮}}しないでください。
+考慮中|こうりょちゅう|under consideration|その件は今{{c1::考慮中}}です。
+猟犬|りょうけん|hunting dog|{{c1::猟犬}}を連れ、狩猟に出かけた。
+狩猟|しゅりょう|hunting|猟奇的な事件が世間を騒がせる。
+猟奇的|りょうきてき|gruesome|{{c1::猟奇的}}な事件が報道された。
+丘陵地帯|きゅうりょうちたい|hilly area|あのへんは{{c1::丘陵地帯}}だ。
+同僚|どうりょう|colleague|仕事の後、よく{{c1::同僚}}と飲みに行く。
+閣僚|かくりょう|cabinet minister|{{c1::閣僚}}が集まって会議を開いた。
+官僚|かんりょう|bureaucrat|{{c1::官僚}}が政策を立案する。
+学生寮|がくせいりょう|student dormitory|学生たちは{{c1::学生寮}}の廃止に対する集会を開いた。
+独身寮|どくしんりょう|bachelor dormitory|会社には{{c1::独身寮}}がある。
+食糧事情|しょくりょうじじょう|food situation|この国では{{c1::食糧事情}}が厳しい。
+糧|かて|nourishment|彼女の愛情を心の{{c1::糧}}として仕事に励む。
+人倫|じんりん|human morals|あなたのしていることは{{c1::人倫}}にもとる行為だ。
+倫理学|りんりがく|ethics|{{c1::倫理学}}の講義を聞く。
+隣接|りんせつ|adjacent|飛行場に{{c1::隣接}}しているので騒音に悩まされている。
+隣|となり|next to|{{c1::隣}}の家の犬に吠えられた。
+臨時休業|りんじきゅうぎょう|temporary closure|本日は{{c1::臨時休業}}させていただきます。
+臨んだ|のぞんだ|faced|彼は新しいプロジェクトに{{c1::臨んだ}}。
+係累|けいるい|dependents|彼は多くの{{c1::係累}}を抱えている。
+累積赤字|るいせきあかじ|accumulated deficit|その会社は{{c1::累積赤字}}が膨らんでいる。
+盗塁|とうるい|stolen base|選手が{{c1::盗塁}}に成功した。
+満塁|まんるい|bases loaded|彼は{{c1::満塁}}ホームランを打った。
+激励|げきれい|encouragement|先生が{{c1::激励}}の言葉をかけた。
+励ました|はげました|encouraged|友人を{{c1::励ました}}。
+風鈴|ふうりん|wind chime|夏になると{{c1::風鈴}}を飾る。
+予鈴|よれい|warning bell|{{c1::予鈴}}が鳴って授業が始まる。
+鈴をつけた|すずをつけた|put a bell on|猫の首に{{c1::鈴をつけた}}。
+霊感|れいかん|spiritual sensitivity|彼女には{{c1::霊感}}があると言われている。
+悪霊退治|あくりょうたいじ|exorcism|{{c1::悪霊退治}}の映画を見た。
+御霊|みたま|honored spirit|{{c1::御霊}}を慰めるために祈った。
+華麗|かれい|splendid|{{c1::華麗}}な衣装を身にまとう。
+麗し|うるわし|beautiful|{{c1::麗し}}の乙女が現れた。
+暦|こよみ|calendar|{{c1::暦}}を見て予定を立てる。
+優劣|ゆうれつ|superiority and inferiority|{{c1::優劣}}をつけるのは良くない。
+劣る|おとる|be inferior|彼は体力で他の選手に劣っている。
+強烈|きょうれつ|intense|{{c1::強烈}}な印象を受けた。
+破裂|はれつ|burst|タイヤが{{c1::破裂}}した。
+口が裂けても|くちがさけても|under no circumstances|{{c1::口が裂けても}}言えない。
+廉価|れんか|low price|{{c1::廉価}}で販売されている。
+精錬工場|せいれんこうじょう|refinery|彼は{{c1::精錬工場}}で働いている。
+暖炉|だんろ|fireplace|{{c1::暖炉}}の前で温まった。
+炉端|ろばた|hearthside|{{c1::炉端}}で魚を焼く。
+披露|ひろう|announcement|新曲を{{c1::披露}}する。
+露骨|ろこつ|blunt, explicit|{{c1::露骨}}に嫌な顔をされた。
+朝露|あさつゆ|morning dew|{{c1::朝露}}が葉に光っている。
+風呂|ふろ|bath|お{{c1::風呂}}に入る。
+風呂敷|ふろしき|wrapping cloth|土産を{{c1::風呂敷}}に包む。
+新郎|しんろう|bridegroom|{{c1::新郎}}が緊張していた。
+明朗な|めいろうな|cheerful|彼は{{c1::明朗な}}性格だ。
+朗読|ろうどく|reading aloud|詩を{{c1::朗読}}する。
+朗らか|ほがらか|bright, cheerful|{{c1::朗らか}}な性格の人だ。
+浪費|ろうひ|waste|彼は時間を{{c1::浪費}}している。
+浪人|ろうにん|ronin (student taking a gap year)|{{c1::浪人}}生活をしている。
+廊下|ろうか|corridor|{{c1::廊下}}を走らないでください。
+摩天楼|まてんろう|skyscraper|ニューヨークの{{c1::摩天楼}}を見てみたい。
+楼閣|ろうかく|tower/pavilion|いくら華麗でも砂上の{{c1::楼閣}}だ。
+漏れる|もれる|to leak|ガスが漏れているようだ。
+漏水|ろうすい|water leakage|雨が降り、屋根から{{c1::漏水}}し始めた。
+賄賂|わいろ|bribe|A部長は{{c1::賄賂}}を受け取っていたらしい。
+賄う|まかなう|to cover (costs)|食費は月々5万円で賄っている。
+脇|わき|side|バッグは自分の{{c1::脇}}に置く。
+脇目|わきめ|side glance|{{c1::脇目}}もふらずに勉強する。
+戸惑う|とまどう|to be bewildered|初めてのことなので、戸惑ってしまった。
+疑惑|ぎわく|suspicion|彼は{{c1::疑惑}}の目で見られている。
+枠|わく|frame|{{c1::枠}}で囲んだ部分が重要ですから覚えてください。
+湧く|わく|to well up/spring out|温泉が湧き出た。
+湧き出た|わきでた|sprung out|掘っていた所から、温泉が{{c1::湧き出た}}。
+僅か|わずか|a little|給料日前なので、お金が{{c1::僅か}}しかない。
+茶碗|ちゃわん|rice bowl|気に入っていた{{c1::茶碗}}を割ってしまった。
+碗|わん|bowl|お吸い物を{{c1::碗}}に注ぐ。
+尉|い|military officer|彼は軍の{{c1::尉}}官として任務に就いている。
+嘘|うそ|lie|それは全くの{{c1::嘘}}だった。
+謁|えつ|audience (with someone)|国王に{{c1::謁}}見した。
+於|おいて|at (formal)|会議は東京に{{c1::於}}いて行われた。
+凹凸|おうとつ|unevenness|この道路は{{c1::凹凸}}が激しい。
+乙|おつ|second party|彼は{{c1::乙}}女のように繊細だ。
+款|かん|clause; fund|新しい融資の{{c1::款}}項が承認された。
+虐|ぎゃく|oppression|戦争で多くの民間人が{{c1::虐}}殺された。
+虐げる|しいたげる|to oppress|彼は部下を{{c1::虐げる}}ことで知られていた。
+斤|きん|loaf (measure)|一{{c1::斤}}のパンを買った。
+勲|くん|medal of honor|彼は国家から{{c1::勲}}章を授与された。
+郡|ぐん|district|この{{c1::郡}}は農業が盛んです。
+繭|まゆ|cocoon|蚕が{{c1::繭}}を作った。
+蹴|ける|to kick|ボールを力強く{{c1::蹴}}った。
+后|こう|empress|皇{{c1::后}}は式典に出席された。
+皇|こう|emperor|{{c1::皇}}帝が演説を行った。
+拷|ごう|torture|犯人は{{c1::拷}}問にかけられた。
+拷梢|ごうしょう|supervisor of torture|犯人の拷問を監督した{{c1::拷梢}}官がいた。
+此|この|this|{{c1::此}}の書類にサインしてください。
+墾|こん|reclamation|森林を開{{c1::墾}}して農地にした。
+﨑|さき|cape; promontory|{{c1::﨑}}の先に灯台が立っている。
+嗣|し|heir|彼は後{{c1::嗣}}として家を継ぐ。
+賜|し|imperial gift|これは天{{c1::賜}}の恵みだ。
+賜|たまわる|to be granted|貴重なご意見を{{c1::賜}}り、ありがとうございます。
+璽|じ|imperial seal|天皇の御{{c1::璽}}が押された。
+囚|しゅう|prisoner|{{c1::囚}}人が脱走した。
+繍|しゅう|embroidery|彼女は{{c1::繍}}帳を大切にしている。
+詔|みことのり|imperial edict|天皇が{{c1::詔}}を発した。
+芯|しん|core|鉛筆の{{c1::芯}}を削った。
+塑|そ|plastic|{{c1::塑}}像を制作した。
+梢|こずえ|treetop|鳥が木の{{c1::梢}}にとまっている。
+曹|そう|sergeant|兵{{c1::曹}}長が命令を下した。
+其|その|that|{{c1::其}}の考えには賛成できない。
+隊|たい|group; unit|救助{{c1::隊}}が出動した。
+只|ただ|free of charge|入場は{{c1::只}}です。
+忽|たちまち|suddenly|{{c1::忽}}ち空が曇ってきた。
+蛋|たん|protein|卵白と{{c1::蛋}}白質の違いを学ぶ。
+痴|ち|foolishness|彼は{{c1::痴}}呆の兆候を示していた。
+嫡|ちゃく|legitimate heir|彼は家の{{c1::嫡}}男である。
+勅|ちょく|imperial command|{{c1::勅}}令が発布された。
+帝|てい|emperor|皇{{c1::帝}}は演説を行った。
+逓|てい|sequential|{{c1::逓}}信省は通信を担当していた。
+痘|とう|smallpox|天然{{c1::痘}}のワクチンが開発された。
+謄|とう|copy|登記簿{{c1::謄}}本が必要です。
+凸|とつ|convex|この表面は{{c1::凸}}になっている。
+屯|とん|to station (troops)|兵士が村に駐{{c1::屯}}していた。
+弐|に|two (formal)|金額は{{c1::弐}}万円です。
+藩|はん|clan|江戸時代には多くの{{c1::藩}}があった。
+妃|ひ|princess|皇{{c1::妃}}が式典に出席された。
+髭|ひげ|beard|{{c1::髭}}をそるのを忘れた。
+泌|ひつ|secretion|内分{{c1::泌}}系の働きについて学ぶ。
+附|ふ|attached|この資料には{{c1::附}}属の図表があります。
+陛|へい|imperial court|天皇{{c1::陛}}下が退位された。
+砲|ほう|cannon|大{{c1::砲}}の音が鳴り響いた。
+肪|ぼう|fat|脂{{c1::肪}}を減らすために運動する。
+殆|ほとんど|almost|{{c1::殆}}どの人がその話を知らない。
+稀|まれ|rare|{{c1::稀}}に見る大雨だった。
+勿|もち|of course|彼は{{c1::勿}}論来るだろう。
+尤|もっとも|reasonable|{{c1::尤}}もな意見だと思う。
+吏|り|official|地方{{c1::吏}}が視察に来た。
+痢|り|dysentery|赤{{c1::痢}}が流行している。
+厘|りん|one-hundredth|利益は一{{c1::厘}}にも満たない。

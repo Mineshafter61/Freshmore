@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語/1_1_語彙.md",
+                "file": "日本語/1_2_漢字.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1_1_語彙"
+              "title": "1_2_漢字"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語/1_1_語彙.md",
+                "file": "日本語/1_2_漢字.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1_1_語彙"
+              "title": "Backlinks for 1_2_漢字"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語/1_1_語彙.md",
+                "file": "日本語/1_2_漢字.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1_1_語彙"
+              "title": "Outgoing links from 1_2_漢字"
             }
           },
           {
@@ -186,8 +186,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56f6834c864586a3",
+  "active": "dfe3d44474ad1e48",
   "lastOpenFiles": [
+    "日本語/anki_kanji.txt",
+    "日本語/kanji_anki.py",
+    "日本語/1_1_語彙.md",
     "日本語/1_語彙.md",
     "日本語/~$1_語彙.xlsx",
     "2_Modelling Space and Systems/12_1_Eigenvalues and Eigenvectors.md",
@@ -220,8 +223,6 @@
     "ref/MSS_BasisChange.png",
     "ref/MSS_bases.png",
     "MSS_Bases.png",
-    "2_Science for a Sustainable World/9_2B_Band Theory.md",
-    "2_Science for a Sustainable World/9_2A_Molecular Orbital Theory.md",
     "ref/MSS_lagrangian.png",
     "ref/PW_shmPhaseShift.jpg",
     "ref/PW_parallelAxisTheorem.png",
@@ -232,7 +233,6 @@
     "2_Modelling Space and Systems",
     "1_Physical World",
     "1_Modelling and Analysis",
-    "Modelling Space and Systems/2_2B_Critical Points.ms",
-    "Modelling Space and Systems/2_2B_Critical Points"
+    "Modelling Space and Systems/2_2B_Critical Points.ms"
   ]
 }
