@@ -1,8 +1,9 @@
 {
   "textFontFamily": "",
   "monospaceFontFamily": "",
-  "cssTheme": "Border",
+  "cssTheme": "Typomagical",
   "translucency": false,
   "theme": "moonstone",
-  "accentColor": "#caa33f"
+  "accentColor": "#caa33f",
+  "baseFontSize": 16
 }

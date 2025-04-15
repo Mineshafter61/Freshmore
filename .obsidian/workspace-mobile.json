@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6b89b072e878d412",
+        "id": "7f4a97f7dffa25f5",
         "type": "tabs",
         "children": [
           {
-            "id": "b3ce531f2a7441f4",
+            "id": "cfc06e9bf9424ef8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Technological World/11_1_LC and Undriven RLC Circuits.md",
+                "file": "2_Technological World/12_Maxwell’s Equation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "11_1_LC and Undriven RLC Circuits"
+              "title": "12_Maxwell’s Equation"
             }
           }
         ]
@@ -172,11 +172,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3ce531f2a7441f4",
+  "active": "cfc06e9bf9424ef8",
   "lastOpenFiles": [
+    "2_Technological World/8_2_Ampere's Law.md",
+    "2_Technological World/12_Maxwell’s Equation.md",
+    "2_Technological World/11_LC and Undriven RLC Circuits.md",
+    "/日本語/1_2_漢字.md",
+    "/日本語",
+    "日本語/2_2_文法出題基準外項目.md",
+    "日本語/2_1_文法.md",
+    "日本語/1_3_エクストラ語彙.md",
+    "日本語/1_2_漢字.md",
+    "2_Modelling Space and Systems/11_2_Subspaces Associated with Matrices and Rank.md",
+    "/2_Technological World/11_1_LC and Undriven RLC Circuits.md",
+    "/2_Technological World",
+    "/2_Modelling Space and Systems",
+    "2_Technological World/11_LC and Undriven RLC Circuits.md",
+    "2_Modelling Space and Systems/11_1_Basis, Orthogonal Basis and Change of Basis.md",
     "ref/TW_rlcDamping.png",
     "ref/TW_rlcCircuit.png",
-    "2_Modelling Space and Systems/11_1_Basis, Orthogonal Basis and Change of Basis.md",
     "2_Modelling Space and Systems/8_1B_Elementary Row Operations.md",
     "2_Modelling Space and Systems/8_1A_Linear Systems.md",
     "2_Modelling Space and Systems/8_2_Gauss Jordan Elimination.md",
@@ -186,39 +200,25 @@
     "11_Water Quality.md",
     "ref/homework.md",
     "/日本語/1_語彙.md",
-    "/日本語",
     "2_Technological World/10_2_RL Circuit Analysis.md",
-    "2_Technological World/11_1_LC and Undriven RLC Circuits.md",
     "2_Science for a Sustainable World/6_Electrochemistry.md",
     "2_Technological World/10_1B_RC Circuit Analysis.md",
     "2_Technological World/11_1_LC circuit analysis.md",
-    "日本語/2_1_文法.md",
-    "日本語/2_2_文法出題基準外項目.md",
     "2_Technological World/0_Spherical Coordinate System.md",
     "日本語/語彙資料",
     "日本語/N1_漢字",
     "/日本語/語彙資料",
     "/日本語/N1_漢字",
     "/日本語/2_1_文法.md",
-    "/日本語/1_1_エクストラ語彙.md",
-    "日本語/2_3_N2文法.md",
     "ref/SSW_P2_Z≤7.png",
     "ref/TW_inductionBehaviour.png",
     "ref/SSW_P2_Z≥8.png",
     "ref/SSW_P1.png",
     "ref/TW_point dipole approximation.png",
-    "2_Technological World/8_2_Ampere's Law.md",
-    "1_Modelling and Analysis/6_1_Improper Integrals.md",
-    "1_Modelling and Analysis/6_5_Differential Equations.md",
-    "1_Modelling and Analysis/1_4_Trigonometric Functions.md",
-    "1_Modelling and Analysis/4_1_Maximum and Minimum Values.md",
     "ref/PW_shmPhaseShift.jpg",
     "ref/MSS_lagrangian.png",
-    "ref/TW1_2_1.png",
     "日本語/anki.txt",
     "日本語/1_語彙.xlsx",
-    "日本語/to_anki.py",
-    "1_Physical World",
-    "2_Science for a Sustainable World"
+    "日本語/to_anki.py"
   ]
 }

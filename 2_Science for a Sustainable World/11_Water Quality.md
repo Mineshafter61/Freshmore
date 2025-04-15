@@ -73,3 +73,22 @@ $$
 
 - Usually expressed as a percentage
 - Both absorbance and transmittance are dependent on the **wavelength of light** used in the spectrometer
+
+## New Technologies in Water Treatment: Desalination
+
+- Requires 3.5 kWh to produce one cubic metre of desalinated water (For comparison, reservoir water requires 0.2 kWh per cubic metre).
+- Energy use is expected to quadruple by 2060 using current method of desalination and anticipated growth in water demand
+- Uses high pressure to push seawater through the reverse osmosis process
+
+### New method: Electro-Deionisation (EDI)
+
+- Energy consumption: 1.65 kWh per cubic metre
+- Uses electric currents to extract the dissolved salt at ambient pressure to produce pure drinking water
+    - The lower operating pressures requires lower energy consumption
+
+### New method: Biomimicry
+
+- Mimicking biological processes - mangrove plants extract freshwater from seawater using small amount of energy
+    - Mangrove plants have aquaporin that reject Cl- ions from water.
+- The mangrove plant is able to filter between 90 and 95 % of the salt at its roots using aquaporin
+- Develop aquaporin-based biomimetic membranes for use in desalination plants

@@ -1,4 +1,4 @@
-# 11_1_LC and Undriven RLC Circuits
+# 11_LC and Undriven RLC Circuits
 
 ## LC Circuit Equation
 

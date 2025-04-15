@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語/1_2_漢字.md",
+                "file": "2_Science for a Sustainable World/12_Used Water Treatment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1_2_漢字"
+              "title": "12_Used Water Treatment"
+            }
+          },
+          {
+            "id": "fd46ab908d44faa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Technological World/12_Maxwell’s Equation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "12_Maxwell’s Equation"
             }
           }
         ]
@@ -104,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2_Science for a Sustainable World/12_Used Water Treatment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 12_Used Water Treatment"
             }
           },
           {
@@ -122,11 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2_Science for a Sustainable World/12_Used Water Treatment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 12_Used Water Treatment"
             }
           },
           {
@@ -136,7 +162,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -184,6 +212,11 @@
   },
   "active": "ab499776527a81aa",
   "lastOpenFiles": [
+    "ref/SSW_usedwatertreatment.png",
+    "2_Technological World/12_Maxwell’s Equation.md",
+    "2_Science for a Sustainable World/12_Used Water Treatment.md",
+    "2_Science for a Sustainable World/11_Water Quality.md",
+    "日本語/1_2_漢字.md",
     "日本語/2_1_文法.md",
     "2_Modelling Space and Systems/10_2_Span, Linear Independence and Subspaces.md",
     "2_Modelling Space and Systems/10_1_Trace and Determinant.md",
@@ -196,7 +229,6 @@
     "ref/TW_rlcDamping.png",
     "2_Technological World/11_2_.md",
     "日本語/2_2_文法出題基準外項目.md",
-    "日本語/1_2_漢字.md",
     "2_Modelling Space and Systems/9_1_Introduction to Matrices.md",
     "2_Modelling Space and Systems/8_2_Gauss Jordan Elimination.md",
     "ref/MSS_changeOfBasis.png",
@@ -204,7 +236,6 @@
     "ref/MSS_bases.png",
     "MSS_Bases.png",
     "2_Science for a Sustainable World/9_2B_Band Theory.md",
-    "2_Science for a Sustainable World/11_Water Quality.md",
     "2_Science for a Sustainable World/9_2A_Molecular Orbital Theory.md",
     "2_Science for a Sustainable World/0_Extras.md",
     "2_Science for a Sustainable World/4_1_Chemical Equilibrium.md",
@@ -215,9 +246,6 @@
     "ref/MSS_lagrangian.png",
     "日本語/1_1_語彙.md",
     "日本語/~$1_語彙.xlsx",
-    "日本語/2_3_N2文法.md",
-    "2_Technological World/9_1_Faraday's and Lenz's Law.md",
-    "2_Technological World/9_2C_Energy to Charge an Inductor.md",
     "ref/PW_shmPhaseShift.jpg",
     "ref/PW_parallelAxisTheorem.png",
     "ref/SSW_P2_Z≤7.png",
