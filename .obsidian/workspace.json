@@ -11,25 +11,10 @@
             "id": "56f6834c864586a3",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace-mobile.json",
-                "bFile": ".obsidian/workspace-mobile.json",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace-mobile.json"
-            }
-          },
-          {
-            "id": "fd46ab908d44faa5",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Technological World/12_Maxwell’s Equation.md",
-                "mode": "source",
+                "file": "日本語/1_1_語彙.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -43,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "12_Maxwell’s Equation"
+              "title": "1_1_語彙"
             }
           }
         ]
@@ -119,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日本語/1_1_語彙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 1_1_語彙"
             }
           },
           {
@@ -137,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日本語/1_1_語彙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 1_1_語彙"
             }
           },
           {
@@ -201,6 +188,8 @@
   },
   "active": "56f6834c864586a3",
   "lastOpenFiles": [
+    "日本語/1_語彙.md",
+    "日本語/~$1_語彙.xlsx",
     "2_Modelling Space and Systems/12_1_Eigenvalues and Eigenvectors.md",
     "2_Modelling Space and Systems/10_1_Trace and Determinant.md",
     "2_Modelling Space and Systems/6_2A_Conservative Vector Fields.md",
@@ -233,9 +222,7 @@
     "MSS_Bases.png",
     "2_Science for a Sustainable World/9_2B_Band Theory.md",
     "2_Science for a Sustainable World/9_2A_Molecular Orbital Theory.md",
-    "2_Science for a Sustainable World/0_Extras.md",
     "ref/MSS_lagrangian.png",
-    "日本語/~$1_語彙.xlsx",
     "ref/PW_shmPhaseShift.jpg",
     "ref/PW_parallelAxisTheorem.png",
     "Modelling Space and Systems",
