@@ -25,6 +25,8 @@ $\det(A−λI)$ is a **polynomial** in $λ$, called the **characteristic polynom
 
 - For **each** eigenvalue $\lambda_i$, we solve the equation $(A-\lambda_iI)\vec{v} = \vec{0}$
 - The null space of $(A-\lambda_iI)$ is the **eigenspace** corresponding to $\lambda_i$
+    - The eigenspace is the solution of $\mathrm{null}(A-\lambda_iI)\implies[A-\lambda_iI|0]$
+    - The eigenvectors are all scalar multiples of **any non-zero vector** in the eigenspace.
 - Recall: Eigenvectors must be non-zero
 
 ## Eigenvectors and Eigenvalues of $A^k$
@@ -36,12 +38,13 @@ $A^k\vec{v}=\lambda^k\vec{v}$, therefore:
 
 ## Triangular matrices
 
-- Eigenvalues of triangular matrices are the entries on its main diagonal.
+- Eigenvalues of triangular matrices are the **entries on its main diagonal**.
 
 ## Determinant and trace
 
-- $\det(A)$: the product of all the eigenvalues of $A$
-- $\mathrm{tr}(A)$: the sum of all the eigenvalues of $A$
+- $\det(A)=\prod_{i=1}^n\lambda_i$: the product of all the eigenvalues of $A$
+- $\mathrm{tr}(A)=\sum_{i=1}^n\lambda_i$: the sum of all the eigenvalues of $A$
+- Dimension of eigenspace, $\mathrm{dim}(E_{\lambda_i})=\mathrm{nullity}(A-\lambda I)=$ number of free variables in $(A-\lambda I)$
 
 ### Fundamental Theorem of Invertible Matrices (Part 5)
 

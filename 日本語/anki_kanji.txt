@@ -70,7 +70,7 @@
 免疫|めんえき|immunity|{{c1::免疫}}があるので失笑美だ。
 疫病神|やくびょうがみ|jinx; bearer of misfortune|彼は{{c1::疫病神}}と言われている。
 利益|りえき|profit; benefit|{{c1::利益}}があることを有益という。
-有益|ゆうえき|beneficial|毎日お参りをしていたら御利益があった。
+有益|ゆうえき|beneficial|毎日お参りをしていたら{{c1::有益}}があった。
 御利益|ごりやく|blessing; divine favor|{{c1::御利益}}があった。
 餌|えさ|bait; food (for animals)|動物に{{c1::餌}}をやる。
 悦|えつ|joy; pleasure|期待より良い成績だったので、一人で{{c1::悦}}に入っていた。
