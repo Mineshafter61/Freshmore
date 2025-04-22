@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語/2_1_文法.md",
+                "file": "日本語/2_3_N2文法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2_1_文法"
+              "title": "2_3_N2文法"
             }
           },
           {
@@ -212,11 +212,11 @@
   },
   "active": "263b25096ee386f0",
   "lastOpenFiles": [
+    "日本語/2_2_文法出題基準外項目.md",
+    "日本語/2_1_文法.md",
     "2_Modelling Space and Systems/13_Linear Transformations.md",
     "2_Technological World/13_Wave Equations.md",
-    "日本語/2_2_文法出題基準外項目.md",
     "日本語/2_3_N2文法.md",
-    "日本語/2_1_文法.md",
     "日本語/1_2_漢字.md",
     "日本語/1_3_エクストラ語彙.md",
     "日本語/1_4_擬音語.md",
