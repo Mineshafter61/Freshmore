@@ -33,7 +33,7 @@
 ### pOH
 
 - measures $[OH^-]$ concentration in a solution
-- $pH=-\log[OH^-]$
+- $pOH=-\log[OH^-]$
 - **Important:** $pH+pOH = 14$
 
 ## Relating $K_a$, $K_b$, $K_w$

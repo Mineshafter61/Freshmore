@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Technological World/12_Maxwell’s Equation.md",
+                "file": "2_Technological World/13_Wave Equations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "12_Maxwell’s Equation"
+              "title": "13_Wave Equations"
             }
           }
         ]
@@ -172,12 +172,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d6ec1c3d4abc37c",
+  "active": "cfc06e9bf9424ef8",
   "lastOpenFiles": [
+    "2_Technological World/12_Maxwell’s Equation.md",
     "2_Modelling Space and Systems/11_2_Subspaces Associated with Matrices and Rank.md",
     "2_Modelling Space and Systems/11_2.md",
     "2_Technological World/8_2_Ampere's Law.md",
-    "2_Technological World/12_Maxwell’s Equation.md",
     "2_Technological World/11_LC and Undriven RLC Circuits.md",
     "/日本語/1_2_漢字.md",
     "/日本語",

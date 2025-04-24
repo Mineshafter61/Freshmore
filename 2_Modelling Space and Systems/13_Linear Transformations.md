@@ -128,12 +128,62 @@ $$
 
 ## Connections with Determinants
 
-- The determinant of the transformation matrix $A$ is the signed volume of the n-parallelotope (in 2D, area of the parallelogram) formed by the vectors of $A$.
+- The **determinant** of the transformation matrix $A$ is the **signed volume** of the **n-parallelotope** (in 2D, **area of the parallelogram**) formed by the vectors of $A$.
 - The absolute value of $\det(A)$ is the **volume scale vector** of of the transformation represented by $A$.
-- The sign of $\det(A)$ indicates whether the transformation preserves orientation.
-    - Positive: same orientation
-    - Negative: opposite orientation
+- The sign of $\det(A)$ **indicates whether the transformation preserves orientation**.
+    - **Positive: same orientation**
+    - **Negative: opposite orientation**
 
 ## Jacobian
 
-- See [[5_2_Change of Variables]]
+- See [[5_2_Change of Variables#Jacobian|Jacobian]]
+
+## Ranges
+
+- Definition: Let $T:\mathbb{R}^n\rightarrow\mathbb{R}^m$ be a linear transformation. The **range** of $T$, denoted by $\mathrm{range}(T)$, is the set of all images of $T$, i.e.
+$$\mathrm{range}(T) = \{T(\vec{v}) : \vec{v}∈\mathbb{R}^n\}$$
+- Theorem: Let $T:\mathbb{R}^n\rightarrow\mathbb{R}^m$ be a linear transformation represented by the transformation matrix $A$. Then
+$$\mathrm{range}(T)=\mathrm{col}(A)$$
+
+## Kernels
+
+- Definition: Let $T:\mathbb{R}^n\rightarrow\mathbb{R}^m$ be a linear transformation. The **kernel** of $T$, denoted by $\mathrm{ker}(T)$, is the set of vectors in $\mathbb{R}^n$ whose image is the zero vector in $\mathbb{R}^m$, i.e.
+$$\mathrm{ker}(T)=\{\vec{v}\in\mathbb{R}^n:T(\vec{v})=\vec{0}\}$$
+- Theorem: Let $T:\mathbb{R}^n\rightarrow\mathbb{R}^m$ be a linear transformation represented by the transformation matrix $A$. Then
+$$\mathrm{ker}(T)=\mathrm{null}(A)$$
+
+## Orthogonal Projection onto a Subspace
+
+Projection matrix is
+$$P=A(A^TA^{-1})A^T$$
+where matrix $A$ is the matrix formed from the subspace basis vectors.
+
+### Orthogonal Projection onto a Line
+
+- Observe that $\vec{b} = \vec{n} + \vec{p}$
+- Projection matrix is
+
+$$
+P = \frac{\vec{a}\vec{a}^T}{\vec{a}^T\vec{a}}
+$$
+
+- The projection $\vec{p}$ is the **component** of $\vec{b}$ in the **direction** of $\vec{a}$
+
+$$
+\text{Projection of b on line } = P\vec{b}
+$$
+
+- Projecting a vector already on the line does nothing
+
+## Least-Squares Approximation
+
+- Best fit line
+- Given $R = c_0 + c_1T$, $A=\begin{bmatrix}1&t_1\\1&t_2\\\vdots&\vdots\\1&t_n\\\end{bmatrix}, \vec{b}=\begin{bmatrix}r_1\\r_2\\r_n\\\end{bmatrix}, \vec{c}=\begin{bmatrix}c_0\\c_1\end{bmatrix}$
+$$\begin{bmatrix}1&t_1\\1&t_2\\\vdots&\vdots\\1&t_n\\\end{bmatrix}\begin{bmatrix}c_0\\c_1\end{bmatrix}=\begin{bmatrix}r_1\\r_2\\r_n\\\end{bmatrix}$$
+- We want to find a $\vec{c}$ where the error $||\vec{b} - A\vec{c}||$ can be minimised
+    - The error is distance from line to point
+    - Comparing to the previous formula, $\vec{c} = \vec{x}$ and $\vec{n} = \vec{b} - A\vec{c}$
+
+$$
+\vec{c} = (A^TA)^{-1}A^T\vec{b}
+$$

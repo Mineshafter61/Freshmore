@@ -63,3 +63,36 @@ $$
 \frac{\partial^{2}B_{z}}{\partial x^{2}}=\mu_{0}\varepsilon_{0}\frac{\partial^{2}B_{z}}{\partial t^{2}} \\
 \vec{B}(x,t)=B_{0}\,\sin k(x-c t)\,\hat{k}=B_{0}\,\sin(k x-\omega t)\,\hat{k}
 $$
+
+## Poynting Vector
+
+- Poynting Vector $\vec{S}$: **direction of energy flow = direction of wave propagation**
+
+$$
+\vec{S}=\frac{\vec{E}\times \vec{B}}{\mu_{0}}
+$$
+
+- Unit: Watts per square metre
+
+### Proof
+
+- $E=cB$ for electromagnetic waves
+- $c=\frac{1}{\sqrt{\mu_{0}\epsilon_{0}}}$
+- Energy densities, $u_E=\frac{1}{2}\epsilon_{0}E^{2}$, $u_B=\frac{1}{2\mu_0}B^2$
+- Consider cylinder:
+- $dU=(u_E+u_B)Adz=\frac 12\left( \epsilon_0E^2+\frac{B^2}{\mu_0} \right)Acdt$
+- Rate of energy flow per unit area:
+- $S=\frac{1}{A} \frac{dU}{dt}=\frac{c}{2}\left( \epsilon_0E^2+\frac{B^2}{\mu_0} \right)=\frac{c}{2}\left( \epsilon_0cEB+\frac{EB}{c\mu_0} \right)$
+- $=\frac{EB}{2\mu_0}(\epsilon_{0}\mu_{0}c^{2}+1)$
+- $=\frac{EB}{\mu_0}\implies \vec{S}=\frac{\vec{E}\times \vec{B}}{\mu_0}$
+TODO: Case Problems
+
+## Electromagnetic Spectrum
+
+Wavelength and frequency are related by:
+$$ c=f\lambda $$
+
+## Polarisation of Light
+
+Malus’s law, polarised light passing through an analyser (the second polariser)
+$$ I=I_{max}\cos^2\phi $$

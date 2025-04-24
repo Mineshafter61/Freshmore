@@ -40,7 +40,7 @@ $$
 ### Cofactors
 
 The $(i,j)$th cofactor of $A$, denoted by $c_{ij}$, is defined by
-$$c_{ij}=(-1)^{i+j}\det(M_{ij})$$
+$$c_{ij}=(-1)^{(i\land1)+(j\land1)}\det(M_{ij})$$
 The sign of the $(i,j)$th cofactor follows a checkerboard pattern:
 $$
 \begin{bmatrix}
