@@ -40,12 +40,12 @@
 1. Difference in EN
     (Table IMPORTANT)
 
-    | ∆EN        | Bond                           |
-    | ---------- | ------------------------------ |
-    | 0          | Non-polar covalent, e.g. Cl-Cl |
-    | 0.1 - 0.4  | Covalent, e.g. S-H             |
-    | >0.4 - 1.7 | Polar covalent, e.g. H-Cl      |
-    | >1.7 - 3.3 | Ionic, e.g. H-F                |
+| ∆EN        | Bond                           |
+| ---------- | ------------------------------ |
+| 0          | Non-polar covalent, e.g. Cl-Cl |
+| 0.1 - 0.4  | Covalent, e.g. S-H             |
+| >0.4 - 1.7 | Polar covalent, e.g. H-Cl      |
+| >1.7 - 3.3 | Ionic, e.g. H-F                |
 
 2. Percent of Ionic character, $\delta$
     - **Diatomic**, linear molecules

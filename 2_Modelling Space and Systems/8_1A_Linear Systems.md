@@ -50,7 +50,7 @@ $$
     - Unique means exctly one solution
     - Singular means "exceptional" and **not** single
 
-| 1 solution | Infinite solutions | No solutions |
-|---|---|---|
-| Consistent | Consistent | Inconsistent |
+| 1 solution           | Infinite solutions  | No solutions        |
+| -------------------- | ------------------- | ------------------- |
+| Consistent           | Consistent          | Inconsistent        |
 | Unique/Nondegenerate | Singular/Degenerate | Singular/Degenerate |

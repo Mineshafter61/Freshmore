@@ -42,7 +42,7 @@
 
 ## Temperature Effect on Conductivity
 
-### Temperature Effect on Meta
+### Temperature Effect on Metals
 
 - **Resistance increases as temperature rises**, leading to lower conductivity.
 - At lower temperatures, most electrons are already in the conduction band.

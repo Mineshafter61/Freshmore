@@ -13,7 +13,9 @@ $$\frac{d^2Q}{dt^2}+\frac{1}{LC}Q=0\text{ OR } \frac{d^2Q}{dt^2}=-\frac{1}{LC}Q$
 ### LC Circuit Solution
 
 - General solution:
-$$Q(t)=Q_0\cos(\omega_0t+\phi); I(t)=Q_0\omega\sin(\omega_0t+\phi)$$
+$$\begin{align}
+Q(t)&=Q_0\cos(\omega_0t+\phi)\\I(t)&=Q_0\omega\sin(\omega_0t+\phi)
+\end{align}$$
     - $Q_0$: Amplitude of charge oscillation
     - $\phi$: Phase (time offset)
     - $\omega_0=\frac{1}{\sqrt{LC}}$: Oscillation angular frequency
@@ -53,3 +55,4 @@ $$
 2. **Critical Damping**: $R$ is just nice that the behavior is neither oscillatory not exponential decay
 3. **Underdamping**: $R$ is small enough and oscillations are still present
 ![[TW_rlcDamping.png]]
+- Time constant of circuit, $\tau=RC=\frac LR$

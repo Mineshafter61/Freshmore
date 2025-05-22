@@ -48,4 +48,4 @@ Note: Statements in the Fundamental Theorem must either be **ALL TRUE** or **ALL
 ## Inverse of an 2 × 2 Matrix
 
 Let $A=\begin{bmatrix}a&b\\c&d\end{bmatrix}$. A is **invertible if $ad−bc \neq 0$**.
-$$A^{-1}=\frac1{ad-bc}\begin{bmatrix}d&-b\\-c&a\end{bmatrix}$$
+$$\begin{bmatrix}a&b\\c&d\end{bmatrix}^{-1}=\frac1{ad-bc}\begin{bmatrix}d&-b\\-c&a\end{bmatrix}$$

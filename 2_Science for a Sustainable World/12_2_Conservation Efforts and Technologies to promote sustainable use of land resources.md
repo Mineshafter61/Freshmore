@@ -5,9 +5,9 @@
 - A measure of the state of the world’s biodiversity based on trends from 1970 to 2020 in over 34,836 monitored populations of 5495 vertebrate species from around the world.
 - Used as an indicator of global biodiversity health and helps to highlight trends in species populations over time.
 - provides a baseline to assess the effectiveness of conservation actions over time
-- Helps prioritize regions and species most at risk.
-– Supports policymaking for biodiversity conservation.
-– Raises awareness about the urgency of addressing biodiversity loss globally.
+- Helps prioritise regions and species most at risk.
+- Supports policymaking for biodiversity conservation.
+- Raises awareness about the urgency of addressing biodiversity loss globally.
 
 ## Conservation Efforts
 

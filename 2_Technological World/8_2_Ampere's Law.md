@@ -49,9 +49,11 @@ $$\oint \vec{B}\cdot d\vec{s}=\mu_0\iint_{\text{open surface}} \vec{J}\cdot d\ve
 - All magnetic field is within the solenoid, where $n = \frac{N}{L}$ which is the # of turns per unit length
 
 $$
-\oint \vec{B}\cdot d\vec{s}=\mu_0I_{\text{enc}} \\
-Bl = \mu_0 nlI \\
-B = \mu_0nI
+\begin{align}
+\oint \vec{B}\cdot d\vec{s}&=\mu_0I_{\text{enc}} \\
+Bl &= \mu_0 nlI \\
+B &= \mu_0nI
+\end{align}
 $$
 
 ## Magnetic field of a toroid

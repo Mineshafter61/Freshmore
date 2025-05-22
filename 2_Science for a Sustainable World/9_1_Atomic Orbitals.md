@@ -14,13 +14,13 @@
 - **Light of smaller wavelength (higher frequency) is emitted at higher energy levels**
 - The change in energy state, where
     - $h$ = Planck's constant
-    - $ν$ = frequency
+    - $\nu$ = frequency
     - $\lambda$ = wavelength
     - $c$ = speed of light
 
 $$
 |\Delta E|=|E_{\text{final}}-E_{\text{initial}}| \\
-|\Delta E|=hv={\frac{hc}{\lambda}}
+|\Delta E|=h\nu={\frac{hc}{\lambda}}
 $$
 
 ## Binding Energy (BE)
@@ -31,7 +31,7 @@ $$
     - Formula equal but opposite to **ionisation energy**.
 
 $$
-E_{n}={\frac{-Z^{2}e^{4}m_{e}}{8\varepsilon_{o}n^{2}h^{2}}}
+E_{n}={\frac{-Z^{2}e^{4}m_{e}}{8\varepsilon_{o}n^{2}h^{2}}}=−(2.18 × 10^{−18}) \frac{Z^2}{n^2}
 $$
 
 - $Z$: atomic number
@@ -42,6 +42,9 @@ $$
 - $n$: energy level
 - $e$: charge of single electron, $1.602\times 10^{^-19} C$
 
+- **Change in binding energy**
+$$\Delta E_n=−(2.18 × 10^{−18}) Z^2(\frac{1}{n^2_f}-\frac{1}{n^2_i})$$
+
 ## Energy Transition between Orbitals
 
 - Moving from initial energy level $n_i$ to final energy level $n_f$,
@@ -50,10 +53,10 @@ $$
 E_{n_{i}\to n_{f}}=-(2.18\ \times\,10^{-18})(Z^{2})\left(\frac{1}{n_{f}^{2}}-\frac{1}{n_{i}^{2}}\right)
 $$
 
-- Generalising, where Rydberg constant, $R = 1.0968×10^7 m^{-1}$, we get
+- Generalising, where Rydberg constant (for **Hydrogen**), $R = 1.0968×10^7 m^{-1}$, we get
 
 $$
-{\text{Wave number}},{\tilde{v}}=\ \frac{1}{\lambda}=R\ \left|\left(\frac{1}{n_{f}{}^{2}}-\ \frac{1}{n_{i}{}^{2}}\right)\right.
+{\text{Wave number}},{\tilde{v}}=\ \frac{1}{\lambda}=R\ \left|\left(\frac{1}{n_{f}{}^{2}}-\ \frac{1}{n_{i}{}^{2}}\right)\right|
 $$
 
 ## Absorption & Emission Spectrums

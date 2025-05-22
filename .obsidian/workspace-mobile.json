@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "2_Technological World/13_Wave Equations.md",
+=======
+                "file": "日本語/1_3_エクストラ語彙.md",
+>>>>>>> origin/main
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +32,11 @@
                 }
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "13_Wave Equations"
+=======
+              "title": "1_3_エクストラ語彙"
+>>>>>>> origin/main
             }
           }
         ]
@@ -174,6 +182,7 @@
   },
   "active": "cfc06e9bf9424ef8",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "2_Technological World/12_Maxwell’s Equation.md",
     "2_Modelling Space and Systems/11_2_Subspaces Associated with Matrices and Rank.md",
     "2_Modelling Space and Systems/11_2.md",
@@ -181,44 +190,53 @@
     "2_Technological World/11_LC and Undriven RLC Circuits.md",
     "/日本語/1_2_漢字.md",
     "/日本語",
+=======
+>>>>>>> origin/main
     "日本語/2_2_文法出題基準外項目.md",
     "日本語/2_1_文法.md",
-    "日本語/1_3_エクストラ語彙.md",
     "日本語/1_2_漢字.md",
-    "/2_Technological World/11_1_LC and Undriven RLC Circuits.md",
-    "/2_Technological World",
-    "/2_Modelling Space and Systems",
+    "日本語/1_1_語彙.md",
     "2_Technological World/11_LC and Undriven RLC Circuits.md",
-    "2_Modelling Space and Systems/11_1_Basis, Orthogonal Basis and Change of Basis.md",
+    "2_Technological World/13_Wave Equations.md",
+    "2_Technological World/12_Maxwell’s Equation.md",
+    "2_Technological World/8_1_Biot-Savart Law.md",
+    "2_Technological World/10_1A_Kirchhoff Voltage and Current Law.md",
+    "2_Technological World/10_1B_RC Circuit Analysis.md",
+    "2_Technological World/10_2_RL Circuit Analysis.md",
+    "2_Technological World/Technological World.md",
+    "2_Modelling Space and Systems/12_2_Diagonalisation.md",
+    "2_Modelling Space and Systems/13_Linear Transformations.md",
+    "2_Modelling Space and Systems/9_2_Matrix Inverses.md",
+    "日本語/vocab_anki.py",
+    "日本語/main_grammar_anki.txt",
+    "日本語/kanji_anki.py",
+    "日本語/grammar_anki.py",
+    "日本語/extra_grammar_anki.txt",
+    "日本語/anki_kanji.txt",
+    "日本語/1_語彙.md",
+    "ref/TW_travellingWaveR.png",
+    "ref/TW_travellingWaveL.png",
+    "2_Science for a Sustainable World/12_2_Conservation Efforts and Technologies to promote sustainable use of land resources.md",
+    "2_Science for a Sustainable World/12_1_Used Water Treatment.md",
+    "/日本語/vocab_anki.py",
+    "/日本語/main_grammar_anki.txt",
+    "/日本語/kanji_anki.py",
+    "/日本語/grammar_anki.py",
+    "/日本語/2_3_N2文法.md",
+    "/日本語/2_2_文法出題基準外項目.md",
+    "/日本語/2_1_文法.md",
+    "/日本語/1_語彙.md",
+    "/日本語/1_3_エクストラ語彙.md",
+    "/日本語/1_2_漢字.md",
+    "/ref/TW_travellingWaveR.png",
+    "/ref/TW_travellingWaveL.png",
+    "/ref/TW_fieldChaining.png",
+    "ref/TW_fieldChaining.png",
+    "/2_Technological World/13_Wave Equations.md",
+    "/2_Science for a Sustainable World/12_2_Conservation Efforts and Technologies to promote sustainable use of land resources.md",
     "ref/TW_rlcDamping.png",
     "ref/TW_rlcCircuit.png",
-    "2_Modelling Space and Systems/8_1B_Elementary Row Operations.md",
-    "2_Modelling Space and Systems/8_1A_Linear Systems.md",
-    "2_Modelling Space and Systems/8_2_Gauss Jordan Elimination.md",
-    "日本語/1_語彙.md",
     "ref/MSS_bases.png",
-    "2_Science for a Sustainable World/11_Water Quality.md",
-    "11_Water Quality.md",
-    "ref/homework.md",
-    "/日本語/1_語彙.md",
-    "2_Technological World/10_2_RL Circuit Analysis.md",
-    "2_Science for a Sustainable World/6_Electrochemistry.md",
-    "2_Technological World/10_1B_RC Circuit Analysis.md",
-    "2_Technological World/11_1_LC circuit analysis.md",
-    "2_Technological World/0_Spherical Coordinate System.md",
-    "日本語/語彙資料",
-    "日本語/N1_漢字",
-    "/日本語/語彙資料",
-    "/日本語/N1_漢字",
-    "ref/SSW_P2_Z≤7.png",
-    "ref/TW_inductionBehaviour.png",
-    "ref/SSW_P2_Z≥8.png",
-    "ref/SSW_P1.png",
-    "ref/TW_point dipole approximation.png",
-    "ref/PW_shmPhaseShift.jpg",
-    "ref/MSS_lagrangian.png",
-    "日本語/anki.txt",
-    "日本語/1_語彙.xlsx",
-    "日本語/to_anki.py"
+    "ref/SSW_P2_Z≤7.png"
   ]
 }

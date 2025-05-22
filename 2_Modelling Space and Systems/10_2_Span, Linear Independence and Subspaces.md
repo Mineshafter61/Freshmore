@@ -42,7 +42,7 @@ Consider a set of $n$ vectors $S = \{\vec{v}_1, \vec{v}_2, \cdots, \vec{v}_n\}$ 
 ## Subspaces
 
 - Span of vectors in $\mathbb R^n$ → Subspace of $\mathbb R^n$
-- A subset $W \subseteq \mathbb R^n$ os said to form a **subspace** of $\mathbb R^n$ if it satisfies the following three requirements:
+- A subset $W \subseteq \mathbb R^n$ is said to form a **subspace** of $\mathbb R^n$ if it satisfies the following three requirements:
     - $\vec{0}\in W$(passes through **origin**)
     - If $c\in\mathbb R$ and $\vec{v}\in\mathbb R$, then $c\vec{v}\in W$. (W is **closed under scalar multiplication**.)
     - If $\vec{v},\vec{w}\in W$, then $\vec{v}+\vec{w}\in W$. (W is **closed under addition**.)

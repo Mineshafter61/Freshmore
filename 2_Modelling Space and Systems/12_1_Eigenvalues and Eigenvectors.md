@@ -21,6 +21,17 @@ The zero vector is always a solution to this system. For there to be a non-zero 
 $$\det(A-\lambda I)=0$$
 $\det(A−λI)$ is a **polynomial** in $λ$, called the **characteristic polynomial** of $A$. (gives n roots, thus the number of eigenvalues is at most the size of the matrix).
 
+TL;DR, finding eigenvalues:
+
+1. Write $\det(A-\lambda I)=0$.
+2. Simplify $\det(A-\lambda I)$. You will get a polynomial, called the **characteristic polynomial**, $p$.
+3. Solve $p=0$.
+
+For a $2\times 2$ matrix, the eigenvalues are:
+$$
+\lambda=\frac{\mathrm{tr}(A)}{2}\pm \sqrt{\left(\frac{\mathrm{tr}(A)}{2}\right)^{2}-\det(A)}
+$$
+
 ## Finding eigenvectors
 
 - For **each** eigenvalue $\lambda_i$, we solve the equation $(A-\lambda_iI)\vec{v} = \vec{0}$

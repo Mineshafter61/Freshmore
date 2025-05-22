@@ -16,7 +16,7 @@ A function $T:\mathbb{R}^n\rightarrow\mathbb{R}^m$ is called a **linear transfor
 
 If $A$is an $m\times n$ matrix, then $T(\vec{u}) := A\vec{u}$ is a linear
 transformation, because
-$$A(\vec{u}+\vec{v}) = A\vec{u}+ A\vec{v} and A(c\vec{u}) = cA\vec{u}$$
+$$A(\vec{u}+\vec{v}) = A\vec{u}+ A\vec{v} \text{ and } A(c\vec{u}) = cA\vec{u}$$
 $A$ is called the **transformation matrix**.
 
 - Constructing $A$:

@@ -24,14 +24,14 @@ $$ dW = Pdt = \epsilon I dt = L\frac{dI}{dt} = LI\, dI $$
 
 $$
 \begin{align}
-B&=µ_0nI \\
-L&=µ_0n^2πR^2l \\
-U_B&=\frac12LI^2=\frac12 (µ_0n^2πR^2l)I^2 \\
-U_B&=\frac{B^2}{2µ_0}πR^2l
+B&=\mu_0nI \\
+L&=\mu_0n^2πR^2l \\
+U_B&=\frac12LI^2=\frac12 (\mu_0n^2πR^2l)I^2 \\
+U_B&=\frac{B^2}{2\mu_0}πR^2l
 \end{align}
 $$
 
-- Energy density = $\frac{B^2}{2µ_0}$
+- Energy density = $\frac{B^2}{2\mu_0}$
 - Volume = $πR^2l$
 
 This implies that indeed the energy to charge up a solenoid/inductor is stored in the magnetic field $B$.
@@ -46,16 +46,16 @@ This implies that indeed the energy to charge up a solenoid/inductor is stored i
 
 $$
 \begin{align}
-B(r)&=\frac{µ_0NI}{2πr} \\
-u_B(r)=\frac{B^2}{2µ_0}&=\frac{µ_0N^2I^2}{8π^2r^2} \\
+B(r)&=\frac{\mu_0NI}{2πr} \\
+u_B(r)=\frac{B^2}{2\mu_0}&=\frac{\mu_0N^2I^2}{8π^2r^2} \\
 \text{Let }dV&=2πrh\,dr \\
 dU&=u_B(r)\,dV \\
-&=\frac{µ_0N^2I^2}{8π^2r^2}2πrh\,dr \\
-&=\frac{µ_0N^2I^2h}{4πr}dr \\
-U=\int dU&=\int_a^b\frac{µ_0N^2I^2h}{4πr}dr \\
-&=\frac{µ_0N^2I^2h}{4π}\ln\frac{b}{a} \\
+&=\frac{\mu_0N^2I^2}{8π^2r^2}2πrh\,dr \\
+&=\frac{\mu_0N^2I^2h}{4πr}dr \\
+U=\int dU&=\int_a^b\frac{\mu_0N^2I^2h}{4πr}dr \\
+&=\frac{\mu_0N^2I^2h}{4π}\ln\frac{b}{a} \\
 \text{Since }U&=\frac{1}{2}LI^2, \\
-\frac{1}{2}LI^2&=\frac{µ_0N^2I^2h}{4π}\ln\frac{b}{a} \\
-\implies L&=\frac{µ_0N^2h}{8π}\ln\frac{b}{a}
+\frac{1}{2}LI^2&=\frac{\mu_0N^2I^2h}{4π}\ln\frac{b}{a} \\
+\implies L&=\frac{\mu_0N^2h}{8π}\ln\frac{b}{a}
 \end{align}
 $$

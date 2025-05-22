@@ -73,7 +73,7 @@ $$
 
 ### Power of Square Matrices
 
-If A is a square matrix and k is a non-negative integer, we define A^k as
+If A is a square matrix and k is a non-negative integer, we define $A^k$ as
 $$
 A^k=\begin{cases}
 I & \text{if }k=0\\
