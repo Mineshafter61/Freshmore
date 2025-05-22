@@ -91,3 +91,16 @@ $$s_{xy}=\frac{1}{n-1}\sum_{i=1}^{n}(x_i-\bar{x})(y_i-\bar{y})$$
 $$r_{xy}=\frac{s_{xy}}{s_{x}s_{y}}$$
 where $s_x$ is the sample **SD** of the $x$ data, and $s_y$ is the sample **SD** of the $y$ data.
 - In Excel, the commands are `COVARIANCE.S` and `CORREL` respectively.
+
+### Contingency table
+
+Data involving **two categorical variables** can be displayed in a contingency table.
+Example:
+
+||bachelor|master|PhD|row sum|
+|---|---|---|---|---|
+|hired|12|14|10|36|
+|not hired|38|21|5|64|
+|column sum|50|35|15|100|
+
+The two variables are: the applicant’s highest level of education, and whether the applicant is hired.
