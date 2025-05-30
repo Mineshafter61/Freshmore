@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Modelling Uncertainty/W1D2 - Summarizing and Visualizing Data.md",
+                "file": "3_Modelling Uncertainty/W2D2 - Enumeration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "W1D2 - Summarizing and Visualizing Data"
+              "title": "W2D2 - Enumeration"
             }
           }
         ]
@@ -188,12 +188,17 @@
   },
   "active": "80f4eb9a21c22b3a",
   "lastOpenFiles": [
-    "日本語/1_3_エクストラ語彙.md",
     "3_Modelling Uncertainty/W1D2 - Summarizing and Visualizing Data.md",
+    "3_Modelling Uncertainty/W2D1 - Linear Regression.md",
+    "3_Modelling Uncertainty/W2D2 - Enumeration.md",
+    "3_Modelling Uncertainty/W1D1 - Introduction to Probability and Statistics.md",
+    "日本語/2_1_文法.md",
+    "3_Design Energy Systems/W2 - Open Systems and Enthalpy.md",
+    "3_Design Energy Systems/ref/enthalpy table.png",
+    "日本語/1_3_エクストラ語彙.md",
     "日本語/1_4_擬音語.md",
     "2_Technological World/0_Spherical Coordinate System.md",
     "3_Design Energy Systems/W1 - Conservation of energy.md",
-    "3_Modelling Uncertainty/W1D1 - Introduction to Probability and Statistics.md",
     "conflict-files-obsidian-git.md",
     "2_Technological World/Technological World.md",
     "2_Technological World/Humongous Formula Sheet.md",
@@ -219,10 +224,6 @@
     "2_Technological World/8_2_Ampere's Law.md",
     "2_Technological World/8_1_Biot-Savart Law.md",
     "2_Technological World/2_1A_Continuous charge distribution.md",
-    "2_Technological World/1_2_Point Charges and Dipoles.md",
-    "2_Technological World/1_1_Charges and Electricity.md",
-    "2_Technological World/Summary of Equations.md",
-    "Untitled.md",
     "ref/TW_travellingWaveR.png",
     "ref/TW_travellingWaveL.png",
     "ref/TW_fieldChaining.png",
@@ -230,7 +231,6 @@
     "日本語/kanji_anki.py",
     "日本語/~$1_語彙.xlsx",
     "ref/SSW_usedwatertreatment.png",
-    "ref/TW_rlcCircuit.png",
     "Modelling Space and Systems",
     "Technological World",
     "2_Technological World"
