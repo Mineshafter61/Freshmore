@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Modelling Uncertainty/W2D2 - Enumeration.md",
+                "file": "3_Modelling Uncertainty/W4D1 - Bayes' Theorem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "W2D2 - Enumeration"
+              "title": "W4D1 - Bayes' Theorem"
             }
           }
         ]
@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,12 +189,19 @@
   },
   "active": "80f4eb9a21c22b3a",
   "lastOpenFiles": [
-    "3_Modelling Uncertainty/W1D2 - Summarizing and Visualizing Data.md",
-    "3_Modelling Uncertainty/W2D1 - Linear Regression.md",
+    "3_Modelling Uncertainty/W3D2 - Conditional Probability.md",
+    "3_Modelling Uncertainty/W4D1 - Bayes' Theorem.md",
+    "3_Design Energy Systems/W5 - Exergy in an Open System.md",
+    "3_Design Energy Systems/W3 - Entropy.md",
+    "3_Design Energy Systems/W4 - Exergy Analysis.md",
     "3_Modelling Uncertainty/W2D2 - Enumeration.md",
+    "3_Modelling Uncertainty/W3D1 - Basic Rules of Probability.md",
+    "3_Modelling Uncertainty/W1D2 - Summarizing and Visualizing Data.md",
+    "3_Design Energy Systems/W4 -.md",
+    "3_Design Energy Systems/W2 - Open Systems and Enthalpy.md",
+    "3_Modelling Uncertainty/W2D1 - Linear Regression.md",
     "3_Modelling Uncertainty/W1D1 - Introduction to Probability and Statistics.md",
     "日本語/2_1_文法.md",
-    "3_Design Energy Systems/W2 - Open Systems and Enthalpy.md",
     "3_Design Energy Systems/ref/enthalpy table.png",
     "日本語/1_3_エクストラ語彙.md",
     "日本語/1_4_擬音語.md",
@@ -217,13 +225,6 @@
     "2_Technological World/10_2_RL Circuit Analysis.md",
     "2_Technological World/10_1B_RC Circuit Analysis.md",
     "2_Technological World/10_1A_Kirchhoff Voltage and Current Law.md",
-    "2_Technological World/9_2C_Energy to Charge an Inductor.md",
-    "2_Technological World/9_2B_Mutual Inductance.md",
-    "2_Technological World/9_2A_Self Inductance of an Inductor.md",
-    "2_Technological World/9_1_Faraday's and Lenz's Law.md",
-    "2_Technological World/8_2_Ampere's Law.md",
-    "2_Technological World/8_1_Biot-Savart Law.md",
-    "2_Technological World/2_1A_Continuous charge distribution.md",
     "ref/TW_travellingWaveR.png",
     "ref/TW_travellingWaveL.png",
     "ref/TW_fieldChaining.png",
