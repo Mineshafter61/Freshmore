@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "92b76efbb8be55d8",
+        "id": "1df468ee424f68a1",
         "type": "tabs",
         "children": [
           {
-            "id": "1bda0fe78ad10be0",
+            "id": "473ce117cc441f72",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3_Modelling Uncertainty/W6D2 - Uniform and Exponential Random Variables.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "W6D2 - Uniform and Exponential Random Variables"
             }
           }
         ]
@@ -160,8 +174,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1bda0fe78ad10be0",
+  "active": "473ce117cc441f72",
   "lastOpenFiles": [
+    "3_Design Energy Systems/W4 - Exergy Analysis.md",
+    "3_Modelling Uncertainty/W6D2 - Uniform and Exponential Random Variables.md",
+    "3_Design Energy Systems/W5 - Exergy in an Open System.md",
+    "3_Design Energy Systems/W3 - Entropy.md",
+    "3_Design Energy Systems/W2 - Open Systems and Enthalpy.md",
+    "3_Design Energy Systems/W1 - Conservation of energy.md",
+    "3_Modelling Uncertainty/W4D1 - Bayes' Theorem.md",
+    "日本語/2_3_N2文法.md",
     "1_Modelling and Analysis/1_1_Functions.md",
     "Untitled.md"
   ]

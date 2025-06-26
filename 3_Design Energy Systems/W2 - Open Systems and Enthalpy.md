@@ -62,7 +62,7 @@ $$
     - $g =$ acceleration due to gravity ($9.81~\mathrm{m/s^2}$)
 #### Linear Gradient Interpolation
 
-![image](ref/enthalpy%20table.png)
+![[air property table.pdf]]
 
 - Given a dataset, find the enthalpy at an unknown temperature
 $$h = \frac{h_2-h_1}{T_2-T_1}(T_u - T_1) + h_1$$

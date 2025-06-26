@@ -99,3 +99,5 @@ There exists an analogy between the diffusion of heat and electrical charge.
 
 - $\dot{Q}_{cond}=\frac{\kappa A}{L}(T_h-T_c)\implies R_{cond}=\frac{T_h-T_c}{\dot{Q}_{cond}}=\frac{L}{\kappa A}$
 - $\dot{Q}_{conv}=h\cdot A(T_h-T_c)\implies R_{conv}=\frac{T_h-T_c}{\dot{Q}_{conv}}=\frac{1}{h\cdot A}$
+
+Useful identity: $\dot{Q}R=(T_h-T_c)$

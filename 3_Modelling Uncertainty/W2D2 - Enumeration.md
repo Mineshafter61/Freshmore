@@ -22,7 +22,7 @@ If an activity is performed in $k$ steps, where:
 If we **do not allow the repetition** of choices, we call it a **permutation**, $^nP_k$.
 
 - n is the number of possible choices
-- k is the number of times choosing a choice is done
+- k is the number of times choosing is performed
 - **order matters** (e.g. the password `1234` is not the password `4321`)
  Notation:
  $$^nP_k=n\times(n-1)\times\dots \times(n-(k-1))=\frac{n!}{(n-k)!}$$
@@ -34,10 +34,6 @@ Formula for permutation when the $n$ objects are **not all distinct**:
 
 - The number of permutations of all $n = n_1 + n_2 +· · · + n_r$ objects, **of which $n_1$ are identical, $n_2$ are identical, . . . , $n_r$ are identical**, is
 $$\frac{n!}{n_1!n_2!\dots n_r!}$$
-
-$$
-{2+2\choose 2}{1+3\choose 1}
-$$
 
 ## Combination
 

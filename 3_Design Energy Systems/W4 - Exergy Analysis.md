@@ -16,24 +16,27 @@ $$\eta_{rev}=1-\frac{T_c}{T_h}=\frac{\dot{W}_{rev}}{\dot{Q}_{in}}$$
 
 Exergy ($X$) is the **maximum theoretical work obtainable** from an overall setup consisting of a system and the environment (dead state)
 
-- $\phi$ is the specific exergy (exergy per unit mass)
+- $\psi$ is the specific exergy (exergy per unit mass)
 
 $$
-X[kJ] = (U - U_0) + P_0(V - V_0) - T_0(S - S_0) + \frac{mv^2}{2} + mgz \\
-\phi[\frac{kJ}{kg}] = \frac{X}{m} = (u - u_0) + P_0(v - v_0) - T_0(s - s_0) + \frac{v^2}{2} + gz
+\begin{align}
+X[kJ] &= (U - U_0) + P_0(V - V_0) - T_0(S - S_0) + \frac{mv^2}{2} + mgz \\
+\psi[\frac{kJ}{kg}] &= \frac{X}{m} = (u - u_0) + P_0(v - v_0) - T_0(s - s_0) + \frac{v^2}{2} + gz
+\end{align}
+
 $$
 
-| Symbol        | Description                                 | Unit                         |
-|---------------|---------------------------------------------|------------------------------|
-| $\phi$        | Specific exergy                             | $\text{kJ/kg}$               |
-| $X$           | Total exergy                                | $\text{kJ}$                  |
-| $m$           | Mass                                         | $\text{kg}$                  |
-| $u$           | Specific internal energy                    | $\text{kJ/kg}$               |
-| $v$           | Specific volume                             | $\text{m}^3/\text{kg}$       |
-| $s$           | Specific entropy                            | $\text{kJ/kg K}$             |
-| $v$ (in $\frac{v^2}{2}$) | Velocity of the fluid or object            | $\text{m/s}$                 |
-| $g$           | Gravitational acceleration                  | $\text{m/s}^2$               |
-| $z$           | Elevation above reference level             | $\text{m}$                   |
+| Symbol                   | Description                     | Unit                   |
+| ------------------------ | ------------------------------- | ---------------------- |
+| $\phi$                   | Specific exergy                 | $\text{kJ/kg}$         |
+| $X$                      | Total exergy                    | $\text{kJ}$            |
+| $m$                      | Mass                            | $\text{kg}$            |
+| $u$                      | Specific internal energy        | $\text{kJ/kg}$         |
+| $v$                      | Specific volume                 | $\text{m}^3/\text{kg}$ |
+| $s$                      | Specific entropy                | $\text{kJ/kg K}$       |
+| $v$ (in $\frac{v^2}{2}$) | Velocity of the fluid or object | $\text{m/s}$           |
+| $g$                      | Gravitational acceleration      | $\text{m/s}^2$         |
+| $z$                      | Elevation above reference level | $\text{m}$             |
 
 - $X_{heat/in/out} = \dot{W}_{rev/in/out}$
     - It is a **measure of the departure of the state of a system from that of the environment**.

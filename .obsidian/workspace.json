@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0b01be481813e319",
+        "id": "7b3ae7318ca1e982",
         "type": "tabs",
         "children": [
           {
-            "id": "80f4eb9a21c22b3a",
+            "id": "50746fee0b8c83b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Modelling Uncertainty/W4D1 - Bayes' Theorem.md",
+                "file": "3_Modelling Uncertainty/W6D1 - Continuous Random Variables.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "W4D1 - Bayes' Theorem"
+              "title": "W6D1 - Continuous Random Variables"
             }
           }
         ]
@@ -187,29 +187,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80f4eb9a21c22b3a",
+  "active": "50746fee0b8c83b8",
   "lastOpenFiles": [
-    "3_Modelling Uncertainty/W3D2 - Conditional Probability.md",
-    "3_Modelling Uncertainty/W4D1 - Bayes' Theorem.md",
-    "3_Design Energy Systems/W5 - Exergy in an Open System.md",
     "3_Design Energy Systems/W3 - Entropy.md",
-    "3_Design Energy Systems/W4 - Exergy Analysis.md",
-    "3_Modelling Uncertainty/W2D2 - Enumeration.md",
-    "3_Modelling Uncertainty/W3D1 - Basic Rules of Probability.md",
-    "3_Modelling Uncertainty/W1D2 - Summarizing and Visualizing Data.md",
-    "3_Design Energy Systems/W4 -.md",
+    "3_Modelling Uncertainty/W6D1 - Continuous Random Variables.md",
     "3_Design Energy Systems/W2 - Open Systems and Enthalpy.md",
-    "3_Modelling Uncertainty/W2D1 - Linear Regression.md",
-    "3_Modelling Uncertainty/W1D1 - Introduction to Probability and Statistics.md",
-    "日本語/2_1_文法.md",
+    "3_Design Energy Systems/ref/air property table.pdf",
     "3_Design Energy Systems/ref/enthalpy table.png",
+    "3_Design Energy Systems/W1 - Conservation of energy.md",
+    "3_Modelling Uncertainty/W5D2 - Variance, Properties of Expectation.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "3_Modelling Uncertainty/W4D2 - Introduction to Random Variables.md",
+    "3_Modelling Uncertainty/W5D1 - Binomial and Poisson Random Variables.md",
+    "3_Design Energy Systems/W4 - Exergy Analysis.md",
+    "3_Design Energy Systems/W5 - Exergy in an Open System.md",
+    "3_Design Energy Systems/Summary.md",
+    "3_Modelling Uncertainty/W3D2 - Conditional Probability.md",
+    "3_Modelling Uncertainty/W1D2 - Summarizing and Visualizing Data.md",
+    "3_Modelling Uncertainty/W2D1 - Linear Regression.md",
+    "Untitled 1.md",
+    "3_Modelling Uncertainty/W3D1 - Basic Rules of Probability.md",
+    "3_Modelling Uncertainty/W2D2 - Enumeration.md",
+    "3_Modelling Uncertainty/Midterm 1 Formulae.md",
+    "3_Modelling Uncertainty/W1D1 - Introduction to Probability and Statistics.md",
+    "3_Modelling Uncertainty/ref/cmf.png",
+    "3_Modelling Uncertainty/ref/pmf.png",
+    "3_Modelling Uncertainty/W4D1 - Bayes' Theorem.md",
+    "3_Design Energy Systems/W4 -.md",
+    "日本語/2_1_文法.md",
     "日本語/1_3_エクストラ語彙.md",
     "日本語/1_4_擬音語.md",
     "2_Technological World/0_Spherical Coordinate System.md",
-    "3_Design Energy Systems/W1 - Conservation of energy.md",
     "conflict-files-obsidian-git.md",
-    "2_Technological World/Technological World.md",
-    "2_Technological World/Humongous Formula Sheet.md",
     "3_Modelling Uncertainty/ref/boxPlot.png",
     "3_Modelling Uncertainty/ref/skew.png",
     "3_Modelling Uncertainty/ref",
@@ -218,22 +228,13 @@
     "3_Design Energy Systems/ref/open closed system.png",
     "3_Design Energy Systems/ref/closed conservation of energy.png",
     "3_Design Energy Systems/ref",
-    "2_Technological World/13_Wave Equations.md",
     "3_Design Energy Systems",
-    "2_Technological World/12_Maxwell’s Equation.md",
-    "2_Technological World/11_LC and Undriven RLC Circuits.md",
-    "2_Technological World/10_2_RL Circuit Analysis.md",
-    "2_Technological World/10_1B_RC Circuit Analysis.md",
-    "2_Technological World/10_1A_Kirchhoff Voltage and Current Law.md",
     "ref/TW_travellingWaveR.png",
     "ref/TW_travellingWaveL.png",
-    "ref/TW_fieldChaining.png",
     "日本語/anki_kanji.txt",
     "日本語/kanji_anki.py",
     "日本語/~$1_語彙.xlsx",
-    "ref/SSW_usedwatertreatment.png",
     "Modelling Space and Systems",
-    "Technological World",
-    "2_Technological World"
+    "Technological World"
   ]
 }

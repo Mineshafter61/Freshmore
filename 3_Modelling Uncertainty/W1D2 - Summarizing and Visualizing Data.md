@@ -97,10 +97,10 @@ where $s_x$ is the sample **SD** of the $x$ data, and $s_y$ is the sample **SD**
 Data involving **two categorical variables** can be displayed in a contingency table.
 Example:
 
-||bachelor|master|PhD|row sum|
-|---|---|---|---|---|
-|hired|12|14|10|36|
-|not hired|38|21|5|64|
-|column sum|50|35|15|100|
+|                | bachelor | master | PhD | row sum |
+| -------------- | -------- | ------ | --- | ------- |
+| hired          | 12       | 14     | 10  | 36      |
+| not hired      | 38       | 21     | 5   | 64      |
+| **column sum** | 50       | 35     | 15  | 100     |
 
 The two variables are: the applicant’s highest level of education, and whether the applicant is hired.
