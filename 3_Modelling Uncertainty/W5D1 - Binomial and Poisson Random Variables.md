@@ -26,7 +26,7 @@ Therefore, a random variable $X$ is said to satisfy a Poisson distribution if it
 $$
 \mathbb P(X=k)=e^{-\lambda}\frac{\lambda^k}{k!}
 $$
-We denote this by $X \textasciitilde \mathrm{Poisson}(\lambda)$.
+We denote this by $X \sim \mathrm{Poisson}(\lambda)$.
 
 - **Expected value**, $\mathbb E(X)=\lambda$
 - **Variance**, $\mathrm{Var}(X)=\lambda$

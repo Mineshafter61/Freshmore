@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Modelling Uncertainty/W6D2 - Uniform and Exponential Random Variables.md",
+                "file": "3_Modelling Uncertainty/W5D1 - Binomial and Poisson Random Variables.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "W6D2 - Uniform and Exponential Random Variables"
+              "title": "W5D1 - Binomial and Poisson Random Variables"
             }
           }
         ]
@@ -176,8 +176,8 @@
   },
   "active": "473ce117cc441f72",
   "lastOpenFiles": [
-    "3_Design Energy Systems/W4 - Exergy Analysis.md",
     "3_Modelling Uncertainty/W6D2 - Uniform and Exponential Random Variables.md",
+    "3_Design Energy Systems/W4 - Exergy Analysis.md",
     "3_Design Energy Systems/W5 - Exergy in an Open System.md",
     "3_Design Energy Systems/W3 - Entropy.md",
     "3_Design Energy Systems/W2 - Open Systems and Enthalpy.md",

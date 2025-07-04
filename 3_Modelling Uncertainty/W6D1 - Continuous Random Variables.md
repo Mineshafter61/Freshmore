@@ -1,21 +1,21 @@
-# W6D1 - Continuous Random Variables
+# W6D1 - Continuous Random Variables (CRV)
 
-## Probability density function (pdf)
+## Probability density function (PDF)
 
-Probability density function (pdf) is defined by
+Probability density function (PDF) is defined by
 $$
-\begin{align*}
+\begin{align}
 \mathbb{P}(a\leq X\leq b)&=\int_{a}^{b}f(x)\,\mathrm{d}x \\
 \mathbb{P}(X\in\mathbb{R})\ &= \int_{-\infty}^{\infty}f(x)\,\mathrm{d}x=1 \\
 \mathbb{P}(X=a)&=\int_{a}^{a}f(x)\,\mathrm{d}x=0
-\end{align*}
+\end{align}
 $$
 
 - It is **not necessarily true** that $f(x) \leq 1$
 
-## Cumulative distribution function (cdf)
+## Cumulative distribution function (CDF)
 
-Cumulative distribution function (cdf) is given by
+Cumulative distribution function (CDF) is given by
 $$
 F(x) = \mathbb{P}(X \leq x) = \int_{-\infty}^x f(t), dt
 $$
@@ -36,16 +36,16 @@ $$
 ## Expectation and Variance
 
 $$
-\begin{align*}
+\begin{align}
 \mathbb{E}(X) &= \mu_{X}:=\int_{-\infty}^{\infty}x\,f(x)\,\mathrm{d}x \\
 \mathbb{E}(g(X)) &= \int_{-\infty}^{\infty}g(x)\,f(x)\,\mathrm{d}x \\
-\operatorname{Var}(X)=\sigma_{X}^{2}&:=\mathbb{E}((X-\mu_{X})^{2})=\mathbb{E}(X^{2})-\mathbb{E}(X)^{2} \\
+\operatorname{Var}(X)&=\sigma_{X}^{2}:=\mathbb{E}((X-\mu_{X})^{2})=\mathbb{E}(X^{2})-\mathbb{E}(X)^{2} \\
 \mathbb{E}(aX+b)&=a\mathbb{E(X)}+b \\
-\mathbb{E}(aX+b)&=a^{2}\operatorname{Var}(X)
-\end{align*}
+\operatorname{Var}(aX+b)&=a^{2}\operatorname{Var}(X)
+\end{align}
 $$
 
-## Uniform Distribution
+### Uniform Distribution
 
 Let $a$ and $b$ be constants (where $a < b$). A continuous random variable $X$ is said to satisfy a (continuous) uniform distribution on the interval $[a, b]$, if its pdf is given by
 $$
@@ -54,12 +54,30 @@ f(x) = \begin{cases}
 0, & \text{otherwise}
 \end{cases}
 $$
+$$
+F(x) = \begin{cases}
+0, & \text{if } x < a \\
+\frac{x-a}{b-a}, & \text{if } a \leq x \leq b \\
+1, & \text{if } x > b
+\end{cases}
+$$
 
+- This is a type of CRV
 - Denoted by $X \sim \text{uniform} (a,b)$
 
+$$
+\begin{align}
+\mathbb{E}(X) &= \frac{b+a}{2} \\
+\text{Var}(X) &= \frac{(b+a)^2}{12}
+\end{align}
+$$
+
+- PDF and CDF respectively of uniform distribution
+![image](ref/uniform.png)
+
 HOMEWORK: Understand Integration by Parts
+
 1. $\int_0^\infty x e^{-ax} \, dx$
 2. $\int_0^m x e^{-ax} \, dx$
 3. $\int_0^\infty x^2 e^{-ax} \, dx$
 4. $\int_0^m x^2 e^{-ax} \, dx$
-5. $\int_0^\infty x^n e^{-ax}\, dx$ for any n > 0

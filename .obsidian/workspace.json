@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50746fee0b8c83b8",
+            "id": "7ecdbca9dc0380fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Modelling Uncertainty/W6D1 - Continuous Random Variables.md",
+                "file": "3_Modelling Uncertainty/W6D2 - Uniform and Exponential Random Variables.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "W6D1 - Continuous Random Variables"
+              "title": "W6D2 - Uniform and Exponential Random Variables"
             }
           }
         ]
@@ -173,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,10 +186,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50746fee0b8c83b8",
+  "active": "dfe3d44474ad1e48",
   "lastOpenFiles": [
-    "3_Design Energy Systems/W3 - Entropy.md",
+    "3_Modelling Uncertainty/W6D2 - Uniform and Exponential Random Variables.md",
     "3_Modelling Uncertainty/W6D1 - Continuous Random Variables.md",
+    "3_Design Energy Systems/W3 - Entropy.md",
     "3_Design Energy Systems/W2 - Open Systems and Enthalpy.md",
     "3_Design Energy Systems/ref/air property table.pdf",
     "3_Design Energy Systems/ref/enthalpy table.png",
@@ -219,7 +219,6 @@
     "日本語/1_3_エクストラ語彙.md",
     "日本語/1_4_擬音語.md",
     "2_Technological World/0_Spherical Coordinate System.md",
-    "conflict-files-obsidian-git.md",
     "3_Modelling Uncertainty/ref/boxPlot.png",
     "3_Modelling Uncertainty/ref/skew.png",
     "3_Modelling Uncertainty/ref",
