@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Modelling Uncertainty/W5D1 - Binomial and Poisson Random Variables.md",
-                "mode": "source",
-                "source": false,
+                "file": "3_Modelling Uncertainty/W6D1 - Continuous Random Variables.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "W5D1 - Binomial and Poisson Random Variables"
+              "title": "W6D1 - Continuous Random Variables"
             }
           }
         ]
@@ -176,13 +176,17 @@
   },
   "active": "473ce117cc441f72",
   "lastOpenFiles": [
+    "3_Modelling Uncertainty/W5D2 - Variance, Properties of Expectation.md",
+    "3_Modelling Uncertainty/W5D1 - Binomial and Poisson Random Variables.md",
+    "3_Modelling Uncertainty/W4D2 - Introduction to Random Variables.md",
+    "3_Modelling Uncertainty/W6D1 - Continuous Random Variables.md",
+    "3_Modelling Uncertainty/W4D1 - Bayes' Theorem.md",
     "3_Modelling Uncertainty/W6D2 - Uniform and Exponential Random Variables.md",
     "3_Design Energy Systems/W4 - Exergy Analysis.md",
     "3_Design Energy Systems/W5 - Exergy in an Open System.md",
     "3_Design Energy Systems/W3 - Entropy.md",
     "3_Design Energy Systems/W2 - Open Systems and Enthalpy.md",
     "3_Design Energy Systems/W1 - Conservation of energy.md",
-    "3_Modelling Uncertainty/W4D1 - Bayes' Theorem.md",
     "日本語/2_3_N2文法.md",
     "1_Modelling and Analysis/1_1_Functions.md",
     "Untitled.md"

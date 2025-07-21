@@ -40,7 +40,7 @@ $$
 \mathbb{E}(X) &= \mu_{X}:=\int_{-\infty}^{\infty}x\,f(x)\,\mathrm{d}x \\
 \mathbb{E}(g(X)) &= \int_{-\infty}^{\infty}g(x)\,f(x)\,\mathrm{d}x \\
 \operatorname{Var}(X)&=\sigma_{X}^{2}:=\mathbb{E}((X-\mu_{X})^{2})=\mathbb{E}(X^{2})-\mathbb{E}(X)^{2} \\
-\mathbb{E}(aX+b)&=a\mathbb{E(X)}+b \\
+\mathbb{E}(aX+b)&=a\mathbb E(X)+b \\
 \operatorname{Var}(aX+b)&=a^{2}\operatorname{Var}(X)
 \end{align}
 $$
@@ -77,7 +77,7 @@ $$
 
 HOMEWORK: Understand Integration by Parts
 
-1. $\int_0^\infty x e^{-ax} \, dx$
+1. $\int_0^\infty x e^{-ax} \, dx=[-a]$
 2. $\int_0^m x e^{-ax} \, dx$
 3. $\int_0^\infty x^2 e^{-ax} \, dx$
 4. $\int_0^m x^2 e^{-ax} \, dx$

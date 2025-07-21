@@ -52,6 +52,6 @@ For a discrete random variable $X$, its **probability mass function (pmf)**, den
  Models the probability of tries until the first success.
 
 Recall that coin tosses are independent, so the probability mass function of a geometric $(p)$ random variable $X$, where $p$ is the probability of the desired outcome, is given by
- $$ f(n) = \mathbb{P}(X = n) = (1-p)^{n-1}p \text{ where } n = 1, 2, 3,\cdots $$
+ $$ f(n) = \mathbb{P}(X = n) = (1-p)^{n-1}p^n \text{ where } n = 1, 2, 3,\cdots $$
 - **Expected value**, $\mathbb E(X)=\frac{1}{p}$
 - **Variance**, $\mathrm{Var}(X)=\frac{1-p}{p^2}$
