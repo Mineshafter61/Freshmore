@@ -1,4 +1,4 @@
-# W9D1 - Joint Distributions
+ W9D1 - Joint Distributions
 
 ## Discrete
 

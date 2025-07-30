@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad3cd0f9845e3392",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_Modelling Uncertainty/W5D2 - Variance, Properties of Expectation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "W5D2 - Variance, Properties of Expectation"
-            }
-          },
-          {
             "id": "05c6116ad471605c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Modelling Uncertainty/W6D2 - Uniform and Exponential Random Variables.md",
+                "file": "3_Design Energy Systems/W9 - Energy Storage Systems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "W6D2 - Uniform and Exponential Random Variables"
+              "title": "W9 - Energy Storage Systems"
             }
           }
         ]
@@ -210,17 +186,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad3cd0f9845e3392",
+  "active": "05c6116ad471605c",
   "lastOpenFiles": [
-    "3_Modelling Uncertainty/W6D1 - Continuous Random Variables.md",
-    "3_Modelling Uncertainty/W5D2 - Variance, Properties of Expectation.md",
-    "3_Modelling Uncertainty/W5D1 - Binomial and Poisson Random Variables.md",
-    "3_Modelling Uncertainty/W8D2 - Functions of a Random Variable.md",
-    "3_Modelling Uncertainty/W9D2 - Sum of Random Variables.md",
-    "3_Modelling Uncertainty/W9D1 - Joint Distributions.md",
     "3_Modelling Uncertainty/W4D2 - Introduction to Random Variables.md",
-    "3_Modelling Uncertainty/W4D1 - Bayes' Theorem.md",
+    "3_Modelling Uncertainty/W9D1 - Joint Distributions.md",
+    "3_Modelling Uncertainty/W9D2 - Sum of Random Variables.md",
     "3_Modelling Uncertainty/W6D2 - Uniform and Exponential Random Variables.md",
+    "3_Modelling Uncertainty/W8D2 - Functions of a Random Variable.md",
+    "3_Modelling Uncertainty/W5D1 - Binomial and Poisson Random Variables.md",
+    "3_Modelling Uncertainty/W5D2 - Variance, Properties of Expectation.md",
+    "3_Modelling Uncertainty/W6D1 - Continuous Random Variables.md",
+    "3_Modelling Uncertainty/W4D1 - Bayes' Theorem.md",
     "3_Modelling Uncertainty/W8D1 - Normal Random Variables.md",
     "3_Modelling Uncertainty/ref/jointPdf.png",
     "3_Design Energy Systems/W9 - Energy Storage Systems.md",
