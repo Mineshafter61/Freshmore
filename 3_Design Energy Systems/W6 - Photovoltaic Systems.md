@@ -18,7 +18,7 @@
 - **Irradiance** is a measure of solar power per unit area at any moment in time
 - **Irradiation** (Wh/m²) is the total amount of solar energy per unit area received over a given period (day, month, year) (integral of irradiance)
 - **Peak sun hour (PSH)** is equivalent to the total irradiation received at the site during the day.
-    - 1 peak sun hour is equivalen to 1 kWh/m²
+    - 1 peak sun hour is equivalent to 1 kWh/m²
 
 ## Solar Irradiation Variation
 

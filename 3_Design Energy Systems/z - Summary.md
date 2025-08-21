@@ -1,4 +1,11 @@
-# W8 - Current and Voltage
+- Peak sun hour = 1 kWh/m²
+- N-doped semiconductors (e.g. phosphorous doped silicon) have a surplus of electrons
+- P-doped semiconductors (e.g. boron doped silicon) have a lack of electrons (surplus of holes)
+- p-n junction: diffusion of electrons from n to p
+    - The phosphorus ions in the n-doped semiconductor now have 4 electrons instead of 5, causing them to become more positive. This repels holes from the p-doped semiconductor
+    - The boron ions now have 4 electrons instead of 3, causing them to become more negative. This repels electrons from the n-doped semiconductor.
+    - Since both electrons and holes are repelled at the junction, a depletion region is formed, until a steady state is reached.
+- The sun provides photons to excite electrons to move across the depletion region.
 
 | Name                               | Symbol    | Description                                                                                         |
 | ---------------------------------- | --------- | --------------------------------------------------------------------------------------------------- |
@@ -8,18 +15,3 @@
 | Maximum power point                | MPP       | The point on the I-V curve at which the PV cell will generate the most power                        |
 | Voltage at MPP                     | $V_{mp}$  | The PV cell voltage at the MPP                                                                      |
 | Current at MPP                     | $I_{mp}$  | The PV cell current at the MPP                                                                      |
-
-Modelled as
-$$
-I_D=I_0\left(e^{\frac{qV}{k_BT}}-1\right)
-$$
-![image](ref/pnjunction.png)
-
-- Where
-    - $I_0$: reverse saturation current
-    - $q$: charge of an electron
-    - $V$: voltage across the solar cell
-    - $k_B$: Boltzmann constant
-    - $T$: temperature in Kelvin
-- When a photon above the bandgap collides with an electron in the depletion region, an electron-hole pair is formed, which causes a charge imbalance.
-- If an electron-hole pair is not generated in the depletion region, they will immediately recombine, thus no voltage is produced.

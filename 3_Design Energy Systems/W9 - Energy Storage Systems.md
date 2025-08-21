@@ -24,3 +24,19 @@
 - **Battery management system** (BMS) should be used for Li-ion batteries to prevent thermal runaway.
 - Optimal temperature for Li-ion batteries are between **10 and 25˚C**.
 - Voltage times current times time; $E=IVt$ and $P=IV$
+## Battery sizing chart reference
+1. Nominal system voltage:
+2. Days of autonomy:
+3. Total daily load (A x hour of operation/day):
+4. Unadjusted battery capacity (Days of autonomy x total daily load):
+5. Maximum allowable depth of discharge (MDOD): % (50% normally for Lead-acid)
+6. Capacity adjusted for MDOD (Step 4 ÷ Step 5):
+7. Maximum daily depth of discharge (MDDOD):
+8. Capacity adjusted for MDDOD (Step 3 ÷ Step 7):
+9. Percent of capacity at end of life (EOL): %
+10. Capacity adjusted for EOL (Step 4 ÷ Step 9):
+11. Capacity adjusted for depths of discharge or end of life (greatest of 6, 8, or 10):
+12. Design margin factor (≥1): 1.1
+13. Capacity adjusted for design margin (Step 11 × Step 12):
+14. Determine the smallest practical capacity to meet the capacity adjusted for design margin value calculated in xiii (= Step 13):
+## Solar panel sizing chart reference

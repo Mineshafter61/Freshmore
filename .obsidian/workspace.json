@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05c6116ad471605c",
+            "id": "e085343d2613c647",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Design Energy Systems/W9 - Energy Storage Systems.md",
+                "file": "3_Modelling Uncertainty/W13D1 - Linear Regression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "W9 - Energy Storage Systems"
+              "title": "W13D1 - Linear Regression"
             }
           }
         ]
@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,46 +187,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05c6116ad471605c",
+  "active": "e085343d2613c647",
   "lastOpenFiles": [
-    "3_Modelling Uncertainty/W4D2 - Introduction to Random Variables.md",
-    "3_Modelling Uncertainty/W9D1 - Joint Distributions.md",
-    "3_Modelling Uncertainty/W9D2 - Sum of Random Variables.md",
-    "3_Modelling Uncertainty/W6D2 - Uniform and Exponential Random Variables.md",
-    "3_Modelling Uncertainty/W8D2 - Functions of a Random Variable.md",
-    "3_Modelling Uncertainty/W5D1 - Binomial and Poisson Random Variables.md",
-    "3_Modelling Uncertainty/W5D2 - Variance, Properties of Expectation.md",
-    "3_Modelling Uncertainty/W6D1 - Continuous Random Variables.md",
-    "3_Modelling Uncertainty/W4D1 - Bayes' Theorem.md",
-    "3_Modelling Uncertainty/W8D1 - Normal Random Variables.md",
-    "3_Modelling Uncertainty/ref/jointPdf.png",
-    "3_Design Energy Systems/W9 - Energy Storage Systems.md",
+    "3_Modelling Uncertainty/W11D2 - p-value; Power.md",
+    "3_Modelling Uncertainty/W11D1 - Hypothesis Testing.md",
+    "3_Modelling Uncertainty/W10D2 - Confidence Intervals.md",
+    "3_Modelling Uncertainty/W10D1 - Central Limit Theorem.md",
+    "3_Modelling Uncertainty/W13D1 - Linear Regression.md",
+    "3_Modelling Uncertainty/ref/power.png",
+    "3_Modelling Uncertainty/ref/p value.png",
+    "3_Modelling Uncertainty/ref/p value 2.png",
+    "3_Modelling Uncertainty/ref/residualplot.png",
+    "3_Modelling Uncertainty/ref/idk what regression has become.png",
+    "3_Modelling Uncertainty/W13D2 - Maximum Likelihood.md",
     "Untitled.md",
-    "3_Modelling Uncertainty/ref/qqPlot.png",
-    "3_Modelling Uncertainty/ref/binormal.png",
+    "Untitled Page.pdf",
+    "3_Modelling Uncertainty/W5D1 - Binomial and Poisson Random Variables.md",
+    "3_Modelling Uncertainty/W2D1 - Linear Regression.md",
+    "3_Modelling Uncertainty/W1D2 - Summarizing and Visualizing Data.md",
+    "3_Modelling Uncertainty/W1D1 - Introduction to Probability and Statistics.md",
+    "3_Design Energy Systems/z - Summary.md",
+    "3_Design Energy Systems/W9 - Energy Storage Systems.md",
+    "3_Modelling Uncertainty/W5D2 - Variance, Properties of Expectation.md",
+    "3_Modelling Uncertainty/W2D2 - Enumeration.md",
+    "3_Modelling Uncertainty/W3D1 - Basic Rules of Probability.md",
+    "3_Modelling Uncertainty/W4D1 - Bayes' Theorem.md",
+    "3_Modelling Uncertainty/W3D2 - Conditional Probability.md",
+    "3_Modelling Uncertainty/W4D2 - Introduction to Random Variables.md",
+    "2_Technological World/4_1_Electric Potential.md",
     "3_Design Energy Systems/W8 - Current and Voltage.md",
     "3_Design Energy Systems/W6 - Photovoltaic Systems.md",
-    "3_Design Energy Systems/ref/solar irradiance.png",
-    "3_Design Energy Systems/ref/depletion region.png",
-    "3_Design Energy Systems/ref/p-doped semiconductor.png",
-    "3_Design Energy Systems/ref/n-doped semiconductor.png",
-    "3_Design Energy Systems/ref/pnjunction.png",
-    "pnjunction.png",
-    "3_Modelling Uncertainty/ref/exponential.png",
-    "3_Design Energy Systems/W3 - Entropy.md",
-    "3_Design Energy Systems/W2 - Open Systems and Enthalpy.md",
+    "3_Modelling Uncertainty/W9D2 - Sum of Random Variables.md",
+    "2_Modelling Space and Systems/9_1_Introduction to Matrices.md",
+    "2_Modelling Space and Systems/9_2_Matrix Inverses.md",
+    "3_Modelling Uncertainty/ref/pmf.png",
+    "3_Modelling Uncertainty/ref/t distribution.png",
+    "3_Modelling Uncertainty/ref/hypothesis test.png",
+    "3_Design Energy Systems/ref/enthalpy table.png",
+    "3_Modelling Uncertainty/ref/jointPdf.png",
     "3_Design Energy Systems/ref/air property table.pdf",
-    "3_Design Energy Systems/W1 - Conservation of energy.md",
     "Untitled.canvas",
-    "3_Design Energy Systems/W4 - Exergy Analysis.md",
-    "3_Design Energy Systems/W5 - Exergy in an Open System.md",
-    "3_Design Energy Systems/Summary.md",
-    "3_Modelling Uncertainty/W3D2 - Conditional Probability.md",
-    "3_Modelling Uncertainty/W1D2 - Summarizing and Visualizing Data.md",
-    "3_Modelling Uncertainty/W2D1 - Linear Regression.md",
-    "Untitled 1.md",
-    "3_Modelling Uncertainty/W3D1 - Basic Rules of Probability.md",
-    "3_Modelling Uncertainty/W2D2 - Enumeration.md",
     "3_Modelling Uncertainty/ref",
     "3_Modelling Uncertainty",
     "3_Design Energy Systems/ref",
@@ -233,7 +234,6 @@
     "日本語/anki_kanji.txt",
     "日本語/kanji_anki.py",
     "日本語/~$1_語彙.xlsx",
-    "Modelling Space and Systems",
-    "Technological World"
+    "Modelling Space and Systems"
   ]
 }
